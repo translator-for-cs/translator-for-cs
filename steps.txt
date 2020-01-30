@@ -1,0 +1,11 @@
+Suggestion by Aarne 2020-01-24
+
+- Learn about basic grammar structures (noun, adjective, verb, sentence,...)
+- Find explicit Swedish-English term lists and analyse them grammatically
+- Learn about tools for analysing and generating text (GF, SALDO, parsers)
+- Set up the basic structure of GF grammar
+- Find more terms from bilingual documents: Wikipedia, course plans
+- Integrate all terms in a translation grammar
+- Build a web demo for term search and translation
+- Test translating course plan material; evaluate
+- Write the report
