@@ -1,0 +1,50 @@
+Prerequisites
+
+-
+
+Goals
+
+Computer programming is a basic skill needed in both studies and professional life. This course gives the basic skills that the participants can both accomplish programming tasks typical of science and engineering tasks and understand the fundamental principles of computers and programming. 
+
+Learning outcomes
+
+On successful completion of the course the student will be able to: 
+
+Knowledge and understanding
+Express mathematical formulas as programming language expressions and algorithms
+Choose appropriate datatypes and datastructures for different kinds of data
+Structure large programs into manageable and reusable units by the use of concepts such as modules, classes, and functions
+Search and find relevant program libraries and use them in adequate ways
+Explain the relations between hardware, operating system, and user programs
+Use programming for basic data analysis involving large files
+
+Competence and skills
+Write programs that manipulate numeric and textual data to perform standard programming tasks
+Build interactive programs with both text-based and graphical user interfaces
+Make programs that read, transform, and generate files in the file system 
+Use standard libraries and follow best programming practices 
+Test programs by methods such as unit, regression, and property-based testing
+Use programming tools such as code editors and revision control systems
+
+Judgement and approach
+Assess the difficulty and resources needed for typical programming tasks
+Analyse code written by others and find errors and possibilities for improvement
+
+
+Course content
+
+The course is a first introduction to programming by using a general-purpose programming language. It gives a comprehensive knowledge of the language, enabling the student to write code for a wide variety of tasks and to read and reuse code written by other programmers. In parallel to learning the language, the student will be introduced to the basic concepts of computers and programming. These concepts include:
+
+Datatypes and their binary representations in the computer
+The relation between source code, compiler, and the machine
+The syntactic structure of expressions, statements, functions, classes, modules, etc
+The basics of algorithmic design by the use of iteration, recursion, decomposition to functions, and top-down vs. bottom-up
+The basics of software design in terms of functions, classes, modules, etc
+
+Organisation
+The course consists of lectures and exercise sessions. There is also a number of programming assignments where the skills can be trained in practice.
+Literature
+Information about literature will be given on the course home-page before the start of the course.
+Examination
+Compulsory programming assignments, written or oral exam.
+

@@ -1,0 +1,50 @@
+Förkunskaper
+
+-
+
+Mål
+
+Dataprogrammering är en grundläggande färdighet som är av nytta i såväl framtida studier som arbetsliv.. Kursen ger de grundläggande färdigheterna så att deltagarna både kan utföra programmeringsuppgifter som är typiska för vetenskapliga och tekniska uppgifter och förstå de grundläggande principerna för datorer och programmering. 
+
+Lärandemål
+
+Efter avslutad kurs ska studenten kunna: 
+
+Kunskap och förståelse
+Uttrycka matematiska formler som uttryck och algoritmer i ett programspråk
+Välj lämpliga datatyper och datastrukturer för olika typer av data
+Strukturera stora program i hanterbara och återanvändbara enheter med hjälp av begrepp som moduler, klasser och funktioner
+Söka och hitta relevanta programbibliotek och använda dem på lämpligt sätt
+Förklara förhållandet mellan hårdvara, operativsystem och användarprogram
+Använda programmering för grundläggande dataanalys av stora filer
+
+Kompetens och färdigheter
+Skriva program som manipulerar numerisk och textuell data för att utföra vanliga programmeringsuppgifter
+Bygga interaktiva program med både textbaserade och grafiska användargränssnitt
+Skriva program som läser, ändrar och skapar filer i filsystemet 
+Använda standardbibliotek och följa god praxis i programmering
+Testa program med metoder såsom enhets-, regressions- och egenskapsbaserad testning
+Använda programmeringsverktyg såsom textredigerare och versionshanteringssystem
+
+Bedömning och tillvägagångssätt
+Utvärdera svårigheter och resurser som krävs för typiska programmeringsuppgifter
+Analysera kod skriven av andra och hitta fel och möjligheter till förbättring
+
+
+Kursinnehåll
+
+Kursen är en första introduktion till programmering med hjälp av ett allmänt programmeringsspråk. Den ger studenten omfattande kunskaper i språket, vilket gör det möjligt för eleven att skriva kod för en mängd olika uppgifter och att läsa och återanvända kod skriven av andra programmerare. Parallellt med att lära sig språket kommer studenten att introduceras till grundläggande begrepp inom datorer och programmering. Dessa begrepp inkluderar:
+
+Datatyper och deras binära representationer i datorns minne
+Förhållandet mellan källkod, kompilator och maskin
+Den syntaktiska strukturen för uttryck, uttalanden, funktioner, klasser, moduler osv.
+Grunderna i algoritmdesign såsom iteration, rekursion, nedbrytning till funktioner och top-down vs. bottom-up.
+Grunderna i programvarudesign såsom funktioner, klasser och moduler.
+
+Organisation
+Kursen består av föreläsningar och övningar. Det finns också ett antal programmeringsuppgifter för att träna studenternas praktiska färdigheter.
+Litteratur
+Information om litteratur ges på kursens hemsida innan kursstart.
+Examen
+Obligatoriska programmeringsuppgifter, skriftlig eller muntlig tentamen.
+

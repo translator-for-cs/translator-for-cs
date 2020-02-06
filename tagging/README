@@ -1,0 +1,10 @@
+aarne@chalmers.se
+2020-02-07
+
+quick and dirty POS tagging using GF lexical resources
+
+usage examples:
+
+   cat eng-ex-python.txt | runghc Tagger.hs eng-pos.txt 
+   echo "vi bygger ett lexikon för datavetenskapliga termer" | runghc Tagger.hs swe-pos.txt 
+
