@@ -10,6 +10,8 @@ pub struct Blacklist {
 
 impl Blacklist {
   pub fn new(lang: String) -> Blacklist {
+    // Open file based on language since there might be
+    // overlapping words between swe and eng
     let file = OpenOptions::new()
       .create(true)
       .append(true)
@@ -17,8 +19,11 @@ impl Blacklist {
       .open(&format!("./blacklist_{}", lang))
       .expect(&format!("Could not open './blacklist_{}'", lang));
 
+    // Put the handle to the file in a BufReader
+    // so that we can read it line by line
     let buf = BufReader::new(file.try_clone().unwrap());
 
+    // This hashset will used to lookup already tagged words
     let mut set = HashSet::new();
     for (_index, line) in buf.lines().filter_map(|x| x.ok()).enumerate() {
       set.insert(line);

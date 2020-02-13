@@ -2,7 +2,7 @@ use std::collections::HashSet;
 use std::fs::File;
 use std::fs::OpenOptions;
 use std::io::StdoutLock;
-use std::io::{self, stdin, stdout, Read, Stdin, Write};
+use std::io::{stdin, stdout, Read, Write};
 use std::io::{BufRead, BufReader};
 use termion::event::Key;
 use termion::input::TermRead;
@@ -14,16 +14,21 @@ mod blacklist;
 use blacklist::*;
 
 fn main() {
+    // Read the input from the Tagger program
     let input = read_input_tags();
 
     let mut stdin = termion::async_stdin();
     let stdout = stdout();
+    // Since we have turned stdout into raw mode we need to print \r\n
+    // everytime we write something to the terminal, instead of just using println!()
+    // This is a just a technical detail so dont worry if it doesn't make sense
     let mut stdout = stdout.lock().into_raw_mode().unwrap();
-    //let input = std::env::args().nth(1).expect("Did not find any file");
-    //let lang = std::env::args().nth(2).expect("Did not find any lang");
+
+    // Default to english for now, will change later if needed
     let lang = String::from("eng");
     let mut blacklist = Blacklist::new(lang);
-    let (mut whitelist, mut whitelist_handle) = open_whitelist("./whitelist");
+    // A file handle to the whitelist file in append mode so we won't overwrite previosu work
+    let mut whitelist_handle = open_whitelist("./whitelist");
 
     for line in input.lines() {
         // Clear terminal
@@ -37,6 +42,8 @@ fn main() {
             .unwrap()
             .split(";")
             .map(|s| s.trim())
+            // The last word ends in ; so we have to remove the last
+            // element since it will always be empty
             .filter(|x| x != &"")
             .collect();
 
@@ -44,41 +51,51 @@ fn main() {
         if blacklist.contains(word) {
             continue;
         }
+
+        // Prins the prompt
         print!("{}\r\n", word);
         for (i, w) in alternatives.iter().enumerate() {
             print!("  {}) {}\r\n", i + 1, w);
         }
         print!("\r\n");
         print!("[1-9]: Select word, i: ignore word, s: skip, q: quit\r\n");
+
         loop {
             let key = read_key(&mut stdin);
             match key {
+                // Quit program
                 Key::Char('q') | Key::Ctrl('c') => {
                     return;
                 }
+                // Marks the word as not important
                 Key::Char('i') => {
                     blacklist.insert(word.to_string());
                     break;
                 }
+                // Skips the current word
                 Key::Char('s') => {
                     break;
                 }
-                Key::Char('l') => {
-                    //println!("{:#?}", whitelist);
-                    //println!("{:#?}", blacklist);
-                }
+                // This is a bit messy, maybe put this in its own function?
                 Key::Char(n) => {
+                    // Converts the input 'char' to an int
                     if let Some(n) = n.to_digit(10) {
+                        // If the number is higher than the possible
+                        // alternatives, continue the loop
                         if n != 0 && n <= alternatives.len() as u32 {
-                            whitelist.insert(alternatives[(n - 1) as usize].to_string());
+                            // Since the alternatives start at one it will be the index + 1
+                            // We also convert it to usize as that is the only integer type
+                            // that can be used to index Vecs
+                            let selected = (n - 1) as usize;
                             print!("Write translation:\r\n");
-
+                            // Reads the translation from stdin
                             let tl = read_string(&mut stdin, &mut stdout);
+                            // Writes the entry to the whitelist file
                             whitelist_handle
                                 .write_all(
                                     format!(
                                         "{},{}\n",
-                                        alternatives[(n - 1) as usize].replace(" ", "_"),
+                                        alternatives[selected].replace(" ", "_"),
                                         tl
                                     )
                                     .as_bytes(),
@@ -86,13 +103,15 @@ fn main() {
                                 .expect("Could not write entry to whitelist");
                             print!("{}\r\n", tl);
                             blacklist.insert(word.to_string());
+                            // Continue to next word
                             break;
                         }
-                        println!("Invalid number, try again");
+                        print!("Invalid number, try again\r\n");
                     }
                 }
                 _ => {}
             }
+            // If we don't sleep here the program will consume as much cpu resources as it can
             std::thread::sleep(std::time::Duration::from_millis(50));
         }
     }
@@ -108,17 +127,19 @@ fn read_input_tags() -> String {
     return input;
 }
 
-fn open_whitelist(path: &str) -> (HashSet<String>, File) {
+fn open_whitelist(path: &str) -> File {
     let file = OpenOptions::new()
         .create(true)
         .append(true)
         .read(true)
         .open(path)
         .expect(&format!("Could not open '{}'", path));
-    let buf = BufReader::new(file.try_clone().unwrap());
 
-    let mut set = HashSet::new();
     // Read every line from the output of the POS-tagger
+    // This might not actually be necessary... Ignore this for now!
+    /*
+    let buf = BufReader::new(file.try_clone().unwrap());
+    let mut set = HashSet::new();
     for (index, line) in buf.lines().filter_map(|x| x.ok()).enumerate() {
         let mut split = line.split(",");
         let eng = split
@@ -136,8 +157,9 @@ fn open_whitelist(path: &str) -> (HashSet<String>, File) {
             set.insert(swe.split("_").nth(0).unwrap().to_string());
         }
     }
+    */
 
-    return (set, file);
+    return file;
 }
 
 pub fn read_key(stdin: &mut AsyncReader) -> Key {
@@ -169,14 +191,12 @@ pub fn read_string(stdin: &mut AsyncReader, stdout: &mut RawTerminal<StdoutLock>
                 _ => {}
             }
         }
+        // If we don't sleep here the program will consume as much cpu resources as it can
         std::thread::sleep(std::time::Duration::from_millis(50));
     }
 }
 
-pub fn print_usage() {
-    println!("word-collector INPUT_FILE");
-}
-
+// Makes the terminal blank
 pub fn clear_terminal(stdout: &mut RawTerminal<StdoutLock>) {
     write!(
         stdout,
