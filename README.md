@@ -1,4 +1,7 @@
-# translator-for-cs
+# Translator for Computer Science and Engineering
+  Project by Group 16  
+  David Hedgren, Elin Eriksson, Erik Klingberg, Patrik Ödin, Sebastian Frenzel Gabrielsson, Viktor Vestlund.  
+  Supervisor: Professor Aarne Ranta
 ## Links
   Link to [Project plan](https://www.overleaf.com/6323144113jcsngcnbmccj)\
   Link to [Time logger](https://docs.google.com/spreadsheets/d/1a0OQRmzVjDsPEdjvCRKHhhaHO9mvAxnJZMk9ID5Os-4/edit#gid=0)\
