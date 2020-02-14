@@ -1,0 +1,27 @@
+Course specific prerequisites
+Computer Organization and Design with a foundation in basic computer architecture design principles (pipelining and cache memory) corresponding to the Chalmers course EDA332/EDA331.
+
+Aim
+Computers are a key component in almost any technical system today because of their functional flexibility as well as ability to execute fast in a power efficient way. In fact, the computational performance of computers has doubled every 18 months over the last several decades. One important reason is progress in computer architecture, which is the engineering discipline on computer design, which conveys principles for how to convert the raw speed of transistors into application software performance through computational structures that exploit the parallelism in software. This course covers the important principles for how to design a computer that offers high performance to the application software.
+
+Learning outcomes (after completion of the course the student should be able to)
+- master concepts and structures in modern computer architectures in order to follow the research advances in this field;
+- understand the principles behind a modern microprocessor; especially advanced pipelining techniques that can execute multiple instructions in parallel in order to be able to establish performance of computer systems;
+- understand the principles behind modern memory hierarchies in order to be able to assess performance of computer systems; and
+- proficiency in quantitatively establishing the impact of architectural techniques on the performance of application software using state-of-the-art simulation tools.
+
+Content
+The course covers architectural techniques essential for achieving high performance for application software. It also covers simulation-based analysis methods for quantitative assessment of the impact a certain architectural technique has on performance and power consumption. The content is divided into the following parts:
+
+1. The first part covers trends that affect the evolution of computer technology including Moore s law, metrics of performance (execution time versus throughput) and power consumption, benchmarking as well as fundamentals of computer performance such as Amdahl s law and locality of reference. It also covers how simulation based techniques can be used to quantitatively evaluate the impact of design principles on computer performance.
+
+2. The second part covers various techniques for exploitation of instruction level parallelism (ILP) by defining key concepts for what ILP is and what limits it. The techniques covered fall into two broad categories: dynamic and static techniques. The most important dynamic techniques covered are Tomasulo s algorithm, branch prediction, and speculation. The most important static techniques are loop unrolling, software pipelining, trace scheduling, and predicated execution.
+
+3. The third part deals with memory hierarchies. This part covers techniques to attack the different sources of performance bottlenecks in the memory hierarchy such as techniques to reduce the miss rate, the miss penalty, and the hit time. Example techniques covered are victim caches, lockup-free caches, prefetching, virtually addressed caches. Also main memory technology is covered in this part.
+
+4. The fourth part deals with multicore/multithreaded architectures. At the system level it deals with the programming model and how processor cores on a chip can communicate with each other through a shared address space. At the micro architecture level it deals with different approaches for how multiple threads can share architectural resources: fine-grain/coarse-grain and simultaneous multithreading.
+
+Organisation
+The course is organized into lectures, exercises, case studies, two laboratory tasks, and a mini research project assignment. Lectures focus on fundamental concepts and structures. Exercises provide in-depth analysis of the concepts and structures and train the students in problem solving approaches. Case studies are based on state of the art computers that are documented in the scientific literature. Students carry out the case studies and present them in plenary sessions to fellow students and the instructors. Finally, students get familiar with simulation methodologies and tools used in industry to analyze the impact of design decisions on computer performance. This is trained in a sequence of labs and in a small research project assignment.
+
+An important methodology to systematically design computers is to assess the impact of an architectural technique on performance. This is trained in a number of illustrative exercises as well as in labs and in the mini "research project assignment". 

@@ -1,0 +1,39 @@
+Course specific prerequisites
+
+Basic programming knowledge and experience, preferably in C. Basic undergraduate physics.
+
+Aim
+
+The aim of the course is to refine computational skills by providing direct experience in using a computer to solve problems in physics. Numerical techniques are introduced and applied in a broad spectrum of various physical problems. The course is designed to develop an understanding of modeling physical systems using different numerical techniques.
+
+Learning outcomes (after completion of the course the student should be able to)
+use C to solve numerical problems.
+
+explain and numerically apply the basic idea behind the molecular dynamics simulation method.
+
+explain how random numbers can be used to treat static and dynamic phenomena and numerically apply the methodology.
+
+explain and numerically apply the Metropolis Monte Carlo method.
+
+integrate knowledge in modeling physical systems with various numerical techniques.
+
+write well-structured technical reports where computational results are presented and explained.
+
+communicate results and conclusions in a clear way.
+
+Content
+the programming language C
+
+ordinary differential equations, molecular dynamics simulation
+
+random numbers, random processes, Brownian dynamics
+
+discrete and fast Fourier transforms, power spectrum analysis
+
+Monte Carlo integration and the Metropolis algorithm
+
+Variational and diffusion Monte Carlo
+
+Organisation
+
+The different numerical techniques and the physical problems are presented in a series of lectures. The most important part in the course is the students own activity in applying the methods and solving a set of exercises and homework assignments. Scheduled computer laboratory sessions are provided, with instructors available for consultation. The programming language C is being used in the course.

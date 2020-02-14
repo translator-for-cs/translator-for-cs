@@ -1,0 +1,38 @@
+Course specific prerequisites
+This course has the same prerequisites as the Master Program in Computer Systems and Networks. Thus, a student should have taken a course in computer communication or computer networks (or equivalent) including the TCP/IP protocol stack and have programming experience. In addition, a course in operating systems or concurrent programming (or equivalent) is required.
+
+Aim
+Why are computing systems becoming increasingly distributed? How can we build reliable and fault-tolerant distributed systems? Why does the Internet scale to billions of users? How are modern distributed systems such as the cloud, the smart grid, or connected cars built? These are a few questions that our course on distributed systems addresses. The goal of the courses is to understand the design of distributed systems and discuss the underlying principles and mechanisms that drive today's distributed systems. Our lectures provide you with the required fundamentals, and our labs give you a hands-on experience in developing distributed systems and exploring their real-world challenges.
+
+Learning outcomes (after completion of the course the student should be able to)
+1. Knowledge and understanding
+
+    Recall and apply knowledge of basic concepts of distributed systems and their challenges, naming and synchronization of systems, consistency and replication, and fault tolerance in distributed systems.
+    Describe applications of distributed systems and the mechanisms these use to provide their services.
+    Discuss and analyze the challenges and requirements that the different approaches have.
+    Compare and summarize the strength and weaknesses associated with the individual mechanisms. 
+
+2. Skills and abilities
+
+    Develop and evaluate small-scale distributed systems using fundamental mechanisms introduced in the lectures.
+    Demonstrate software developments in advanced settings including unreliable links and systems as well as limited bandwidth.
+    Demonstrate lab results in oral and written presentation. 
+
+3. Judgment and approach
+
+    Describe and analyze existing and new methods for distributed systems design. In particular, the systems ability for scalability and fault tolerance.
+    Discuss and value the social and ethical aspects of distributed systems and their applications.
+
+Content
+We begin the course with an introduction to the basic concepts of
+distributed systems and the challenges they pose. After that, we revisit
+the required background in communication systems and operating systems. We continue with the main course content and focus on:
+
+        Naming
+        Mutual Exclusion and Election
+        Clocks and Time
+        Consistency and Replication
+        Fault Tolerance in Distributed Systems
+        Selected Applications in Distributed Systems 
+
+Our lectures provide students with the required fundamentals, and labs give students a hands-on experience in developing distributed systems and exploring their real-world challenges. This course offers learning experiences that involve hands-on experimentation and analysis as they reinforce student understanding of concepts and their application to real-world problems. Overall, in this course students develop an understanding of fundamental issues in the design of methods for distributed systems.

@@ -1,0 +1,31 @@
+Course specific prerequisites
+A basic course in Optimization or Operational Research. A basic course in Algorithms is recommended.
+
+Aim
+The topic of the course is the theory and practice of optimization problems over discrete structures, and has strong connections to Optimization Theory (linear programming), Computer Science (algorithms and complexity), and Operational Research. Problems of this kind arise in many different contexts including transportation, telecommunications, industrial planning, finance, bioinformatics, hardware design and cryptology.
+A characteristic property of these problems are that they are difficult to solve. The course intends to develop the skill of modelling real problems and to use mathematical and algorithmic tools to solve them, optimally or heuristically.
+
+Learning outcomes (after completion of the course the student should be able to)
+- identify optimization problems in various application domains,
+- formulate them in exact mathematical models that capture the essentials
+of the real problems but are still manageable by computational methods,
+- assess which problem class a given problem belongs to,
+- apply linear programming, related generic methods, and additional
+heuristics, to computational problems,
+- explain the geometry of linear programming,
+- dualize optimization problems and use the dual forms to obtain bounds,
+- work with the scientific literature in the field.
+
+Content
+modelling, linear programs and integer linear programs, polytopes, duality in
+optimization, branch-and-bound and other heuristics, some special graph
+algorithms
+
+Organisation
+Lectures and homework assignments.
+
+Literature
+See separate literature list.
+
+Examination
+Assignments and home exam. Grading scale U, 3, 4 or 5. 

@@ -1,0 +1,36 @@
+Course specific prerequisites
+The course DAT017 - Machine oriented programming or similar course is required. The course TDA384 - Principles for Concurrent programming is recommended.
+
+Aim
+This course looks at parallel programming models, efficient programming methodologies and performance tools with the objective of developing highly efficient parallel programs.
+
+Learning outcomes (after completion of the course the student should be able to)
+Knowledge and Understanding
+- List the different types of parallel computer architectures, programming models and paradigms, as well as different schemes for synchronization and communication.
+- List the typical steps to parallelize a sequential algorithm
+- List different methods for analysis methodologies of parallel program systems
+
+Competence and skills
+- Apply performance analysis methodologies to determine the bottlenecks in the execution of a parallel program
+- Predict the upper limit to the performance of a parallel program
+
+Judgment and approach
+- Given a particular software, specify what performance bottlenecks are limiting the efficiency of parallel code and select appropriate strategies to overcome these bottlenecks
+- Design energy-aware parallelization strategies based on a specific algorithms structure and computing system organization
+- Argue which performance analysis methods are important given a specific context
+
+Content
+The course consists of a set of lectures and laboratory sessions. The lectures start with an overview of parallel computer architectures and parallel programming models and paradigms. An important part of the discussion are mechanisms for synchronization and data exchange. Next, performance analysis of parallel programs is covered. The course proceeds with a discussion of tools and techniques for developing parallel programs in shared address spaces. This section covers popular programming environments such as pthreads and OpenMP. Next the course discusses the development of parallel programs for distributed address space. The focus in this part is on the Message Passing Interface (MPI). Finally, we discuss programming approaches for executing applications on accelerators such as GPUs. This part introduces the CUDA (Compute Unified Device Architecture) programming environment.
+
+The lectures are complemented with a set of laboratory sessions in which participants explore the topics introduced in the lectures. During the lab sessions, participants parallelize sample programs over a variety of parallel architectures, and use performance analysis tools to detect and remove bottlenecks in the parallel implementations of the programs.
+
+Organisation
+
+The teaching consists of theory-oriented lectures and lab sessions in which the participants develop code for different types of parallel computer systems
+
+Literature
+
+Parallel Programming for Multicore and Cluster Systems, Thomas Rauber, Gudula Rünger (2nd edition, 2013)  https://www.springer.com/gp/book/9783642378003
+
+Examination including compulsory elements
+The course is examined by an individual written exam that is carried out in an examination hall and a laboratory report written in groups of two.

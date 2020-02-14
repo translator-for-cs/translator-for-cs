@@ -1,0 +1,21 @@
+Course specific prerequisites
+No strict requirements. However, the lectures and tutorials assume the student has 1) knowledge corresponding to a course in algorithms and data structures, 2) programming skills in an imperative high-level language (e.g., C, C++ or Java), and 3) some understanding of vector analysis in three dimensions (the dot product, cross product, and matrix multiplication). Typically, the student has successfully completed an education comparable with a bachelor degree within Computer Science or equivalent.
+
+Aim
+The course aims to provide broad knowledge about algorithms for three dimensional computer graphics and also gives the student experience in implementing basic 3D graphic techniques.
+
+Learning outcomes (after completion of the course the student should be able to)
+Describe the fundamental algorithms and processes used to create computer graphics in 3D-games and movies.
+Utilize the functionality of dedicated hardware support for graphics through programming interfaces.
+Implement efficient algorithms to generate 2-dimensional images from 3-dimensional models.
+Implement algorithms to generate real-time renderings and photo realistic renderings.
+
+Content
+The course provides knowledge of the principles used to create images through computer algorithms. The primary focus is on real-time rendering and photo realistic rendering.
+
+The first part of the course covers real-time rendering, and techniques for e.g. illumination, special effects, shadows and reflections will be studied. Design of graphics hardware and speedup algorithms will also be treated.
+
+The second part focuses on generating photo-realistic images and includes studying of ray tracing and global illumination. In addition, the corresponding mathematics will be revealed.
+
+Organisation
+The course is organized into lectures and exercises. The exercises focus on implementing 3D graphics algorithms using C, C++ or possibly Java. 

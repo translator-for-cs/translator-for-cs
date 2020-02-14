@@ -1,0 +1,51 @@
+Course specific prerequisites
+Good knowledge in linear algebra, probability theory and programming. It is also desirable to have basic skills in image analysis, such as SSY097 - Image Analysis, but it is not required.
+
+Aim
+The course aims to provide an overview of theory and practical useful methods in computer vision, with applications such as seeing systems, non-destructive measurements and augmented reality. The aim is also to enable the student to develop his / her ability to solve problems, both with and without computer, using tools derived from many different sciences, especially geometry, optimization, statistics and computer science.
+
+Learning outcomes (after completion of the course the student should be able to)
+
+Knowledge and understanding
+
+For a passing grade the student must:
+
+    be able to clearly explain and use basic concepts in computer vision, in particular regarding projective geometry, camera modelling, stereo vision, recognition, and structure and motion problems.
+    be able to describe and give an informal explanation of the mathematical theory behind some central algorithms in computer vision (the least squares method and Newton based optimization).
+
+
+Competence and skills
+
+For a passing grade the student must:
+
+    in an engineering manner be able to use computer packages to independently solve problems in computer vision.
+    be able to show good ability to independently identify problems which can be solved with methods from computer vision, and be able to choose an appropriate method.
+    be able to independently apply basic methods in computer vision to problems which are relevant in industrial applications or research.
+    with proper terminology, in a well-structured way and with clear logic, be able to explain the solution to a problem in computer vision.
+
+Content
+
+    Projective geometry
+    Geometric transformations
+    Modelling of cameras
+    Feature extraction
+    Stereo vision
+    Recognition and deep learning
+    3D-modelling
+    Geometry of surfaces and their silhouettes
+    Tracking
+    Visualisation
+
+Organisation
+The course consists of a number of lectures (including web lectures that should be viewed before class and guest lectures given by industry and academic researchers). In addition there are a number of exercise sessions, laboratory sessions and one project. The project may be carried out individually or in pairs. The project involves the submission of a written report explaining the computer vision problem at hand, a motivation of the chosen theory and algorithms, results and conclusions.
+
+Literature
+
+Lecture notes and research articles
+
+Optional: Richard Szeliski, Computer Vision: Algorithms and Applications, available at Cremona or as a free pdf.
+
+Optional: Richard Hartley, Andrew Zisserman, Multiple View Geometry in Computer Vision, Cambridge University Press, 2004.
+
+Examination including compulsory elements
+There is no written exam in this course. The students will be evaluated on how well they perform in the different course activities, more specifically, the results of the home assignments and the project. To get a higher grade than the passing grade (3), it is necessary to pass an oral test.

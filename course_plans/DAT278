@@ -1,0 +1,48 @@
+Course specific prerequisites
+Computer Architecture (DAT105) or equivalent is strongly recommended. Students must understand how the processor pipeline and caches work and must be comfortable reading assembly language.
+
+Aim
+The aim of the course is to make students aware of the importance of sustainability in computing and to show techniques to achieve it at the different levels of a computer system.
+
+Learning outcomes (after completion of the course the student should be able to)
+Knowledge and understanding:
+
+    describe why sustainable computing is an important current topic
+    describe the electrical mechanisms that cause power to be dissipated
+    describe circuit techniques for reducing power dissipation and the impact on performance
+    describe computer architecture, memory, and secondary storage techniques for reducing energy consumption
+    describe techniques at the operating system, runtime, and application for reducing energy consumption
+    explain what affects the energy consumption of computer systems especially concerning their architecture
+
+Competence and skills:
+
+    use specific devices to directly measure energy consumption of the whole system
+    use performance counters to measure the energy consumption of certain components in the system
+    use simulation tools to estimate the energy consumption of different system configurations
+
+Judgement and approach:
+
+    identify the strengths and weaknesses of different classes of computer system components (e.g. processor, memory), with respect to energy efficiency
+    evaluate and compare different architecture and system techniques in terms of the energy efficiency
+    explain the methods for evaluating and reporting the energy consumption in computer systems and how these can be used to optimize the system
+    judge the importance of energy consumption from societal and ethical perspectives
+    interpret requirements on the architecture of computer systems to meet societal needs for sustainability
+
+Content
+The course is intended to give an overview of the energy efficiency aspects of computer systems and computing, ranging from the electronic circuits up to the applications for systems ranging from small IoT devices to large data centers. For instance, students will learn about approaches to measuring and estimating the energy consumption of different architectural components as well as architecture and software techniques to save energy in the system.
+
+Organisation
+The course consists of a lecture series, homework assignments, and labs assignments including a group project. Students will be asked to present the results of their homework and in-class assignments through short oral presentations to demonstrate their understanding and to facilitate discussion. Discussions will not only focus on technology, but also on how that technology affects the world's carbon footprint and will likely impact society now and in future generations.
+
+Literature
+
+    Stefanos Kaxiras and Margaret Martonosi. 2008. Computer Architecture Techniques for Power-Efficiency (1st ed.). Morgan and Claypool Publishers.
+    Magnus Själander, Margaret Martonosi, Stefanos Kaxiras. 2014. Power-efficient Computer Architectures: Recent Advances. Morgan and Claypool Publishers.
+    Articles from the research literature and trade magazines.
+
+
+Examination including compulsory elements
+The course is examined by an individual written exam done in an examination hall and approved lab exercises. The lab work is done in groups of normally 2-3 students.
+
+Grades
+The final grade is based on the results on the written exam.
