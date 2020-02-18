@@ -1,0 +1,76 @@
+CN computer_N security_N,datasäkerhet_N
+CN computer_N security_N model_N,datasäkerhetsmodell_N
+CN information_N technology_N,informationsteknik_N
+CN software_N development_V,mjukvaruutveckling_V
+CN programming_N language_N,programmeringsspråk_N
+CN unauthorized_A acces_N,CN obehörig_A åtkomst_N
+CN confidential_A information_N,CN konfidentiell_A information_N
+CN holistic_A approach_N,helhetssyn_N
+CN ethical_A aspect_N,CN etisk_A aspekt_N
+CN operating_A system_N,operativsystem_N
+CN design_N pattern_N,designmönster_N
+CN mathematical_N modelling_N,CN matematisk_N modellering_N
+CN functional_N programming_V,CN funktionell_N programmering_V
+CN business_N information_N system_N,affärsinformationssystem_N
+CN database_N administator_N,databasadministratör_N
+CN recursive_A data_N type_N,CN rekursiv_A datatyp_N
+CN graphical_A user_N interface_N,CN grafiskt_A användargränssnitt_N
+CN two-factor_A authentication_N,tvåfaktorautentisering_N
+CN mandatory_A access_N control_V,CN obligatorisk_A åtkomstkontroll_N
+CN system_N specification_N,systemspecifikation_N
+CN multi-core_A processor_N,CN flerkärnig_A processor_N
+CN domain-specific_A language_N,CN domänspecifikt_A språk_N
+CN data_A structure_N,datastruktur_N
+CN data_A management_N,datahantering_N
+CN object-oriented_A program_N,CN objektorienterat_A program_N
+CN source_A code_N,källkod_N
+CN machine_A code_N,maskinkod_N
+CN computer_A network_N,datornätverk_N
+CN computer_A graphics_N,datorgrafik_N
+CN computer_A system_N,datorsystem_N
+CN software_A engineer_N,mjukvaruingenjör_N
+CN software_A system_N,mjukvarusystem_N
+CN application_A software_N,tillämpningsprogram_N
+CN game_A engine_N,spelmotor_N
+CN discrete_A mathematics_N,CN diskret_A matematik_N
+CN compiler_A construction_N,kompileringskonstruktion_N
+CN regular_A expression_N,CN reguljärt_A uttryck_N
+CN programming_A paradigm_N,programmeringsparadigm_N
+CN code_A generator_N,kodgenerator_N
+CN formal_A verification_N,CN formell_A verifiering_N
+CN graphics_A card_N,grafikkort_N
+CN differential_A equation_N,differentialekvation_N
+CN artificial_A intelligence_N,CN artificiell_A intelligens_N
+CN algorithm_N design_V,algoritmdesign_V
+CN network_N security_N,nätverksäkerhet_N
+CN distributed_A systems_N,CN distribuerade_A system_N
+CN applied_A data_N science_N,CN applicierad_A datavetenskap_N
+CN abstract_A data_N type_N,CN abstrakt_A datatyp_N
+CN abstract_A method_N,CN abstrakt_A metod_N
+CN agile_A software_N development_N,CN agil_A mjukvaruutveckling_N
+CN big_A data_N,CN big_A data_N
+CN binary_A number_N,CN binärt_A tal_N
+CN binary_A search_V tree_N,CN binärt_A sökträd_N
+CN computer_A architecture_N,datorarkitektur_N
+CN security_N protocol_N,säkerhetsprotokoll_N
+CN virtual_A private_A network_N,CN virtuellt_A privat_A nätverk_N
+CN floating_A point_N number_N,flyttal_N
+CN attack_V model_N,attackmodell_N
+CN sorting_N algorithm_N,sorteringsalgoritm_N
+CN linear_A search_V,CN linjär_A sökning_V
+CN Data_N Communication_N,Datakommunikation_N
+CN Domain_N Name_N System_N,Domännamnssystemet_N
+CN Routing_N Protocoll_N,Routingprotokoll_N
+CN Congestion_N control_N,Stockningskontroll_N
+developer_N,utvecklare_N
+octet_N,oktett_N
+connection_N,uppkoppling_N
+CN Transport_N Layer_N,Transportskikt_N
+error-detection_N,CN felupptäckande_A kod_N
+latency_N,Latens_N
+CN Local_A Network_N,CN lokalt_A nätverk_N
+CN data_N transfer_N,dataöverföring_N
+connectionless_A,förbindelselöst_A
+encapsulation_N,inkapsling_N
+bandwidth_N,bandbredd_N
+CN packet_N loss_N ,paketförlust_N

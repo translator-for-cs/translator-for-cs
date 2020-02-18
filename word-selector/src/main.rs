@@ -27,6 +27,7 @@ fn main() {
     // Default to english for now, will change later if needed
     let lang = String::from("eng");
     let mut blacklist = Blacklist::new(lang);
+    let mut unknown_list = Blacklist::new("unknown".to_string());
     // A file handle to the whitelist file in append mode so we won't overwrite previosu work
     let mut whitelist_handle = open_whitelist("./whitelist");
 
@@ -58,7 +59,7 @@ fn main() {
             print!("  {}) {}\r\n", i + 1, w);
         }
         print!("\r\n");
-        print!("[1-9]: Select word, i: ignore word, s: skip, q: quit\r\n");
+        print!("[1-9]: Select word, u: mark as todo, i: ignore word, s: skip, q: quit\r\n");
 
         loop {
             let key = read_key(&mut stdin);
@@ -76,6 +77,12 @@ fn main() {
                 Key::Char('s') => {
                     break;
                 }
+                // Skips the current word
+                Key::Char('u') => {
+                    blacklist.insert(word.to_string());
+                    unknown_list.insert(word.to_string());
+                    break;
+                }
                 // This is a bit messy, maybe put this in its own function?
                 Key::Char(n) => {
                     // Converts the input 'char' to an int
@@ -89,7 +96,18 @@ fn main() {
                             let selected = (n - 1) as usize;
                             print!("Write translation:\r\n");
                             // Reads the translation from stdin
-                            let tl = read_string(&mut stdin, &mut stdout);
+                            let mut tl = read_string(&mut stdin, &mut stdout);
+                            // If there is no word type specified, assume it is the same as the untranslated word
+                            if !tl.contains('_') {
+                                let word_type: String = alternatives[selected]
+                                    .chars()
+                                    .skip_while(|c| *c != ' ')
+                                    .skip(1)
+                                    .collect();
+                                tl.push('_');
+                                tl.push_str(&word_type);
+                            }
+
                             // Writes the entry to the whitelist file
                             whitelist_handle
                                 .write_all(
@@ -103,6 +121,16 @@ fn main() {
                                 .expect("Could not write entry to whitelist");
                             print!("{}\r\n", tl);
                             blacklist.insert(word.to_string());
+
+                            // Add the baseform to black list if it is not identical to
+                            // the word found in the text
+                            let selected_word = alternatives[selected]
+                                .chars()
+                                .take_while(|c| *c != ' ')
+                                .collect();
+                            if selected_word != word.to_string() {
+                                blacklist.insert(selected_word);
+                            }
                             // Continue to next word
                             break;
                         }
