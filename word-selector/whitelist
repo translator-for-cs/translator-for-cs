@@ -208,8 +208,6 @@ context_N,kontext_N
 transportation_N,transportering_N
 telecommunication_N,telekommunikation_N
 industrial_A,industriell_A
-<<<<<<< HEAD
->>>>>>> 1b6f81c498bfde4f4539e399f3b8445d764fba6e
 network_N,nätverk_N
 communication_N,kommunikation_N
 protocol_N,protokoll_N
@@ -225,5 +223,3 @@ link_N,länk_N
 limit_V2V,gräns_V2V
 bandwidth_N,bandbredd_N
 scalability_N,skalbarhet_N
-=======
->>>>>>> c49679ab9f64185b9184bd6e3fc02c288872a542
