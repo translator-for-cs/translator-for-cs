@@ -319,9 +319,7 @@ image_N,bild_N
 model_N,modell_N
 rendering_N,rendera_N
 shadow_N,skugga_N
-<<<<<<< HEAD
 mathematics_N,matematisk_N
->>>>>>> 7a986e70db7e128787b91156e40b72e985b5c054
 course_N,kurs_N
 machine_N,maskin_N
 orient_V2,orientera_V2
@@ -373,6 +371,4 @@ complex_A,komplex_A
 maintain_VS,underhålla_VS
 environment_N,miljö_N
 semaphore_N,semafor_N
-=======
 mathematics_N,matematisk_N
->>>>>>> 49131b56506dbb5329b412ff7336eb0b24571b50
