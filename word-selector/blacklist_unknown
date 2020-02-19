@@ -9,3 +9,7 @@ rate
 pipeline
 cachelockup
 prefetching
+multicore
+multithreaded
+multithreading
+assignment
