@@ -588,6 +588,25 @@ telecommunications
 telecommunication
 industrial
 <<<<<<< HEAD
+physics
+numerical
+applied
+apply
+develop
+modeling
+integrate
+structured
+structure
+equations
+equation
+molecular
+dynamics
+dynamic
+integration
+applying
+apply
+consultation
+being
 planning
 hardware
 property
@@ -623,7 +642,6 @@ graph
 separate
 list
 scale
-=======
 networks
 network
 thus
@@ -657,9 +675,6 @@ new
 scalability
 they
 revisit
-<<<<<<< HEAD
->>>>>>> 33b5132785221510df8753d01a8656d0824d1dd9
-=======
 imperative
 vector
 dimensions
@@ -689,6 +704,7 @@ renderings
 rendering
 shadows
 shadow
+<<<<<<< HEAD
 mathematics
 >>>>>>> 7a986e70db7e128787b91156e40b72e985b5c054
 courses
@@ -770,3 +786,6 @@ maintain
 environment
 semaphores
 semaphore
+=======
+mathematics
+>>>>>>> 49131b56506dbb5329b412ff7336eb0b24571b50
