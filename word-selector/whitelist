@@ -246,9 +246,6 @@ link_N,länk_N
 limit_V2V,gräns_V2V
 bandwidth_N,bandbredd_N
 scalability_N,skalbarhet_N
-<<<<<<< HEAD
->>>>>>> 33b5132785221510df8753d01a8656d0824d1dd9
-=======
 imperative_A,imperativ_A
 vector_N,vektor_N
 dimension_N,dimension_N
@@ -266,4 +263,3 @@ model_N,modell_N
 rendering_N,rendera_N
 shadow_N,skugga_N
 mathematics_N,matematisk_N
->>>>>>> 7a986e70db7e128787b91156e40b72e985b5c054
