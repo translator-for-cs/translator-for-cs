@@ -204,10 +204,10 @@ pub fn read_string(stdin: &mut AsyncReader, stdout: &mut RawTerminal<StdoutLock>
     let mut keys = stdin.keys();
     loop {
         if let Some(k) = keys.next() {
-            Key::Ctrl('c') => {
-                std::process::exit(0);
-            }
             match k.unwrap() {
+                Key::Ctrl('c') => {
+                    std::process::exit(0);
+                }
                 Key::Char('\n') => return tl,
                 Key::Char(n) => {
                     write!(stdout, "{}", n).unwrap();
