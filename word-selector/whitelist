@@ -100,7 +100,6 @@ example_N,exempel_N
 free_N,fri_N
 virtual_A,virtuell_A
 address_V2,adressera_V2
-<<<<<<< HEAD
 address_N,adress_Nknowledge_N,kunskap_N
 linear_A,linjär_A
 algebra_N,algebra_N
@@ -208,8 +207,6 @@ context_N,kontext_N
 transportation_N,transportering_N
 telecommunication_N,telekommunikation_N
 industrial_A,industriell_A
-<<<<<<< HEAD
->>>>>>> 1b6f81c498bfde4f4539e399f3b8445d764fba6e
 network_N,nätverk_N
 communication_N,kommunikation_N
 protocol_N,protokoll_N
@@ -225,6 +222,7 @@ link_N,länk_N
 limit_V2V,gräns_V2V
 bandwidth_N,bandbredd_N
 scalability_N,skalbarhet_N
+<<<<<<< HEAD
 =======
 >>>>>>> c49679ab9f64185b9184bd6e3fc02c288872a542
 imperative_A,imperativ_A
@@ -244,3 +242,5 @@ model_N,modell_N
 rendering_N,rendera_N
 shadow_N,skugga_N
 mathematics_N,matematisk_N
+=======
+>>>>>>> 33b5132785221510df8753d01a8656d0824d1dd9

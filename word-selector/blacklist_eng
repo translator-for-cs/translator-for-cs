@@ -587,8 +587,6 @@ transportation
 telecommunications
 telecommunication
 industrial
-<<<<<<< HEAD
->>>>>>> 1b6f81c498bfde4f4539e399f3b8445d764fba6e
 networks
 network
 thus
@@ -622,6 +620,7 @@ new
 scalability
 they
 revisit
+<<<<<<< HEAD
 =======
 >>>>>>> c49679ab9f64185b9184bd6e3fc02c288872a542
 imperative
@@ -654,3 +653,5 @@ rendering
 shadows
 shadow
 mathematics
+=======
+>>>>>>> 33b5132785221510df8753d01a8656d0824d1dd9
