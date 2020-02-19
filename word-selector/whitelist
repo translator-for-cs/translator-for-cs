@@ -213,3 +213,18 @@ transportation_N,transportering_N
 telecommunication_N,telekommunikation_N
 industrial_A,industriell_A
 >>>>>>> 1b6f81c498bfde4f4539e399f3b8445d764fba6e
+network_N,nätverk_N
+communication_N,kommunikation_N
+protocol_N,protokoll_N
+stack_N,stack_N
+internet_N,internet_N
+distribute_V2,distribuera_V2
+service_N,tjänst_N
+summarize_V2,summera_V2
+introduce_V2,introducera_V2
+development_N,utveckling_N
+setting_N,inställning_N
+link_N,länk_N
+limit_V2V,gräns_V2V
+bandwidth_N,bandbredd_N
+scalability_N,skalbarhet_N
