@@ -1,1338 +1,803 @@
-History of computer science 
-Outline of computer science 
-Abstract data type 
-Mathematical model 
-Data type 
-Semantics 
-Data structure 
-Abstract method 
-Method signature 
-Method body 
-Interface 
-Abstraction 
-Software engineering 
-Computer science 
-Attribute 
-System 
-Generalization 
+8SVX 
 Abstract and concrete 
-Concept 
-Object 
-Agent architecture 
-Computer science 
-Blueprint 
-Software agent 
-Intelligent control 
-Intelligent agent 
-Cognitive architecture 
-Agent-based model 
-Computational models 
-Computer simulation 
-Game theory 
-Complex systems 
-Emergence 
-Computational sociology 
-Multi-agent system 
-Evolutionary programming 
-Monte Carlo method 
-Aggregate function 
-Database management 
-Subroutine 
-Set 
-Set 
-List 
-Agile software development 
-Software development 
-Self-organizing communities 
-Cross-functional team 
-Customer 
-End user 
-Continual improvement process 
-Algorithm 
-Calculation 
-Data processing 
-Automated reasoning 
-Algorithm design 
-Operation research 
-Dynamic programming 
-Divide and conquer algorithm 
-Algorithmic efficiency 
-Algorithm 
-Computational resource 
-Analysis of algorithms 
-Productivity 
-ASCII 
-Character encoding 
-Telecommunications equipment 
-Application programming interface 
-Communication protocols 
-Computer program 
-Programmer 
-Application software 
-Computer software 
-Word processor 
-Spreadsheet 
-Accounting software 
-Web browser 
-Media player 
-Flight simulator 
-Console game 
-Raster graphics editor 
-Collective noun 
-System software 
-Array data structure 
-Data structure 
-Value 
-Variable 
-Tuple 
-Artifact 
-Use case 
-Class diagram 
-Unified Modeling Language 
-Artificial intelligence 
-Machine 
-Intelligence 
-Machine 
-Natural 
-Computer science 
-Intelligent agent 
-Human mind 
-ASCII 
-Assertion 
-Computer programming 
-Statement 
-Predicate 
-Boolean-valued function 
-Expression 
-Crash 
-Exception handling 
-Associative array 
-Automata theory 
+Abstract data type 
+Abstraction 
 Abstract machine 
-Automaton 
-Computational problem 
-Theoretical computer science 
-Discrete mathematics 
-Mathematics 
-Computer science 
-Automated reasoning 
-Computer science 
-Mathematical logic 
-Reasoning 
-Computer programs 
+Abstract method 
+Access control 
+Accounting software 
+Acrostic 
+Address space 
+Agent architecture 
+Agent-based model 
+Aggregate function 
+Agile software development 
+AI Memo 
+Algebra 
+ALGOL 
+Algorithm 
+Algorithm design 
+Algorithm design paradigm 
+Algorithm efficiency 
+Algorithmic efficiency 
+Algorithms 
+Alphabet 
+Amiga 
+Analysis 
+Analysis of algorithms 
+Answer set programming 
+Anthropology 
+Apple Macintosh 
+Application developer 
+Application monitoring 
+Application programming interface 
+Application software 
+Approximation 
+Argument 
+Arithmetic 
+Arithmetic function 
+Array data structure 
+Artifact 
 Artificial intelligence 
-Theoretical computer science 
-Philosophy 
+ASCII 
+Assembler 
+Assembly language 
+Assertion 
+Associative array 
+Asymptotic analysis 
+Asynchronous I/O 
+Attention 
+Attenuation 
+Attribute 
+Audio file format 
+Audio Interchange File Format 
+Automata theory 
+Automated reasoning 
+Automaton 
+Auxiliary memory 
 Bandwidth 
 Bayesian programming 
-Probability distribution 
+Behavioral sciences 
 Benchmark 
-Computer program 
 Best, worst and average case 
-Algorithm 
-Resource 
-Time complexity 
 Big data 
-Data set 
-Data processing 
-Application software 
-Statistical power 
-False discovery rate 
 Big O notation 
-Asymptotic analysis 
-Function 
+Binary file 
 Binary number 
-Digital electronics 
-Number 
 Binary search algorithm 
-Search algorithm 
-Sorted array 
 Binary tree 
-Tree structure 
-Data structure 
-Child node 
-Recursive definition 
-Set theory 
-Tuple 
-Empty set 
-Singleton set 
 Bioinformatics 
-Interdisciplinary 
-Software tool 
+Biological evolution 
 Biology 
-Biology 
-Computer science 
-Information engineering 
-Mathematics 
-Statistics 
-In silico 
 Bit 
-Portmanteau 
-Units of information 
-Information 
-Computing 
-Communication 
-Binary number 
-Value 
-Bit rate 
-Telecommunications 
-Computing 
-Bit 
-Blacklist 
-Computing 
-Access control 
-URLs 
-IP address 
-Domain name 
-MD5 Hash 
-Whitelist 
-Greylisting 
-BMP file format 
-Raster graphics 
-Image file format 
+Bit-level parallelism 
 Bitmap 
-Digital image 
-Display device 
-Graphics adapter 
-Microsoft Windows 
-OS/2 
-Boolean data type 
-Data type 
-Truth value 
-Logic 
+Bit rate 
+Bitstream format 
+Blacklist 
+Blueprint 
+BMP file format 
 Boolean algebra 
-George Boole 
-Conditional 
-Control flow 
-Probabilistic logic 
+Boolean data type 
+Boolean datatype 
 Boolean expression 
-Expression 
-Programming language 
 Boolean value 
-Boolean data type 
 Boolean-valued function 
-Boolean algebra 
-Mathematics 
-Mathematical logic 
-Algebra 
-Variable 
-Truth value 
-Elementary algebra 
-Logical conjunction 
-Logical disjunction 
-Negation 
-Byte 
-Units of information 
-Bit 
-Binary number 
-Character 
-Address space 
-Computer memory 
-Computer architecture 
 Booting 
-Computer 
-Computer appliance 
-Read-only memory 
-Firmware 
-Power-on self-test 
-Hard disk 
-Main memory 
-Computer program 
-Random-access memory 
-Callback 
-Executable code 
-Argument 
-Central processing unit 
-Electronic circuit 
-Computer 
-Instruction 
-Computer program 
-Arithmetic 
-Input/output 
-Control unit 
-Main memory 
-I/O 
-Character 
-Computer 
-Telecommunication 
-Information 
-Grapheme 
-Alphabet 
-Syllabary 
-Written language 
-Natural language 
-Cipher 
-Cryptography 
-Algorithm 
-Encryption 
-Decryption 
-Class 
-Object-oriented programming 
-Object 
-Member variable 
-Method 
-Constructor 
-Subroutine 
-Data type 
-Instance 
-Class-based programming 
-Object-oriented programming 
-Class 
-Object 
-Prototype-based programming 
-Class-based programming 
-Object-oriented programming 
-Class 
-Object 
-Prototype-based programming 
-Client 
-Computer hardware 
-Software 
-Server 
-Computer system 
-Computer network 
-Client–server model 
-Cleanroom software engineering 
-Software development process 
-Reliability engineering 
-Harlan Mills 
-IBM 
-Closure 
-Programming language 
-Lexically scoped 
-Name binding 
-First-class function 
-Operational semantics 
-Record 
-Function 
-Cloud computing 
-System resource 
-Provisioning 
-Internet 
-Economies of scale 
-Public utility 
-Library 
-Non-volatile memory 
-Computer program 
-Software development 
-Code reuse 
-Subroutine 
-Class 
-Value 
-Data type 
-OS/360 and successors 
-Partitioned dataset 
-Computer programming 
-Executable 
-Computer program 
-Computing 
-Algorithm 
-Programming language 
-Source code 
-Domain 
-Logic 
-Coding theory 
-Code 
-Data compression 
-Cryptography 
-Error detection and correction 
-Data transmission 
-Data storage 
-Information theory 
-Electrical engineering 
-Mathematics 
-Linguistics 
-Computer science 
-Cognitive science 
-Science 
-Mind 
-Cognition 
-Information 
-Language 
-Perception 
-Memory 
-Attention 
-Reasoning 
-Emotion 
-Linguistics 
-Psychology 
-Artificial intelligence 
-Philosophy of mind 
-Neuroscience 
-Anthropology 
-Comma-separated values 
-Computer file 
-Text file 
-Table 
-Plain text 
-Record 
-Field 
-Comma 
-File format 
-Compiler 
-Computer program 
-Programming language 
-Translator 
-Source code 
-High-level programming language 
-Lower level language 
-Assembly language 
-Object code 
-Machine code 
-Executable 
-Compiler theory 
-Computability theory 
-Mathematical logic 
-Computer science 
-Theory of computation 
-Computable function 
-Turing degree 
-Proof theory 
-Effective descriptive set theory 
-Computation 
+Botnet 
+Branches of science 
+Branch predication 
+Build automation 
+Bullying 
+Byte 
+Bytecode 
 Calculation 
-Model 
-Algorithm 
-Computer science 
+Callback 
+Carrier wave 
+Central processing unit 
+Character 
+Character encoding 
+Chemistry 
+Child node 
+Cipher 
+Class 
+Class-based programming 
+Class diagram 
+Cleanroom software engineering 
+Client 
+Client–server model 
+Clock synchronization 
+Closure 
+Cloud computing 
+COBOL 
+Code 
+Code reuse 
+Code review 
+Coding theory 
+Cognition 
+Cognitive architecture 
+Cognitive neuroscience 
+Cognitive science 
+Collection 
+Collective noun 
+Comma 
+Command 
+Command-line interpreter 
+Comma-separated values 
+Communication 
+Communication protocol 
+Communication protocols 
+Comparison sort 
+Compiler 
+Compiler theory 
+Complex system 
+Complex systems 
+Computability theory 
+Computable function 
+Computation 
 Computational biology 
 Computational chemistry 
-Chemistry 
-Computer simulation 
-Theoretical chemistry 
-Computer program 
-Molecule 
 Computational complexity theory 
 Computational model 
-Mathematical model 
-Computational science 
-Computational resource 
-Complex system 
-Computer simulation 
+Computational models 
 Computational neuroscience 
-Neuroscience 
-Developmental neuroscience 
-Neuroanatomy 
-Neurophysiology 
-Cognitive neuroscience 
-Nervous system 
 Computational physics 
+Computational problem 
+Computational resource 
 Computational science 
+Computational sociology 
 Computational steering 
 Computer 
-Arithmetic 
-Boolean algebra 
-Computer programming 
-Computer program 
+Computer appliance 
 Computer architecture 
-Computer engineering 
-Computer 
-Instruction set architecture 
-Microarchitecture 
-Logic design 
-Implementation 
+Computer architectures 
 Computer data storage 
-Computer 
-Data storage device 
-Data 
+Computer engineering 
 Computer ethics 
-Practical philosophy 
+Computer file 
 Computer graphics 
-Computer network 
-Digital signal 
-Telecommunications network 
-Node 
-Computing device 
-Data transmission 
-Data link 
-Networking cables 
-Wireless network 
-WiFi 
-Computer programming 
-Executable 
-Computer program 
-Computing 
-Algorithm 
-Programming language 
-Source code 
-Domain 
-Logic 
-Computer science 
-Computer 
-Algorithm 
-Digital data 
-Information 
-Computer scientist 
-Computer scientist 
-Person 
-Computer science 
-Computer security 
-Computer system 
 Computer hardware 
-Software 
-Data 
-Denial-of-service attack 
-Botnet 
+Computer memory 
+Computer mouse 
+Computer network 
+Computer number format 
+Computer program 
+Computer programmer 
+Computer programming 
+Computer programs 
+Computer science 
+Computer scientist 
+Computer security 
+Computer simulation 
+Computer software 
+Computer system 
+Computer systems 
 Computer vision 
-Interdisciplinarity 
-Digital image 
-Video 
-Engineering 
-Human visual system 
+Computing 
+Computing device 
 Concatenation 
+Concept 
 Concurrency 
 Conditional 
-Programming language 
-Boolean datatype 
-Branch predication 
-Control flow 
-Continuation-passing style 
-Functional programming 
-Control flow 
+Console game 
+Constant 
+Constructor 
+Container 
+Continual improvement process 
 Continuation 
-Direct style 
-Gerald Jay Sussman 
-Guy L. Steele, Jr. 
-AI Memo 
-Scheme 
-Control flow 
-Statement 
-Instruction 
-Function call 
-Imperative programming 
-Computer program 
-Execution 
-Imperative programming 
-Declarative programming 
-Creative Commons 
-Non-profit organization 
-Creativity 
-Copyright 
-License 
-Creative Commons license 
-Cryptography 
-Comma-separated values 
-Cyberbullying 
-Bullying 
-Harassment 
-Cyberspace 
-Technology 
-Data center 
-Computer 
-Telecommunication 
-Computer data storage 
-Redundancy 
-Power supply 
-Database 
-Data 
-Data mining 
-Data science 
-Interdisciplinary 
-Knowledge 
-Data 
-Data mining 
-Mathematics 
-Statistics 
-Information science 
-Computer science 
-Data structure 
-Algorithmic efficiency 
-Data type 
-Data 
-Compiler 
-Interpreter 
-Real number 
-Integer 
-Boolean data type 
-Expression 
-Debugging 
-Computer software 
-System 
-Interactive 
-Control flow 
-Unit testing 
-Integration testing 
-Logfile 
-Application monitoring 
-System monitoring 
-Memory dump 
-Profiling 
-Declaration 
-Computer programming 
-Language construct 
-Identifier 
-Subroutine 
-Variable 
-Constant 
-Class 
-Data type 
-Type signature 
-Compiler 
-Strongly typed 
-Forward declaration 
-Digital data 
-Information theory 
-Information systems 
-Representation 
-Number 
-Letter 
-Digital signal processing 
-Digital processing 
-Digital signal processor 
-Signal processing 
-Sampling 
+Continuation-passing style 
 Continuous variable 
-Discrete event simulation 
-System 
-Discrete time 
-Sequence of events 
-State 
-Simulation 
-Disk storage 
-Distributed computing 
-Computer science 
-Computer network 
-Message passing 
-Clock synchronization 
-Service-oriented architecture 
-Massively multiplayer online game 
-Peer-to-peer 
-Divide and conquer algorithm 
-Algorithm design paradigm 
-Recursion 
-Algorithm 
-Domain Name System 
-Software documentation 
-Computer software 
-Domain Name System 
-Hierarchy 
-Decentralised system 
-Internet 
-Domain name 
-IP address 
-Communication protocol 
-Distributed computing 
-Directory service 
-Double-precision floating-point format 
-Computer number format 
-Dynamic range 
-Download 
-Computer network 
-Server 
-Web server 
-File Transfer Protocol 
-Email 
-Upload 
-Computer file 
-Edge device 
-Router 
-Network switch 
-Integrated access device 
-Metropolitan area network 
-Wide area network 
-Local area network 
-Encryption 
-Event 
-Asynchronous I/O 
-Event handler 
-Acrostic 
-Mnemonic 
-Event-driven programming 
-Programming paradigm 
 Control flow 
-Event 
-Computer mouse 
-Sensor 
-Message passing 
-Thread 
-Graphical user interface 
-Web application 
-Input/output 
-Device driver 
-P 
-Evolutionary computing 
-Algorithm 
-Global optimization 
-Biological evolution 
-Artificial intelligence 
-Soft computing 
-Trial and error 
-Metaheuristic 
-Stochastic optimization 
-Executable 
-Instruction 
-Data 
-Parser 
-Machine code 
-Central processing unit 
-Bytecode 
-Scripting language 
-Exception handling 
-Computation 
-Computer program 
-Execution 
-Programming language 
-Computer hardware 
-Interrupt 
-Operating system 
-Inter-process communication 
-Signal 
-Expression 
-Programming language 
-Constant 
-Variable 
-Operator 
-Function 
-Order of operations 
-State 
-Mathematical expression 
-Fault-tolerant computer system 
-Fault tolerance 
-Feasibility study 
-Natural environment 
-Resources 
+Control unit 
+Copyright 
+Correctness 
 Cost 
-Value 
-Filename extension 
-Substring 
+Crash 
+Creative Commons 
+Creative Commons license 
+Creativity 
+Cross-functional team 
+Cryptography 
+Customer 
+Cyberbullying 
+Cyberspace 
+Daemon 
+Data 
+Database 
+Database management 
+Data center 
+Data compression 
+Data link 
+Datalog 
+Data mining 
+Data parallelism 
+Data processing 
+Data science 
+Data set 
+Data storage 
+Data storage device 
+Data structure 
+Data transmission 
+Data type 
+Debugger 
+Debugging 
+Decentralised system 
+Decision-making 
+Declaration 
+Declarative programming 
+Decryption 
+Deductive reasoning 
+Deliverable 
+Demodulation 
+Denial-of-service attack 
+Dependency 
+Design 
+Deterministic 
+Developmental neuroscience 
+Device driver 
+Digital data 
+Digital electronics 
+Digital image 
+Digital information 
+Digital processing 
+Digital signal 
+Digital signal processing 
+Digital signal processor 
+Directory service 
+Direct style 
+Discrete event simulation 
+Discrete mathematics 
+Discrete time 
+Disk storage 
+Display device 
+Distributed computing 
+Divide and conquer algorithm 
+Documentation 
+Domain 
+Domain name 
+Domain Name System 
+Double-precision floating-point format 
+Download 
+Drawing 
+Dynamic programming 
+Dynamic range 
+Economies of scale 
+Edge device 
+Effective descriptive set theory 
+Electrical engineering 
+Electrical signal 
+Electromagnetic interference 
+Electronic circuit 
+Electronics 
+Elementary algebra 
+Email 
+Emergence 
+Emotion 
+Empty set 
+Emulator 
+Encryption 
+End user 
+Engineering 
+Engineering design 
+Ergonomics 
+Error detection and correction 
+Event 
+Event-driven programming 
+Event handler 
+Evolutionary computing 
+Evolutionary programming 
+Exception handling 
+Executable 
+Executable code 
+Execution 
+Expression 
+False discovery rate 
+Fault tolerance 
+Fault-tolerant computer system 
+Feasibility study 
+Fiber 
+Fiber-optic communication 
+Field 
+File format 
 Filename 
-Computer file 
+Filename extension 
+File Transfer Protocol 
 Filter 
-Computer program 
-Subroutine 
-Stream 
-Pipeline 
+Firmware 
+First-class function 
+Flight simulator 
 Floating point arithmetic 
 For loop 
-Control flow 
-Statement 
-Iteration 
-Execution 
-ALGOL 
+Formal language 
+Formal logic 
+Formal methods 
+Formal specification 
+Formal system 
+Formal verification 
 Fortran 
-COBOL 
-Formal methods 
-Mathematically 
-Formal specification 
-Formal verification 
-Software 
-Computer hardware 
-Formal verification 
-Mathematical proof 
-Correctness 
-Algorithms 
-Formal specification 
-Formal methods 
-Mathematics 
+Forward declaration 
+Foundations of mathematics 
+Fragile base class 
+Function 
 Functional programming 
-Programming paradigm 
-Computer program 
-Computation 
-Function 
-Program state 
-Immutable object 
-Declarative programming 
-Expression 
-Statement 
+Functional requirement 
+Function call 
+Function signature 
 Game theory 
-Mathematical model 
-Social science 
-Logic 
-Computer science 
-Zero-sum game 
-Umbrella term 
-Science 
 Garbage in, garbage out 
-Input 
-Input/output 
+Generalization 
+General-purpose language 
+George Boole 
+Gerald Jay Sussman 
 GIF 
-Gigabyte 
-Byte 
-SI prefix 
 Giga- 
-International System of Units 
+Gigabyte 
+Glass 
+Global optimization 
 Global variable 
-Computer programming 
-Scope 
-Variable shadowing 
-Static variable 
-Variable 
-Command-line interpreter 
-Graph theory 
-Mathematics 
-Graph 
-Vertex 
 Glossary of graph theory terms 
-Computational complexity theory 
+Goal 
+Graph 
+Grapheme 
+Graphical user interface 
+Graphics adapter 
+Graph theory 
+Greylisting 
+Guy L. Steele, Jr. 
+Hair's breadth 
+Harassment 
+Hard disk 
+Harlan Mills 
 Hash function 
-Function 
-Data 
 Hash table 
-Data structure 
-Hash table 
-Computing 
-Data structure 
-Associative array 
-Abstract data type 
-Unique key 
-Value 
-Hash function 
 Heap 
-Tree 
-Data structure 
-Node 
 Heapsort 
-Comparison sort 
-Sorting algorithm 
-Selection sort 
-Heap 
+Heavy machinery 
+Herman Goldstine 
+Hierarchy 
+High-level programming language 
+History of computer science 
+Home appliance 
+Http 
+Human 
 Human-computer interaction 
-User 
-Computer science 
-Behavioral sciences 
-Design 
-Media studies 
-Outline of human–computer interaction 
-Integrated development environment 
+Human–computer interaction 
+Human mind 
+Human visual system 
+HyperText Markup Language 
+IBM 
+Identifier 
+IEEE 802.11 
+Image file format 
 Image processing 
-Imperative programming 
-Programming paradigm 
-Statement 
-State 
+Immutable object 
 Imperative mood 
-Natural language 
-Command 
+Imperative programming 
+Implementation 
 Incremental build model 
-Software development 
-Software design 
-Software testing 
-Waterfall model 
-Software prototyping 
+Industrial design 
+Inference 
+Information 
+Information engineering 
+Information processing system 
+Information processor 
+Information science 
 Information space analysis 
-Deterministic 
-Artificial intelligence 
-Resource 
+Information systems 
+Information theory 
 Information visualization 
 Inheritance 
-Object-oriented programming 
-Object 
-Class 
-Prototype-based programming 
-Class-based programming 
-Fragile base class 
+Input 
 Input/output 
-Information processing system 
-Computer 
-Information processor 
-Information 
-Data 
-I/O scheduling 
 Insertion sort 
-Sorting algorithm 
-Sorted array 
+In silico 
+Instance 
+Instruction 
 Instruction cycle 
-Central processing unit 
-Booting 
+Instruction-level parallelism 
+Instruction set 
+Instruction set architecture 
 Integer 
-Data 
-Data type 
-Interval 
-Integer 
-Virtual machine 
-Word size 
+Integrated access device 
 Integrated development environment 
-Application software 
-Computer programmer 
-Software development 
-Source code editor 
-Build automation 
-Debugger 
 Integration testing 
-Software testing 
-Regulatory compliance 
-Functional requirement 
-Unit testing 
-Software verification and validation 
-Module 
-Test plan 
-System testing 
 Intellectual property 
-Property 
-Copyright 
-Patent 
-Trademark 
-Trade secret 
+Intelligence 
 Intelligent agent 
+Intelligent control 
+Interactive 
+Interdisciplinarity 
+Interdisciplinary 
 Interface 
-Computer system 
-Software 
-Computer hardware 
-Peripheral 
-User interface 
-Touchscreen 
 Internal documentation 
-Software 
-Source code 
-Variable 
-Documentation 
+International Business Machines 
+International System of Units 
 Internet 
-Portmanteau 
-Computer network 
-Internet protocol suite 
 Internet bot 
-World Wide Web 
-Software application 
-Internet 
-Web crawler 
-Human 
+Internet protocol suite 
+Interoperability Solutions for European Public Administrations 
 Interpreter 
-Computer program 
-Execution 
-Programming language 
-Scripting language 
-Compiler 
-Machine language 
+Inter-process communication 
+Interrupt 
+Interval 
 Invariant 
+I/O 
+I/O scheduling 
+IP address 
+Irregular matrix 
 Iteration 
 Java 
-General-purpose language 
-Programming language 
-Class-based programming 
-Object-oriented programming 
-Dependency 
-Application developer 
-Write once, run anywhere 
-Compiler 
+Java Database Connectivity 
+John von Neumann 
 Kernel 
-Operating system 
-Operating system 
-Memory 
-Operating system 
+Knowledge 
+Language 
+Language construct 
+Letter 
+Lexically scoped 
 Library 
-Non-volatile memory 
-Computer program 
-Software development 
-Code reuse 
-Subroutine 
-Class 
-Value 
-Data type 
-Linear search 
-List 
-Linked list 
-Pointer 
-Data structure 
-Node 
-Sequence 
-Linker 
-System utility 
-Object file 
-Compiler 
-Assembler 
-Executable 
-Library 
-Loader 
-List 
-Abstract data type 
-Value 
-Mathematics 
-Sequence 
-Stream 
-Container 
-Loader 
-Operating system 
-Computer program 
-Library 
-Executable 
-Logic error 
-Computer programming 
-Software bug 
-Crash 
-Logic programming 
-Programming paradigm 
-Formal logic 
-Programming language 
-Prolog 
-Answer set programming 
-Datalog 
-Machine learning 
-Branches of science 
-Algorithm 
-Statistical model 
-Computer systems 
-Inference 
-Artificial intelligence 
-Mathematical model 
-Training data 
-Machine vision 
-Process control 
-Systems engineering 
-Computer vision 
-Computer science 
-Mathematical logic 
-Mathematics 
-Logic 
-Metamathematics 
-Foundations of mathematics 
-Theoretical computer science 
-Formal system 
-Deductive reasoning 
-Mathematical proof 
-Matrix 
-Mathematics 
-Rectangle 
-Irregular matrix 
-Number 
-Symbol 
-Expression 
-Computer data storage 
-Computer 
-Data storage device 
-Data 
-Merge sort 
-Comparison sort 
-Sorting algorithm 
-Sorting algorithm 
-Divide and conquer algorithm 
-John von Neumann 
-Herman Goldstine 
-John von Neumann 
-Method 
-Object-oriented programming 
-Procedure 
-Message passing 
-Object 
-Software development process 
-Software engineering 
-Software development 
-Software design 
-Software product management 
-Software project management 
-Deliverable 
-Modem 
-Portmanteau 
-Computer hardware 
-Transmission medium 
-Modulation 
-Carrier wave 
-Digital information 
-Demodulation 
-Signal 
+License 
 Light-emitting diode 
-Radio 
-Digital data 
-Computer 
-Electrical signal 
-Telephone line 
-Natural language processing 
+Linear pulse-code modulation 
+Linear search 
 Linguistics 
-Computer science 
-Information engineering 
-Artificial intelligence 
-Natural language 
-Speech recognition 
-Natural language understanding 
-Natural language generation 
-Number theory 
-Pure mathematics 
-Integer 
-Arithmetic function 
-Numerical analysis 
-Algorithm 
-Approximation 
-Symbolic computation 
-Mathematical analysis 
-Discrete mathematics 
-Numerical method 
-Numerical analysis 
-Object 
-Variable 
-Data structure 
-Subroutine 
-Method 
-Value 
-Memory address 
-Identifier 
-Class-based programming 
-Object-oriented programming 
-Instance 
-Class 
-Relational model 
-Database 
-Object code 
-Compiler 
-Statement 
+Linked list 
+Linker 
+List 
+Loader 
+Local area network 
+Logfile 
+Logic 
+Logical conjunction 
+Logical disjunction 
+Logic design 
+Logic error 
+Logic programming 
+Lower level language 
+Machine 
 Machine code 
-Binary file 
-Register transfer language 
-Goal 
-Object-oriented analysis and design 
-Object-oriented programming 
-Object oriented programming 
-Programming paradigm 
-Object 
-Data 
-Field 
-Method 
-This 
-Class-based programming 
-Instance 
-Class 
-Data type 
-Open-source software 
-Computer software 
-Source code 
-Open-source license 
-Copyright 
-Software distribution 
-Software 
-Open-source model 
-Open collaboration 
-Operating system 
-System software 
-Computer hardware 
-Computer software 
-Daemon 
-Computer program 
-Optical fiber 
-Transparency and translucency 
-Fiber 
-Drawing 
-Glass 
-Silica 
-Hair's breadth 
-Fiber-optic communication 
-Bandwidth 
+Machine language 
+Machine learning 
+Machine vision 
+Mailto 
+Mail user agent 
+Main memory 
+Maintenance, repair and operations 
+Markup language 
+Massively multiplayer online game 
+Mathematical analysis 
+Mathematical expression 
+Mathematical logic 
+Mathematically 
+Mathematical model 
+Mathematical proof 
+Mathematics 
+Matrix 
+MD5 Hash 
+Media player 
+Media studies 
+Member variable 
+Memory 
+Memory address 
+Memory dump 
+Merge sort 
+Message passing 
+Metaheuristic 
 Metal 
-Attenuation 
-Electromagnetic interference 
+Metamathematics 
+Method 
+Method body 
+Method signature 
+Metropolitan area network 
+Microarchitecture 
+Microsoft 
+Microsoft Windows 
+Mind 
+Mnemonic 
+Mobile device 
+Model 
+Modem 
+Modulation 
+Module 
+Molecule 
+Monte Carlo method 
+Multi-agent system 
+Name binding 
+Natural 
+Natural environment 
+Natural language 
+Natural language generation 
+Natural language processing 
+Natural language understanding 
+Negation 
+Nervous system 
+Networking cables 
+Network switch 
+Neuroanatomy 
+Neurophysiology 
+Neuroscience 
+Node 
+Non-profit organization 
+Non-volatile memory 
+Number 
+Number theory 
+Numerical analysis 
+Numerical method 
+Object 
+Object code 
+Object file 
+Object-oriented analysis and design 
+Object oriented programming 
+Object-oriented programming 
+Open collaboration 
+Open-source license 
+Open-source model 
+Open-source software 
+Operating system 
+Operational semantics 
+Operation research 
+Operator 
+Optical fiber 
+Order of operations 
+OS/2 
+OS/360 and successors 
+Outline of computer science 
+Outline of human–computer interaction 
+P 
 Pair programming 
-Agile software development 
-Computer programmer 
-Source code 
-Code review 
 Parallel computing 
-Computing 
-Process 
-Bit-level parallelism 
-Instruction-level parallelism 
-Data parallelism 
-Task parallelism 
 Parameter 
-Computer programming 
-Variable 
-Subroutine 
-Function signature 
+Parser 
+Partitioned dataset 
+Patent 
+Peer-to-peer 
+Perception 
 Peripheral 
+Person 
+Personal computer 
+Phenomena 
+Philosophy 
+Philosophy of mind 
+Pipeline 
+Plain text 
+Pointer 
+Portmanteau 
 Postcondition 
-Computer programming 
-Predicate 
-Formal specification 
-Assertion 
+Power-on self-test 
+Power supply 
+Practical philosophy 
 Precondition 
-Computer programming 
 Predicate 
-Code 
-Formal specification 
-Code 
-Computer security 
 Primary storage 
 Primitive data type 
 Priority queue 
-Abstract data type 
-Queue 
-Stack 
+Probabilistic logic 
+Probability distribution 
 Procedural programming 
+Procedure 
+Process 
+Process control 
+Product development 
+Productivity 
+Profiling 
 Program lifecycle phase 
-Computer program 
-Execution 
+Programmer 
 Programming language 
-Formal language 
-Instruction set 
-Input/output 
-Computer programming 
-Algorithm 
 Programming language implementation 
 Programming language theory 
+Programming paradigm 
+Program state 
 Prolog 
+Proof theory 
+Property 
+Prototype-based programming 
+Provisioning 
+Psychology 
+Public utility 
+Pure mathematics 
 Python 
 Quantum computing 
-Quantum mechanics 
-Phenomena 
-Quantum superposition 
 Quantum entanglement 
-Computation 
+Quantum mechanics 
+Quantum superposition 
 Queue 
-Collection 
 Quicksort 
-Algorithm efficiency 
-Sorting algorithm 
-Random access 
-Computer file 
-Array data structure 
 R 
+Radio 
 Radix 
+Random access 
+Random-access memory 
+Raster graphics 
+Raster graphics editor 
+Read-only memory 
+Real number 
+Reasoning 
+Record 
+Rectangle 
 Recursion 
+Recursive definition 
+Redundancy 
+Reference 
 Reference counting 
-Relational database 
-Reliability engineering 
+Register transfer language 
 Regression testing 
+Regulatory compliance 
+Relational database 
+Relational model 
+Reliability engineering 
+Representation 
 Requirements analysis 
+Resource 
+Resource Interchange File Format 
+Resources 
 Robotics 
 Round-off error 
 Router 
 Routing table 
 Run time 
-Run time 
+Sampling 
+Scheme 
+Science 
+Scope 
+Scripting language 
 Search algorithm 
-Auxiliary memory 
 Selection sort 
+Self-organizing communities 
 Semantics 
+Sensor 
 Sequence 
+Sequence of events 
+Server 
 Service level agreement 
+Service-oriented architecture 
 Set 
+Set theory 
+Signal 
+Signal processing 
+Silica 
+Simulation 
+Singleton set 
+SI prefix 
+Social science 
 Soft computing 
 Software 
 Software agent 
+Software application 
+Software bug 
 Software construction 
 Software deployment 
 Software design 
 Software development 
 Software development process 
+Software distribution 
+Software documentation 
 Software engineering 
 Software maintenance 
+Software product management 
+Software project management 
 Software prototyping 
 Software requirements specification 
 Software testing 
+Software tool 
+Software verification and validation 
+Sorted array 
 Sorting algorithm 
 Source code 
+Source code editor 
+Speech recognition 
 Spiral model 
+Spreadsheet 
 Stack 
-Computer data storage 
+State 
+Statement 
+Static variable 
+Statistical model 
+Statistical power 
+Statistics 
+Stochastic optimization 
+Stream 
 String 
+Strongly typed 
 Structured storage 
 Subroutine 
+Substring 
+Syllabary 
+Symbol 
 Symbolic computation 
 Syntax 
 Syntax error 
+System 
 System console 
+System monitoring 
+System resource 
+Systems engineering 
+System software 
+System testing 
+System utility 
+Table 
+Task parallelism 
 Technical documentation 
-Documentation 
-Product development 
-End user 
-Maintenance, repair and operations 
-User guide 
+Technology 
+Telecommunication 
+Telecommunications 
+Telecommunications equipment 
+Telecommunications network 
+Telephone line 
+Test plan 
+Text file 
+Theoretical chemistry 
+Theoretical computer science 
+Theory of computation 
 Third-generation programming language 
-Top-down and bottom-up design 
-Tree 
-Abstract data type 
-Tree structure 
-Node 
-Type theory 
-Mathematics 
-Logic 
-Formal system 
-Set theory 
-Foundations of mathematics 
-Upload 
-Computer network 
-Data 
-Server 
-URL 
-Web resource 
-Computer network 
-Uniform Resource Identifier 
-Http 
-File Transfer Protocol 
-Mailto 
-Java Database Connectivity 
-URL 
-User agent 
-Software agent 
-User 
-Web browser 
-Mail user agent 
-User interface 
-Industrial design 
-Human–computer interaction 
-Decision-making 
-Operating system 
+This 
+Thread 
+Time complexity 
 Tools 
-Heavy machinery 
+Top-down and bottom-up design 
+Touchscreen 
+Trademark 
+Trade secret 
+Training data 
+Translator 
+Transmission medium 
+Transparency and translucency 
+Tree 
+Tree structure 
+Trial and error 
+Truth value 
+Tuple 
+Turing degree 
+Type signature 
+Type theory 
+Umbrella term 
+Unified Modeling Language 
+Uniform Resource Identifier 
+Unique key 
 Unit operation 
-Ergonomics 
-Psychology 
-User interface design 
-Design 
-User interface 
-Machine 
-Software 
-Computer 
-Home appliance 
-Mobile device 
-Electronics 
+Units of information 
+Unit testing 
+Upload 
+URL 
+URLs 
 Usability 
-User experience 
+Use case 
+User 
+User agent 
 User-centered design 
+User experience 
+User guide 
+User interface 
+User interface design 
+Value 
 Variable 
-Computer programming 
-Memory address 
-Symbol 
-Identifier 
-Value 
-Reference 
-Source code 
-Name binding 
-Value 
-Run time 
-Execution 
+Variable shadowing 
+Vertex 
+Video 
 Virtual machine 
-Emulator 
-Computer architectures 
-V-Model 
-Software development 
-Software development process 
-Waterfall model 
 V-model 
-Source code 
-Software testing 
-WAV 
-Waterfall model 
-Sequence 
-Engineering design 
-Software development process 
+V-Model 
 Waterfall 
-Analysis 
-Software design 
-Software construction 
-Software testing 
-Implementation 
-Software maintenance 
+Waterfall model 
 WAV 
-Filename extension 
-Audio file format 
-Microsoft 
-International Business Machines 
-Personal computer 
-Resource Interchange File Format 
-Bitstream format 
-8SVX 
-Audio Interchange File Format 
-Amiga 
-Apple Macintosh 
-Microsoft Windows 
-Linear pulse-code modulation 
+Web application 
+Web browser 
 Web crawler 
-Internet bot 
-World Wide Web 
 Web indexing 
+Web page 
+Web resource 
+Web server 
+Whitelist 
+Wide area network 
 Wi-Fi 
-IEEE 802.11 
-Wireless LAN 
-Internet 
+WiFi 
 Wi-Fi Alliance 
-Interoperability Solutions for European Public Administrations 
+Wireless LAN 
+Wireless network 
+Word processor 
+Word size 
+World Wide Web 
+Write once, run anywhere 
+Written language 
 XHTML 
 XML 
-Markup language 
-HyperText Markup Language 
-Web page 
+Zero-sum game 
