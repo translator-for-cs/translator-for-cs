@@ -1,0 +1,803 @@
+8SVX 
+Abstract and concrete 
+Abstract data type 
+Abstraction 
+Abstract machine 
+Abstract method 
+Access control 
+Accounting software 
+Acrostic 
+Address space 
+Agent architecture 
+Agent-based model 
+Aggregate function 
+Agile software development 
+AI Memo 
+Algebra 
+ALGOL 
+Algorithm 
+Algorithm design 
+Algorithm design paradigm 
+Algorithm efficiency 
+Algorithmic efficiency 
+Algorithms 
+Alphabet 
+Amiga 
+Analysis 
+Analysis of algorithms 
+Answer set programming 
+Anthropology 
+Apple Macintosh 
+Application developer 
+Application monitoring 
+Application programming interface 
+Application software 
+Approximation 
+Argument 
+Arithmetic 
+Arithmetic function 
+Array data structure 
+Artifact 
+Artificial intelligence 
+ASCII 
+Assembler 
+Assembly language 
+Assertion 
+Associative array 
+Asymptotic analysis 
+Asynchronous I/O 
+Attention 
+Attenuation 
+Attribute 
+Audio file format 
+Audio Interchange File Format 
+Automata theory 
+Automated reasoning 
+Automaton 
+Auxiliary memory 
+Bandwidth 
+Bayesian programming 
+Behavioral sciences 
+Benchmark 
+Best, worst and average case 
+Big data 
+Big O notation 
+Binary file 
+Binary number 
+Binary search algorithm 
+Binary tree 
+Bioinformatics 
+Biological evolution 
+Biology 
+Bit 
+Bit-level parallelism 
+Bitmap 
+Bit rate 
+Bitstream format 
+Blacklist 
+Blueprint 
+BMP file format 
+Boolean algebra 
+Boolean data type 
+Boolean datatype 
+Boolean expression 
+Boolean value 
+Boolean-valued function 
+Booting 
+Botnet 
+Branches of science 
+Branch predication 
+Build automation 
+Bullying 
+Byte 
+Bytecode 
+Calculation 
+Callback 
+Carrier wave 
+Central processing unit 
+Character 
+Character encoding 
+Chemistry 
+Child node 
+Cipher 
+Class 
+Class-based programming 
+Class diagram 
+Cleanroom software engineering 
+Client 
+Client–server model 
+Clock synchronization 
+Closure 
+Cloud computing 
+COBOL 
+Code 
+Code reuse 
+Code review 
+Coding theory 
+Cognition 
+Cognitive architecture 
+Cognitive neuroscience 
+Cognitive science 
+Collection 
+Collective noun 
+Comma 
+Command 
+Command-line interpreter 
+Comma-separated values 
+Communication 
+Communication protocol 
+Communication protocols 
+Comparison sort 
+Compiler 
+Compiler theory 
+Complex system 
+Complex systems 
+Computability theory 
+Computable function 
+Computation 
+Computational biology 
+Computational chemistry 
+Computational complexity theory 
+Computational model 
+Computational models 
+Computational neuroscience 
+Computational physics 
+Computational problem 
+Computational resource 
+Computational science 
+Computational sociology 
+Computational steering 
+Computer 
+Computer appliance 
+Computer architecture 
+Computer architectures 
+Computer data storage 
+Computer engineering 
+Computer ethics 
+Computer file 
+Computer graphics 
+Computer hardware 
+Computer memory 
+Computer mouse 
+Computer network 
+Computer number format 
+Computer program 
+Computer programmer 
+Computer programming 
+Computer programs 
+Computer science 
+Computer scientist 
+Computer security 
+Computer simulation 
+Computer software 
+Computer system 
+Computer systems 
+Computer vision 
+Computing 
+Computing device 
+Concatenation 
+Concept 
+Concurrency 
+Conditional 
+Console game 
+Constant 
+Constructor 
+Container 
+Continual improvement process 
+Continuation 
+Continuation-passing style 
+Continuous variable 
+Control flow 
+Control unit 
+Copyright 
+Correctness 
+Cost 
+Crash 
+Creative Commons 
+Creative Commons license 
+Creativity 
+Cross-functional team 
+Cryptography 
+Customer 
+Cyberbullying 
+Cyberspace 
+Daemon 
+Data 
+Database 
+Database management 
+Data center 
+Data compression 
+Data link 
+Datalog 
+Data mining 
+Data parallelism 
+Data processing 
+Data science 
+Data set 
+Data storage 
+Data storage device 
+Data structure 
+Data transmission 
+Data type 
+Debugger 
+Debugging 
+Decentralised system 
+Decision-making 
+Declaration 
+Declarative programming 
+Decryption 
+Deductive reasoning 
+Deliverable 
+Demodulation 
+Denial-of-service attack 
+Dependency 
+Design 
+Deterministic 
+Developmental neuroscience 
+Device driver 
+Digital data 
+Digital electronics 
+Digital image 
+Digital information 
+Digital processing 
+Digital signal 
+Digital signal processing 
+Digital signal processor 
+Directory service 
+Direct style 
+Discrete event simulation 
+Discrete mathematics 
+Discrete time 
+Disk storage 
+Display device 
+Distributed computing 
+Divide and conquer algorithm 
+Documentation 
+Domain 
+Domain name 
+Domain Name System 
+Double-precision floating-point format 
+Download 
+Drawing 
+Dynamic programming 
+Dynamic range 
+Economies of scale 
+Edge device 
+Effective descriptive set theory 
+Electrical engineering 
+Electrical signal 
+Electromagnetic interference 
+Electronic circuit 
+Electronics 
+Elementary algebra 
+Email 
+Emergence 
+Emotion 
+Empty set 
+Emulator 
+Encryption 
+End user 
+Engineering 
+Engineering design 
+Ergonomics 
+Error detection and correction 
+Event 
+Event-driven programming 
+Event handler 
+Evolutionary computing 
+Evolutionary programming 
+Exception handling 
+Executable 
+Executable code 
+Execution 
+Expression 
+False discovery rate 
+Fault tolerance 
+Fault-tolerant computer system 
+Feasibility study 
+Fiber 
+Fiber-optic communication 
+Field 
+File format 
+Filename 
+Filename extension 
+File Transfer Protocol 
+Filter 
+Firmware 
+First-class function 
+Flight simulator 
+Floating point arithmetic 
+For loop 
+Formal language 
+Formal logic 
+Formal methods 
+Formal specification 
+Formal system 
+Formal verification 
+Fortran 
+Forward declaration 
+Foundations of mathematics 
+Fragile base class 
+Function 
+Functional programming 
+Functional requirement 
+Function call 
+Function signature 
+Game theory 
+Garbage in, garbage out 
+Generalization 
+General-purpose language 
+George Boole 
+Gerald Jay Sussman 
+GIF 
+Giga- 
+Gigabyte 
+Glass 
+Global optimization 
+Global variable 
+Glossary of graph theory terms 
+Goal 
+Graph 
+Grapheme 
+Graphical user interface 
+Graphics adapter 
+Graph theory 
+Greylisting 
+Guy L. Steele, Jr. 
+Hair's breadth 
+Harassment 
+Hard disk 
+Harlan Mills 
+Hash function 
+Hash table 
+Heap 
+Heapsort 
+Heavy machinery 
+Herman Goldstine 
+Hierarchy 
+High-level programming language 
+History of computer science 
+Home appliance 
+Http 
+Human 
+Human-computer interaction 
+Human–computer interaction 
+Human mind 
+Human visual system 
+HyperText Markup Language 
+IBM 
+Identifier 
+IEEE 802.11 
+Image file format 
+Image processing 
+Immutable object 
+Imperative mood 
+Imperative programming 
+Implementation 
+Incremental build model 
+Industrial design 
+Inference 
+Information 
+Information engineering 
+Information processing system 
+Information processor 
+Information science 
+Information space analysis 
+Information systems 
+Information theory 
+Information visualization 
+Inheritance 
+Input 
+Input/output 
+Insertion sort 
+In silico 
+Instance 
+Instruction 
+Instruction cycle 
+Instruction-level parallelism 
+Instruction set 
+Instruction set architecture 
+Integer 
+Integrated access device 
+Integrated development environment 
+Integration testing 
+Intellectual property 
+Intelligence 
+Intelligent agent 
+Intelligent control 
+Interactive 
+Interdisciplinarity 
+Interdisciplinary 
+Interface 
+Internal documentation 
+International Business Machines 
+International System of Units 
+Internet 
+Internet bot 
+Internet protocol suite 
+Interoperability Solutions for European Public Administrations 
+Interpreter 
+Inter-process communication 
+Interrupt 
+Interval 
+Invariant 
+I/O 
+I/O scheduling 
+IP address 
+Irregular matrix 
+Iteration 
+Java 
+Java Database Connectivity 
+John von Neumann 
+Kernel 
+Knowledge 
+Language 
+Language construct 
+Letter 
+Lexically scoped 
+Library 
+License 
+Light-emitting diode 
+Linear pulse-code modulation 
+Linear search 
+Linguistics 
+Linked list 
+Linker 
+List 
+Loader 
+Local area network 
+Logfile 
+Logic 
+Logical conjunction 
+Logical disjunction 
+Logic design 
+Logic error 
+Logic programming 
+Lower level language 
+Machine 
+Machine code 
+Machine language 
+Machine learning 
+Machine vision 
+Mailto 
+Mail user agent 
+Main memory 
+Maintenance, repair and operations 
+Markup language 
+Massively multiplayer online game 
+Mathematical analysis 
+Mathematical expression 
+Mathematical logic 
+Mathematically 
+Mathematical model 
+Mathematical proof 
+Mathematics 
+Matrix 
+MD5 Hash 
+Media player 
+Media studies 
+Member variable 
+Memory 
+Memory address 
+Memory dump 
+Merge sort 
+Message passing 
+Metaheuristic 
+Metal 
+Metamathematics 
+Method 
+Method body 
+Method signature 
+Metropolitan area network 
+Microarchitecture 
+Microsoft 
+Microsoft Windows 
+Mind 
+Mnemonic 
+Mobile device 
+Model 
+Modem 
+Modulation 
+Module 
+Molecule 
+Monte Carlo method 
+Multi-agent system 
+Name binding 
+Natural 
+Natural environment 
+Natural language 
+Natural language generation 
+Natural language processing 
+Natural language understanding 
+Negation 
+Nervous system 
+Networking cables 
+Network switch 
+Neuroanatomy 
+Neurophysiology 
+Neuroscience 
+Node 
+Non-profit organization 
+Non-volatile memory 
+Number 
+Number theory 
+Numerical analysis 
+Numerical method 
+Object 
+Object code 
+Object file 
+Object-oriented analysis and design 
+Object oriented programming 
+Object-oriented programming 
+Open collaboration 
+Open-source license 
+Open-source model 
+Open-source software 
+Operating system 
+Operational semantics 
+Operation research 
+Operator 
+Optical fiber 
+Order of operations 
+OS/2 
+OS/360 and successors 
+Outline of computer science 
+Outline of human–computer interaction 
+P 
+Pair programming 
+Parallel computing 
+Parameter 
+Parser 
+Partitioned dataset 
+Patent 
+Peer-to-peer 
+Perception 
+Peripheral 
+Person 
+Personal computer 
+Phenomena 
+Philosophy 
+Philosophy of mind 
+Pipeline 
+Plain text 
+Pointer 
+Portmanteau 
+Postcondition 
+Power-on self-test 
+Power supply 
+Practical philosophy 
+Precondition 
+Predicate 
+Primary storage 
+Primitive data type 
+Priority queue 
+Probabilistic logic 
+Probability distribution 
+Procedural programming 
+Procedure 
+Process 
+Process control 
+Product development 
+Productivity 
+Profiling 
+Program lifecycle phase 
+Programmer 
+Programming language 
+Programming language implementation 
+Programming language theory 
+Programming paradigm 
+Program state 
+Prolog 
+Proof theory 
+Property 
+Prototype-based programming 
+Provisioning 
+Psychology 
+Public utility 
+Pure mathematics 
+Python 
+Quantum computing 
+Quantum entanglement 
+Quantum mechanics 
+Quantum superposition 
+Queue 
+Quicksort 
+R 
+Radio 
+Radix 
+Random access 
+Random-access memory 
+Raster graphics 
+Raster graphics editor 
+Read-only memory 
+Real number 
+Reasoning 
+Record 
+Rectangle 
+Recursion 
+Recursive definition 
+Redundancy 
+Reference 
+Reference counting 
+Register transfer language 
+Regression testing 
+Regulatory compliance 
+Relational database 
+Relational model 
+Reliability engineering 
+Representation 
+Requirements analysis 
+Resource 
+Resource Interchange File Format 
+Resources 
+Robotics 
+Round-off error 
+Router 
+Routing table 
+Run time 
+Sampling 
+Scheme 
+Science 
+Scope 
+Scripting language 
+Search algorithm 
+Selection sort 
+Self-organizing communities 
+Semantics 
+Sensor 
+Sequence 
+Sequence of events 
+Server 
+Service level agreement 
+Service-oriented architecture 
+Set 
+Set theory 
+Signal 
+Signal processing 
+Silica 
+Simulation 
+Singleton set 
+SI prefix 
+Social science 
+Soft computing 
+Software 
+Software agent 
+Software application 
+Software bug 
+Software construction 
+Software deployment 
+Software design 
+Software development 
+Software development process 
+Software distribution 
+Software documentation 
+Software engineering 
+Software maintenance 
+Software product management 
+Software project management 
+Software prototyping 
+Software requirements specification 
+Software testing 
+Software tool 
+Software verification and validation 
+Sorted array 
+Sorting algorithm 
+Source code 
+Source code editor 
+Speech recognition 
+Spiral model 
+Spreadsheet 
+Stack 
+State 
+Statement 
+Static variable 
+Statistical model 
+Statistical power 
+Statistics 
+Stochastic optimization 
+Stream 
+String 
+Strongly typed 
+Structured storage 
+Subroutine 
+Substring 
+Syllabary 
+Symbol 
+Symbolic computation 
+Syntax 
+Syntax error 
+System 
+System console 
+System monitoring 
+System resource 
+Systems engineering 
+System software 
+System testing 
+System utility 
+Table 
+Task parallelism 
+Technical documentation 
+Technology 
+Telecommunication 
+Telecommunications 
+Telecommunications equipment 
+Telecommunications network 
+Telephone line 
+Test plan 
+Text file 
+Theoretical chemistry 
+Theoretical computer science 
+Theory of computation 
+Third-generation programming language 
+This 
+Thread 
+Time complexity 
+Tools 
+Top-down and bottom-up design 
+Touchscreen 
+Trademark 
+Trade secret 
+Training data 
+Translator 
+Transmission medium 
+Transparency and translucency 
+Tree 
+Tree structure 
+Trial and error 
+Truth value 
+Tuple 
+Turing degree 
+Type signature 
+Type theory 
+Umbrella term 
+Unified Modeling Language 
+Uniform Resource Identifier 
+Unique key 
+Unit operation 
+Units of information 
+Unit testing 
+Upload 
+URL 
+URLs 
+Usability 
+Use case 
+User 
+User agent 
+User-centered design 
+User experience 
+User guide 
+User interface 
+User interface design 
+Value 
+Variable 
+Variable shadowing 
+Vertex 
+Video 
+Virtual machine 
+V-model 
+V-Model 
+Waterfall 
+Waterfall model 
+WAV 
+Web application 
+Web browser 
+Web crawler 
+Web indexing 
+Web page 
+Web resource 
+Web server 
+Whitelist 
+Wide area network 
+Wi-Fi 
+WiFi 
+Wi-Fi Alliance 
+Wireless LAN 
+Wireless network 
+Word processor 
+Word size 
+World Wide Web 
+Write once, run anywhere 
+Written language 
+XHTML 
+XML 
+Zero-sum game 

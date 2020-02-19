@@ -317,7 +317,6 @@ elements
 element
 there
 than
-=======
 main
 4
 fourth
@@ -402,9 +401,6 @@ equivalent
 strongly
 recommended
 must
-<<<<<<< HEAD
->>>>>>> 76a249a300b42f625c15facc9adbbf014e8a9fcb
-=======
 work
 comfortable
 reading
@@ -591,6 +587,7 @@ transportation
 telecommunications
 telecommunication
 industrial
+<<<<<<< HEAD
 >>>>>>> 1b6f81c498bfde4f4539e399f3b8445d764fba6e
 networks
 network
@@ -625,3 +622,5 @@ new
 scalability
 they
 revisit
+=======
+>>>>>>> c49679ab9f64185b9184bd6e3fc02c288872a542
