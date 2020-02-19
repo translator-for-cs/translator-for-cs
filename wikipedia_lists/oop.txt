@@ -1,0 +1,132 @@
+Abstraction
+Abstract type
+Access control
+Access modifiers
+Adapter pattern
+Aspect-oriented programming
+Attribute
+Base class
+Booting
+Bridge pattern
+Builder pattern
+Chain-of-responsibility pattern
+Class
+Class variable
+Cohesion
+Collection class
+Constructor
+Container
+Copy constructor
+Coupling
+Covariance and contravariance
+Data-driven design
+David Parnas
+Default constructor
+Delegation
+Dependency injection
+Destructor
+Dispatch table
+Dynamic dispatch
+Dynamic memory allocation
+Eigenclass model
+Encapsulation
+European Conference on Object-Oriented Programming
+Exception handling
+Facade pattern
+Factory method pattern
+Factory object
+Factory pattern
+Finalizer
+First-class function
+Fragile base class
+Function composition
+Generic programming
+God object
+Helper class
+Hierarchy
+Immutable object
+Information hiding
+Inheritance
+Inline expansion
+Inner class
+Instance
+Instance variable
+Interface
+Inversion of control
+Iterator
+Java Native Interface
+Late binding
+Liskov substitution principle
+Member variable
+Member visibility
+Message passing
+Metaclass
+Metaprogramming
+Method
+Mixin
+Mock object
+Model–view–controller
+Modular programming
+Multi-paradigm programming language
+Multiple dispatch
+Multiple inheritance
+Multitier architecture
+Mutable variable
+Mutator method
+Name binding
+Name mangling
+Namespace
+Object
+Object composition
+Object copy
+Object-oriented programming
+Object slicing
+Object type
+OOPSLA
+Open/closed principle
+Operator overloading
+Orthogonal
+Partial class
+Policy-based design
+Primitive data type
+Programming paradigm
+Protocol
+Prototype-based programming
+Prototype pattern
+Rapid application development
+Rapid prototyping
+Recursion
+Refinement
+Reflection
+Responsibility-driven design
+Run-time type information
+Scope
+Single responsibility principle
+Singleton pattern
+Singly rooted hierarchy
+Software design pattern
+Software extension
+SOLID
+Specification class
+Stack-based memory allocation
+Strongly-typed programming language
+Subclass
+Substitutability
+Subtype
+Superclass
+Template method pattern
+Test-driven development
+Trait
+Type conversion
+Type polymorphism
+Type system
+Unified Modeling Language
+Virtual class
+Virtual function
+Virtual function pointer
+Virtual inheritance
+Virtual method table
+Viscosity
+Void type
+Weak reference
+Yo-yo problem

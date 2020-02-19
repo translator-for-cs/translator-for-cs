@@ -1,0 +1,382 @@
+Abstract data type
+Access token
+Acorn MOS
+Airline Control Program
+Algebraic data type
+AmigaOS
+AmigaOS 4
+AmigaOS versions
+Amiga Unix
+AMSDOS
+Android
+Apple DOS
+Apple GS/OS
+Apple II
+Apple III
+Apple Lisa
+Apple MessagePad
+Apple Network Server
+Apple Pascal
+Apple SOS
+Apple TV
+Apple Watch
+Application programming interface
+Arbitrary-precision arithmetic
+A/ROSE
+Array data type
+Arthur
+ARX
+Associative array
+Atari DOS
+Atari TOS
+AudioOS
+A/UX
+BeIA
+BeOS
+Berkeley Software Distribution
+BESYS
+Bfloat16 floating-point format
+Bit
+Bit array
+Boolean data type
+Booting
+BOS/360
+Bottom type
+Burroughs MCP
+Bus error
+Byte
+Cache
+CDC Kronos
+CDC SCOPE
+Central processing unit
+Character
+Chippewa Operating System
+Chrome OS
+Chromium OS
+Class
+Classic Mac OS
+Cloud computing
+Command-line interface
+Comparison of operating systems
+Compatible Time-Sharing System
+Complex data type
+Computer
+Computer multitasking
+Computer network
+Computer program
+Computer science
+Computer system
+Computing
+Concurrency
+Concurrency control
+Concurrent CP/M
+Concurrent CP/M-68K
+Concurrent CP/M 8-16
+Concurrent CP/M-86
+Concurrent DOS
+Concurrent DOS 286
+Concurrent DOS 386
+Concurrent DOS 386/MGE
+Concurrent DOS 68K
+Concurrent DOS 8-16
+Concurrent DOS XM
+Concurrent PC DOS
+Container
+Context switch
+Contiki
+Convergent Technologies Operating System
+Copland
+Cosmos
+CP-40
+CP-67
+CP/CMS
+CP/M
+CP/M-68K
+CP/M-8000
+CP/M-86
+CP/M-86 Plus
+CP/M Plus
+Cromemco DOS
+Cromix
+Cron
+Daemon
+Dano
+Darwin
+Data General AOS
+Data General RDOS
+Datapac Multiuser DOS
+Datapac System Manager
+Data processing
+Data structure
+DEC BATCH-11/DOS-11
+Decimal data type
+Defragmentation
+Dependent type
+Device driver
+Device file
+DG/UX
+Disk partitioning
+Domain/OS
+DOS
+DOS/360 and successors
+DOS/VS
+DOS/VSE
+Double-precision floating-point format
+DR-DOS
+EComStation
+Electronic component
+Enumerated type
+Eucalyptus
+Exception handlin
+Exokernel
+Extended precision
+File attribute
+Fixed-point arithmetic
+Fixed-priority pre-emptive scheduling
+FlexOS
+FlexOS 186
+FlexOS 286
+FlexOS 68K
+Floating-point arithmetic
+Forensic software engineering
+Function type
+General Comprehensive Operating System
+Generalized algebraic data type
+General protection fault
+Generic programming
+Genode
+GM-NAA I/O
+GNO/ME
+GNU
+Goobuntu
+Google Fuchsia
+Graphical user interface
+Green Hills Software
+Haiku
+Half-precision floating-point format
+Hardware abstraction
+Harmony OS
+HDOS
+HeartOS
+Heathkit H11
+History of operating systems
+Hobbyist operating system development
+Honeywell CP-6
+HP Multi-Programming Executive
+HP-UX
+Hybrid kernel
+IBM 1130
+IBM 1800
+IBM 7090/94 IBSYS
+IBM 8100 DPCX
+IBM 8100 DPPX
+IBM AIX
+IBM i
+IBM Series/1
+IBM System/3
+Illumos
+IMS Multiuser DOS
+IncludeOS
+Inductive type
+Inferno
+Inode
+Input/output
+Integer
+Integrity
+INTEGRITY-178B
+Interface
+Inter-process communication
+Interrupt
+Intersection type
+Interval arithmetic
+Intuitionistic type theory
+IOS
+IPad
+IPadOS
+IPhone
+IPod
+IPod software
+Ipod touch
+ISIS
+Journaling file system
+Kernel
+Kind
+Light-weight process
+Linux
+Linux on IBM Z
+List
+List of important publications in computer science
+List of operating systems
+List of technology terms
+Live CD
+Live USB
+Loadable kernel module
+Lock
+Login session
+Long double
+Macintosh
+MacOS
+MacOS Server
+Memory address
+Memory protection
+Metaclass
+Metaobject
+Microkernel
+Microsoft Windows
+Minifloat
+MINIX
+MkLinux
+Monolithic kernel
+MorphOS
+MP/M
+MP/M 8-16
+MP/M-86
+MP/M II
+Multics
+Multilevel feedback queue
+MultiTOS
+Multi user
+Multiuser DOS
+MUSIC/SP
+Mutual exclusion
+MVS
+Natural user interface
+Nemesis
+Newton OS
+NeXTSTEP
+NonStop
+NOS
+Null-terminated string
+Object
+Octuple-precision floating-point format
+Opaque data type
+OpenVMS
+Operating system
+Operating system advocacy
+Operating System Embedded
+Option type
+ORVYL and WYLBUR
+OS/2
+OS/2 Warp
+OS/360 and successors
+OS/390
+OS/8
+OS-9
+OSv
+Paging
+PalmDOS
+Parallel computing
+Parametric polymorphism
+PC DOS
+Personal CP/M
+Phoenix
+Physical address
+Pick operating system
+Plan 9 from Bell Labs
+Power-on self-test
+Preboot Execution Environment
+Preemption
+Primitive data type
+Process
+Process control block
+Processing
+ProDOS
+Product type
+Protection ring
+Protocol
+QNX
+Quadruple-precision floating-point format
+Race condition
+Rational data type
+ReactOS
+Real-Time Multiprogramming Operating System
+Real-time operating system
+Record
+Recursive data type
+Reference
+Refinement type
+Rhapsody
+RISC iX
+RISC OS
+Round-robin scheduling
+RSTS/E
+RSX-11
+RT-11
+Rump kernel
+Scheduling
+Segmentation fault
+Semaphore
+Set
+SHARE Operating System
+Shell
+Shortest job next
+Signedness
+Single-precision floating-point format
+Software
+Solaris
+Stream
+String
+Subtyping
+SymbOS
+Synchronization
+Tagged union
+Taligent
+TENEX
+Ternary numeral system
+Text-based user interface
+Thread
+Timeline of operating systems
+Time-sharing
+TOPS-10
+TOPS-20
+Top type
+TOS/360
+Towns OS
+Transaction Processing Facility
+TRIPOS
+Tru64 UNIX
+TSS/360
+TvOS
+Type class
+Type constructor
+Type conversion
+Type system
+Type theory
+Udev
+Ultrix
+Unikernel
+Union type
+Unit type
+University of Michigan Executive System
+Unix
+Usage share of operating systems
+User
+User space
+UTS
+Variable
+VCloud
+Virtual address space
+Virtual file system
+Virtual machine
+Virtual memory
+Virtual tape library
+Visi On
+Vkernel
+VM
+VM/370
+Voice user interface
+Void type
+VS/9
+VSE/ESA
+VSE/SP
+WAITS
+WatchOS
+WebOS
+Word
+Xerox 500 series
+Xinu
+XTS-400
+Zooming user interface
+Z/OS
+Z/VM
+Z/VSE
