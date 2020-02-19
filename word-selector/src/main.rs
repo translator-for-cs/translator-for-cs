@@ -48,8 +48,8 @@ fn main() {
             .filter(|x| x != &"")
             .collect();
 
-        // If the blacklist or the whitelist contains the word already, skip it
-        if blacklist.contains(word) {
+        // If the blacklist or the todo list contains the word already, skip it
+        if blacklist.contains(word) || unknown_list.contains(word) {
             continue;
         }
 
@@ -204,6 +204,9 @@ pub fn read_string(stdin: &mut AsyncReader, stdout: &mut RawTerminal<StdoutLock>
     let mut keys = stdin.keys();
     loop {
         if let Some(k) = keys.next() {
+            Key::Ctrl('c') => {
+                std::process::exit(0);
+            }
             match k.unwrap() {
                 Key::Char('\n') => return tl,
                 Key::Char(n) => {

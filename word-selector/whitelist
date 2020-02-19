@@ -100,6 +100,7 @@ example_N,exempel_N
 free_N,fri_N
 virtual_A,virtuell_A
 address_V2,adressera_V2
+<<<<<<< HEAD
 address_N,adress_Nknowledge_N,kunskap_N
 linear_A,linjär_A
 algebra_N,algebra_N
@@ -148,3 +149,22 @@ lecture_N,föreläsning_N
 article_N,artikel_N
 university_N,universitet_N
 element_N,element_N
+=======
+address_N,adress_Nprogramming_N,programmering_N
+model_N,modell_N
+processor_N,processor_N
+core_N,kärna_N
+chip_N,chip_N
+share_V2,dela_V2
+thread_N,tråd_N
+resource_N,resurs_N
+project_N,projekt_N
+document_V2,dokumentera_V2
+scientific_A,vetenskaplig_A
+literature_N,litteratur_N
+session_N,session_N
+sequence_N,sekvens_N
+lab_N,labb_N
+methodology_N,metodologi_N
+systematically_Adv,systematisk_Adv
+>>>>>>> 76a249a300b42f625c15facc9adbbf014e8a9fcb
