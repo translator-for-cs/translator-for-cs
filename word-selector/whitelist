@@ -149,7 +149,6 @@ lecture_N,föreläsning_N
 article_N,artikel_N
 university_N,universitet_N
 element_N,element_N
-=======
 address_N,adress_Nprogramming_N,programmering_N
 model_N,modell_N
 processor_N,processor_N
@@ -167,9 +166,6 @@ sequence_N,sekvens_N
 lab_N,labb_N
 methodology_N,metodologi_N
 systematically_Adv,systematisk_Adv
-<<<<<<< HEAD
->>>>>>> 76a249a300b42f625c15facc9adbbf014e8a9fcb
-=======
 assembly_N,assembly_N
 language_N,språk_N
 sustainability_N,hållbarhet_N
@@ -212,4 +208,3 @@ context_N,kontext_N
 transportation_N,transportering_N
 telecommunication_N,telekommunikation_N
 industrial_A,industriell_A
->>>>>>> 1b6f81c498bfde4f4539e399f3b8445d764fba6e
