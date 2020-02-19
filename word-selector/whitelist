@@ -100,7 +100,6 @@ example_N,exempel_N
 free_N,fri_N
 virtual_A,virtuell_A
 address_V2,adressera_V2
-<<<<<<< HEAD
 address_N,adress_Nknowledge_N,kunskap_N
 linear_A,linjär_A
 algebra_N,algebra_N
@@ -208,6 +207,7 @@ context_N,kontext_N
 transportation_N,transportering_N
 telecommunication_N,telekommunikation_N
 industrial_A,industriell_A
+<<<<<<< HEAD
 planning_N,planering_N
 hardware_N,hårdvara_N
 property_N,egenskap_N
@@ -230,3 +230,20 @@ graph_N,graf_N
 separate_V2,åtskilja_V2
 list_N,lista_N
 scale_N,skala_N
+=======
+network_N,nätverk_N
+communication_N,kommunikation_N
+protocol_N,protokoll_N
+stack_N,stack_N
+internet_N,internet_N
+distribute_V2,distribuera_V2
+service_N,tjänst_N
+summarize_V2,summera_V2
+introduce_V2,introducera_V2
+development_N,utveckling_N
+setting_N,inställning_N
+link_N,länk_N
+limit_V2V,gräns_V2V
+bandwidth_N,bandbredd_N
+scalability_N,skalbarhet_N
+>>>>>>> 33b5132785221510df8753d01a8656d0824d1dd9
