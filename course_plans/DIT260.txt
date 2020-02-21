@@ -1,0 +1,29 @@
+Course specific prerequisites
+To be eligible for the course, students should have successfully completed two years of an education aimed at a degree within Computer Science or equivalent. The courses TDA452 Functional programming, TMV210 Introduction to discrete mathematics and at least one of the courses DAT151 Programming language technology or DAT121 Programming paradigms or equivalent are required.
+
+Notions: Abstract syntax tree, semantics, interpreter, compiler. Algorithms, complexity, divide-and-conquer. Induction proofs and simple logic, equality reasoning.
+
+It is recommended, but not required, to read the following courses beforehand: Algorithms and ("Logic in computer science" or "Finite automata theory and formal languages").
+
+Aim
+The aim of the course is to explore the powerful mechanisms that functional programming languages offer to solve real problems and structure larger programs. The focus lies on library design and the concept of embedded languages.
+
+Learning outcomes (after completion of the course the student should be able to)
+- design embedded domain specific languages (EDSLs)
+-- explain and exemplify (abstract) syntax, semantics
+-- implement EDSLs in Haskell (as combinator libraries)
+- read, understand and extend Haskell programs which use advanced type system features
+-- type classes
+-- (generalized) algebraic datatypes
+-- functors, monads and monad transformers
+- use specification based development techniques
+-- formulate and test properties about the program
+-- reason about correctness of functional programs
+-- transform programs on the basis of such reasoning
+- explain and discuss the above topics
+
+Content
+The big advantage with functional languages is that language constructions can be given names and thereby reused, using higher order functions. Functional programs can therefore often be constructed by composing constructions from a library. This method enables a way to construct programs quickly and with a high degree of correctness. This is the central idea in this course.
+We can learn a lot from studying the standard library of list functions such as map, fold and so on. These functions can be generalised to operate on other datatypes.
+Realistic functional programs must also handle changes in state, exceptions, backtracking and other "non-functional" behaviours. We will look at how these can be modelled in a purely functional manner. The concept of "monads" will help us here.
+Armed with this knowledge we will construct domain specific libraries, designed to construct programs in a certain application domain. This type of library can be said to define a domain specific language, since the constructions the programmer uses to construct larger programs mainly consists of library functions. We will study libraries for parsing, pretty printing, graphics, pseudo-parallel programming and interaction. The course will also present some recent research which can make the contents of the course vary to some degree. The programming language used in the course is Haskell.
