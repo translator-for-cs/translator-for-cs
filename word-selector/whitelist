@@ -408,3 +408,11 @@ construction_N,konstruktion_N
 construct_V2,konstruera_V2
 quick_A,snabb_A
 exception_N,undantag_N
+cryptography_N,kryptografi_N
+security_N,säkerhet_N
+implementation_N,implementering_N
+vulnerability_N,sårbarhet_N
+permutation_N,permutation_N
+cipher_N,skiffer_N
+cryptanalysis_N,kryptanalys_N
+symmetric_A,symmetrisk_A
