@@ -1,0 +1,1366 @@
+100BASE-FX
+100BASE-T
+100BASE-TX
+100BaseVG
+10BASE2
+10BASE5
+10BASE-F
+10BASE-FB
+10BASE-FL
+10BASE‑FP
+10BASE-T
+2B1Q
+2NF
+3GPP
+3GPP2
+3NF
+3rd Generation Partnership Project
+3rd Generation Partnership Project 2
+4B5B
+4NF
+5NF
+6NF
+802.11
+8b/10b encoding
+AAA protocol
+Abstract data type
+Abstract semantic graph
+Abstract Syntax Notation One
+Abstract syntax tree
+Abstract Window Toolkit
+Accelerated Graphics Port
+Access control list
+Access list
+Access method
+Access time
+ACID
+Acknowledge character
+Acoustic coupler
+Acronym With Four Letters
+Active current loop
+Active Directory
+Active hub
+Active-matrix liquid crystal display
+Active monitor
+Active Server Pages
+Active terminator
+ActiveX Data Objects
+Actor-Based Concurrent Language
+Adaptive equalizer
+Adaptive replacement cache
+Address Resolution Protocol
+Address space layout randomization
+Administrative domain
+Adobe Flash
+Advanced Audio Coding
+Advanced Computing Environment
+Advanced Configuration and Power Interface
+Advanced Data Communication Control Procedures
+Advanced Encryption Standard
+Advanced Linux Sound Architecture
+Advanced Message Queuing Protocol
+Advanced Micro Devices
+Advanced Programmable Interrupt Controller
+Advanced Research Projects Agency
+Advanced RISC Computing
+Advanced Technology Attachment
+Ajax
+ALGOL
+Algorithmic state machine
+Allowed cell rate
+Alternating current
+American National Standards Institute
+American Registry for Internet Numbers
+AMOLED
+Amplitude modulation
+Amsterdam Compiler Kit
+Analog-to-digital converter
+Anisotropic filtering
+ANSI escape code
+Antivirus software
+Apache Ant
+Apache Portable Runtime
+APL
+Apple Desktop Bus
+Apple Display Connector
+Apple Filing Protocol
+Apple Inc.
+Apple Lossless Audio Codec
+AppleTalk
+Apple Worldwide Developers Conference
+Application binary interface
+Application Layer
+Application programming interface
+Application service provider
+Application-specific integrated circuit
+Area Border Router
+Arithmetic logic unit
+ARM Holdings
+AROS Research Operating System
+.arpa
+ARPANET
+Artificial intelligence
+Artificial neural network
+ASCII
+ASIMO
+Aspect-oriented programming
+Association for Computing Machinery
+Asymmetric digital subscriber line
+Asymmetric multiprocessing
+Asynchronous Balanced Mode
+Asynchronous transfer mode
+ATA over Ethernet
+AT Attachment
+ATM adaptation layer
+Attenuation to crosstalk ratio
+Attribute-Based Access Control
+Audio/modem riser
+Audio Video Interleave
+AuthIP
+AuthN
+Authoring Tool Accessibility Guidelines
+AuthZ
+Automated Classification of Medical Entities
+Automated Security Enhancement Tool
+Automatic baud rate detection
+Automatic call distributor
+Available Bit Rate
+Average bitrate
+AWK
+Back-side bus
+Bandwidth
+Baseband processor
+Bash
+BASIC
+Basic Multilingual Plane
+Basic telecommunications access method
+BEEP
+Berkeley Open Infrastructure for Network Computing
+Berkeley Software Distribution
+Bidirectional Forwarding Detection
+Bi-directional text
+BINAC
+Binary-coded decimal
+Binary file
+Binary File Descriptor library
+Binary large object
+BIND
+BIOS
+Bipolar junction transistor
+Bit
+Bit error ratio
+Bit rate
+BitTorrent
+Block availability map
+Blog
+Blue Screen of Death
+Bluetooth
+BNC connector
+Boot Configuration Data
+Bootstrap Protocol
+Border Gateway Protocol
+Boyce–Codd normal form
+BPDU
+Breadth-first search
+Bring your own device
+.bss
+Bulletin board system
+Business Continuity
+Business intelligence
+Business Process Execution Language
+Business Process Management
+Business process modeling
+Business Readiness Rating
+Business reference model
+Business rule management system
+Business Software Alliance
+Business-to-business
+Business-to-consumer
+Business-to-employee
+Byte
+Byte order mark
+Byzantine fault tolerance
+Capability Maturity Model Integration
+CAPTCHA
+CAP theorem
+Carriage return
+Carrier sense multiple access with collision detection
+Cascading Style Sheets
+Cathode ray tube
+CD-R
+CD-ROM
+CD-RW
+Cell
+Central processing unit
+Challenge-handshake authentication protocol
+Characters Per Second
+Chief information officer
+Cisco Discovery Protocol
+CJK characters
+CJKV
+Classless Inter-Domain Routing
+Client-to-client protocol
+Closed source
+Close to Metal
+Cloud service provider
+CMOS
+CNC
+COBOL
+Code division multiple access
+Color Graphics Adapter
+Command-line interface
+Comma-separated values
+Commercial off-the-shelf
+Committed information rate
+Common Desktop Environment
+Common Gateway Interface
+Common Information Model
+Common Language Runtime
+Common Object Request Broker Architecture
+Common Public Radio Interface
+Common System Interface
+Communicating sequential processes
+Communications and Networking Riser
+Compact Disc
+Compact Disk File System
+Compact Flash
+Compatibility Support Module
+Compatible Time-Sharing System
+Compile time function execution
+Complex instruction set computer
+Component Object Model
+Computational fluid dynamics
+Computationally Independent Model
+Computation tree logic
+Computed axial tomography
+Computer-aided design
+Computer-aided engineering
+Computer-aided industrial design
+Computer-aided manufacturing
+Computer-aided quality
+Computer-aided software engineering
+Computer architecture
+Computer-assisted translation
+Computer Emergency Response Team
+Computer-generated imagery
+Computer graphics
+Computer memory
+Computer reservations system
+Computer science
+Computer Science and Engineering
+Computer security
+Computer telephony integration
+Computer terminal
+Concurrent Versions System
+Configuration management
+Configuration management database
+Consumer Electronics Show
+Content delivery network
+Content management
+Content management system
+Content Scramble System
+Context-free grammar
+Continuous data protection
+Control flow graph
+Coordinated Universal Time
+CPAN
+CP/M
+Create, read, update and delete
+Cross-platform
+Cross-site request forgery
+Cross-site scripting
+Cryptographic Next Generation
+Cryptography Next Generation
+CTAN
+Current Mode of Operation
+Customer Experience
+Customer relationship management
+Cyclic redundancy check
+Cylinder-head-sector
+Daemon
+DARPA
+Data access object
+Data Access Objects
+Database
+Database Abstraction Layer
+Database administrator
+Database management system
+Database Source Name
+Data Control Language
+Data Definition Language
+Data Encryption Standard
+Data flow diagram
+Datagram Congestion Control Protocol
+Data Integrity Field
+Data loss protection
+Data Manipulation Language
+Data set
+Data terminal equipment
+Data Warehouse
+DBCS
+DCC Alliance
+DDoS
+DDR SDRAM
+Dead on arrival
+Deep packet inspection
+Deferred Procedure Call
+Definitive Media Library
+Denial-of-service attack
+Dennis Ritchie
+Depth-first search
+Desktop computer
+Desktop publishing
+Desktop virtualization
+Deterministic finite automaton
+Deutsches Institut für Normung
+/dev
+Digital Audio Tape
+Digital Equipment Corporation
+Digital Living Network Alliance
+Digital Millennium Copyright Act
+Digital rights management
+Digital signal processor
+Digital Signature Algorithm
+Digital subscriber line
+Digital subscriber line access multiplexer
+Digital-to-analog converter
+Digital video recorder
+Digital Visual Interface
+DIMM
+Direct Access Recovery
+Direct Attached Storage
+Direct Client-to-Client
+Direct Media Interface
+Direct memory access
+Directory Access Protocol
+Direct Rendering Infrastructure
+Direct Rendering Manager
+Disaster recovery
+Discretionary access control
+DISM
+Distributed Component Object Model
+Distributed Control System
+Distributed file system
+DIVX
+DMZ
+DNS DHCP IP Address management
+DOCSIS
+Document Object Model
+Document Schema Definition Languages
+Document Style Semantics and Specification Language
+Document Type Definition
+DomainKeys Identified Mail
+Domain Name System
+Domain-specific language
+DOS
+DOS Protected Mode Interface
+Dot pitch
+Dots per inch
+Double density
+Download
+Drag-and-drop
+DR-DOS
+Dual in-line package
+Dublin Core
+DVD
+DVD-R
+DVD region code
+DVD-ROM
+DVD-RW
+Dworkin's Game Driver
+Dynamic Data Exchange
+Dynamic Host Configuration Protocol
+Dynamic HTML
+Dynamic-link library
+Dynamic random access memory
+Dynamic random-access memory
+Dynamic Systems Development Method
+Ecma International
+ECos
+EDVAC
+EEPROM
+EIDE
+Eight-to-fourteen modulation
+E-learning
+Electronically Stored Information
+Electronic Data Interchange
+Electronic Delay Storage Automatic Calculator
+Electronic design automation
+Electronic Frontier Foundation
+Electronic identity card
+Electronic mail
+Electrostatic discharge
+Elliptic curve cryptography
+Elm
+Emacs
+Encrypting File System
+End-of-Day
+End-of-file
+End of Message
+End of Support
+End user license agreement
+Enhanced Data Rates for GSM Evolution
+Enhanced Graphics Adapter
+Enhanced Interior Gateway Routing Protocol
+ENIAC
+Enterprise application integration
+Enterprise resource planning
+Enterprise service bus
+Enterprise Work Management
+Entity-relationship diagram
+Entity-relationship model
+EPROM
+Eric S. Raymond
+ESCON
+Estimated Time of Arrival
+Ethernet in the First Mile
+Event Tracing for Windows
+Exchange ActiveSync
+Executable and Linkable Format
+Expanded memory
+Expense and Cost Recovery System
+Explicit Congestion Notification
+Explicitly parallel instruction computing
+Extended Binary Coded Decimal Interchange Code
+Extended file system
+Extended Industry Standard Architecture
+Extended memory
+EXtended Triton Format
+Extended Unix Code
+Extended Window Manager Hints
+Extensible Application Markup Language
+Extensible Authentication Protocol
+Extensible Binary Meta Language
+Extensible Firmware Interface
+Extensible Messaging and Presence Protocol
+Extensible Stylesheet Language
+EXtensible Tag Framework
+Exterior Gateway Protocol
+External SATA
+Extract, transform, load
+Extremely low frequency
+Extreme Programming
+FAQ
+FASM
+FC-AL
+Fear, uncertainty and doubt
+Fedora Directory Server
+Fiber distributed data interface
+Fiber to the Antenna
+Fiber to the Curb
+Fiber to the home
+Fiber to the premises
+FICON
+Field-effect transistor
+Field-programmable gate array
+Field-replaceable unit
+FIFO
+Fifth-generation programming language
+File Allocation Table
+File control block
+File eXchange Protocol
+File system
+Filesystem Hierarchy Standard
+File Transfer Protocol
+Finite-state machine
+FIPS 140
+First-generation programming language
+First normal form
+Fixed Mobile Convergence
+FL
+Floating Point Systems
+Floating-point unit
+Floppy disk controller
+Floppy disk drive
+FLOPS
+Flow control
+Formatting Output Specification Instance
+FORTRAN Assembly Program
+Forward error correction
+For Your Information
+FOSDEM
+Fourth-generation programming language
+FP
+Frame check sequence
+Free and open source software
+Free Lossless Audio Codec
+Free On-line Dictionary of Computing
+Free Software Foundation
+Frequency-division multiple access
+Frequency-division multiplexing
+Front-side bus
+Fsck
+FTP over SSH
+Fully Buffered DIMM
+Fully qualified domain name
+Future Mode of Operation
+FVEK
+Garbage In, Garbage Out
+Gate array
+General Inter-ORB Protocol
+General Packet Radio Service
+Geographic information system
+Geography Markup Language
+GERAN
+Gigabit
+Gigabyte
+GIMP
+Globalization
+Globally Unique Identifier
+GNOME
+GNU
+GNU Assembler
+GNU Compiler Collection
+GNU Compiler for Java
+GNU Debugger
+GNU Free Documentation License
+GNU General Public License
+GNU GRUB
+GNU Hurd
+GNU Lesser General Public License
+GNU Privacy Guard
+GOMS
+Google Web Toolkit
+GPGPU
+GPIB
+GPUTILS
+Graphical user interface
+Graphics Device Interface
+Graphics Interchange Format
+Graphics processing unit
+Graph theory
+Great Internet Mersenne Prime Search
+Group coded recording
+GSM
+GTK+
+GUID Partition Table
+H.264/MPEG-4 AVC
+Hard disk drive
+Hardware abstraction layer
+Hardware compatibility list
+Hardware description language
+HD DVD
+HDMI
+HECI
+Hertz
+Hewlett-Packard
+Hierarchical File System
+Hierarchical storage management
+Hierarchical temporal memory
+High availability
+High density
+High frequency
+High memory area
+High-performance computing
+High Performance File System
+High-Speed Downlink Packet Access
+High-throughput computing
+Holographic Versatile Disc
+Host adapter
+Houston Automatic Spooling Priority
+HTML
+HTML Application Rapid Development
+HTTP Live Streaming
+HTTPS
+Human–computer interaction
+Human interface device
+Human interface guidelines
+Hybrid drive
+Hyperlink
+Hypertext Transfer Protocol
+Hyper-threading
+HyperTransport
+Hypervisor
+I²C
+I²S
+IaaS
+IBM
+IBM Airline Control Program
+IBM AIX
+IBM Basic assembly language
+IBM Common User Access
+IBM General Parallel File System
+IBM High-Level Assembler
+IBM Monochrome Display Adapter
+IBM PC DOS
+IBM Personal Computer/AT
+IBM Personal System/2
+IBM RPG
+IBM Systems Network Architecture
+ICANN
+IDL
+I Have No Mouth, and I Must Scream
+In-circuit emulator
+Independent hardware vendor
+Independent software vendor
+Industry Standard Architecture
+Information security
+Information systems
+Information technology
+Information Technology Infrastructure Library
+Infrared Data Association
+Initial Program Load
+Input method editor
+Input/output
+Instant messaging
+Institute of Electrical and Electronics Engineers
+Instruction set
+Instructions per second
+Integrated circuit
+Integrated development environment
+Integrated Facility for Linux
+Integrated service digital network
+Integrated services digital network
+Intel 80286
+Intel 80386
+Intel i486
+Intellectual property
+Intelligent Platform Management Interface
+Interactive Virtual Classroom
+Interactive voice response
+Interface description language
+Interior Gateway Routing Protocol
+Intermediate Data Format
+Intermediate distribution frame
+Intermediate language
+International Electrotechnical Commission
+Internationalization and localization
+Internationalized Resource Identifier
+International Organization for Standardization
+International Telecommunication Union
+Internet Assigned Numbers Authority
+Internet Cache Protocol
+Internet Connection Sharing
+Internet Control Message Protocol
+Internet Engineering Task Force
+Internet Explorer
+Internet Group Management Protocol
+Internet Information Services
+Internet Key Exchange
+Internet Message Access Protocol
+Internet Monthly Report
+Internet of Things
+Internet Printing Protocol
+Internet Protocol
+Internet Protocol Suite
+Internet Relay Chat
+Internet service provider
+Internet Storage Name Service
+Internet Storm Center
+Internetwork Packet Exchange
+Interprocedural optimization
+Inter-process communication
+Interrupt
+Interrupt handler
+Interrupt request
+Interval temporal logic
+Intrusion Countermeasures Electronics
+Intrusion detection system
+Intrusion prevention system
+I/O Controller Hub
+I/O request packet
+IP address management
+IPsec
+IPS panel
+IPTV
+IPv4
+IPv6
+ISAM
+ISATAP
+ISCSI
+IS-IS
+ISPF
+IT Networking Services
+Jackson Structured Programming
+Java API for XML-based RPC
+Java API for XML Processing
+Java Architecture for XML Binding
+Java Community Process
+Java Cryptography Extension
+Java Database Connectivity
+Java Desktop System
+Java Development Kit
+Java Foundation Classes
+Java Management Extensions
+Java Message Service
+Java Naming and Directory Interface
+Java Native Interface
+Java Platform, Enterprise Edition
+Java Platform, Micro Edition
+Java Platform, Standard Edition
+Java remote method invocation
+Java Runtime Environment
+JavaScript
+JavaServer Pages
+Java Virtual Machine
+JBOD
+JFET
+JFS
+Jini
+Job Control Language
+Job Entry Subsystem 2/3
+Joint Test Action Group
+JPEG
+JSON
+Just-in-time compilation
+KDE
+Keyboard
+Kibibyte
+Kilobit
+Kilobyte
+Kilohertz
+Knowledge base
+KRL
+KVM switch
+LAMP
+Land Grid Array
+LAN Manager
+Large Scale Integration
+Layer 2 Tunneling Protocol
+Least Cost Routing
+Least Recently Used
+Least significant bit
+Lempel–Ziv–Welch
+Library
+LIFO
+Light-emitting diode
+Lightweight Directory Access Protocol
+LILO
+Linear temporal logic
+Line feed
+Link Aggregation Control Protocol
+Linux From Scratch
+Linux kernel mailing list
+Linux Professional Institute
+Linux Standard Base
+Linux User Group
+Liquid crystal display
+Liquid crystal on silicon
+Lisp
+Load balancing
+Local area network
+Logical block addressing
+Logical Unit Number
+Logical volume management
+Long Term Evolution
+Low frequency
+Low insertion force
+Low-voltage differential signaling
+LPC
+Machine translation
+Magnetic ink character recognition
+Mail delivery agent
+Mail submission agent
+Mail User Agent
+Main distribution frame
+Management information base
+Management information system
+Mandatory access control
+Man-machine interface
+Massachusetts Institute of Technology
+Massively multiplayer online role-playing game
+Master boot record
+Material Exchange Format
+Maximum transmission unit
+MCDBA
+Media Access Control
+Media Gateway Control Protocol
+Medium frequency
+Megabit
+Megabyte
+Megahertz
+Memory management unit
+Memory-mapped I/O
+Message-oriented middleware
+Message Signaled Interrupts
+Message transfer agent
+Messaging Application Programming Interface
+Metaobject protocol
+Metropolitan area network
+Micro Channel architecture
+Microprocessor
+Microsoft
+Microsoft Certified Professional
+Microsoft Developer Network
+Microsoft Edge
+Microsoft Foundation Class Library
+Microsoft Management Console
+Microsoft Most Valuable Professional
+Microsoft Network
+Million instructions per second
+MIMD
+MIME
+MIMO
+Minimum bounding box
+MINIX
+MIPS architecture
+MISD
+MMX
+Mobile ad hoc network
+Mobile World Congress
+Model-based design
+Model-driven architecture
+Model-driven software development
+Model–view–controller
+Modified Frequency Modulation
+MOO
+Mortality Medical Data System
+MOSFET
+Most significant bit
+Motd
+Motherboard
+Motion Picture Association of America
+Moving Picture Experts Group
+Mozilla Public License
+MS-DOS
+MTBF
+MUD
+Multi-byte character set
+Multichannel Multipoint Distribution Service
+Multi-factor authentication
+Multi-mode optical fiber
+Multiple Channels Per Carrier
+Multiple document interface
+Multiple-image Network Graphics
+Multiprotocol Label Switching
+Musical Instrument Digital Interface
+MVS
+MX record
+Name Service Switch
+NaN
+National Center for Supercomputing Applications
+National Institute of Standards and Technology
+National Instruments
+Native Command Queuing
+Native POSIX Thread Library
+Natural language processing
+Near end crosstalk
+Near field communication
+Negative-acknowledge character
+NetBIOS
+NetBIOS over TCP/IP
+Netscape
+Netscape Portable Runtime
+Netscape Public License
+NetWare Core Protocol
+Netwide Assembler
+Network Access Protection
+Network access server
+Network address translation
+Network-attached storage
+Network Driver Interface Specification
+Network Equipment Provider
+Network File System
+Network interface controller
+Network News Transfer Protocol
+Network operating system
+Network operations center
+Network Processing Unit
+Network Security Appliance
+Network Security Services
+Network Service Interface
+Network Time Protocol
+Network Video Recorder
+Newline
+Next-Generation Secure Computing Base
+No Internal Message
+Non-blocking I/O
+Nondeterministic finite automaton
+Non-maskable interrupt
+Non-Uniform Memory Access
+Non-uniform rational B-spline
+Non-volatile random access memory
+NOP
+Novell Directory Services
+Novell Embedded Systems Technology
+Novell Storage Services
+NP
+NTFS
+NTLM
+OASIS
+Object identifier
+Object Linking and Embedding
+Object Management Group
+Object-oriented programming
+Object-relational mapping
+Object request broker
+OBSAI
+One Laptop per Child
+Online analytical processing
+Online transaction processing
+Open and Free Technology Community
+Open Database Connectivity
+Open Enterprise Server
+OpenGL Utility Toolkit
+OpenOffice.org
+Open Shortest Path First
+Open Sound System
+Open Source Initiative
+Open source software
+Open-source software
+Open Source Technology Group
+Open Systems Interconnection
+Open Watcom Assembler
+Open XML Paper Specification
+Operating system
+Operational Acceptance Testing
+Operations support system
+OPML
+Optical disc recording modes
+Optical Mark Recognition
+O'Reilly Open Source Convention
+Organic light-emitting diode
+Organizationally Unique Identifier
+Original equipment manufacturer
+Orthogonal Frequency Division Multiplexing
+OSDN
+Out of memory
+Out-of-order execution
+Out of the box
+Parallel ATA
+Parallel port
+PARC
+Password authentication protocol
+PCI Express
+PCI Extended
+PCI eXtensions for Instrumentation
+Peer Name Resolution Protocol
+Peer-to-peer
+Peripheral Component Interconnect
+Peripheral Gateway
+Perl
+Perl Compatible Regular Expressions
+Persistent Object Identifier
+Personal area network
+Personal computer
+Personal Computer Memory Card International Association
+Personal digital assistant
+Personal information manager
+Personal video recorder
+PHP
+PIC microcontroller
+PID controller
+Pine
+Pin grid array
+Pixels per inch
+PKCS
+Plain Old Java Object
+Platform as a service
+Platform Independent Model
+Platform Specific Model
+Please Find Atachment
+Plesiochronous Digital Hierarchy
+PL/I
+PL/M
+PL/P
+Plug and play
+Point of presence
+Point-to-Point Protocol
+Point-to-Point Protocol over ATM
+Point-to-Point Protocol over Ethernet
+Point-to-point tunneling protocol
+Portable Batch System
+Portable Document Format
+Portable Network Graphics
+POSIX
+Post Office Protocol
+PostScript
+Power line communication
+Power-on self-test
+Power over Ethernet
+PowerPC
+Power supply
+Preboot Execution Environment
+Pretty Good Privacy
+Printed circuit board
+Printer Command Language
+Process control block
+Process identifier
+Professional Services Automation
+Profile-guided optimization
+Programmable Interrupt Controller
+Programmable logic controller
+Programmable logic device
+Programmed Data Processor
+Programmed input/output
+PSVI
+PTS-DOS
+Public domain
+Public key infrastructure
+Pull request
+Pulse-code modulation
+QOTD
+Qt
+Quad Data Rate SRAM
+Quad Flat Package
+Quality control
+Quality of service
+Quality Windows Audio/Video Experience
+Quarter Small Outline Package
+Queued teleprocessing access method
+QuickTime File Format
+R
+RACF
+Radio frequency
+Radio-frequency identification
+Radio frequency interference
+Radio Service Software
+RADIUS
+RAID
+Random-access memory
+Rapid application development
+Raster image processor
+Read-only memory
+Real-time business intelligence
+Real-time clock
+Real-time messaging protocol
+Real-time operating system
+Real Time Streaming Protocol
+Real-time Transport Protocol
+Recording Industry Association of America
+Red Hat Enterprise Linux
+Red Hat Linux
+Reduced instruction set computer
+Refal
+Regional Internet registry
+Regular expression
+Relational database management system
+Relational data model
+Release Candidate
+Reliability, availability and serviceability
+Relocatable Object Module Format
+Remote access service
+Remote Data Services
+Remote Desktop Connection
+Remote Desktop Protocol
+Remote desktop software
+Remote job entry
+Remote procedure call
+Remove directory
+Repetitive strain injury
+Representational State Transfer
+Request for Comments
+Resource Acquisition Is Initialization
+Resource Description Framework
+Responsive Web Design
+Reverse Address Resolution Protocol
+Revision control
+Revision Control System
+RGB color model
+Richard Stallman
+Rich Internet application
+RISC OS
+ROM-DOS
+Root Cause Analysis
+Routing and Remote Access Service
+Routing Information Protocol
+RPM Package Manager
+RS-232
+RSA
+RSS
+RTAI
+RTEMS
+RTOS
+Run commands
+Run-length encoding
+Run-length limited
+Run-time type information
+Sass
+Sbin
+SCADA
+Scalable Link Interface
+Scalable Vector Graphics
+Scalable Video Coding
+SCSI
+SDDL
+Search engine optimization
+Second-generation programming language
+Secure Content Storage Association
+Secure copy
+Secure Digital
+Secure Hash Algorithm
+Secure Shell
+Secure Sockets Layer
+Secure Socket Tunneling Protocol
+Security Account Manager
+Sender Policy Framework
+Serial ATA
+Serial attached SCSI
+Serial Bus Protocol 2
+Serial Line Internet Protocol
+Serial Peripheral Interface Bus
+Server Message Block
+Server Side Includes
+Service Delivery
+Service Level Management
+Service-oriented architecture
+Service pack
+Service set
+Session Description Protocol
+Session Initiation Protocol
+Shebang
+Shortest Path Problem
+SIGCAT
+SIGGRAPH
+Signal
+Silicon Graphics
+Silicon on insulator
+SIMD
+SIMM
+Simple API for XML
+Simple DirectMedia Layer
+Simple File Transfer Protocol
+Simple Mail Transfer Protocol
+Simple Network Management Protocol
+Simple Service Discovery Protocol
+Simultaneous multithreading
+Single channel per carrier
+Single document interface
+Single Edge Contact
+Single-ended signalling
+Single-Input and Single-Output
+Single-mode optical fiber
+Single-page application
+Single-pair high-speed digital subscriber line
+Single Sign On
+Single-system image
+Single UNIX Specification
+SISD
+Slashdot
+S-LINK
+SMA connector
+Small office/home office
+Small Scale Integration
+S/MIME
+SMS
+SNTP
+SOAP
+SO-DIMM
+Software as a service
+Software configuration management
+Software-defined radio
+Software development kit
+Software Engineering Institute
+Software project management
+SOLID
+Solid-state drive
+Source Code in Database
+Source lines of code
+SPARC
+Speech synthesis
+Spinning beachball of death
+SPMD
+SQL
+SSH file transfer protocol
+Standard Build Unit
+Standard Commands for Programmable Instruments
+Standard Generalized Markup Language
+Standard Operating Environment
+Standard Widget Toolkit
+Stateful Packet Inspection
+Static random access memory
+Static single assignment form
+Stop Online Piracy Act
+Storage area network
+Stream Control Transmission Protocol
+Streaming SIMD Extensions
+Structured VLSI design
+Su
+Subject Matter Expert
+Super Video Graphics Array
+Supplementary Ideographic Plane
+Supplementary Multilingual Plane
+Supplementary Special-purpose Plane
+SUSE Linux
+SUSE Linux Enterprise Desktop
+SUSE Linux Enterprise Server
+Switched-mode power supply
+Symbolic Optimal Assembly Program
+Symmetric digital subscriber line
+Symmetric multiprocessing
+Synchronized Multimedia Integration Language
+Synchronous Digital Hierarchy
+Synchronous dynamic random access memory
+Sysop
+System Management BIOS
+System Management Server
+System-on-a-chip
+Tcl
+Telecommunication Control Unit
+Telephony Application Programming Interface
+Terabyte
+Terminal node controller
+Terminate and Stay Resident
+Texas Instruments
+TeX Users Group
+TFTP
+The C Programming Language
+Thin-film transistor
+Third-generation programming language
+Thread-local storage
+Three-letter acronym
+TIFF
+Time-division multiple access
+Time Sharing Option
+Time to live
+TNC connector
+Top-level domain
+Transaction Processing Facility
+Transistor–transistor logic
+Transmission Control Protocol
+Transport Layer Security
+Travelling salesman problem
+TRON command
+TRON Project
+TRSDOS
+TrueType
+Trusted Platform Module
+TTA
+Tucows
+Turbo Assembler
+TWAIN
+Type-length-value
+UAAG
+UDMA
+UEFI
+Ultra high frequency
+Ultra-Mobile PC
+UMTS Terrestrial Radio Access Network
+Unicode
+Unified Modeling Language
+Uniform Resource Identifier
+Uniform Resource Locator
+Uniform Resource Name
+Uninterruptible power supply
+UNIVAC
+Universal asynchronous receiver/transmitter
+Universal Character Set
+Universal Description Discovery and Integration
+Universally Unique Identifier
+Universal Mobile Telecommunications System
+Universal Naming Convention
+Universal Serial Bus
+Universal User Name
+Universal Virtual Computer
+Universal Windows Platform
+Unshielded twisted pair
+Upload
+Upper memory area
+USB flash drive
+User Acceptance Testing
+User Account Control
+User Datagram Protocol
+User experience design
+User interface
+User-mode Linux
+/usr
+U.S. Robotics
+UUCP
+/var/run
+VAX
+VBScript
+Very high bitrate digital subscriber line
+Very high frequency
+Very-large-scale integration
+Very long instruction word
+Very low frequency
+Very small aperture terminal
+VESA
+VESA Display Power Management Signaling
+VESA Local Bus
+Video Graphics Array
+Video on demand
+Video Random Access Memory
+Virtual DOS machine
+Virtual file system
+Virtual Hard Disk
+Virtual LAN
+Virtual machine
+Virtual memory
+Virtual private network
+Virtual reality
+Virtual storage access method
+Virtual Tape Library
+Virtual telecommunications access method
+Visual Basic
+Visual Basic for Applications
+Visual Display Unit
+VLSM
+V-Model
+VNC
+Voice over Internet Protocol
+VRML
+VT100
+Wake-on-LAN
+Wake-on-ring
+Wavelength-division multiplexing
+Web Accessibility Initiative
+Web-Based Enterprise Management
+Web Content Accessibility Guidelines
+WebDAV
+Web Proxy Autodiscovery Protocol
+Web Services Description Language
+Web Services Flow Language
+Whitespace
+Wide area file services
+Wide area information server
+Wide area network
+Wi-Fi Protected Access
+WiMAX
+Windows Communication Foundation
+Windows Installer
+Windows Internet Name Service
+Windows Management Instrumentation
+Windows Me
+Windows Media Audio
+Windows Media Video
+Windows NT
+Windows Presentation Foundation
+Windows Push Notification Service
+Windows RunTime
+Windows Small Business Server
+WinFS
+Wired Equivalent Privacy
+Wireless access point
+Wireless Application Protocol
+Wireless LAN
+Wireless USB
+Wireless Wide Area Network
+Wireless Zero Configuration
+World Wide Name
+World Wide Web
+World Wide Web Consortium
+Write once, run anywhere
+WS-Discovery
+WYSIWYG
+XCBL
+X display manager
+X Display Manager
+Xerox Network Systems
+XHTML
+Xilp
+XML
+XML Accessibility Guidelines
+XML Schema
+XMMS
+XPCOM
+XPInstall
+XSL Formatting Objects
+XSL Transformations
+XUL
+XVGA
+YAAF
+Yacc
+YAML
+YaST
+Year 2000 problem
+Zero code suppression
+Zero configuration networking
+Zero insertion force
+Zero instruction set computer
+Zero One Infinity
+Zip
+Zone bit recording
+Zone Multicast Address
+Zope
+ZPL

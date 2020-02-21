@@ -1,0 +1,249 @@
+3D computer graphics
+Accelerated Graphics Port
+Accumulator
+Active cooling
+Address
+Address space
+AI accelerator
+Air cooling
+Airflow
+Allocation
+Arithmetic
+Arithmetic and logic operation
+Arithmetic/logic instruction
+Artificial neural network
+Associative cache
+ATX
+BIOS
+Blu-ray Disc
+Booting
+Bus
+Cache
+Cache coherency
+Cache control instruction
+Cache entries
+Cache eviction
+Cache hierarchy
+Cache hit
+Cache miss
+Cache misses
+Cache-only memory architecture
+Cache policy
+Cache replacement policy
+Cache thrashing
+Card reader
+Cathode ray tube
+CD-R
+CD-ROM
+CD-RW
+Channel I/O
+Chipset
+CISC processor
+Cluster
+Communications protocol
+Compute device
+Computer-aided design
+Computer case
+Computer data storage
+Computer fan
+Computer form factor
+Computer hardware
+Computer memory
+Computer monitor
+Computer network
+Computer program
+Computer storage device
+Computer system
+Computer terminal
+Control store
+Conventional PCI
+Core memory
+CPU
+CPU cache
+Data
+Data cache
+Data storage device
+DC power
+Demultiplexing
+Desktop computer
+Digital signal processor
+Digital Video Disc
+Digital Visual Interface
+DIMM
+Direct Access Storage Device
+Direct mapped cache
+Direct memory access
+Display device
+DisplayPort
+DMA channel
+Drive bay
+Dynamic random-access memory
+EEPROM
+Electrical connector
+Electromagnetic wave
+Electromechanical
+Electronic circuit
+Electronic engineering
+Electronic switch
+Electronic visual display
+Enlarge
+EPROM
+Ethernet
+Expansion bus
+Expansion card
+Fan
+Field Programmable Gate Array
+Fingers
+Firewall
+Firmware
+Fixed function unit
+Flash memory
+Flash Memory
+Floppy disk
+Floppy-disk controller
+Floppy disk drive
+Free and open-source graphics device driver
+General-purpose computer
+Graphical user interface
+Graphics hardware
+Graphics Processing Unit
+Hard disk drive
+Hardware acceleration
+Hardware device
+Harvard architecture
+High-Definition Multimedia Interface
+IBM
+Imation
+Input device
+Input/output
+Instruction
+Instruction cache
+Instructions
+Instruction set
+Instruction set architecture
+Integer
+Integrated circuit
+IOPS
+Jump drive
+Keyboard
+Laptop
+Laser light
+Latency
+LED display
+Light spectrum
+Load and store
+Load-store architecture
+Locality of reference
+Logic
+Logical operations
+Machine learning
+Machine vision
+Magnetic core memory
+Magnetic tape
+Magneto-optical drive
+Magnetoresistive random-access memory
+Mainframe computer
+Main memory
+Mains electricity
+Mask ROM
+Megabyte
+Memory access pattern
+Memory address
+Memory architecture
+Memory card
+Memory hierarchy
+Memory module
+Microcode
+Micro-operation
+Microprocessor
+Mini-VGA
+Modem
+Modified Harvard architecture
+Motherboard
+Mouse
+Movidius Myriad 2
+MultiMediaCard
+Multiplexer
+Multiprocessor system
+Network
+Network interface
+Network interface controller
+Network on a chip
+Non-volatile memory
+Non-volatile random-access memory
+NUMA
+Opcode
+OpenCL
+Operating system
+Optical disc
+Optical disc drive
+Parallel computing
+PC clone
+PCI Express
+PCI-eXtended
+Pen drive
+Peripheral
+Personal computer
+Physical addresses
+Physical memory
+Physical print media
+Power supply
+Power supply unit
+Prefetch instruction
+Prefetch unit
+Printed circuit board
+Printer
+Processor
+Programmable Array Logic
+Programmable logic
+Programmable read-only memory
+Program machine code
+Programmer
+Random-access memory
+Read
+Read-only memory
+Real time
+Redundant Array of Independent Disks
+Screen space
+Semiconductor
+Semiconductor chip
+Semiconductor device fabrication
+Sequential access
+Server
+Shader
+Single in-line memory module
+Software
+Solid-state drive
+Sound
+Sound card
+Static random-access memory
+Storage device
+Store operations
+SuperDisk
+Superscalar
+Switched-mode power supply
+Synchronous dynamic random-access memory
+System bus
+System on a chip
+Tape drive
+Tensor processing unit
+Thin film transistor liquid crystal display
+Trackpad
+Transistor
+TrueNorth
+TV tuner card
+Typewriter keyboard
+Universal Serial Bus
+Uop cache
+USB flash drive
+Video camera
+Video card
+Video Graphics Array
+Volatile memory
+Webcam
+Wireless network
+Working set
+Write back cache
+Write through cache
+X86
+Zip drive
