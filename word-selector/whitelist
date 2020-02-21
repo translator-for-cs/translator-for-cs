@@ -388,3 +388,11 @@ complex_A,komplex_A
 maintain_VS,underhålla_VS
 environment_N,miljö_N
 semaphore_N,semafor_N
+cryptography_N,kryptografi_N
+security_N,säkerhet_N
+implementation_N,implementering_N
+vulnerability_N,sårbarhet_N
+permutation_N,permutation_N
+cipher_N,skiffer_N
+cryptanalysis_N,kryptanalys_N
+symmetric_A,symmetrisk_A
