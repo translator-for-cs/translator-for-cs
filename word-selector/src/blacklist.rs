@@ -9,7 +9,7 @@ pub struct Blacklist {
 }
 
 impl Blacklist {
-  pub fn new(lang: String) -> Blacklist {
+  pub fn new(lang: &str) -> Blacklist {
     // Open file based on language since there might be
     // overlapping words between swe and eng
     let file = OpenOptions::new()
@@ -29,7 +29,11 @@ impl Blacklist {
       set.insert(line);
     }
 
-    Blacklist { lang, file, set }
+    Blacklist {
+      lang: lang.to_string(),
+      file,
+      set,
+    }
   }
 
   pub fn insert(&mut self, mut word: String) {

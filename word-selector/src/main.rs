@@ -13,6 +13,9 @@ use termion::AsyncReader;
 mod blacklist;
 use blacklist::*;
 
+mod whitelist;
+use whitelist::*;
+
 fn main() {
     // Read the input from the Tagger program
     let input = read_input_tags();
@@ -25,11 +28,15 @@ fn main() {
     let mut stdout = stdout.lock().into_raw_mode().unwrap();
 
     // Default to english for now, will change later if needed
-    let lang = String::from("eng");
-    let mut blacklist = Blacklist::new(lang);
-    let mut unknown_list = Blacklist::new("unknown".to_string());
+    let lang = std::env::args().nth(1).unwrap_or(String::from("eng"));
+    if lang != "swe" && lang != "eng" {
+        println!("Invalid language: {}", lang);
+        return;
+    }
+    let mut blacklist = Blacklist::new(&lang);
+    let mut unknown_list = Blacklist::new("unknown");
     // A file handle to the whitelist file in append mode so we won't overwrite previosu work
-    let mut whitelist_handle = open_whitelist("./whitelist");
+    let mut whitelist = Whitelist::new();
 
     for line in input.lines() {
         // Clear terminal
@@ -108,18 +115,13 @@ fn main() {
                                 tl.push_str(&word_type);
                             }
 
-                            // Writes the entry to the whitelist file
-                            whitelist_handle
-                                .write_all(
-                                    format!(
-                                        "{},{}\n",
-                                        alternatives[selected].replace(" ", "_"),
-                                        tl
-                                    )
-                                    .as_bytes(),
-                                )
-                                .expect("Could not write entry to whitelist");
-                            print!("{}\r\n", tl);
+                            let original_word = alternatives[selected].replace(" ", "_");
+                            if lang == "swe" {
+                                whitelist.insert(&original_word, &tl);
+                            } else if lang == "eng" {
+                                whitelist.insert(&tl, &original_word);
+                            }
+                            print!("\r\n");
                             blacklist.insert(word.to_string());
 
                             // Add the baseform to black list if it is not identical to
@@ -153,41 +155,6 @@ fn read_input_tags() -> String {
         .read_to_string(&mut input)
         .expect("Could not read from stdin");
     return input;
-}
-
-fn open_whitelist(path: &str) -> File {
-    let file = OpenOptions::new()
-        .create(true)
-        .append(true)
-        .read(true)
-        .open(path)
-        .expect(&format!("Could not open '{}'", path));
-
-    // Read every line from the output of the POS-tagger
-    // This might not actually be necessary... Ignore this for now!
-    /*
-    let buf = BufReader::new(file.try_clone().unwrap());
-    let mut set = HashSet::new();
-    for (index, line) in buf.lines().filter_map(|x| x.ok()).enumerate() {
-        let mut split = line.split(",");
-        let eng = split
-            .nth(0)
-            .expect(&format!("Error reading english term on line {}", index + 1))
-            .trim();
-        let swe = split
-            .nth(0)
-            .expect(&format!("Error reading swedish term on line {}", index + 1))
-            .trim();
-        if !eng.starts_with("CN") {
-            set.insert(eng.split("_").nth(0).unwrap().to_string());
-        }
-        if !swe.starts_with("CN") {
-            set.insert(swe.split("_").nth(0).unwrap().to_string());
-        }
-    }
-    */
-
-    return file;
 }
 
 pub fn read_key(stdin: &mut AsyncReader) -> Key {
