@@ -1,9 +1,9 @@
---# -path=.:alltenses:swedish
+--# -path=.:alltenses:english
 
-resource MakeTermSwe =
-  NewDictSwe,
-  ParadigmsSwe
-  ** open SyntaxSwe in {
+resource MakeTermEng =
+  DictEng,
+  ParadigmsEng
+  ** open SyntaxEng in {
 
 oper
   makeCN = overload {
@@ -14,11 +14,13 @@ oper
     makeCN : A -> A -> N -> CN                   -- virtuell privat nätverk
       = \a,b,n -> mkCN a (mkCN b n) ;            
     makeCN : N -> Prep -> N -> CN                -- sanning med modifikation
-      = \n,p,m -> mkCN n (SyntaxSwe.mkAdv p (mkNP n)) ;
+      = \n,p,m -> mkCN n (SyntaxEng.mkAdv p (mkNP n)) ;
     makeCN : N -> N -> CN                        -- data + vetenskap
-      = \m,n -> mkCN (mkN m n) ;
+      = \m,n -> mkCN (mkN (mkUtt (mkCN m)).s n) ;
     makeCN : Str -> N -> CN                      -- webb + application
       = \s,n -> mkCN (mkN s n) ;
     } ;
+
+
 
 }
