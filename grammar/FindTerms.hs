@@ -6,39 +6,47 @@ import Data.Char
 import System.Environment (getArgs)
 
 main = do
-  g:l:c:_ <- getArgs
-  pgf <- readPGF g
-  let Just eng = readLanguage l
-  let Just cat = readType c
-  let parseTermsText = mkHTML . unwords . map prTermItem . parseTerms pgf eng cat . tokenize
-  interact parseTermsText
+  xx <- getArgs
+  case xx of
+    g:l1:l2:c:[] -> do
+      pgf <- readPGF g
+      let Just eng = readLanguage l1
+      let Just swe = readLanguage l2
+      let Just cat = readType c
+      let parseText = mkHTML . unwords . map prTermItem . parseTerms pgf eng swe cat . tokenize
+      interact parseText
+    _ -> putStrLn usage
+
+usage = "runghc FindTerms <pgf> <src-lang> <target-lang> <cat>  [<input] [>output]"
 
 data TermItem =
-    TUnparsed [String]
-  | TParsed [String] [Tree]
+    TUnparsed [String]                -- segment of words not parts of a term
+  | TParsed [String] [(Tree,String)]  -- words of a term, with tree and translation
  deriving Show
 
 prTermItem :: TermItem -> String
 prTermItem ti = case ti of
   TUnparsed ss -> unwords ss
-  TParsed ss ts -> "\n" ++ tag "b" (unwords ss) ++ " (" ++tag "tt" (prt ts) ++ ")\n"
+  TParsed ss ts -> hover (unwords ss) (prt ts)
  where
-   prt ts = if null ts then "" else showExpr [] (head ts)
+   prt ts = case ts of
+     (t,s):_ -> s ++ "\n" ++ showExpr [] t
+     _ -> ""
 
-parseTerms :: PGF -> Language -> Type -> [String] -> [TermItem] 
-parseTerms pgf eng np ws = case ws of
+parseTerms :: PGF -> Language -> Language -> Type -> [String] -> [TermItem] 
+parseTerms pgf eng swe np ws = case ws of
   []   -> []
   w:ww -> case parseOne ws of
-    ParseFailed 1 -> TUnparsed [w] : parseTerms pgf eng np ww
+    ParseFailed 1 -> TUnparsed [w] : parseTerms pgf eng swe np ww
     ParseFailed n -> case splitAt (n-1) ws of
-      (ws1,ws2) -> parseMark ws1 : parseTerms pgf eng np ws2
-    ParseOk ts ->  [TParsed ws ts]
+      (ws1,ws2) -> parseMark ws1 : parseTerms pgf eng swe np ws2
+    ParseOk ts ->  [TParsed ws [(t,linearize pgf swe t) | t <- ts]]
     _ -> [TUnparsed ws]
  where
    parseOne ws = fst $ parse_ pgf eng np Nothing (unwords (map lowerCase ws))
    parseMark ws = case parse pgf eng np (unwords (map lowerCase ws)) of
      [] -> TUnparsed ws
-     ts -> TParsed ws ts
+     ts -> TParsed ws  [(t,linearize pgf swe t) | t <- ts]
 
 tokenize :: String -> [String]
 tokenize = words . unpunct
@@ -59,3 +67,6 @@ tag t s = "<"++t++">" ++ s ++ "</"++t++">"
 
 mkHTML = tag "html" . tag "body"
 
+hover shown revealed =
+  "\n<a href=\"\" style=\"background-color:#FFFFFF\" title=\"" ++
+  revealed ++ "\">" ++ shown ++ "</a>\n"

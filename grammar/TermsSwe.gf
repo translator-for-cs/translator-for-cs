@@ -18,11 +18,13 @@ lin
     | lin Utt {s = ap.s ! R.Strong R.GPl}
     ;
 
+-- example lexicon
 lin
   prerequisite_CN = makeCN "för" kunskap_1_N ;
   goal_CN = makeCN mål_1_N ;
   computer_programming_CN = makeCN "data" programmering_1_N ;
   basic_skill_CN = makeCN grundläggande_1_A färdighet_1_N ;
   relevant_AP = mkAP relevant_1_A ;
+  graphical_AP = mkAP grafisk_1_A ;
 
 }
