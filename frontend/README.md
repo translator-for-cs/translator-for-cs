@@ -1,12 +1,11 @@
-# the-survival
+# Frontend
 
 ## Project setup
 Install node, latest version is best version.
 
-Install yarn.
+Install yarn, then do.
 ```
-git clone git@github.com:toasterbag/the-survival.git
-cd the-survival
+cd frontend
 yarn install
 ```
 
