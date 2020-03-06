@@ -30,6 +30,7 @@ Vue.prototype.$api = axios.create({
 Vue.prototype.$date = import("date-fns");
 Vue.prototype.env = env;
 Vue.prototype.$toaster = toaster;
+Vue.prototype.$http = axios;
 
 new Vue({
   router,
