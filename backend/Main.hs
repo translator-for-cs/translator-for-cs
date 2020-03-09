@@ -8,12 +8,16 @@ import Web.Scotty
 import Control.Monad.IO.Class (liftIO)
 
 main :: IO ()
-main = scotty 3000 $ do
+main = do
+  -- lexicon <- readFile undefined
+  scotty 3000 $ do
   middleware simpleCors
   post "/" $ do
     liftIO $ putStrLn "Hej"
-  -- TODO
-  -- post "/translate" $ do
-  --   query <- param "query"
-  --   w <- lookup query lexicon
-  --   liftIO $ putStrLn w
+  post "/translate" $ do
+    query <- param "query"
+    -- w <- liftIO $ lookupW query lexicon
+    text query
+
+lookupW :: String -> String -> IO String
+lookupW = undefined
