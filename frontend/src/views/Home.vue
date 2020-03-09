@@ -12,7 +12,7 @@ export default {
   methods: {
     doPost() {
       this.$http
-        .post("http://localhost:3000", { word: "hello" })
+        .post("http://localhost:3000")
         .catch(console.log);
     }
   }
