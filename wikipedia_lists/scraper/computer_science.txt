@@ -1,0 +1,1326 @@
+Abstract data type, null
+Abstract method, Funktion (programmering)
+Abstraction (software engineering), null
+Agent architecture, null
+Agent-based model, Agentbaserad modell
+Aggregate function, null
+Agile software development, Agil systemutveckling
+Algorithm, Algoritm
+Algorithm design, Algoritm
+Algorithmic efficiency, null
+ASCII, ASCII
+Application programming interface, Application Programming Interface
+Application software, Tillämpningsprogram
+Array data structure, Fält (datastruktur)
+Artifact (software development), null
+Artificial intelligence, Artificiell intelligens
+Natural, Natur
+ASCII, ASCII
+Assertion (software development), null
+Associative array, null
+Automata theory, Automatteori
+Automated reasoning, null
+Bandwidth (computing), null
+Bayesian programming, null
+Benchmark (computing), null
+Best, worst and average case, null
+Big data, Big data
+Big O notation, Ordo
+Binary number, Binära talsystemet
+Binary search algorithm, Binärsökning
+Binary tree, Binärträd
+Bioinformatics, Bioinformatik
+Bit, Bit
+Bit rate, Överföringskapacitet
+Blacklist (computing), null
+BMP file format, Windows Bitmap
+Boolean data type, Boolesk datatyp
+Boolean expression, null
+Boolean algebra, Boolesk algebra
+Byte, Byte
+Booting, Bootning
+Callback (computer programming), null
+Central processing unit, Processor
+Character (computing), null
+Cipher, Krypto
+Class (computer science), Klass (programmering)
+Class-based programming, null
+Class-based programming, null
+Client (computing), Klient (datalogi)
+Cleanroom software engineering, null
+Closure (computer programming), null
+Cloud computing, Datormoln
+Library (computing), Programbibliotek
+Computer programming, Programmering
+Coding theory, Kodningsteori
+Cognitive science, Kognitionsvetenskap
+Comma-separated values, Comma-separated values
+Compiler, Kompilator
+Compiler theory, Kompilator
+Computability theory, Beräkningsteori
+Computation, null
+Computational biology, Beräkningsbiologi
+Computational chemistry, Beräkningskemi
+Computational complexity theory, null
+Computational model, null
+Computational neuroscience, null
+Computational physics, Beräkningsfysik
+Computational science, null
+Computational steering, null
+Computer, Dator
+Computer architecture, Datorarkitektur
+Computer data storage, Datorminne
+Computer ethics, IT-etik
+Computer graphics, Datorgrafik
+Computer network, Datornätverk
+Computer programming, Programmering
+Computer science, Datavetenskap
+Computer scientist, Datorforskare
+Computer security, Datasäkerhet
+Computer vision, Datorseende
+Concatenation, Konkatenering
+Concurrency (computer science), Samtidighet (datavetenskap)
+Conditional (computer programming), If-sats
+Continuation-passing style, null
+Control flow, Programflöde
+Creative Commons, Creative Commons
+Cryptography, Kryptografi
+Comma-separated values, Comma-separated values
+Cyberbullying, Nätmobbning
+Cyberspace, Cyberrymden
+Data center, Datorhall
+Database, Databas
+Data mining, Datautvinning
+Data science, null
+Data structure, Datastruktur
+Data type, Datatyp
+Debugging, null
+Declaration (computer programming), null
+Digital data, Digital
+Digital signal processing, Digital signalbehandling
+Discrete event simulation, null
+Disk storage, null
+Distributed computing, Distributed computing
+Divide and conquer algorithm, null
+Domain Name System, Domännamnssystemet
+Software documentation, null
+Domain Name System, Domännamnssystemet
+Double-precision floating-point format, null
+Download, Nedladdning
+Edge device, null
+Encryption, Kryptering
+Event (computing), Händelse (programmering)
+Event-driven programming, null
+Evolutionary computing, null
+Executable, Exekverbar fil
+Exception handling, Undantagshantering
+Expression (computer science), null
+Fault-tolerant computer system, null
+Feasibility study, Förstudie
+Filename extension, Filändelse
+Filter (software), null
+Floating point arithmetic, Flyttal
+For loop, null
+Formal methods, Formella metoder
+Formal verification, Formell verifiering
+Functional programming, Funktionell programmering
+Game theory, Spelteori
+Garbage in, garbage out, null
+GIF, GIF
+Gigabyte, Gigabyte
+Global variable, null
+Graph theory, Grafteori
+Computational complexity theory, null
+Hash function, Hashfunktion
+Hash table, Hashtabell
+Heap (data structure), Heap (datastruktur)
+Heapsort, Heapsort
+Human-computer interaction, Människa–datorinteraktion
+Integrated development environment, Integrerad utvecklingsmiljö
+Image processing, null
+Imperative programming, Imperativ programmering
+Incremental build model, null
+Information space analysis, null
+Information visualization, null
+Inheritance (computer science), Arv (programmering)
+Input/output, I/O
+Insertion sort, Insättningssortering
+Instruction cycle, null
+Integer (computer science), Integer
+Integrated development environment, Integrerad utvecklingsmiljö
+Integration testing, null
+Intellectual property, Immaterialrätt
+Intelligent agent, Intelligent agent
+Interface (computing), Gränssnitt
+Internal documentation, null
+Internet, Internet
+Internet bot, Bot (program)
+Interpreter (computing), Interpretator
+Invariant (computer science), Invariant
+Iteration, Iteration
+Java (programming language), Java (programspråk)
+Kernel (operating system), Operativsystemkärna
+Library (computing), Programbibliotek
+Linear search, Linjärsökning
+Linked list, Länkad lista
+Linker (computing), Länkare
+List (abstract data type), null
+Loader (computing), null
+Logic error, Logikfel
+Logic programming, Logikprogrammering
+Machine learning, Maskininlärning
+Machine vision, null
+Mathematical logic, Matematisk logik
+Matrix (mathematics), Matris
+Computer data storage, Datorminne
+Merge sort, Merge sort
+Method (computer programming), Funktion (programmering)
+Software development process, null
+Modem, Modem
+Natural language processing, null
+Number theory, Talteori
+Numerical analysis, Numerisk analys
+Numerical method, null
+Object (computer science), null
+Object code, Objektfiler
+Object-oriented analysis and design, null
+Object oriented programming, Objektorienterad programmering
+Open-source software, null
+Operating system, Operativsystem
+Optical fiber, Fiberoptik
+Pair programming, Parprogrammering
+Parallel computing, Parallelldator
+Parameter (computer programming), null
+Peripheral, Kringutrustning
+Postcondition, null
+Precondition, null
+Primary storage, Datorminne
+Primitive data type, null
+Priority queue, Prioritetskö
+Procedural programming, Procedurell programmering
+Program lifecycle phase, null
+Programming language, Programspråk
+Programming language implementation, null
+Programming language theory, null
+Prolog, Prolog (programspråk)
+Python (programming language), Python (programspråk)
+Quantum computing, Kvantdator
+Queue (abstract data type), Kö (datastruktur)
+Quicksort, Quicksort
+R (programming language), R (programspråk)
+Radix, Talbas
+Recursion, Rekursion
+Reference counting, null
+Relational database, Relationsdatabas
+Reliability engineering, null
+Regression testing, Regressionstestning
+Requirements analysis, Kravhantering
+Robotics, Robotik
+Round-off error, Avrundningsfel
+Router (computing), Router
+Routing table, Dirigeringstabell
+Run time (program lifecycle phase), null
+Run time (program lifecycle phase), null
+Search algorithm, null
+Auxiliary memory, Datorminne
+Selection sort, Urvalssortering
+Semantics (computer science), null
+Sequence, Följd
+Service level agreement, null
+Set (abstract data type), null
+Soft computing (page does not exist), null
+Software, Programvara
+Software agent, Agent (program)
+Software construction, null
+Software deployment, Mjukvaruimplementering
+Software design, null
+Software development, Programutvecklingsmetodik
+Software development process, null
+Software engineering, null
+Software maintenance, null
+Software prototyping, null
+Software requirements specification, Software Requirements Specification
+Software testing, Programvarutestning
+Sorting algorithm, Sorteringsalgoritm
+Source code, Källkod
+Spiral model, null
+Stack (abstract data type), Stack (datastruktur)
+Computer data storage, Datorminne
+String (computer science), Sträng (data)
+Structured storage, NoSQL
+Subroutine, null
+Symbolic computation, null
+Syntax (programming languages), null
+Syntax error, Syntaxfel
+System console, null
+Technical documentation, null
+Third-generation programming language, null
+Top-down and bottom-up design, null
+Tree (data structure), Träd (datastruktur)
+Type theory, null
+Upload, null
+URL, Uniform Resource Locator
+URL, Uniform Resource Locator
+User agent, Användaragent
+User interface, Användargränssnitt
+User interface design, null
+Variable (computer science), null
+Virtual machine, Virtuell maskin
+V-Model (software development), null
+WAV, WAVE
+Waterfall model, Vattenfallsmodellen
+WAV, WAVE
+Web crawler, Spindel (internet)
+Wi-Fi, Wi-Fi
+XHTML, XHTML
+---- Secondary words -----
+Mathematical model, Matematisk modell
+Data type, Datatyp
+Semantics (computer science), null
+Data structure, Datastruktur
+Method signature, null
+Method body, null
+Interface (computing), Gränssnitt
+Software engineering, null
+Computer science, Datavetenskap
+Attribute (computing), Objektorienterad programmering
+System, System
+Generalization, Generalisering
+Abstract and concrete, null
+Concept, Begrepp
+Object (philosophy), null
+Computer science, Datavetenskap
+Blueprint, Blåkopia
+Software agent, Agent (program)
+Intelligent control, null
+Intelligent agent, Intelligent agent
+Cognitive architecture, null
+Computational models, null
+Computer simulation, null
+Game theory, Spelteori
+Complex systems, null
+Emergence, Emergens
+Computational sociology, null
+Multi-agent system, null
+Evolutionary programming, null
+Monte Carlo method, Monte Carlo-metod
+Database management, Databas
+Subroutine, null
+Set (computer science), null
+Set (computer science), null
+List (computing), null
+Software development, Programutvecklingsmetodik
+Self-organizing communities, null
+Cross-functional team, null
+Customer, Kund
+End user, Slutanvändare
+Continual improvement process, null
+Calculation, Beräkning
+Data processing, null
+Automated reasoning, null
+Operation research, Operationsanalys
+Dynamic programming, Dynamisk programmering
+Divide and conquer algorithm, null
+Algorithm, Algoritm
+Computational resource, null
+Analysis of algorithms, null
+Productivity, Produktivitet
+Character encoding, Teckenkod
+Telecommunications equipment, null
+Communication protocols, Kommunikationsprotokoll
+Computer program, Datorprogram
+Programmer, Programmerare
+Computer software, Programvara
+Word processor, Ordbehandlare
+Spreadsheet, Kalkylprogram
+Accounting software, Bokföringsprogram
+Web browser, Webbläsare
+Media player (software), Mediespelare
+Flight simulator, Flygsimulator
+Console game, null
+Raster graphics editor, null
+Collective noun, null
+System software, null
+Data structure, Datastruktur
+Value (computer science), null
+Variable (programming), null
+Tuple, Tupel
+Use case, Användningsfall
+Class diagram, Klassmodeller
+Unified Modeling Language, Unified Modeling Language
+Machine, Maskin
+Intelligence, Intelligens
+Machine, Maskin
+Computer science, Datavetenskap
+Intelligent agent, Intelligent agent
+Human mind, Psyke
+Computer programming, Programmering
+Statement (computer science), Sats (programmering)
+Predicate (mathematical logic), null
+Boolean-valued function, null
+Expression (computer science), null
+Crash (computing), Systemkrasch
+Exception handling, Undantagshantering
+Abstract machine, Automat (datavetenskap)
+Automaton, null
+Computational problem, null
+Theoretical computer science, Teoretisk datavetenskap
+Discrete mathematics, Diskret matematik
+Mathematics, Matematik
+Computer science, Datavetenskap
+Computer science, Datavetenskap
+Mathematical logic, Matematisk logik
+Reasoning, Förnuft
+Computer programs, Datorprogram
+Artificial intelligence, Artificiell intelligens
+Theoretical computer science, Teoretisk datavetenskap
+Philosophy, Filosofi
+Probability distribution, Sannolikhetsfördelning
+Computer program, Datorprogram
+Algorithm, Algoritm
+Resource (computer science), null
+Time complexity, Tidskomplexitet
+Data set, null
+Data processing, null
+Application software, Tillämpningsprogram
+Statistical power, Statistisk styrka
+False discovery rate, null
+Asymptotic analysis, null
+Function (mathematics), Funktion
+Paul Gustav Heinrich Bachmann, null
+Edmund Landau, Edmund Landau
+Digital electronics, Digitalteknik
+Number, Tal
+0 (number), 0 (tal)
+1 (number), 1 (tal)
+Search algorithm, null
+Sorted array, null
+Tree structure, null
+Data structure, Datastruktur
+Child node, Träd (datastruktur)
+Recursive definition, null
+Set theory, Mängdteori
+Tuple, Tupel
+Empty set, Tomma mängden
+Singleton set, null
+Interdisciplinary, Tvärvetenskap
+Software tool, Programmeringsverktyg
+Biology, Biologi
+Biology, Biologi
+Computer science, Datavetenskap
+Information engineering (field), null
+Mathematics, Matematik
+Statistics, Statistik
+Portmanteau, Teleskopord
+Units of information, null
+Information, Information
+Computing, null
+Communication, Kommunikation
+Binary number, Binära talsystemet
+Value (computer science), null
+Telecommunications, Telekommunikation
+Computing, null
+Bit, Bit
+Computing, null
+Access control, Åtkomstkontroll
+URLs, Uniform Resource Locator
+IP address, IP-adress
+Domain name, Domännamn
+MD5 Hash, MD5
+Whitelist, Vitlista
+Greylisting, Grålistning
+Raster graphics, Rastergrafik
+Image file format, Bildfilformat
+Bitmap, Bitmap
+Digital image, Digital bild
+Display device, null
+Graphics adapter, Grafikkort
+Microsoft Windows, Microsoft Windows
+OS/2, OS/2
+Data type, Datatyp
+Truth value, Sanningsvärde
+Logic, Logik
+Boolean algebra, Boolesk algebra
+George Boole, George Boole
+Conditional (computer programming), If-sats
+Control flow, Programflöde
+Expression (programming), null
+Programming language, Programspråk
+Boolean value, Boolesk datatyp
+Boolean data type, Boolesk datatyp
+Boolean-valued function, null
+Mathematics, Matematik
+Mathematical logic, Matematisk logik
+Algebra, Algebra
+Variable (mathematics), Variabel
+Truth value, Sanningsvärde
+Elementary algebra, Elementär algebra
+Logical conjunction, Konjunktion (logik)
+Logical disjunction, Disjunktion
+Negation, Negation
+Units of information, null
+Bit, Bit
+Binary number, Binära talsystemet
+Character (computing), null
+Address space, Adressrymd
+Computer memory, null
+Computer architecture, Datorarkitektur
+Computer, Dator
+Computer appliance, null
+Read-only memory, Read-only memory
+Firmware, Firmware
+Power-on self-test, Power-on Self Test
+Hard disk, Hårddisk
+Main memory, Datorminne
+Computer program, Datorprogram
+Random-access memory, Random Access Memory
+Executable code, Exekverbar fil
+Argument (computer science), null
+Electronic circuit, null
+Computer, Dator
+Instruction (computing), Instruktionsuppsättning
+Computer program, Datorprogram
+Arithmetic, Aritmetik
+Input/output, I/O
+Control unit, Styrenhet
+Main memory, Datorminne
+I/O, I/O
+Computer, Dator
+Telecommunication, Telekommunikation
+Information, Information
+Grapheme, Grafem
+Alphabet, Alfabet
+Syllabary, Stavelseskrift
+Written language, null
+Natural language, Naturligt språk
+Cryptography, Kryptografi
+Algorithm, Algoritm
+Encryption, Kryptering
+Decryption, Kryptografi
+Object-oriented programming, Objektorienterad programmering
+Object (object-oriented programming), null
+Member variable, null
+Method (computer programming), Funktion (programmering)
+Constructor (object-oriented programming), Konstruktor
+Subroutine, null
+Data type, Datatyp
+Instance (computer science), null
+Object-oriented programming, Objektorienterad programmering
+Object (computer science), null
+Prototype-based programming, null
+Object-oriented programming, Objektorienterad programmering
+Object (computer science), null
+Prototype-based programming, null
+Computer hardware, Maskinvara
+Software, Programvara
+Server (computing), Server
+Computer system, Dator
+Computer network, Datornätverk
+Client–server model, Klient–server
+Software development process, null
+Reliability engineering, null
+Harlan Mills, null
+IBM, IBM
+Programming language, Programspråk
+Lexically scoped, null
+Name binding, null
+First-class function, null
+Operational semantics, null
+Record (computer science), null
+Function (computer science), null
+System resource, null
+Provisioning, null
+Internet, Internet
+Economies of scale, Stordriftsfördel
+Public utility, null
+Non-volatile memory, Icke-flyktigt datorminne
+Computer program, Datorprogram
+Software development, Programutvecklingsmetodik
+Code reuse, null
+Subroutine, null
+Class (computer science), Klass (programmering)
+Value (computer science), null
+Data type, Datatyp
+OS/360 and successors, OS360 och efterföljare
+Partitioned dataset, null
+Executable, Exekverbar fil
+Computer program, Datorprogram
+Computing, null
+Algorithm, Algoritm
+Programming language, Programspråk
+Source code, Källkod
+Domain (software engineering), null
+Logic, Logik
+Code, Kodning
+Data compression, Datakompression
+Cryptography, Kryptografi
+Error detection and correction, Felrättande kod
+Data transmission, null
+Data storage, Lagringsmedium
+Information theory, Informationsteori
+Electrical engineering, Elektroteknik
+Mathematics, Matematik
+Linguistics, Språkvetenskap
+Computer science, Datavetenskap
+Science, Vetenskap
+Mind, Psyke
+Cognition, Kognition
+Information, Information
+Language, Språk
+Perception, Perception
+Memory, Minne
+Attention, Uppmärksamhet
+Reasoning, Förnuft
+Emotion, Känsla
+Linguistics, Språkvetenskap
+Psychology, Psykologi
+Artificial intelligence, Artificiell intelligens
+Philosophy of mind, Medvetandefilosofi
+Neuroscience, Neurovetenskap
+Anthropology, Antropologi
+Computer file, Fil (data)
+Text file, .txt
+Table (information), Tabell
+Plain text, Text (datavetenskap)
+Record (computer science), null
+Field (computer science), null
+Comma, Kommatecken
+File format, Filformat
+Computer program, Datorprogram
+Programming language, Programspråk
+Translator (computing), null
+Source code, Källkod
+High-level programming language, Högnivåspråk
+Lower level language, Lågnivåspråk
+Assembly language, Assembler
+Object code, Objektfiler
+Machine code, Maskinkod
+Executable, Exekverbar fil
+Mathematical logic, Matematisk logik
+Computer science, Datavetenskap
+Theory of computation, null
+Computable function, null
+Turing degree, null
+Proof theory, Bevisteori
+Effective descriptive set theory, null
+Calculation, Beräkning
+Model (abstract), null
+Algorithm, Algoritm
+Computer science, Datavetenskap
+Chemistry, Kemi
+Computer simulation, null
+Theoretical chemistry, Teoretisk kemi
+Computer program, Datorprogram
+Molecule, Molekyl
+Mathematical model, Matematisk modell
+Computational science, null
+Computational resource, null
+Complex system, null
+Computer simulation, null
+Neuroscience, Neurovetenskap
+Developmental neuroscience, null
+Neuroanatomy, Neuroanatomi
+Neurophysiology, Neurofysiologi
+Cognitive neuroscience, Kognitiv neurovetenskap
+Nervous system, Nervsystemet
+Arithmetic, Aritmetik
+Boolean algebra, Boolesk algebra
+Computer programming, Programmering
+Computer engineering, Datateknik
+Computer, Dator
+Instruction set architecture, Instruktionsuppsättning
+Microarchitecture, null
+Logic design, null
+Implementation, Implementation (samhällskunskap)
+Computer, Dator
+Data storage device, Lagringsmedium
+Data (computing), null
+Practical philosophy, Praktisk filosofi
+Digital signal, null
+Telecommunications network, null
+Node (networking), Nod (datorkommunikation)
+Computing device, Dator
+Data transmission, null
+Data link, null
+Networking cables, Nätverkskabel
+Wireless network, null
+WiFi, Wi-Fi
+Executable, Exekverbar fil
+Computer program, Datorprogram
+Computing, null
+Algorithm, Algoritm
+Programming language, Programspråk
+Source code, Källkod
+Domain (software engineering), null
+Logic, Logik
+Computer, Dator
+Algorithm, Algoritm
+Digital data, Digital
+Information, Information
+Computer scientist, Datorforskare
+Person, null
+Computer science, Datavetenskap
+Computer system, Dator
+Computer hardware, Maskinvara
+Software, Programvara
+Data (computing), null
+Denial-of-service attack, Denial of Service
+Botnet, Botnet
+Interdisciplinarity, Tvärvetenskap
+Digital image, Digital bild
+Video, Video
+Engineering, Ingenjörsvetenskap
+Human visual system, Syn
+Programming language, Programspråk
+Boolean datatype, Boolesk datatyp
+Branch predication, null
+Control flow, Programflöde
+Functional programming, Funktionell programmering
+Control flow, Programflöde
+Continuation, null
+Direct style, null
+Gerald Jay Sussman, null
+Guy L. Steele, Jr., null
+AI Memo, null
+Scheme (programming language), Scheme
+Statement (computer science), Sats (programmering)
+Instruction (computer science), Instruktionsuppsättning
+Function call, null
+Imperative programming, Imperativ programmering
+Computer program, Datorprogram
+Execution (computing), Exekvering
+Non-profit organization, Ideell förening
+Creativity, Kreativitet
+Copyright, Upphovsrätt
+License, Licens
+Creative Commons license, Creative Commons-licens
+Bullying, null
+Harassment, Trakasserier
+Technology, Teknologi
+Computer, Dator
+Telecommunication, Telekommunikation
+Computer data storage, Datorminne
+Redundancy (engineering), null
+Power supply, Nätaggregat
+Data (computing), null
+undefined, Swedish
+Interdisciplinary, Tvärvetenskap
+Knowledge, Kunskap
+Data, Data (representation)
+Data mining, Datautvinning
+Mathematics, Matematik
+Statistics, Statistik
+Information science, Informationsvetenskap
+Computer science, Datavetenskap
+Algorithmic efficiency, null
+Data, Data (representation)
+Compiler, Kompilator
+Interpreter (computing), Interpretator
+Real number, Reella tal
+Integer (computer science), Integer
+Boolean data type, Boolesk datatyp
+Expression (computer science), null
+Computer software, Programvara
+System, System
+Interactive, null
+Control flow, Programflöde
+Unit testing, null
+Integration testing, null
+Logfile, Logg (datateknik)
+Application monitoring, null
+System monitoring, null
+Memory dump, null
+Profiling (computer programming), null
+Computer programming, Programmering
+Language construct, null
+Identifier (computer programming), null
+Subroutine, null
+Variable (computer science), null
+Constant (computer programming), null
+Class (computer programming), Klass (programmering)
+Data type, Datatyp
+Type signature, null
+Compiler, Kompilator
+Strongly typed, null
+Forward declaration, null
+Information theory, Informationsteori
+Information systems, Informationssystem
+Representation (mathematics), null
+Number, Tal
+Letter (alphabet), Bokstav
+Digital processing, Digital
+Digital signal processor, Signalprocessor
+Signal processing, Signalbehandling
+Sampling (signal processing), null
+Continuous variable, null
+System, System
+Discrete time, null
+Sequence of events, Tid
+State (computer science), null
+Simulation, Simulering
+Computer science, Datavetenskap
+Computer network, Datornätverk
+Message passing, null
+Clock synchronization, null
+Service-oriented architecture, Tjänsteorienterad arkitektur
+Massively multiplayer online game, Massively multiplayer online game
+Peer-to-peer, P2P-nätverk
+Algorithm design paradigm, null
+Recursion, Rekursion
+Algorithm, Algoritm
+Computer software, Programvara
+Hierarchy, Hierarki
+Decentralised system, null
+Internet, Internet
+Domain name, Domännamn
+IP address, IP-adress
+Communication protocol, Kommunikationsprotokoll
+Distributed computing, Distributed computing
+Directory service, Katalogtjänst
+Computer number format, null
+Dynamic range, null
+Computer network, Datornätverk
+Server (computing), Server
+Web server, Webbserver
+File Transfer Protocol, File Transfer Protocol
+Email, E-post
+Upload, null
+Computer file, Fil (data)
+Router (computing), Router
+Network switch, Switch
+Integrated access device, null
+Metropolitan area network, Metropolitan Area Network
+Wide area network, Wide Area Network
+Local area network, Lokalt datornät
+Asynchronous I/O, null
+Event handler, Händelse (programmering)
+Acrostic, Akrostikon
+Mnemonic, Minnesregel
+Programming paradigm, Programmeringsparadigm
+Control flow, Programflöde
+Event (computing), Händelse (programmering)
+Computer mouse, Datormus
+Sensor, Sensor
+Message passing, null
+Thread (computer science), Tråd (datavetenskap)
+Graphical user interface, Grafiskt användargränssnitt
+Web application, Webbapplikation
+Input/output, I/O
+Device driver, Drivrutin
+P (programming language), null
+Algorithm, Algoritm
+Global optimization, null
+Biological evolution, Evolution
+Artificial intelligence, Artificiell intelligens
+Soft computing (page does not exist), null
+Trial and error, Trial and error
+Metaheuristic, null
+Stochastic optimization, null
+Instruction (computer science), Instruktionsuppsättning
+Data (computing), null
+Parser, Parser
+Machine code, Maskinkod
+Central processing unit, Processor
+Bytecode, Bytekod
+Scripting language, Skriptspråk
+Computation, null
+Computer program, Datorprogram
+Execution (computing), Exekvering
+Programming language, Programspråk
+Computer hardware, Maskinvara
+Interrupt, Avbrott
+Operating system, Operativsystem
+Inter-process communication, Interprocesskommunikation
+Signal (IPC), Signal (datavetenskap)
+Programming language, Programspråk
+Constant (programming), null
+Variable (programming), null
+Operator (programming), Operator (programmering)
+Function (programming), null
+Order of operations, Operatorprioritet
+State (computer science), null
+Mathematical expression, Matematiskt uttryck
+Fault tolerance, null
+Natural environment, Miljö (omgivning)
+Resources, Resurs
+Cost, Utgift
+Value (economics), Värde (ekonomi)
+Substring, null
+Filename, Filnamn
+Computer file, Fil (data)
+Computer program, Datorprogram
+Subroutine, null
+Stream (computing), null
+Pipeline (software), Vertikalstreck
+Control flow, Programflöde
+Statement (programming), Sats (programmering)
+Iteration, Iteration
+Execution (computers), Exekvering
+ALGOL, Algol (programspråk)
+Fortran, Fortran
+COBOL, COBOL
+Mathematically, Matematik
+Formal specification, null
+Formal verification, Formell verifiering
+Software, Programvara
+Computer hardware, Maskinvara
+Mathematical proof, Matematiskt bevis
+Correctness (computer science), null
+Algorithms, Algoritm
+Formal specification, null
+Formal methods, Formella metoder
+Mathematics, Matematik
+Programming paradigm, Programmeringsparadigm
+Computer program, Datorprogram
+Computation, null
+Function (mathematics), Funktion
+Program state, null
+Immutable object, null
+Declarative programming, Deklarativ programmering
+Expression (computer science), null
+Statement (computer science), Sats (programmering)
+Mathematical model, Matematisk modell
+Social science, Samhällsvetenskap
+Logic, Logik
+Computer science, Datavetenskap
+Zero-sum game, Nollsummespel
+Umbrella term, null
+Science, Vetenskap
+Input (computer science), Indata
+Input/output, I/O
+Byte, Byte
+SI prefix, SI-prefix
+International System of Units, Internationella måttenhetssystemet
+Computer programming, Programmering
+Scope (programming), null
+Variable shadowing, null
+Static variable, null
+Variable (programming), null
+Command-line interpreter, Kommandotolk
+Mathematics, Matematik
+Function (mathematics), Funktion
+Data (computing), null
+Hash table, Hashtabell
+Data structure, Datastruktur
+Computing, null
+Data structure, Datastruktur
+Associative array, null
+Abstract data type, null
+Unique key, Databasnyckel
+Value (computer science), null
+Hash function, Hashfunktion
+Tree (data structure), Träd (datastruktur)
+Data structure, Datastruktur
+Node (computer science), null
+Comparison sort, null
+Sorting algorithm, Sorteringsalgoritm
+Selection sort, Urvalssortering
+Heap (data structure), Heap (datastruktur)
+User (computing), null
+Computer science, Datavetenskap
+Behavioral sciences, Beteendevetenskap
+Design, Design
+Media studies, Medie- och kommunikationsvetenskap
+Outline of human–computer interaction, null
+Programming paradigm, Programmeringsparadigm
+Statement (computer science), Sats (programmering)
+State (computer science), null
+Imperative mood, Imperativ
+Natural language, Naturligt språk
+Command (computing), Kommando (dator)
+Software development, Programutvecklingsmetodik
+Software design, null
+Software testing, Programvarutestning
+Waterfall model, Vattenfallsmodellen
+Software prototyping, null
+Deterministic, Determinism
+Artificial intelligence, Artificiell intelligens
+Resource, Resurs
+Object-oriented programming, Objektorienterad programmering
+Object (computer science), null
+Class (computer programming), Klass (programmering)
+Prototype-based programming, null
+Class-based programming, null
+undefined, Swedish
+Fragile base class, null
+Information processing system, null
+Computer, Dator
+Information processor, null
+Information, Information
+Data (computing), null
+I/O scheduling, null
+Sorting algorithm, Sorteringsalgoritm
+Sorted array, null
+Central processing unit, Processor
+Booting, Bootning
+Data, Data (representation)
+Data type, Datatyp
+Interval (mathematics), Intervall (matematik)
+Integer, Heltal
+Virtual machine, Virtuell maskin
+Word size, Ord (datorterm)
+Application software, Tillämpningsprogram
+Computer programmer, Programmerare
+Software development, Programutvecklingsmetodik
+Source code editor, null
+Build automation, null
+Debugger, Avlusare
+Software testing, Programvarutestning
+Regulatory compliance, null
+Functional requirement, null
+Unit testing, null
+Software verification and validation, null
+Module (programming), null
+Test plan, null
+System testing, null
+Property, Egendom
+Copyright, Upphovsrätt
+Patent, Patent
+Trademark, Varumärke
+Trade secret, null
+Computer system, Dator
+Software, Programvara
+Computer hardware, Maskinvara
+Peripheral, Kringutrustning
+User interface, Användargränssnitt
+Touchscreen, Pekskärm
+Software, Programvara
+Source code, Källkod
+Variable (programming), null
+Documentation, Dokumentation
+Portmanteau, Teleskopord
+Computer network, Datornätverk
+Internet protocol suite, TCP/IP
+World Wide Web, World Wide Web
+Software application, Tillämpningsprogram
+Internet, Internet
+Web crawler, Spindel (internet)
+Human, Människa
+Computer program, Datorprogram
+Execution (computers), Exekvering
+Programming language, Programspråk
+Scripting language, Skriptspråk
+Compiler, Kompilator
+Machine language, Maskinkod
+General-purpose language, null
+Programming language, Programspråk
+Class-based programming, null
+Object-oriented programming, Objektorienterad programmering
+Dependency (computer science), null
+Application developer, Programmerare
+Write once, run anywhere, null
+Compiler, Kompilator
+Operating system, Operativsystem
+Operating system, Operativsystem
+Memory, Minne
+Operating system, Operativsystem
+Non-volatile memory, Icke-flyktigt datorminne
+Computer program, Datorprogram
+Software development, Programutvecklingsmetodik
+Code reuse, null
+Subroutine, null
+Class (computer science), Klass (programmering)
+Value (computer science), null
+Data type, Datatyp
+List (computing), null
+Pointer (computer programming), Datatyp
+Data structure, Datastruktur
+Node (computer science), null
+Sequence, Följd
+System utility, null
+Object file, null
+Compiler, Kompilator
+Assembler (computing), Assembler
+Executable, Exekverbar fil
+Library (computing), Programbibliotek
+Loader (computing), null
+Abstract data type, null
+Value (computer science), null
+Mathematics, Matematik
+Sequence (mathematics), Följd
+Stream (computing), null
+Container (abstract data type), null
+Operating system, Operativsystem
+Computer program, Datorprogram
+Library (computing), Programbibliotek
+Executable, Exekverbar fil
+Computer programming, Programmering
+Software bug, Bugg (dator)
+Crash (computing), Systemkrasch
+Programming paradigm, Programmeringsparadigm
+Formal logic, Matematisk logik
+Programming language, Programspråk
+Prolog, Prolog (programspråk)
+Answer set programming, null
+Datalog, null
+Branches of science, null
+Algorithm, Algoritm
+Statistical model, Statistisk modell
+Computer systems, Dator
+Inference, Slutledning
+Artificial intelligence, Artificiell intelligens
+Mathematical model, Matematisk modell
+Training data, null
+Process control, null
+Systems engineering, null
+Computer vision, Datorseende
+Computer science, Datavetenskap
+Mathematics, Matematik
+Logic, Logik
+Metamathematics, Metamatematik
+Foundations of mathematics, null
+Theoretical computer science, Teoretisk datavetenskap
+Formal system, Formellt system
+Deductive reasoning, Deduktion
+Mathematical proof, Matematiskt bevis
+Mathematics, Matematik
+Rectangle, Rektangel
+Irregular matrix, null
+Number, Tal
+Symbol (formal), null
+Expression (mathematics), Matematiskt uttryck
+Computer, Dator
+Data storage device, Lagringsmedium
+Data (computing), null
+Comparison sort, null
+Sorting algorithm, Sorteringsalgoritm
+Sorting algorithm, Sorteringsalgoritm
+Divide and conquer algorithm, null
+John von Neumann, John von Neumann
+Herman Goldstine, Herman Heine Goldstine
+John von Neumann, John von Neumann
+Object-oriented programming, Objektorienterad programmering
+Procedure (computer science), null
+Message passing, null
+Object (computer science), null
+Software engineering, null
+Software development, Programutvecklingsmetodik
+Software design, null
+Software product management, null
+Software project management, null
+Deliverable, null
+Portmanteau, Teleskopord
+Computer hardware, Maskinvara
+Transmission medium, Transmissionsmedium
+Modulation, Modulation
+Carrier wave, Bärvåg
+Digital information, Digital
+Demodulation, null
+Signal (electronics), Elektrisk signal
+Light-emitting diode, Lysdiod
+Radio, null
+Digital data, Digital
+Computer, Dator
+Electrical signal, Elektrisk signal
+Telephone line, null
+Linguistics, Språkvetenskap
+Computer science, Datavetenskap
+Information engineering (field), null
+Artificial intelligence, Artificiell intelligens
+Natural language, Naturligt språk
+Speech recognition, Taligenkänning
+Natural language understanding, null
+Natural language generation, null
+Pure mathematics, null
+Integer, Heltal
+Arithmetic function, Aritmetisk funktion
+Algorithm, Algoritm
+Approximation, Approximation
+Symbolic computation, null
+Mathematical analysis, Matematisk analys
+Discrete mathematics, Diskret matematik
+Numerical analysis, Numerisk analys
+Variable (computer science), null
+Data structure, Datastruktur
+Subroutine, null
+Method (computer programming), Funktion (programmering)
+Value (computer science), null
+Memory address, Minnesadress
+Identifier (computer programming), null
+Class-based programming, null
+Object-oriented programming, Objektorienterad programmering
+Instance (computer science), null
+Class (computer science), Klass (programmering)
+Relational model, null
+Database, Databas
+Compiler, Kompilator
+Statement (computer science), Sats (programmering)
+Machine code, Maskinkod
+Binary file, Binärfil
+Register transfer language, null
+Goal, null
+Object-oriented programming, Objektorienterad programmering
+Programming paradigm, Programmeringsparadigm
+Object (computer science), null
+Data, Data (representation)
+Field (computer science), null
+This (computer programming), null
+Class-based programming, null
+Instance (computer science), null
+Class (computer science), Klass (programmering)
+Data type, Datatyp
+Computer software, Programvara
+Source code, Källkod
+Open-source license, null
+Copyright, Upphovsrätt
+Software distribution, Programdistributionsmodell
+Software, Programvara
+Open-source model, Öppen källkod
+Open collaboration, null
+System software, null
+Computer hardware, Maskinvara
+Computer software, Programvara
+Daemon (computing), Daemon
+Computer program, Datorprogram
+Transparency and translucency, Transparens (optik)
+Fiber, null
+Drawing (manufacturing), Kalldragning
+Glass, Glas
+Silica, Kiseldioxid
+Hair's breadth, null
+Fiber-optic communication, null
+Bandwidth (computing), null
+Metal, Metall
+Attenuation, Attenuering
+Electromagnetic interference, null
+Agile software development, Agil systemutveckling
+Computer programmer, Programmerare
+Source code, Källkod
+Code review, null
+Computing, null
+Process (computing), Process (datorteknik)
+Bit-level parallelism, null
+Instruction-level parallelism, null
+Data parallelism, null
+Task parallelism, null
+Computer programming, Programmering
+Variable (programming), null
+Subroutine, null
+Function signature, null
+Computer programming, Programmering
+Predicate (mathematics), null
+Formal specification, null
+Assertion (computing), null
+Computer programming, Programmering
+Predicate (mathematics), null
+Code, Kodning
+Formal specification, null
+Code, Kodning
+Computer security, Datasäkerhet
+Abstract data type, null
+Queue (abstract data type), Kö (datastruktur)
+Stack (abstract data type), Stack (datastruktur)
+Computer program, Datorprogram
+Execution (computing), Exekvering
+Formal language, Formellt språk
+Instruction set, Instruktionsuppsättning
+Input/output, I/O
+Computer programming, Programmering
+Algorithm, Algoritm
+Quantum mechanics, Kvantmekanik
+Phenomena, Fenomen
+Quantum superposition, null
+Quantum entanglement, Kvantsammanflätning
+Computation, null
+Collection (abstract data type), null
+Documentation, Dokumentation
+Product development, Produktutveckling
+End user, Slutanvändare
+Maintenance, repair and operations, Reparation
+User guide, Handbok
+Abstract data type, null
+Tree structure, null
+undefined, Swedish
+Node (computer science), null
+Mathematics, Matematik
+Logic, Logik
+Formal system, Formellt system
+Set theory, Mängdteori
+Foundations of mathematics, null
+Computer network, Datornätverk
+Data (computing), null
+Server (computing), Server
+Web resource, null
+Computer network, Datornätverk
+Uniform Resource Identifier, Uniform Resource Identifier
+Http, Hypertext Transfer Protocol
+File Transfer Protocol, File Transfer Protocol
+Mailto, null
+Java Database Connectivity, Java Database Connectivity
+Software agent, Agent (program)
+User (computing), null
+Web browser, Webbläsare
+Mail user agent, E-postprogram
+Industrial design, Industridesign
+Human–computer interaction, Människa–datorinteraktion
+Decision-making, Beslutsfattande
+Operating system, Operativsystem
+Tools, Verktyg
+Heavy machinery, Anläggningsmaskin
+Unit operation, Enhetsoperation
+Ergonomics, Ergonomi
+Psychology, Psykologi
+Design, Design
+User interface, Användargränssnitt
+Machine, Maskin
+Software, Programvara
+Computer, Dator
+Home appliance, Hushållsapparater
+Mobile device, Mobil enhet
+Electronics, Elektronik
+Usability, Användbarhet
+User experience, null
+User-centered design, null
+Computer programming, Programmering
+Memory address, Minnesadress
+Symbol, Symbol
+Reference (computer science), Referens (datateknik)
+Source code, Källkod
+Name binding, null
+Value (computer science), null
+Run time (program lifecycle phase), null
+Execution (computing), Exekvering
+Emulator, Emulator
+Computer architectures, Datorarkitektur
+Software development, Programutvecklingsmetodik
+Software development process, null
+Waterfall model, Vattenfallsmodellen
+V-model, null
+Source code, Källkod
+Software testing, Programvarutestning
+Sequence, Följd
+Engineering design, null
+Software development process, null
+Waterfall, Vattenfall
+Analysis, Analys
+Software design, null
+Software construction, null
+Software testing, Programvarutestning
+Implementation, Implementation (samhällskunskap)
+Software maintenance, null
+Filename extension, Filändelse
+Audio file format, Ljudfil
+Microsoft, Microsoft
+International Business Machines, IBM
+Personal computer, Persondator
+Resource Interchange File Format, null
+Bitstream format, null
+8SVX, null
+Audio Interchange File Format, Audio Interchange File Format
+Amiga, Amiga
+Apple Macintosh, Macintosh
+Microsoft Windows, Microsoft Windows
+Linear pulse-code modulation, Pulskodsmodulering
+Internet bot, Bot (program)
+World Wide Web, World Wide Web
+Web indexing, null
+IEEE 802.11, IEEE 802.11
+Wireless LAN, Trådlöst LAN
+Internet, Internet
+Wi-Fi Alliance, null
+Interoperability Solutions for European Public Administrations, null
+XML, XML
+Markup language, Märkspråk
+HyperText Markup Language, HTML
+Web page, Webbsida
+Computer science, Datavetenskap
