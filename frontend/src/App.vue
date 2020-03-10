@@ -10,6 +10,7 @@
       <v-fade-transition mode="out-in">
         <router-view :key="$route.fullPath" />
       </v-fade-transition>
+      
     </main>
 
     <toaster />
@@ -18,6 +19,7 @@
 </template>
 
 <script>
+
 export default {
   name: "App",
   data: () => ({})
