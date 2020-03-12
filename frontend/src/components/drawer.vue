@@ -7,7 +7,6 @@
     <v-divider></v-divider>
 
     <v-list nav dark class="text-left">
-      
       <v-list-item link :to="{ name: 'home' }" exact-active-class="drawer-active">
         <v-list-item-icon>
           <v-icon>home</v-icon>
