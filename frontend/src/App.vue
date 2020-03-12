@@ -9,7 +9,7 @@
       </v-app-bar>
       <v-fade-transition mode="out-in">
         <router-view :key="$route.fullPath" />
-      </v-fade-transition>   
+      </v-fade-transition>
     </main>
 
     <toaster />
