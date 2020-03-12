@@ -1,55 +1,51 @@
 <template>
   <v-container fluid>
     <div>
-      <h3 class="display-1 font-weight-medium text-center">Translate the shit out of your words</h3>
+      <h3 class="display-1 font-weight-medium text-center">Translate your Computer Science and Engineering words</h3>
     </div>
 
     <br />
+    <div>
     <v-card>
       <v-card-title>
         <v-toolbar>
-        <v-toolbar-title>
-          <v-btn text>Svenska</v-btn>
-          <v-icon>mdi-arrow-left-right</v-icon>
-          <v-btn text>Engelska</v-btn>
-        </v-toolbar-title>
+          <v-toolbar-title>
+            <v-btn text class="ma-1" v-if="toggleLang" disabled >{{ sv }}</v-btn>
+            <v-btn text class="ma-1" v-if="!toggleLang" disabled >{{ en }}</v-btn>
+            <v-btn icon @click="toggleLang = !toggleLang">
+              <v-icon>mdi-arrow-left-right</v-icon>
+            </v-btn>
+            <v-btn text class="ma-1" v-if="!toggleLang" disabled >{{ sv }}</v-btn>
+            <v-btn text class="ma-1" v-if="toggleLang" disabled >{{ en }}</v-btn>
+          </v-toolbar-title>
         </v-toolbar>
       </v-card-title>
       <v-card-text>
         <v-row class="start">
-      <!-- First textfield -->
-      <v-text-field class="ma-2" v-model="translated"></v-text-field>
-      <!-- Vertical divider between textfields -->
-      <v-divider vertical />
+          <!-- First textfield -->
+          <v-textarea class="ma-2" clearable v-model="value" auto-grow></v-textarea>
 
-      <!-- Second textfield -->
-      <v-textarea auto-grow class="ma-2" readonly placeholder="Översättning"></v-textarea>
-    </v-row>
+          <!-- Vertical divider between textfields -->
+          <v-divider vertical />
+
+          <!-- Second textfield -->
+          <v-textarea auto-grow class="ma-2" readonly placeholder="Översättning" v-model="value"></v-textarea>
+        </v-row>
       </v-card-text>
     </v-card>
-    <v-btn color="primary" @click="translated = 'he'">Change value</v-btn>
-    <v-btn color="primary" @click="doPost">Click me</v-btn>
+    </div>
   </v-container>
 </template>
-
-// prefix="en | "
 
 <script>
 export default {
   name: "Home",
   data: () => ({
-    translated: ''
+    sv: 'Svenska',
+    en: 'Engelska',
+    toggleLang: true,
+    value: ''
   }),
-  created() {
-    translated: ''
-  },
-  methods: {
-    doPost() {
-      this.$http
-        .post("http://localhost:3000", {query: translated})
-        .catch(console.log);
-    }
-  },
 };
 </script>
 
