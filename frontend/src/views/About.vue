@@ -7,7 +7,7 @@
 export default {
   name: "About",
   data: () => ({
-      translate: 'Sök'
+     
   }),
   
 };
