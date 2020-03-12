@@ -16,16 +16,6 @@
           <v-list-item-title class="body-2 font-weight-light">Home</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
-
-      <v-list-item link :to="{ name: 'about'}" exact-active-class="drawer-active">
-        <v-list-item-icon>
-          <v-icon>info</v-icon>
-        </v-list-item-icon>
-        <v-list-item-content>
-          <v-list-item-title class="body-2 font-weight-light">About</v-list-item-title>
-        </v-list-item-content>
-      </v-list-item>
-
     </v-list>
   </v-navigation-drawer>
 </template>
