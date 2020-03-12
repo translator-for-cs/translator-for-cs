@@ -1,0 +1,283 @@
+Accelerated Graphics Port, Accelerated graphics port
+Hardware acceleration, Hårdvaruacceleration
+Accumulator (computing), null
+Address (computing), Adressrymd
+Address space, Adressrymd
+ATX, Advanced Technology Extended
+AI accelerator, null
+Blu-ray Disc, Blu-ray Disc
+Bus (computing), Buss (elektronisk term)
+Cache (computing), Cache
+Cache coherency, null
+Cache eviction, null
+Cache hit, Cache
+CPU cache, null
+Cache miss, null
+Cache thrashing, null
+Cache-only memory architecture, null
+Card reader, Kortläsare
+Channel I/O, null
+Chipset, Chipset
+CD-R, null
+CD-RW, null
+CD-ROM, CD-ROM
+Computer case, Datorchassi
+Computer fan, null
+Computer form factor, Formfaktor
+Computer monitor, null
+Control store, null
+Conventional PCI, Peripheral Component Interconnect
+CPU, Processor
+Core memory, Kärnminne
+CPU, Processor
+Data cache, null
+Computer data storage, Datorminne
+Digital Video Disc, DVD
+Digital Visual Interface, Digital Visual Interface
+Direct Access Storage Device, null
+Direct mapped cache, null
+Direct memory access, Direct Memory Access
+DisplayPort, Displayport
+Drive bay, null
+DIMM, DIMM
+Dynamic random-access memory, Dynamiskt minne
+Expansion bus, Expansionskort
+Expansion card, Expansionskort
+Firewall (computing), Brandvägg
+Firmware, Firmware
+Flash memory, Flashminne
+Floppy disk, Diskett
+Floppy disk drive, Diskett
+Floppy-disk controller, null
+Free and open-source graphics device driver, null
+Graphics hardware, null
+Graphics Processing Unit, Grafikprocessor
+Hard disk drive, Hårddisk
+Computer hardware, Maskinvara
+Harvard architecture, Harvardarkitektur
+High-Definition Multimedia Interface, High-Definition Multimedia Interface
+Input device, null
+Input/output, I/O
+IOPS, null
+Instruction (computer science), Instruktionsuppsättning
+Instruction cache, null
+Integrated circuit, Integrerad krets
+Jump drive, USB-minne
+Keyboard (computing), Tangentbord
+Instruction set, Instruktionsuppsättning
+Load-store architecture, null
+Magneto-optical drive, null
+Mainframe computer, Stordator
+Main memory, Datorminne
+Mask ROM, null
+Computer memory, null
+Memory access pattern, null
+Memory address, Minnesadress
+Memory architecture, null
+Memory card, Minneskort
+Mini-VGA, null
+Microcode, Mikroprogram
+Modem, Modem
+Modified Harvard architecture, null
+Computer monitor, null
+Motherboard, Moderkort
+Mouse (computing), Datormus
+Computer network, Datornätverk
+Network interface controller, Nätverkskort
+Network on a chip, null
+Non-uniform memory access, Non-Uniform Memory Access
+Non-volatile memory, Icke-flyktigt datorminne
+Non-volatile random-access memory, null
+Operating system, Operativsystem
+Opcode, OP-kod
+Optical disc drive, CD-brännare
+Pen drive, USB-minne
+Peripheral, Kringutrustning
+Personal computer, Persondator
+Power supply, Nätaggregat
+Power supply unit (computer), null
+Printer (computing), Skrivare
+Programmable read-only memory, null
+Programmer (hardware), null
+PCI Express, PCI Express
+PCI-eXtended, null
+Redundant Array of Independent Disks, Raid
+Random-access memory, Random Access Memory
+Read-only memory, Read-only memory
+Server (computing), Server
+Software, Programvara
+Single in-line memory module, SIMM
+Solid-state drive, SSD-minne
+Static random-access memory, Statiskt minne
+Sound card, Ljudkort
+Storage device (computing), Datorminne
+Synchronous dynamic random-access memory, SDRAM
+SuperDisk, null
+Tape drive, Bandstation
+Computer terminal, Datorterminal
+Trackpad, Styrplatta
+TV tuner card, TV-kort
+Universal Serial Bus, Universal Serial Bus
+Uop cache, null
+USB flash drive, USB-minne
+Video card, Grafikkort
+Video Graphics Array, Video Graphics Array
+Volatile memory, null
+Webcam, Webbkamera
+Write back cache, Cache
+Write through cache, null
+Working set, null
+Zip drive, Zip drive
+---- Secondary words -----
+3D computer graphics, 3D-grafik
+Arithmetic, Aritmetik
+Logic, Logik
+Integer, Heltal
+Physical memory, Datorminne
+Artificial neural network, Artificiellt neuronnät
+Machine learning, Maskininlärning
+Machine vision, null
+Movidius Myriad 2, null
+TrueNorth, null
+Tensor processing unit, null
+Cache entries (page does not exist), null
+Allocation (computing) (page does not exist), null
+Cache replacement policy, null
+Data (computing), null
+Data (computing), null
+Cache policy (page does not exist), null
+Allocation (computing) (page does not exist), null
+Cache eviction, null
+Cache misses, Cache
+Cache eviction, null
+Associative cache, null
+Physical addresses (page does not exist), null
+Active cooling, null
+Airflow, null
+Fan (machine), Fläkt
+Air cooling, null
+Electronic visual display, Bildskärm
+Display device, null
+Thin film transistor liquid crystal display, null
+LED display, Lysdiodskärm
+Cathode ray tube, Katodstrålerör
+Arithmetic, Aritmetik
+Logical operations, Logisk operator
+Magnetic core memory, Kärnminne
+Load and store, null
+Data storage device, Lagringsmedium
+Data (computing), null
+OpenCL, OpenCL
+Compute device, OpenCL
+Hardware device (page does not exist), null
+Network interface, null
+DMA channel, Direct Memory Access
+Superscalar, null
+Communications protocol, Kommunikationsprotokoll
+Printed circuit board, Mönsterkort
+Electrical connector, Kontaktdon
+Program machine code, Maskinkod
+Digital signal processor, Signalprocessor
+Computer storage device, Datorminne
+Shader, null
+Modified Harvard architecture, null
+Program machine code, Maskinkod
+Physical memory, Datorminne
+Electronic circuit, null
+Semiconductor, Halvledare
+Typewriter keyboard, Skrivmaskin
+Keyboard (computing), Tangentbord
+Electronic switch, null
+Instruction (computing), Instruktionsuppsättning
+Instruction set architecture, Instruktionsuppsättning
+Arithmetic/logic instruction, Instruktionsuppsättning
+Memory hierarchy, null
+Software, Programvara
+DMA channel, Direct Memory Access
+Locality of reference, null
+Parallel computing, Parallelldator
+Computer system, Dator
+Cache hierarchy, null
+Screen space, null
+Graphical user interface, Grafiskt användargränssnitt
+Desktop computer, Skrivbordsdator
+Computer-aided design, Computer-aided design
+Ethernet, Ethernet
+Wireless network, null
+Semiconductor chip, Integrerad krets
+Fixed function unit, null
+System on a chip, System-on-a-chip
+Computer program, Datorprogram
+BIOS, Basic Input/Output System
+Booting, Bootning
+Computer program, Datorprogram
+Laser light, Laser
+Electromagnetic wave, Elektromagnetisk strålning
+Light spectrum, Elektromagnetiskt spektrum
+Optical disc, Optisk skiva
+General-purpose computer, Dator
+Mains electricity, Nätspänning
+DC power, Likström
+Switched-mode power supply, Switching Mode Power Supply
+Instruction (computing), Instruktionsuppsättning
+Prefetch instruction, null
+Prefetch unit (page does not exist), null
+Memory access pattern, null
+Instructions (computing) (page does not exist), null
+Data (computing), null
+Cache control instruction, null
+Latency (engineering), Latens
+Physical print media (page does not exist), null
+Semiconductor, Halvledare
+Semiconductor device fabrication, null
+Transistor, Transistor
+Electronic circuit, null
+Microprocessor, Mikroprocessor
+Arithmetic and logic operation, Instruktionsuppsättning
+Data (computing), null
+Computer network, Datornätverk
+Network on a chip, null
+Cache hierarchy, null
+Processor (computing), null
+Multiprocessor system (page does not exist), null
+Cluster (computing), Datorkluster
+Network (computing), Datornätverk
+Non-volatile memory, Icke-flyktigt datorminne
+Non-volatile memory, Icke-flyktigt datorminne
+Integrated circuit, Integrerad krets
+EPROM, null
+EEPROM, null
+Flash Memory, Flashminne
+MultiMediaCard, MultiMediaCard
+Magnetoresistive random-access memory, MRAM
+Non-volatile random-access memory, null
+Programmable Array Logic, Programmable array logic
+Field Programmable Gate Array, Field-programmable gate array
+Programmable logic, null
+Read (computer), null
+Multiplexer, Multiplexer
+Demultiplexing, Multiplex
+Computer program, Datorprogram
+Memory module, null
+Semiconductor, Halvledare
+Sound, Ljud
+System bus, null
+Megabyte, Megabyte
+Imation, null
+Sequential access, null
+Magnetic tape, Magnetband
+Electronic engineering, null
+Electromechanical, Elektromekanik
+Fingers, Finger
+Micro-operation, null
+CISC processor, CISC
+X86, X86
+IBM, IBM
+PC clone, PC
+Video camera, null
+Real time (computing) (page does not exist), null
+Computer network, Datornätverk
+Ethernet, Ethernet
+Store operations (page does not exist), null
+Store operations (page does not exist), null
+CPU cache, null

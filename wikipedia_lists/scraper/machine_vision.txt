@@ -1,0 +1,167 @@
+FireWire, Firewire
+2D computer graphics, null
+3D computer graphics, 3D-grafik
+3D scanner, null
+Defocus aberration, null
+Aperture, null
+Aspect ratio (image), Bildformat (film)
+Angular resolution, null
+Automated optical inspection, null
+Barcode, Streckkod
+Blob discovery, null
+Bitmap, Bitmap
+Camera, Kamera
+Camera Link, null
+Charge-coupled device, Charge Coupled Device
+CIE 1931 color space, null
+CMOS, CMOS
+CoaXPress, null
+Color, Färg
+Color blindness, Defekt färgseende
+Color temperature, Färgtemperatur
+Color vision, Färgseende
+Computer vision, Datorseende
+Contrast (vision), Kontrast
+C mount, null
+CS-Mount (page does not exist), null
+Data matrix (computer), null
+Depth of field, Skärpedjup
+Depth perception, null
+Diaphragm (optics), Bländare
+Edge detection, null
+Electromagnetic interference, null
+FireWire, Firewire
+Fixed-pattern noise, null
+Flat-field correction, null
+Frame grabber, Videoupptagningskort
+Fringe Projection Technique (page does not exist), null
+Field of view, Synfält
+Focus (optics), Fokus (optik)
+Gamut, Färgomfång
+Grayscale, Gråskala
+GUI, Grafiskt användargränssnitt
+Histogram, Histogram
+Color histogram, null
+HSV color space, null
+Image formats, Bildfilformat
+Image segmentation, null
+Infrared imaging, Värmekamera
+Incandescent light bulb, Glödlampa
+JPEG, JPEG
+Kell factor, null
+Laser, Laser
+Lens (optics), Lins
+Lens Controller, null
+Lighting, Belysning
+Metrology, Mätteknik
+Machine vision, null
+Motion perception, null
+Neural network, null
+Normal lens, Normalobjektiv
+Optical character recognition, Maskinläsning
+Optical resolution, Optisk upplösning
+Optical transfer function, null
+Pattern recognition, null
+Pixel, Pixel
+Pixelation, null
+Prime lens, null
+Q factor, Godhetstal
+Region of interest, null
+RGB, RGB
+Region of interest, null
+Foreground, figure and objects (page does not exist), null
+S-video, S-Video
+Scheimpflug principle, Scheimpflugs princip
+Shutter (photography), Slutare
+Shutter speed, Slutartid
+Smart camera, null
+Spatial-Taxon (page does not exist), null
+Structured-light 3D scanner, null
+SVGA, SVGA
+Telecentric lens, null
+Telephoto lens, Teleobjektiv
+Thermography, Termografi
+TIFF, TIFF (filformat)
+USB, Universal Serial Bus
+VESA, Video electronics standards association
+VGA, Video Graphics Array
+Vision processing unit, null
+Wide-angle lens, Vidvinkelobjektiv
+X-rays, Röntgenstrålning
+Y-cable, null
+Zoom lens, Zoomobjektiv
+---- Secondary words -----
+Machine vision, null
+Computer vision, Datorseende
+Image processing, null
+Signal processing, Signalbehandling
+2D computer graphics, null
+Cartesian coordinate system, Kartesiskt koordinatsystem
+Algorithm, Algoritm
+Vector graphics, Vektorgrafik
+Wire frame model, null
+Raster graphics, Rastergrafik
+Color, Färg
+Color space, Färgrymd
+International Commission on Illumination, CIE
+Coaxial, Koaxial
+Wavelength, Våglängd
+Frequency, Frekvens
+Light, Ljus
+C mount, null
+Barcode, Streckkod
+Visual perception, null
+Dimension, Dimension
+Animal, Djur
+Computer graphics, Datorgrafik
+Photography, Fotografi
+Color, Färg
+Statistics, Statistik
+Graphical display, Infographic
+Frequency (statistics), null
+Categorization, Kategorisering
+Bar chart, Stapeldiagram
+Interval (mathematics), Intervall (matematik)
+Computer graphics, Datorgrafik
+Photography, Fotografi
+Pixel, Pixel
+Two-dimensional, 2D
+Color space, Färgrymd
+Histogram, Histogram
+Statistical, Statistik
+Frequency distribution, Frekvensfördelning
+Color space, Färgrymd
+Thermographic camera, null
+Lossy compression, Destruktiv komprimering
+Normal lens, Normalobjektiv
+Telephoto lens, Teleobjektiv
+Optics, Optik
+Resonant cavity, null
+S-VHS, S-VHS
+Analog signal, Analog signal
+Composite video, Kompositvideo
+480i, null
+576i, null
+Standard definition, Standardupplöst television
+Infrared imaging, Värmekamera
+NEC Corporation, NEC
+SVGA, SVGA
+Peripheral, Kringutrustning
+IBM PC, IBM PC
+Computer, Dator
+Petahertz, Hertz
+Electrical cable, null
+Y, Y
+Sound, Ljud
+Video, Video
+Channel (communications), null
+Computer, Dator
+Electrical connector, Kontaktdon
+Peripheral, Kringutrustning
+Glossary of artificial intelligence, null
+Frame grabber, Videoupptagningskort
+Google Goggles, null
+Machine vision glossary, null
+Morphological image processing, null
+OpenCV, OpenCV
+Smart camera, null

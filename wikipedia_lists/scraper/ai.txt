@@ -1,0 +1,1716 @@
+Zeroth-order logic, null
+---- Secondary words -----
+Abductive logic programming, null
+Abductive reasoning, Abduktion (filosofi)
+Logical inference, Slutledning
+Deductive reasoning, Deduktion
+Logical positivism, Logisk positivism
+Abstract data type, null
+Mathematical model, Matematisk modell
+Data type, Datatyp
+Semantics (computer science), null
+Abstraction (software engineering), null
+Attribute (computing), Objektorienterad programmering
+System, System
+Accelerating change, null
+Technological change, null
+Action language, null
+State transition system, null
+Formal model, Formellt språk
+Artificial intelligence, Artificiell intelligens
+Robotics, Robotik
+Automated planning, Automatisk planering
+Action model learning, null
+Action selection, null
+Activation function, null
+Artificial neural network, Artificiellt neuronnät
+Adaptive algorithm, null
+Adaptive neuro fuzzy inference system, null
+Artificial neural network, Artificiellt neuronnät
+Inference system, null
+Fuzzy logic, Suddig logik
+wikt:framework, null
+Conditional (programming), If-sats
+Admissible heuristic, null
+Computer science, Datavetenskap
+Algorithm, Algoritm
+Pathfinding, null
+Heuristic function, Heuristik (datalogi)
+Affective computing, null
+Affect (psychology), Affekt
+Computer science, Datavetenskap
+Psychology, Psykologi
+Cognitive science, Kognitionsvetenskap
+Agent architecture, null
+Computer science, Datavetenskap
+Blueprint, Blåkopia
+Software agent, Agent (program)
+Intelligent control, null
+Intelligent agent, Intelligent agent
+Cognitive architecture, null
+AI accelerator (computer hardware), null
+Microprocessor, Mikroprocessor
+Hardware acceleration, Hårdvaruacceleration
+Artificial intelligence, Artificiell intelligens
+Artificial neural network, Artificiellt neuronnät
+Machine vision, null
+Machine learning, Maskininlärning
+AI-complete, null
+Artificial general intelligence, Artificiell generell intelligens
+Algorithm, Algoritm
+Algorithmic efficiency, null
+Algorithm, Algoritm
+Computational resource, null
+Analysis of algorithms, null
+Productivity, Produktivitet
+Algorithmic probability, null
+Algorithmic information theory, null
+Probability, Sannolikhet
+Ray Solomonoff, Ray Solomonoff
+AlphaGo, Alphago
+Computer program, Datorprogram
+Board game, Brädspel
+Go (game), Go (brädspel)
+Alphabet Inc., Alphabet
+Google DeepMind, Deepmind
+AlphaGo Zero, null
+AlphaGo Master, null
+AlphaGo Lee, null
+Computer Go, null
+Professional Go player, null
+Go handicaps, null
+Ambient intelligence, Ambient intelligens
+Analysis of algorithms, null
+Computational complexity, Komplexitet (beräkningsvetenskap)
+Computation, null
+Function (mathematics), Funktion
+Time complexity, Tidskomplexitet
+Space complexity, Minneskomplexitet
+Analytics, Analytics
+Answer set programming, null
+Declarative programming, Deklarativ programmering
+NP-hard, null
+Search algorithm, null
+Stable model semantics, null
+Logic programming, Logikprogrammering
+Anytime algorithm, null
+Application programming interface, Application Programming Interface
+Communication protocols, Kommunikationsprotokoll
+Computer program, Datorprogram
+Programmer, Programmerare
+Operating system, Operativsystem
+Database system, Databas
+Library (computing), Programbibliotek
+Approximate string matching, null
+String (computing), Sträng (data)
+Pattern, Mönster (dekoration)
+Substring, null
+Approximation error, Absolutfel
+Argumentation framework, null
+Binary relation, Binär relation
+Directed graph, Riktad graf
+Artificial immune system, null
+Rule-based machine learning, null
+Immune system, Immunförsvar
+Learning, Studieteknik
+Memory, Minne
+Problem solving, Problemlösning
+Artificial intelligence, Artificiell intelligens
+Intelligence, Intelligens
+Machine, Maskin
+Computer science, Datavetenskap
+Intelligent agent, Intelligent agent
+Human mind, Psyke
+AIML, null
+XML, XML
+Natural language, Naturligt språk
+Artificial neural network, Artificiellt neuronnät
+Connectionism, null
+Biological neural network, null
+Brain, Hjärna
+Association for the Advancement of Artificial Intelligence, Association for the Advancement of Artificial Intelligence
+Artificial intelligence, Artificiell intelligens
+Asymptotic computational complexity, null
+Computational complexity theory, null
+Asymptotic analysis, null
+Algorithm, Algoritm
+Computational problem, null
+Big O notation, Ordo
+Attributional calculus, null
+Ryszard S. Michalski, null
+Predicate logic, Första ordningens logik
+Propositional calculus, Satslogik
+Multi-valued logic, Flervärd logik
+Augmented reality, Förstärkt verklighet
+Visual, Syn
+Hearing, Hörsel
+Haptic perception, Haptik
+Somatosensory system, Känsel
+Olfactory, Luktsinne
+Automata theory, Automatteori
+Abstract machine, Automat (datavetenskap)
+Automaton, null
+Computational problem, null
+Theoretical computer science, null
+Discrete mathematics, Diskret matematik
+Mathematics, Matematik
+Computer science, Datavetenskap
+Automated planning and scheduling, Automatisk planering
+Artificial intelligence, Artificiell intelligens
+Strategy, Strategi
+Intelligent agent, Intelligent agent
+Autonomous robot, null
+Unmanned vehicle, null
+Control system, null
+Statistical classification, null
+Decision theory, Beslutsteori
+Automated reasoning, null
+Computer science, Datavetenskap
+Mathematical logic, Matematisk logik
+Reasoning, Förnuft
+Computer programs, Datorprogram
+Artificial intelligence, Artificiell intelligens
+Theoretical computer science, Teoretisk datavetenskap
+Philosophy, Filosofi
+Autonomic computing, null
+Self-management (computer science), null
+Distributed computing, Distributed computing
+IBM, IBM
+Systems management, null
+Autonomous car, Självkörande bil
+Vehicular automation, null
+User interface, Användargränssnitt
+Autonomous robot, null
+Robot, Robot
+Behavior-based robotics, null
+Autonomy, Autonomi
+Artificial intelligence, Artificiell intelligens
+Robotics, Robotik
+Information engineering (field), null
+Backpropagation, null
+Artificial neural network, Artificiellt neuronnät
+Gradient, Gradient
+Artificial neural network, Artificiellt neuronnät
+Deep neural network, Djupinlärning
+Backpropagation through time, null
+Gradient, Gradient
+Recurrent neural network, null
+Recurrent neural network, null
+Backward chaining, null
+Inference, Slutledning
+Automated theorem prover, null
+Inference engine, null
+Proof assistant, null
+Artificial intelligence, Artificiell intelligens
+Bag-of-words model, null
+Natural language processing, null
+Information retrieval, Informationssökning
+Multiset, Multimängd
+Multiplicity (mathematics), null
+Bag-of-words model in computer vision, null
+Document classification, null
+Feature (machine learning), null
+Statistical classification, null
+Bag-of-words model in computer vision, null
+Image classification, Datorseende
+Image feature, null
+Bag of words, null
+Sparse vector, Gles matris
+Histogram, Histogram
+Computer vision, Datorseende
+Batch normalization, null
+Artificial neural network, Artificiellt neuronnät
+Bayesian programming, null
+Probability distribution, Sannolikhetsfördelning
+Bees algorithm, null
+Search algorithm, null
+Combinatorial optimization, null
+Continuous optimization, null
+Behavior informatics, null
+Behavior tree (artificial intelligence, robotics and control), null
+Mathematical model, Matematisk modell
+Automated planning and scheduling, Automatisk planering
+Computer science, Datavetenskap
+Robotics, Robotik
+Control systems, null
+Artificial intelligence (video games), null
+State machine, null
+Belief-desire-intention software model, null
+Intelligent agent, Intelligent agent
+Bias–variance tradeoff, null
+Statistics, Statistik
+Machine learning, Maskininlärning
+Bias of an estimator, null
+Statistical parameter, null
+Estimation theory, null
+Variance, Varians
+Sample (statistics), Stickprov
+Big data, Big data
+Data set, null
+Data processing, null
+Application software, Tillämpningsprogram
+Statistical power, Statistisk styrka
+False discovery rate, null
+Big O notation, Ordo
+Asymptotic analysis, null
+Function (mathematics), Funktion
+Argument of a function, null
+Paul Gustav Heinrich Bachmann, null
+Edmund Landau, Edmund Landau
+Binary tree, Binärträd
+Tree structure, null
+Data structure, Datastruktur
+Child node, Träd (datastruktur)
+Recursive definition, null
+Set theory, Mängdteori
+Tuple, Tupel
+Empty set, Tomma mängden
+Singleton set, null
+Blackboard system, null
+Artificial intelligence, Artificiell intelligens
+Blackboard design pattern, null
+Boltzmann machine, null
+Stochastic neural network, null
+Recurrent neural network, null
+Markov random field, null
+Stochastic process, Stokastisk process
+Generative model, null
+Hopfield network, Hopfieldnät
+Boolean satisfiability problem, null
+Interpretation (logic), null
+Satisfiability, null
+Boolean logic, Boolesk algebra
+Formula (mathematical logic), null
+Validity (logic), Universalitet
+Contradiction, Motsägelse
+Brain technology, null
+Neuroscience, Neurovetenskap
+Zurich, Switzerland, Zürich
+ROBOY, null
+Starmind International, null
+Branching factor, Förgreningsfaktor
+Computing, null
+Tree data structure, Träd (datastruktur)
+Game theory, Spelteori
+Child node, Träd (datastruktur)
+Node (computer science), null
+Outdegree, Riktad graf
+Brute-force search, null
+Problem-solving, Problemlösning
+Algorithmic paradigm, null
+Capsule neural network, null
+Artificial neural network, Artificiellt neuronnät
+Case-based reasoning, Case Based Reasoning
+Chatbot, null
+Computer program, Datorprogram
+Artificial intelligence, Artificiell intelligens
+Conversation, Samtal
+Cloud robotics, null
+Robotics, Robotik
+Cloud computing, Datormoln
+Cloud storage, Molnlagring
+Internet technologies, TCP/IP
+Data center, Datorhall
+Network (computing), Datornätverk
+Data center, Datorhall
+Knowledge base, Kunskapsbas
+Deep learning, Djupinlärning
+Cluster analysis, Klusteranalys (datavetenskap)
+Data mining, Datautvinning
+Statistics, Statistik
+Data analysis, null
+Machine learning, Maskininlärning
+Pattern recognition, null
+Image analysis, Bildanalys
+Information retrieval, Informationssökning
+Bioinformatics, Bioinformatik
+Data compression, Datakompression
+Computer graphics, Datorgrafik
+Cobweb (clustering), null
+Conceptual clustering, null
+Douglas H. Fisher (Computer Science) (page does not exist), null
+Classification tree, null
+Cognitive architecture, null
+Institute of Creative Technologies, null
+Cognitive computing, null
+Neuromorphic computing, null
+Human brain, null
+Mind, Psyke
+Reasoning, Förnuft
+Cognitive science, Kognitionsvetenskap
+Science, Vetenskap
+Mind, Psyke
+Combinatorial optimization, null
+Operations Research, Operationsanalys
+Applied mathematics, Tillämpad matematik
+Theoretical computer science, Teoretisk datavetenskap
+Finite set, Ändlig mängd
+Committee machine, null
+Artificial neural network, Artificiellt neuronnät
+Divide and rule, Söndra och härska
+Ensembles of classifiers, null
+Commonsense knowledge (artificial intelligence), null
+Artificial intelligence, Artificiell intelligens
+Advice Taker, null
+Commonsense reasoning, null
+Computational chemistry, Beräkningskemi
+Chemistry, Kemi
+Computer simulation, null
+Computational complexity theory, null
+Computational creativity, null
+Artificial intelligence, Artificiell intelligens
+Cognitive psychology, Kognitiv psykologi
+Philosophy, Filosofi
+The arts, Konstarterna
+Computational cybernetics, null
+Cybernetics, Cybernetik
+Computational intelligence, null
+Computational humor, null
+Computational linguistics, Språkteknologi
+Artificial intelligence, Artificiell intelligens
+Computer, Dator
+Humor research, null
+Computational intelligence, null
+Computer, Dator
+Computational learning theory, null
+Computer science, Datavetenskap
+Artificial intelligence, Artificiell intelligens
+Machine learning, Maskininlärning
+Computational linguistics, Språkteknologi
+Interdisciplinary, Tvärvetenskap
+Natural language, Naturligt språk
+Computational mathematics, null
+Computation, null
+Computational neuroscience, null
+Neuroscience, Neurovetenskap
+Developmental neuroscience, null
+Neuroanatomy, Neuroanatomi
+Neurophysiology, Neurofysiologi
+Cognitive neuroscience, Kognitiv neurovetenskap
+Nervous system, Nervsystemet
+Computational number theory, Algoritmisk talteori
+Algorithm, Algoritm
+Number theory, Talteori
+Computations, null
+Computational problem, null
+Theoretical computer science, Teoretisk datavetenskap
+Mathematical object, null
+Computers, Dator
+Computational statistics, null
+Statistics, Statistik
+Computer science, Datavetenskap
+Computer-automated design, null
+Electronic design automation, Electronic Design Automation
+Design Automation, null
+Product Configurator, null
+Computer-Aided Design, Computer-aided design
+Automotive engineering, null
+Civil engineering, Väg- och vattenbyggnad
+Composite material, Komposit
+Control engineering, Reglerteknik
+System identification, null
+Financial, Finans
+Mechatronic, Mekatronik
+Steel construction, Stålbyggnad
+Optimization (mathematics), Optimeringslära
+Machine learning, Maskininlärning
+Search algorithm, null
+Evolutionary computation, null
+Swarm intelligence, null
+Computer science, Datavetenskap
+Computer, Dator
+Algorithm, Algoritm
+Digital data, Digital
+Information, Information
+Computer scientist, Datorforskare
+Computer vision, Datorseende
+Interdisciplinarity, Tvärvetenskap
+Digital image, Digital bild
+Video, Video
+Engineering, Ingenjörsvetenskap
+Human visual system, Syn
+Concept drift, null
+Predictive analytics, Classification and Regression Tree
+Machine learning, Maskininlärning
+Connectionism, null
+Cognitive science, Kognitionsvetenskap
+Mind, Psyke
+Artificial neural networks, Artificiellt neuronnät
+Consistent heuristic, null
+Shortest path problem, null
+Artificial intelligence, Artificiell intelligens
+Heuristic function, Heuristik (datalogi)
+Constrained conditional model, null
+Machine learning, Maskininlärning
+Constraint logic programming, null
+Constraint programming, Villkorsprogrammering
+Logic programming, Logikprogrammering
+Constraint satisfaction, null
+Literal (mathematical logic), null
+Constraint programming, Villkorsprogrammering
+Programming paradigm, Programmeringsparadigm
+Finitary relation, Relation
+Variable (mathematics), Variabel
+Constraint (mathematics), null
+Language primitive, null
+Imperative programming, Imperativ programmering
+Constructed language, Konstgjort språk
+Language, Språk
+Phonology, Fonologi
+Grammar, Grammatik
+Vocabulary, Ordförråd
+Natural language, Naturligt språk
+Control theory, null
+Control engineering, Reglerteknik
+Mathematics, Matematik
+Dynamical system, Dynamiskt system
+Stability theory, null
+Convolutional neural network, null
+Deep learning, Djupinlärning
+Deep neural network, Djupinlärning
+Multilayer perceptron, null
+Data pre-processing, null
+Translation invariance, null
+Crossover (genetic algorithm), null
+Genetic algorithm, Genetisk programmering
+Evolutionary computation, null
+Genetic operator, null
+Chromosome (genetic algorithm), null
+Stochastic, Stokastik
+Candidate solution, null
+Chromosomal crossover, null
+Sexual reproduction, Sexuell förökning
+Biology, Biologi
+Cloning, Kloning
+Asexual reproduction, Asexuell förökning
+Mutation (genetic algorithm), null
+Darkforest, null
+Computer go, null
+Facebook, Facebook
+Deep learning, Djupinlärning
+Convolutional neural network, null
+Monte Carlo tree search, null
+Dartmouth workshop, Dartmouth-konferensen
+wikt:seminal, null
+Artificial intelligence, Artificiell intelligens
+Data fusion, null
+Data integration, null
+Data, Data (representation)
+Database, Databas
+Bioinformatics, Bioinformatik
+Big data, Big data
+Information explosion, null
+Data mining, Datautvinning
+Data science, null
+Interdisciplinary, Tvärvetenskap
+Knowledge, Kunskap
+Data, Data (representation)
+Data mining, Datautvinning
+Mathematics, Matematik
+Statistics, Statistik
+Information science, Informationsvetenskap
+Computer science, Datavetenskap
+Data set, null
+Data, Data (representation)
+Table (database), null
+Data matrix (multivariate statistics), null
+Column (database), null
+Row (database), null
+Data warehouse, Data warehouse
+Business reporting, null
+Data analysis, null
+Datalog, null
+Declarative programming, Deklarativ programmering
+Logic programming, Logikprogrammering
+Prolog, Prolog (programspråk)
+Query language, null
+Deductive database, null
+Data integration, null
+Information extraction, Informationsextraktion
+Computer network, Datornätverk
+Program analysis, null
+Security, null
+Cloud computing, Datormoln
+Decision boundary, null
+Backpropagation, null
+Artificial neural network, Artificiellt neuronnät
+Perceptron, Perceptron
+Continuous function, Kontinuerlig funktion
+Compact space, Kompakthet
+Euclidean space, Euklidiskt rum
+Universal approximation theorem, null
+Decision support system, null
+Information systems, Informationssystem
+Decision-making, Beslutsfattande
+Decision theory, Beslutsteori
+Agent (economics), null
+Norm (philosophy), null
+Optimal decision, null
+Value (personal and cultural), Värdering (sociologi)
+Decision tree learning, null
+Decision tree, Beslutsträd
+Predictive modelling, null
+Statistics, Statistik
+Data mining, Datautvinning
+Machine learning, Maskininlärning
+Declarative programming, Deklarativ programmering
+Programming paradigm, Programmeringsparadigm
+Computation, null
+Control flow, Programflöde
+Deductive classifier, null
+Artificial intelligence, Artificiell intelligens
+Inference engine, null
+Frame language, null
+Class hierarchy, null
+Deep Blue (chess computer), Deep Blue (schackdator)
+Computer chess, Schackdator
+IBM, IBM
+Deep learning, Djupinlärning
+Machine learning, Maskininlärning
+Learning representation, null
+Supervised learning, null
+Semi-supervised learning, null
+Unsupervised learning, null
+DeepMind, Deepmind
+United Kingdom, Storbritannien
+Artificial intelligence, Artificiell intelligens
+Alphabet Inc., Alphabet
+London, London
+Canada, Kanada
+France, Frankrike
+United States, USA
+List of mergers and acquisitions by Google, null
+Google, Google
+Neural network, null
+Video games, Videospel
+Neural Turing machine, null
+Turing machine, Turingmaskin
+Short-term memory, Korttidsminne
+AlphaGo, Alphago
+Go (game), Go (brädspel)
+Lee Sedol, Lee Sedol
+AlphaGo versus Lee Sedol, null
+AlphaZero, null
+Go (game), Go (brädspel)
+Chess, Schack
+Shogi, Shogi
+Reinforcement learning, Förstärkningsinlärning
+Default logic, null
+Non-monotonic logic, null
+Raymond Reiter, null
+Description logic, null
+Knowledge representation, null
+Propositional logic, Satslogik
+First-order logic, Första ordningens logik
+Decision problem, Beslutsproblem
+Knowledge representation and reasoning, null
+Complexity class, Komplexitetsklass
+Developmental robotics, null
+Epigenetics, Epigenetik
+Machine, Maskin
+Diagnosis (artificial intelligence), null
+Dialogue system, null
+Dimensionality reduction, null
+Feature selection, null
+Feature extraction, null
+Discrete system, null
+Graph (discrete mathematics), Graf (grafteori)
+Computational theory, null
+Mathematical models, Matematisk modell
+Computer, Dator
+Finite state machine, Ändlig automat
+Discrete time, null
+Distributed artificial intelligence, null
+Artificial intelligence, Artificiell intelligens
+Multi-agent system, null
+Dynamic epistemic logic, null
+Intelligent agent, Intelligent agent
+Event (philosophy), Evenemang
+Eager learning, null
+Lazy learning, null
+Ebert test, null
+Speech synthesis, Talsyntes
+Humor, Humor
+Laughter, Skratt
+Film critic, null
+Roger Ebert, Roger Ebert
+TED (conference), TED (konferens)
+Software developers, Programmerare
+Turing test, Turingtestet
+Alan Turing, Alan Turing
+Human being, Människa
+Echo state network, null
+Recurrent neural network, null
+Artificial neuron, null
+Embodied agent, null
+Intelligent agent, Intelligent agent
+Embodied cognitive science, null
+Error-driven learning, null
+Machine learning, Maskininlärning
+Intelligent agent, Intelligent agent
+Environment (systems), null
+Reinforcement learning, Förstärkningsinlärning
+Ensemble averaging (machine learning), null
+Machine learning, Maskininlärning
+Artificial neural networks, Artificiellt neuronnät
+Ethics of artificial intelligence, Etiken kring artificiell intelligens
+Ethics of technology, null
+Evolutionary algorithm, null
+Subset, Delmängd
+Evolutionary computation, null
+Metaheuristic, null
+Optimization (mathematics), Optimeringslära
+Algorithm, Algoritm
+Biological evolution, Evolution
+Reproduction, Fortplantning
+Mutation, Mutation
+Genetic recombination, Genetisk rekombination
+Natural selection, Naturligt urval
+Candidate solution, null
+Optimization problem, Optimeringsproblem
+Fitness function, null
+Loss function, null
+Evolution, Evolution
+Evolutionary computation, null
+Algorithm, Algoritm
+Global optimization, null
+Biological evolution, Evolution
+Artificial intelligence, Artificiell intelligens
+Soft computing (page does not exist), null
+Trial and error, Trial and error
+Metaheuristic, null
+Stochastic optimization, null
+Evolving classification function, null
+Classifier (mathematics), null
+Machine learning, Maskininlärning
+Artificial intelligence, Artificiell intelligens
+Data stream mining, null
+Existential risk from artificial general intelligence, Existentiell risk orsakad av artificiell generell intelligens
+Artificial general intelligence, Artificiell generell intelligens
+Human extinction, null
+Global catastrophic risk, Globala katastrofrisker
+Expert system, Expertsystem
+Automated reasoning, null
+Rule-based system, null
+Procedural programming, Procedurell programmering
+Fast-and-frugal trees, null
+Classification tree, null
+Feature extraction, null
+Machine learning, Maskininlärning
+Pattern recognition, null
+Image processing, null
+Feature (machine learning), null
+Feature learning, null
+Machine learning, Maskininlärning
+Feature engineering, null
+Feature selection, null
+Machine learning, Maskininlärning
+Statistics, Statistik
+Feature (machine learning), null
+Federated learning, null
+First-order logic, Första ordningens logik
+Formal system, Formellt system
+Mathematics, Matematik
+Philosophy, Filosofi
+Linguistics, Språkvetenskap
+Computer science, Datavetenskap
+Quantification (logic), Kvantifikator
+Socrates, Sokrates
+Propositional logic, Satslogik
+Fluent (artificial intelligence), null
+Logic, Logik
+First-order logic, Första ordningens logik
+Predicate (logic), null
+Formal language, Formellt språk
+String (computer science), Sträng (data)
+Symbol (formal), null
+Alphabet (computer science), Alfabet (matematik)
+Well-formedness, null
+Forward chaining, null
+Inference engine, null
+Logically, Logik
+Expert system, Expertsystem
+Business rules engine, null
+Production system (computer science), null
+Backward chaining, null
+Data, Data (representation)
+Goal, null
+Inference engine, null
+Antecedent (logic), Antecedent
+Consequent, Konsekvent
+Information, Information
+Frame (artificial intelligence), null
+Data structure, Datastruktur
+Knowledge, Kunskap
+Stereotype, Stereotyp
+Frame language, null
+Frame language, null
+Knowledge representation, null
+Ontology (information science), null
+Set theory, Mängdteori
+Frame (artificial intelligence), null
+Object-oriented languages, Objektorienterad programmering
+Encapsulation (object-oriented programming), Inkapsling (Information Hiding)
+Information hiding, null
+Software engineering, null
+Frame problem, null
+Friendly artificial intelligence, Vänlig artificiell intelligens
+Artificial general intelligence, Artificiell generell intelligens
+Ethics of artificial intelligence, Etiken kring artificiell intelligens
+Machine ethics, null
+Futures studies, Framtidsstudier
+Future, Framtid
+Fuzzy control system, null
+Control system, null
+Fuzzy logic, Suddig logik
+Mathematics, Matematik
+Analog signal, Analog signal
+Mathematical logic, Matematisk logik
+Digital data, Digital
+Fuzzy logic, Suddig logik
+Many-valued logic, Flervärd logik
+Truth value, Sanningsvärde
+Boolean algebra, Boolesk algebra
+Fuzzy rule, null
+Fuzzy logic, Suddig logik
+Fuzzy set, null
+Set theory, Mängdteori
+Principle of bivalence, Bivalent logik
+Membership function (mathematics), null
+Indicator function, null
+Crisp set, Mängd
+Bioinformatics, Bioinformatik
+Game theory, Spelteori
+Mathematical model, Matematisk modell
+Generative adversarial network, null
+Machine learning, Maskininlärning
+Neural network, null
+Zero-sum game, Nollsummespel
+Genetic algorithm, Genetisk programmering
+Metaheuristic, null
+Natural selection, Naturligt urval
+Evolutionary algorithm, null
+Optimization (mathematics), Optimeringslära
+Search algorithm, null
+Mutation (genetic algorithm), null
+Crossover (genetic algorithm), null
+Selection (genetic algorithm), null
+Genetic operator, null
+Operator (programming), Operator (programmering)
+Genetic algorithms, Genetisk programmering
+Mutation (genetic algorithm), null
+Crossover (genetic algorithm), null
+Selection (genetic algorithm), null
+Glowworm swarm optimization, null
+Swarm intelligence, null
+Mathematical optimization, Optimeringslära
+Algorithm, Algoritm
+Glowworm, null
+Graph (abstract data type), null
+Computer science, Datavetenskap
+Abstract data type, null
+Graph (discrete mathematics), Graf (grafteori)
+Directed graph, Riktad graf
+Mathematics, Matematik
+Graph theory, Grafteori
+Graph (discrete mathematics), Graf (grafteori)
+Mathematics, Matematik
+Graph theory, Grafteori
+Graph database, null
+Database, Databas
+Graph (data structure), null
+Semantic query, null
+Node (graph theory), Nod (grafteori)
+Edge (graph theory), null
+Graph theory, Grafteori
+Graph traversal, null
+Graph (discrete mathematics), Graf (grafteori)
+Tree traversal, Traversering
+Heuristic (computer science), Heuristik (datalogi)
+Problem solving, Problemlösning
+Accuracy and precision, null
+Accuracy and precision, null
+Function (mathematics), Funktion
+Search algorithm, null
+Artificial neural network, Artificiellt neuronnät
+Artificial neural network, Artificiellt neuronnät
+Hyper-heuristic, null
+Heuristic, Heuristik
+Machine learning, Maskininlärning
+IEEE Computational Intelligence Society, null
+Professional society, null
+Institute of Electrical and Electronics Engineers, Institute of Electrical and Electronics Engineers
+Neural networks, null
+Genetic algorithms, Genetisk programmering
+Evolutionary programming, null
+Incremental learning, null
+Machine learning, Maskininlärning
+Supervised learning, null
+Unsupervised learning, null
+Inference engine, null
+Information integration, null
+Data mining, Datautvinning
+Rich-media, null
+Information Processing Language, null
+Programming language, Programspråk
+Dynamic memory allocation, null
+Data type, Datatyp
+Recursion (computer science), Rekursiv algoritm
+Subroutine, null
+Cooperative multitasking, null
+Assembly language, Assembler
+Intelligence amplification, null
+Information technology, Informationsteknik
+Intelligence, Intelligens
+Intelligence explosion, Teknologisk singularitet
+Artificial general intelligence, Artificiell generell intelligens
+Superintelligence, Superintelligens (AI)
+Intelligent agent, Intelligent agent
+Autonomous, Autonomi
+Software agent, Agent (program)
+Environment (biophysical), Miljö (omgivning)
+Machine learning, Maskininlärning
+Knowledge representation, null
+Complexity, Komplexitet
+Intelligent control, null
+Control theory, null
+Artificial intelligence, Artificiell intelligens
+Artificial neural networks, Artificiellt neuronnät
+Bayesian probability, null
+Fuzzy logic, Suddig logik
+Machine learning, Maskininlärning
+Reinforcement learning, Förstärkningsinlärning
+Evolutionary computation, null
+Genetic algorithm, Genetisk programmering
+Intelligent personal assistant, Digital assistent
+Software agent, Agent (program)
+Chatbot, null
+Online chat, Chatt
+Interpretation (logic), null
+Symbol (formal), null
+Formal language, Formellt språk
+Mathematics, Matematik
+Logic, Logik
+Theoretical computer science, Teoretisk datavetenskap
+Syntax, Syntax
+Formal semantics (logic), null
+Issue tree, null
+Problem solving, Problemlösning
+Junction tree algorithm, null
+Machine learning, Maskininlärning
+Marginal distribution, null
+Graph (discrete mathematics), Graf (grafteori)
+Belief propagation, null
+Junction tree, null
+Vertex (graph theory), Nod (grafteori)
+Kernel method, null
+Machine learning, Maskininlärning
+Pattern analysis, null
+Support vector machine, Stödvektormaskin
+Cluster analysis, Klusteranalys (datavetenskap)
+Ranking, null
+Principal components, Principalkomponentanalys
+Correlation, Korrelation
+Statistical classification, null
+KL-ONE, null
+Knowledge representation, null
+Semantic networks, null
+Frame (Artificial intelligence), null
+Frame language, null
+Knowledge acquisition, null
+Knowledge-based system, null
+Expert systems, Expertsystem
+Knowledge domain, null
+Rule-based system, null
+Object-oriented programming, Objektorienterad programmering
+Frame language, null
+Ontologies (computer science), null
+Knowledge-based systems, null
+Computer program, Datorprogram
+Automated reasoning, null
+Knowledge base, Kunskapsbas
+Problem solving, Problemlösning
+Complex systems, null
+Reasoning system, null
+Knowledge base, Kunskapsbas
+Inference engine, null
+Knowledge engineering, null
+Knowledge-based systems, null
+Knowledge extraction, null
+Knowledge representation and reasoning, null
+Relational databases, Relationsdatabas
+XML, XML
+Text (literary theory), Text (språk)
+Image, null
+Knowledge representation and reasoning, null
+Information extraction, Informationsextraktion
+Natural language processing, null
+Extract, transform, load, null
+Database schema, null
+Knowledge representation and reasoning, null
+Ontologies, null
+Knowledge Interchange Format, null
+Knowledge-based systems, null
+Frame language, null
+KL-ONE, null
+LOOM (ontology), null
+PostScript, Postscript
+Knowledge representation and reasoning, null
+Artificial intelligence, Artificiell intelligens
+Computer-aided diagnosis, null
+Natural language user interface, null
+Formalism (mathematics), null
+Logic, Logik
+Set theory, Mängdteori
+Subset, Delmängd
+Semantic network, null
+Systems architecture, null
+Frame (artificial intelligence), null
+Ontology (information science), null
+Automated reasoning, null
+Inference engine, null
+Automated theorem proving, null
+Lazy learning, null
+Machine learning, Maskininlärning
+Training data, null
+Eager learning, null
+Lisp (programming language), Lisp
+Computer, Dator
+Programming language, Programspråk
+Parenthesized, Parentes
+Polish notation, Prefixnotation
+Logic programming, Logikprogrammering
+Programming paradigm, Programmeringsparadigm
+Formal logic, Matematisk logik
+Programming language, Programspråk
+Prolog, Prolog (programspråk)
+Answer set programming, null
+Datalog, null
+Long short-term memory, null
+Recurrent neural network, null
+Deep learning, Djupinlärning
+Feedforward neural network, null
+Turing machine, Turingmaskin
+Machine vision, null
+Process control, null
+Systems engineering, null
+Computer vision, Datorseende
+Computer science, Datavetenskap
+Markov chain, Markovkedja
+Stochastic model, Stokastisk process
+Sequence, Följd
+Markov decision process, null
+Discrete time, null
+Stochastic, Stokastik
+Optimal control theory, null
+Decision making, Beslutsfattande
+Randomness, Slump
+Optimization problem, Optimeringsproblem
+Dynamic programming, Dynamisk programmering
+Reinforcement learning, Förstärkningsinlärning
+Mathematical optimization, Optimeringslära
+Mathematics, Matematik
+Computer science, Datavetenskap
+Operations research, Operationsanalys
+Machine learning, Maskininlärning
+Branches of science, null
+Algorithm, Algoritm
+Statistical model, Statistisk modell
+Computer systems, Dator
+Machine listening, null
+Algorithm, Algoritm
+Machine perception, null
+Mechanism design, Allokeringsmekanism
+Economics, Nationalekonomi
+Game theory, Spelteori
+Engineering, Ingenjörsvetenskap
+Economic incentive, Incitament
+Strategy (game theory), null
+Rational choice theory, Rational choice
+Mechatronics, Mekatronik
+Multidisciplinary, Tvärvetenskap
+Electrical engineering, Elektroteknik
+Mechanical engineering, Maskinteknik
+Robotics, Robotik
+Electronics, Elektronik
+Computer engineering, Datateknik
+Telecommunications, Telekommunikation
+Systems engineering, null
+Control engineering, Reglerteknik
+Product engineering, null
+Metabolic network reconstruction and simulation, null
+Genome, Genom
+Physiology, Fysiologi
+Metaheuristic, null
+Computer science, Datavetenskap
+Mathematical optimization, Optimeringslära
+Procedure (computer science), null
+Heuristic (computer science), Heuristik (datalogi)
+Search algorithm, null
+Optimization problem, Optimeringsproblem
+Model checking, null
+Computer science, Datavetenskap
+Formal specification, null
+Deadlock, Baklås (datavetenskap)
+Crash (computing), Systemkrasch
+Modus ponens, Modus ponens
+Propositional calculus, Satslogik
+Rule of inference, Slutledningsregel
+Modus tollens, Modus tollens
+Propositional calculus, Satslogik
+Validity (logic), Universalitet
+Logical form, null
+Rule of inference, Slutledningsregel
+Contrapositive, Kontraposition
+Inference, Slutledning
+Monte Carlo tree search, null
+Computer science, Datavetenskap
+Heuristic (computer science), Heuristik (datalogi)
+Search algorithm, null
+Decision process, Beslutsfattande
+Multi-agent system, null
+Intelligent agent, Intelligent agent
+Monolithic system, null
+Scientific method, Vetenskaplig metod
+Function (computer science), null
+Algorithm, Algoritm
+Algorithm, Algoritm
+Search algorithm, null
+Reinforcement learning, Förstärkningsinlärning
+Multi-swarm optimization, null
+Particle swarm optimization, null
+Mutation (genetic algorithm), null
+Genetic operator, null
+Genetic diversity, Genetisk variation
+Genetic algorithm, Genetisk programmering
+Chromosome (genetic algorithm), null
+Mutation, Mutation
+Mycin, MYCIN
+Backward chaining, null
+Expert system, Expertsystem
+Artificial intelligence, Artificiell intelligens
+Bacteremia, Bakteriemi
+Meningitis, Hjärnhinneinflammation
+Antibiotic, Antibiotikum
+Naive Bayes classifier, Naiv bayesiansk klassificerare
+Machine learning, Maskininlärning
+Probabilistic classification, null
+Bayes' theorem, Bayes sats
+Statistical independence, Oberoende (sannolikhetslära)
+Naive semantics, null
+Knowledge representation, null
+Name binding, null
+Identifier, null
+Reference (computer science), Referens (datateknik)
+Machine language, Maskinkod
+Scoping, null
+Scope (computer science), null
+Scope (computer science), null
+Named-entity recognition, null
+Information extraction, Informationsextraktion
+Named entity, null
+Unstructured data, null
+Medical classification, null
+Named graph, null
+Semantic Web, Semantiska webben
+Resource Description Framework, Resource Description Framework
+Graph (discrete mathematics), Graf (grafteori)
+URI, Uniform Resource Identifier
+Metadata, Metadata
+World Wide Web, World Wide Web
+Natural language generation, null
+Chatbot, null
+Text-to-speech, Talsyntes
+Natural language processing, null
+Natural language, Naturligt språk
+Natural language programming, null
+Ontology (information science), null
+Programming language, Programspråk
+Natural language, Naturligt språk
+English language, Engelska
+Network motif, null
+Complex network, null
+Statistically significant, Signifikans
+Neural machine translation, null
+Machine translation, Maskinöversättning
+Artificial neural network, Artificiellt neuronnät
+Neural Turing machine, null
+Recurrent neural network, null
+Pattern matching, null
+Neural network, null
+Algorithm, Algoritm
+Programmable computer, null
+Auxiliary memory, Datorminne
+Gradient descent, null
+Long short-term memory, null
+Neuro-fuzzy, null
+Artificial neural network, Artificiellt neuronnät
+Fuzzy logic, Suddig logik
+Neurocybernetics, Brain-machine interface
+Brain, Hjärna
+Neuromodulation (medicine), null
+Neuromorphic engineering, null
+Very-large-scale integration, null
+Analog circuit, Analog elektronik
+Neural system, Nervsystemet
+Perception, Perception
+Motor control, null
+Multisensory integration, null
+Memristor, Memristor
+Transistor, Transistor
+Node (computer science), null
+Data structure, Datastruktur
+Linked list, Länkad lista
+Tree (data structure), Träd (datastruktur)
+Data, Data (representation)
+Pointer (computer programming), Datatyp
+Nondeterministic algorithm, null
+Algorithm, Algoritm
+Deterministic algorithm, Deterministisk algoritm
+Nouvelle AI, null
+NP (complexity), NP
+Computational complexity theory, null
+Complexity class, Komplexitetsklass
+Decision problem, Beslutsproblem
+Set (mathematics), Mängd
+Computational complexity theory, null
+Mathematical proof, Matematiskt bevis
+Polynomial time, Tidskomplexitet
+NP-completeness, NP-fullständig
+Computational complexity theory, null
+Brute force search, null
+Polynomial time, Tidskomplexitet
+NP-hardness, null
+NP (complexity), NP
+Computational complexity theory, null
+Subset sum problem, null
+Occam's razor, Ockhams rakkniv
+Principle, Princip
+Hypothesis, Hypotes
+Franciscan, Franciskanorden
+William of Ockham, William Ockham
+Scholasticism, Skolastik
+Catholic theology, null
+Offline learning, null
+Online machine learning, null
+Machine learning, Maskininlärning
+Out-of-core, null
+Ontology learning, null
+Ontology (information science), null
+Domain of discourse, null
+Conceptualization (information science), null
+Text corpus, null
+Ontology language, null
+OpenAI, Openai
+Parent company, Moderbolag
+Artificial intelligence, Artificiell intelligens
+Friendly artificial intelligence, Vänlig artificiell intelligens
+OpenCog, null
+Open source software, null
+Embodied cognition, null
+Artificial general intelligence, Artificiell generell intelligens
+Emergent phenomenon, Emergens
+Open Mind Common Sense, null
+Massachusetts Institute of Technology, Massachusetts Institute of Technology
+MIT Media Lab, MIT Media Lab
+Commonsense knowledge base, null
+Open-source software, null
+Computer software, Programvara
+Source code, Källkod
+Open-source license, null
+Copyright, Upphovsrätt
+Software distribution, Programdistributionsmodell
+Software, Programvara
+Open-source model, Öppen källkod
+Open collaboration, null
+Partial order reduction, null
+State transition system, null
+Model checking, null
+Automated planning and scheduling, Automatisk planering
+Algorithm, Algoritm
+Transition (computer science), null
+Partially observable Markov decision process, null
+Markov decision process, null
+Particle swarm optimization, null
+Mathematical optimization, Optimeringslära
+Iterative method, null
+Candidate solution, null
+Point particle, null
+Optimization (mathematics), Optimeringslära
+Formula, Formel
+Position (vector), Ortsvektor
+Velocity, Hastighet
+Pathfinding, null
+Maze, Labyrint
+Dijkstra's algorithm, Dijkstras algoritm
+Glossary of graph theory, null
+Pattern recognition, null
+Predicate logic, Första ordningens logik
+Formal system, Formellt system
+Mathematics, Matematik
+Philosophy, Filosofi
+Linguistics, Språkvetenskap
+Computer science, Datavetenskap
+Quantification (logic), Kvantifikator
+Propositional logic, Satslogik
+Finitary relation, Relation
+Predictive analytics, Classification and Regression Tree
+Data mining, Datautvinning
+Predictive modelling, null
+Machine learning, Maskininlärning
+Principal component analysis, Principalkomponentanalys
+Orthogonal transformation, null
+Correlation and dependence, Korrelation
+Variance, Varians
+Orthogonal, Ortogonalitet
+Linear combination, Linjärkombination
+Orthogonal basis set, null
+Principle of rationality, null
+Karl R. Popper, Karl Popper
+Situational analysis, null
+Probabilistic programming, null
+Programming paradigm, Programmeringsparadigm
+Probabilistic model, Statistisk modell
+Production system (computer science), null
+Programming language, Programspråk
+Formal language, Formellt språk
+Instruction set, Instruktionsuppsättning
+Input/output, I/O
+Computer programming, Programmering
+Algorithm, Algoritm
+Prolog, Prolog (programspråk)
+Logic programming, Logikprogrammering
+Computational linguistics, Språkteknologi
+First-order logic, Första ordningens logik
+Formal logic, Matematisk logik
+Programming language, Programspråk
+Declarative programming, Deklarativ programmering
+Rule of inference, Slutledningsregel
+Propositional calculus, Satslogik
+Logic, Logik
+Propositions, Påstående
+Logical connective, Logisk operator
+First-order logic, Första ordningens logik
+Python (programming language), Python (programspråk)
+Interpreted language, Interpreterande programspråk
+High-level programming language, Högnivåspråk
+General-purpose programming language, null
+Programming language, Programspråk
+Guido van Rossum, Guido van Rossum
+Code readability, Programmering
+Off-side rule, null
+Object-oriented programming, Objektorienterad programmering
+Qualification problem, null
+Knowledge-based systems, null
+Precondition, null
+Ramification problem, null
+Frame problem, null
+Quantifier (logic), Kvantifikator
+Logic, Logik
+Domain of discourse, null
+Open formula, Öppen utsaga
+Universal quantification, Allkvantifikator
+Existential quantification, Existenskvantifikator
+Quantum computing, Kvantdator
+Quantum mechanics, Kvantmekanik
+Phenomena, Fenomen
+Quantum superposition, null
+Quantum entanglement, Kvantsammanflätning
+Computation, null
+Query language, null
+Computer language, null
+Database, Databas
+Information system, Informationssystem
+Information retrieval query language, null
+R (programming language), R (programspråk)
+Programming language, Programspråk
+Free software, Fri programvara
+Statistical computing, null
+Statistician, Statistiker
+Data mining, Datautvinning
+Statistical software, null
+Data analysis, null
+Radial basis function network, null
+Mathematical modeling, Matematisk modell
+Artificial neural network, Artificiellt neuronnät
+Radial basis function, null
+Activation function, null
+Linear combination, Linjärkombination
+Function approximation, null
+Time series prediction, Tidsserie
+Statistical classification, null
+Control theory, null
+Royal Signals and Radar Establishment, null
+Random forest, null
+Ensemble learning, null
+Statistical classification, null
+Regression analysis, Regressionsanalys
+Decision tree learning, null
+Mode (statistics), Typvärde
+Overfitting, null
+Test set, null
+Reasoning system, null
+Information technology, Informationsteknik
+Software system, null
+Knowledge, Kunskap
+Logic, Logik
+Deductive reasoning, Deduktion
+Inductive reasoning, Induktion (filosofi)
+Knowledge-based systems, null
+Recurrent neural network, null
+Artificial neural network, Artificiellt neuronnät
+Directed graph, Riktad graf
+Feedforward neural networks, null
+Handwriting recognition, null
+Speech recognition, Taligenkänning
+Region connection calculus, null
+Reinforcement learning, Förstärkningsinlärning
+Machine learning, Maskininlärning
+Software agent, Agent (program)
+Action selection, null
+Supervised learning, null
+Unsupervised learning, null
+Reservoir computing, null
+Neural network, null
+Dynamical system, Dynamiskt system
+Liquid-state machine, null
+Echo state network, null
+Resource Description Framework, Resource Description Framework
+World Wide Web Consortium, World Wide Web Consortium
+Specification, null
+Metadata, Metadata
+Data model, null
+Web resource, null
+Data serialization, Serialisering
+Knowledge management, Knowledge Management
+Restricted Boltzmann machine, null
+Generative model, null
+Stochastic neural network, null
+Artificial neural network, Artificiellt neuronnät
+Probability distribution, Sannolikhetsfördelning
+Rete algorithm, null
+Pattern matching, null
+Algorithm, Algoritm
+Rule-based system, null
+Rule of inference, Slutledningsregel
+Fact, Faktum
+Knowledge base, Kunskapsbas
+Robotics, Robotik
+Interdisciplinarity, Tvärvetenskap
+List of engineering branches, null
+Branch of science, null
+Mechanical engineering, Maskinteknik
+Electronic engineering, null
+Information engineering (field), null
+Computer science, Datavetenskap
+Robot, Robot
+Computer system, Dator
+Sensory feedback, Återkoppling
+Information processing, null
+Rule-based system, null
+Computer science, Datavetenskap
+Rule-based machine learning, null
+Satisfiability, null
+Mathematical logic, Matematisk logik
+Validity (logic), Universalitet
+Semantics, Semantik
+Formula (mathematical logic), null
+Interpretation (logic), null
+Model theory, Modellteori
+Aristotle, Aristoteles
+Square of opposition, null
+Search algorithm, null
+Algorithm, Algoritm
+Search problem, null
+Feasible region, null
+Problem domain, null
+Continuous or discrete variable, null
+Selection (genetic algorithm), null
+Genetic algorithm, Genetisk programmering
+Crossover (genetic algorithm), null
+Self-management (computer science), null
+Computer, Dator
+Semantic network, null
+Knowledge base, Kunskapsbas
+Semantics, Semantik
+Concept, Begrepp
+Knowledge representation and reasoning, null
+Directed graph, Riktad graf
+Undirected graph, Graf (grafteori)
+Vertex (graph theory), Nod (grafteori)
+Concept, Begrepp
+Graph theory, Grafteori
+Semantic relationship, null
+Semantic field, null
+Semantic reasoner, null
+Logical consequence, Konsekvens (logik)
+Axioms, Axiom
+Inference engine, null
+Inference rules, Slutledningsregel
+Ontology language, null
+Description logic, null
+First-order predicate logic, Första ordningens logik
+Inference, Slutledning
+Forward chaining, null
+Backward chaining, null
+Semantic query, null
+Contextualization (computer science), null
+Pattern matching, null
+Reasoning system, null
+Semantics (computer science), null
+Programming language theory, null
+Programming language, Programspråk
+Programming language syntax, null
+String (computer science), Sträng (data)
+Computer platform, Plattform (datorteknik)
+Model of computation, null
+Sensor fusion, null
+Sensor, Sensor
+Information, Information
+Separation logic, null
+Hoare logic, null
+Logic of bunched implications, null
+Similarity learning, null
+Machine learning, Maskininlärning
+Regression (machine learning), Regressionsanalys
+Classification in machine learning, null
+Ranking, null
+Recommendation systems, Rekommendationssystem
+Simulated annealing, null
+Probabilistic algorithm, null
+Global optimum, Extremum
+Function (mathematics), Funktion
+Metaheuristic, null
+Global optimization, null
+Solution space, null
+Optimization problem, Optimeringsproblem
+Artificial intelligence, situated approach, null
+Situation calculus, null
+Logic, Logik
+SLD resolution, null
+Rule of inference, Slutledningsregel
+Logic programming, Logikprogrammering
+Resolution (logic), null
+Soundness, Sund (logik)
+Completeness (logic), Fullständighet (logik)
+Horn clause, null
+Software, Programvara
+Data (computing), null
+Computer, Dator
+Computer hardware, Maskinvara
+Computer science, Datavetenskap
+Software engineering, null
+Information, Information
+Computer system, Dator
+Computer program, Datorprogram
+Data, Data (representation)
+Computer program, Datorprogram
+Library (computing), Programbibliotek
+Data (computing), null
+Software documentation, null
+Digital media, null
+Software engineering, null
+Engineering, Ingenjörsvetenskap
+Software development, Programutvecklingsmetodik
+Software, Programvara
+Spatial-temporal reasoning, null
+Computer science, Datavetenskap
+Cognitive science, Kognitionsvetenskap
+Cognitive psychology, Kognitiv psykologi
+Robotic navigation, null
+SPARQL, null
+RDF query language, null
+Semantic Query, null
+Query language, null
+Database, Databas
+Resource Description Framework, Resource Description Framework
+Speech recognition, Taligenkänning
+Interdisciplinary, Tvärvetenskap
+Computational linguistics, Språkteknologi
+Translation, Översättning
+Linguistics, Språkvetenskap
+Computer science, Datavetenskap
+Electrical engineering, Elektroteknik
+Spiking neural network, null
+Artificial neural network, Artificiellt neuronnät
+Artificial neuron, null
+Electrical synapse, null
+Operating Model, null
+State (computer science), null
+Information technology, Informationsteknik
+Computer science, Datavetenskap
+Statistical classification, null
+Machine learning, Maskininlärning
+Statistics, Statistik
+Categorical data, null
+Observation, Observation
+Training set, null
+Spam filtering, null
+Pattern recognition, null
+Statistical relational learning, null
+Machine learning, Maskininlärning
+Domain model, null
+Uncertainty, Osäkerhet
+Relation (mathematics), Binär relation
+Knowledge representation, null
+First-order logic, Första ordningens logik
+Universal quantification, Allkvantifikator
+Probabilistic graphical model, null
+Bayesian network, Bayesiskt nätverk
+Markov network, null
+Inductive logic programming, null
+Stochastic optimization, null
+Optimization (mathematics), Optimeringslära
+Iterative method, null
+Random variable, Stokastisk variabel
+Objective function, null
+Deterministic system (mathematics), null
+Stochastic semantic analysis, null
+Computer science, Datavetenskap
+Semantic, Semantik
+Natural language understanding, null
+Stanford Research Institute Problem Solver, null
+Subject-matter expert, null
+Superintelligence, Superintelligens (AI)
+Intelligent agent, Intelligent agent
+Intelligence, Intelligens
+Genius, Geni
+Intellectual giftedness, Intellektuell särbegåvning
+Technological singularity, Teknologisk singularitet
+Technological singularity, Teknologisk singularitet
+Supervised learning, null
+Machine learning, Maskininlärning
+Inductive bias, null
+Support-vector machine, Stödvektormaskin
+Machine learning, Maskininlärning
+Supervised learning, null
+Algorithm, Algoritm
+Statistical classification, null
+Regression analysis, Regressionsanalys
+Swarm intelligence, null
+Collective behavior, null
+Decentralization, Decentralisering
+Self-organization, null
+Symbolic artificial intelligence, null
+Artificial intelligence, Artificiell intelligens
+Formal logic, Matematisk logik
+Search algorithm, null
+Synthetic intelligence, null
+Artificial intelligence, Artificiell intelligens
+Systems neuroscience, null
+Neuroscience, Neurovetenskap
+Systems biology, Systembiologi
+Neuron, Nervcell
+Neural pathway, null
+Neural circuit, null
+Large scale brain networks, null
+Technological singularity, Teknologisk singularitet
+Hypothetical, Hypotes
+Temporal difference learning, null
+Model-free (reinforcement learning), null
+Reinforcement learning, Förstärkningsinlärning
+Bootstrapping (statistics), null
+Monte Carlo method, Monte Carlo-metod
+Dynamic programming, Dynamisk programmering
+Tensor network theory, null
+Brain, Hjärna
+Cerebellum, Lillhjärnan
+Transformation geometry, null
+Space-time, Rumtid
+Neuronal networks, null
+Geometrization, Geometriseringsförmodan
+Central nervous system, Centrala nervsystemet
+Tensor, Tensor
+TensorFlow, TensorFlow
+Free software, Fri programvara
+Open-source software, null
+Library (computing), Programbibliotek
+Dataflow programming, null
+Differentiable programming, null
+Machine learning, Maskininlärning
+Neural networks, null
+Theoretical computer science, Teoretisk datavetenskap
+Computer science, Datavetenskap
+Mathematics, Matematik
+Theory of computation, null
+Theory of computation, null
+Theoretical computer science, Teoretisk datavetenskap
+Mathematics, Matematik
+Model of computation, null
+Algorithm, Algoritm
+Automata theory, Automatteori
+Computability theory, Beräkningsteori
+Computational complexity theory, null
+Thompson sampling, null
+Multi-armed bandit, null
+Time complexity, Tidskomplexitet
+Computational complexity, Komplexitet (beräkningsvetenskap)
+Algorithm, Algoritm
+Constant factor, Ordo
+Transhumanism, Transhumanism
+School of thought, Lära
+Human condition, null
+Human enhancement, null
+Transition system, null
+Theoretical computer science, Teoretisk datavetenskap
+Computation, null
+Discrete system, null
+State (computer science), null
+Singleton (mathematics), null
+Tree traversal, Traversering
+Graph traversal, null
+Tree (data structure), Träd (datastruktur)
+True quantified Boolean formula, null
+Computational complexity theory, null
+Formal language, Formellt språk
+Quantification (logic), Kvantifikator
+Propositional logic, Satslogik
+Bound variable, Fria och bundna variabler
+Existential quantification, Existenskvantifikator
+Universal quantification, Allkvantifikator
+Bound variable, Fria och bundna variabler
+Boolean satisfiability problem, null
+Turing test, Turingtestet
+Alan Turing, Alan Turing
+Artificial intelligence, Artificiell intelligens
+Natural language understanding, null
+Keyboard (computing), Tangentbord
+Visual display unit, null
+Type system, Typsystem
+Programming language, Programspråk
+Type (computer science), Datatyp
+Computer program, Datorprogram
+Variable (computer science), null
+Expression (computer science), null
+Function (computer science), null
+Modular programming, null
+Algebraic data type, null
+Bug (computer programming), Bugg (dator)
+Interface (computer science), Gränssnitt
+Compile time, null
+Run time (program lifecycle phase), null
+Multiple dispatch, null
+Unsupervised learning, null
+Hebbian learning, Hebbs teori
+Self-organization, null
+Probability density function, Täthetsfunktion
+Supervised learning, null
+Reinforcement learning, Förstärkningsinlärning
+Vision processing unit, null
+Microprocessor, Mikroprocessor
+Hardware acceleration, Hårdvaruacceleration
+Machine vision, null
+Watson (computer), Watson (datorsystem)
+Question answering, null
+Natural language, Naturligt språk
+IBM, IBM
+Principal investigator, null
+David Ferrucci, null
+Thomas J. Watson, Thomas J. Watson
+Weak AI, null
+Artificial intelligence, Artificiell intelligens
+World Wide Web Consortium, World Wide Web Consortium
+Standards organization, Standardiseringsorgan
+World Wide Web, World Wide Web
+Artificial intelligence, Artificiell intelligens
+Glossary of machine vision, null
