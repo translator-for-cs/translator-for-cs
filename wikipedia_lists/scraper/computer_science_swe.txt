@@ -1,0 +1,1326 @@
+null
+Funktion (programmering)
+null
+null
+Agentbaserad modell
+null
+Agil systemutveckling
+Algoritm
+Algoritm
+null
+ASCII
+Application Programming Interface
+Tillämpningsprogram
+Fält (datastruktur)
+null
+Artificiell intelligens
+Natur
+ASCII
+null
+null
+Automatteori
+null
+null
+null
+null
+worst and average case, null
+Big data
+Ordo
+Binära talsystemet
+Binärsökning
+Binärträd
+Bioinformatik
+Bit
+Överföringskapacitet
+null
+Windows Bitmap
+Boolesk datatyp
+null
+Boolesk algebra
+Byte
+Bootning
+null
+Processor
+null
+Krypto
+Klass (programmering)
+null
+null
+Klient (datalogi)
+null
+null
+Datormoln
+Programbibliotek
+Programmering
+Kodningsteori
+Kognitionsvetenskap
+Comma-separated values
+Kompilator
+Kompilator
+Beräkningsteori
+null
+Beräkningsbiologi
+Beräkningskemi
+null
+null
+null
+Beräkningsfysik
+null
+null
+Dator
+Datorarkitektur
+Datorminne
+IT-etik
+Datorgrafik
+Datornätverk
+Programmering
+Datavetenskap
+Datorforskare
+Datasäkerhet
+Datorseende
+Konkatenering
+Samtidighet (datavetenskap)
+If-sats
+null
+Programflöde
+Creative Commons
+Kryptografi
+Comma-separated values
+Nätmobbning
+Cyberrymden
+Datorhall
+Databas
+Datautvinning
+null
+Datastruktur
+Datatyp
+null
+null
+Digital
+Digital signalbehandling
+null
+null
+Distributed computing
+null
+Domännamnssystemet
+null
+Domännamnssystemet
+null
+Nedladdning
+null
+Kryptering
+Händelse (programmering)
+null
+null
+Exekverbar fil
+Undantagshantering
+null
+null
+Förstudie
+Filändelse
+null
+Flyttal
+null
+Formella metoder
+Formell verifiering
+Funktionell programmering
+Spelteori
+garbage out, null
+GIF
+Gigabyte
+null
+Grafteori
+null
+Hashfunktion
+Hashtabell
+Heap (datastruktur)
+Heapsort
+Människa–datorinteraktion
+Integrerad utvecklingsmiljö
+null
+Imperativ programmering
+null
+null
+null
+Arv (programmering)
+I/O
+Insättningssortering
+null
+Integer
+Integrerad utvecklingsmiljö
+null
+Immaterialrätt
+Intelligent agent
+Gränssnitt
+null
+Internet
+Bot (program)
+Interpretator
+Invariant
+Iteration
+Java (programspråk)
+Operativsystemkärna
+Programbibliotek
+Linjärsökning
+Länkad lista
+Länkare
+null
+null
+Logikfel
+Logikprogrammering
+Maskininlärning
+null
+Matematisk logik
+Matris
+Datorminne
+Merge sort
+Funktion (programmering)
+null
+Modem
+null
+Talteori
+Numerisk analys
+null
+null
+Objektfiler
+null
+Objektorienterad programmering
+null
+Operativsystem
+Fiberoptik
+Parprogrammering
+Parallelldator
+null
+Kringutrustning
+null
+null
+Datorminne
+null
+Prioritetskö
+Procedurell programmering
+null
+Programspråk
+null
+null
+Prolog (programspråk)
+Python (programspråk)
+Kvantdator
+Kö (datastruktur)
+Quicksort
+R (programspråk)
+Talbas
+Rekursion
+null
+Relationsdatabas
+null
+Regressionstestning
+Kravhantering
+Robotik
+Avrundningsfel
+Router
+Dirigeringstabell
+null
+null
+null
+Datorminne
+Urvalssortering
+null
+Följd
+null
+null
+null
+Programvara
+Agent (program)
+null
+Mjukvaruimplementering
+null
+Programutvecklingsmetodik
+null
+null
+null
+null
+Software Requirements Specification
+Programvarutestning
+Sorteringsalgoritm
+Källkod
+null
+Stack (datastruktur)
+Datorminne
+Sträng (data)
+NoSQL
+null
+null
+null
+Syntaxfel
+null
+null
+null
+null
+Träd (datastruktur)
+null
+null
+Uniform Resource Locator
+Uniform Resource Locator
+Användaragent
+Användargränssnitt
+null
+null
+Virtuell maskin
+null
+WAVE
+Vattenfallsmodellen
+WAVE
+Spindel (internet)
+Wi-Fi
+XHTML
+
+Matematisk modell
+Datatyp
+null
+Datastruktur
+null
+null
+Gränssnitt
+null
+Datavetenskap
+Objektorienterad programmering
+System
+Generalisering
+null
+Begrepp
+null
+Datavetenskap
+Blåkopia
+Agent (program)
+null
+Intelligent agent
+null
+null
+null
+Spelteori
+null
+Emergens
+null
+null
+null
+Monte Carlo-metod
+Databas
+null
+null
+null
+null
+Programutvecklingsmetodik
+null
+null
+Kund
+Slutanvändare
+null
+Beräkning
+null
+null
+Operationsanalys
+Dynamisk programmering
+null
+Algoritm
+null
+null
+Produktivitet
+Teckenkod
+null
+Kommunikationsprotokoll
+Datorprogram
+Programmerare
+Programvara
+Ordbehandlare
+Kalkylprogram
+Bokföringsprogram
+Webbläsare
+Mediespelare
+Flygsimulator
+null
+null
+null
+null
+Datastruktur
+null
+null
+Tupel
+Användningsfall
+Klassmodeller
+Unified Modeling Language
+Maskin
+Intelligens
+Maskin
+Datavetenskap
+Intelligent agent
+Psyke
+Programmering
+Sats (programmering)
+null
+null
+null
+Systemkrasch
+Undantagshantering
+Automat (datavetenskap)
+null
+null
+Teoretisk datavetenskap
+Diskret matematik
+Matematik
+Datavetenskap
+Datavetenskap
+Matematisk logik
+Förnuft
+Datorprogram
+Artificiell intelligens
+Teoretisk datavetenskap
+Filosofi
+Sannolikhetsfördelning
+Datorprogram
+Algoritm
+null
+Tidskomplexitet
+null
+null
+Tillämpningsprogram
+Statistisk styrka
+null
+null
+Funktion
+null
+Edmund Landau
+Digitalteknik
+Tal
+0 (tal)
+1 (tal)
+null
+null
+null
+Datastruktur
+Träd (datastruktur)
+null
+Mängdteori
+Tupel
+Tomma mängden
+null
+Tvärvetenskap
+Programmeringsverktyg
+Biologi
+Biologi
+Datavetenskap
+null
+Matematik
+Statistik
+Teleskopord
+null
+Information
+null
+Kommunikation
+Binära talsystemet
+null
+Telekommunikation
+null
+Bit
+null
+Åtkomstkontroll
+Uniform Resource Locator
+IP-adress
+Domännamn
+MD5
+Vitlista
+Grålistning
+Rastergrafik
+Bildfilformat
+Bitmap
+Digital bild
+null
+Grafikkort
+Microsoft Windows
+OS/2
+Datatyp
+Sanningsvärde
+Logik
+Boolesk algebra
+George Boole
+If-sats
+Programflöde
+null
+Programspråk
+Boolesk datatyp
+Boolesk datatyp
+null
+Matematik
+Matematisk logik
+Algebra
+Variabel
+Sanningsvärde
+Elementär algebra
+Konjunktion (logik)
+Disjunktion
+Negation
+null
+Bit
+Binära talsystemet
+null
+Adressrymd
+null
+Datorarkitektur
+Dator
+null
+Read-only memory
+Firmware
+Power-on Self Test
+Hårddisk
+Datorminne
+Datorprogram
+Random Access Memory
+Exekverbar fil
+null
+null
+Dator
+Instruktionsuppsättning
+Datorprogram
+Aritmetik
+I/O
+Styrenhet
+Datorminne
+I/O
+Dator
+Telekommunikation
+Information
+Grafem
+Alfabet
+Stavelseskrift
+null
+Naturligt språk
+Kryptografi
+Algoritm
+Kryptering
+Kryptografi
+Objektorienterad programmering
+null
+null
+Funktion (programmering)
+Konstruktor
+null
+Datatyp
+null
+Objektorienterad programmering
+null
+null
+Objektorienterad programmering
+null
+null
+Maskinvara
+Programvara
+Server
+Dator
+Datornätverk
+Klient–server
+null
+null
+null
+IBM
+Programspråk
+null
+null
+null
+null
+null
+null
+null
+null
+Internet
+Stordriftsfördel
+null
+Icke-flyktigt datorminne
+Datorprogram
+Programutvecklingsmetodik
+null
+null
+Klass (programmering)
+null
+Datatyp
+OS360 och efterföljare
+null
+Exekverbar fil
+Datorprogram
+null
+Algoritm
+Programspråk
+Källkod
+null
+Logik
+Kodning
+Datakompression
+Kryptografi
+Felrättande kod
+null
+Lagringsmedium
+Informationsteori
+Elektroteknik
+Matematik
+Språkvetenskap
+Datavetenskap
+Vetenskap
+Psyke
+Kognition
+Information
+Språk
+Perception
+Minne
+Uppmärksamhet
+Förnuft
+Känsla
+Språkvetenskap
+Psykologi
+Artificiell intelligens
+Medvetandefilosofi
+Neurovetenskap
+Antropologi
+Fil (data)
+.txt
+Tabell
+Text (datavetenskap)
+null
+null
+Kommatecken
+Filformat
+Datorprogram
+Programspråk
+null
+Källkod
+Högnivåspråk
+Lågnivåspråk
+Assembler
+Objektfiler
+Maskinkod
+Exekverbar fil
+Matematisk logik
+Datavetenskap
+null
+null
+null
+Bevisteori
+null
+Beräkning
+null
+Algoritm
+Datavetenskap
+Kemi
+null
+Teoretisk kemi
+Datorprogram
+Molekyl
+Matematisk modell
+null
+null
+null
+null
+Neurovetenskap
+null
+Neuroanatomi
+Neurofysiologi
+Kognitiv neurovetenskap
+Nervsystemet
+Aritmetik
+Boolesk algebra
+Programmering
+Datateknik
+Dator
+Instruktionsuppsättning
+null
+null
+Implementation (samhällskunskap)
+Dator
+Lagringsmedium
+null
+Praktisk filosofi
+null
+null
+Nod (datorkommunikation)
+Dator
+null
+null
+Nätverkskabel
+null
+Wi-Fi
+Exekverbar fil
+Datorprogram
+null
+Algoritm
+Programspråk
+Källkod
+null
+Logik
+Dator
+Algoritm
+Digital
+Information
+Datorforskare
+null
+Datavetenskap
+Dator
+Maskinvara
+Programvara
+null
+Denial of Service
+Botnet
+Tvärvetenskap
+Digital bild
+Video
+Ingenjörsvetenskap
+Syn
+Programspråk
+Boolesk datatyp
+null
+Programflöde
+Funktionell programmering
+Programflöde
+null
+null
+null
+Jr., null
+null
+Scheme
+Sats (programmering)
+Instruktionsuppsättning
+null
+Imperativ programmering
+Datorprogram
+Exekvering
+Ideell förening
+Kreativitet
+Upphovsrätt
+Licens
+Creative Commons-licens
+null
+Trakasserier
+Teknologi
+Dator
+Telekommunikation
+Datorminne
+null
+Nätaggregat
+null
+Swedish
+Tvärvetenskap
+Kunskap
+Data (representation)
+Datautvinning
+Matematik
+Statistik
+Informationsvetenskap
+Datavetenskap
+null
+Data (representation)
+Kompilator
+Interpretator
+Reella tal
+Integer
+Boolesk datatyp
+null
+Programvara
+System
+null
+Programflöde
+null
+null
+Logg (datateknik)
+null
+null
+null
+null
+Programmering
+null
+null
+null
+null
+null
+Klass (programmering)
+Datatyp
+null
+Kompilator
+null
+null
+Informationsteori
+Informationssystem
+null
+Tal
+Bokstav
+Digital
+Signalprocessor
+Signalbehandling
+null
+null
+System
+null
+Tid
+null
+Simulering
+Datavetenskap
+Datornätverk
+null
+null
+Tjänsteorienterad arkitektur
+Massively multiplayer online game
+P2P-nätverk
+null
+Rekursion
+Algoritm
+Programvara
+Hierarki
+null
+Internet
+Domännamn
+IP-adress
+Kommunikationsprotokoll
+Distributed computing
+Katalogtjänst
+null
+null
+Datornätverk
+Server
+Webbserver
+File Transfer Protocol
+E-post
+null
+Fil (data)
+Router
+Switch
+null
+Metropolitan Area Network
+Wide Area Network
+Lokalt datornät
+null
+Händelse (programmering)
+Akrostikon
+Minnesregel
+Programmeringsparadigm
+Programflöde
+Händelse (programmering)
+Datormus
+Sensor
+null
+Tråd (datavetenskap)
+Grafiskt användargränssnitt
+Webbapplikation
+I/O
+Drivrutin
+null
+Algoritm
+null
+Evolution
+Artificiell intelligens
+null
+Trial and error
+null
+null
+Instruktionsuppsättning
+null
+Parser
+Maskinkod
+Processor
+Bytekod
+Skriptspråk
+null
+Datorprogram
+Exekvering
+Programspråk
+Maskinvara
+Avbrott
+Operativsystem
+Interprocesskommunikation
+Signal (datavetenskap)
+Programspråk
+null
+null
+Operator (programmering)
+null
+Operatorprioritet
+null
+Matematiskt uttryck
+null
+Miljö (omgivning)
+Resurs
+Utgift
+Värde (ekonomi)
+null
+Filnamn
+Fil (data)
+Datorprogram
+null
+null
+Vertikalstreck
+Programflöde
+Sats (programmering)
+Iteration
+Exekvering
+Algol (programspråk)
+Fortran
+COBOL
+Matematik
+null
+Formell verifiering
+Programvara
+Maskinvara
+Matematiskt bevis
+null
+Algoritm
+null
+Formella metoder
+Matematik
+Programmeringsparadigm
+Datorprogram
+null
+Funktion
+null
+null
+Deklarativ programmering
+null
+Sats (programmering)
+Matematisk modell
+Samhällsvetenskap
+Logik
+Datavetenskap
+Nollsummespel
+null
+Vetenskap
+Indata
+I/O
+Byte
+SI-prefix
+Internationella måttenhetssystemet
+Programmering
+null
+null
+null
+null
+Kommandotolk
+Matematik
+Funktion
+null
+Hashtabell
+Datastruktur
+null
+Datastruktur
+null
+null
+Databasnyckel
+null
+Hashfunktion
+Träd (datastruktur)
+Datastruktur
+null
+null
+Sorteringsalgoritm
+Urvalssortering
+Heap (datastruktur)
+null
+Datavetenskap
+Beteendevetenskap
+Design
+Medie- och kommunikationsvetenskap
+null
+Programmeringsparadigm
+Sats (programmering)
+null
+Imperativ
+Naturligt språk
+Kommando (dator)
+Programutvecklingsmetodik
+null
+Programvarutestning
+Vattenfallsmodellen
+null
+Determinism
+Artificiell intelligens
+Resurs
+Objektorienterad programmering
+null
+Klass (programmering)
+null
+null
+Swedish
+null
+null
+Dator
+null
+Information
+null
+null
+Sorteringsalgoritm
+null
+Processor
+Bootning
+Data (representation)
+Datatyp
+Intervall (matematik)
+Heltal
+Virtuell maskin
+Ord (datorterm)
+Tillämpningsprogram
+Programmerare
+Programutvecklingsmetodik
+null
+null
+Avlusare
+Programvarutestning
+null
+null
+null
+null
+null
+null
+null
+Egendom
+Upphovsrätt
+Patent
+Varumärke
+null
+Dator
+Programvara
+Maskinvara
+Kringutrustning
+Användargränssnitt
+Pekskärm
+Programvara
+Källkod
+null
+Dokumentation
+Teleskopord
+Datornätverk
+TCP/IP
+World Wide Web
+Tillämpningsprogram
+Internet
+Spindel (internet)
+Människa
+Datorprogram
+Exekvering
+Programspråk
+Skriptspråk
+Kompilator
+Maskinkod
+null
+Programspråk
+null
+Objektorienterad programmering
+null
+Programmerare
+run anywhere, null
+Kompilator
+Operativsystem
+Operativsystem
+Minne
+Operativsystem
+Icke-flyktigt datorminne
+Datorprogram
+Programutvecklingsmetodik
+null
+null
+Klass (programmering)
+null
+Datatyp
+null
+Datatyp
+Datastruktur
+null
+Följd
+null
+null
+Kompilator
+Assembler
+Exekverbar fil
+Programbibliotek
+null
+null
+null
+Matematik
+Följd
+null
+null
+Operativsystem
+Datorprogram
+Programbibliotek
+Exekverbar fil
+Programmering
+Bugg (dator)
+Systemkrasch
+Programmeringsparadigm
+Matematisk logik
+Programspråk
+Prolog (programspråk)
+null
+null
+null
+Algoritm
+Statistisk modell
+Dator
+Slutledning
+Artificiell intelligens
+Matematisk modell
+null
+null
+null
+Datorseende
+Datavetenskap
+Matematik
+Logik
+Metamatematik
+null
+Teoretisk datavetenskap
+Formellt system
+Deduktion
+Matematiskt bevis
+Matematik
+Rektangel
+null
+Tal
+null
+Matematiskt uttryck
+Dator
+Lagringsmedium
+null
+null
+Sorteringsalgoritm
+Sorteringsalgoritm
+null
+John von Neumann
+Herman Heine Goldstine
+John von Neumann
+Objektorienterad programmering
+null
+null
+null
+null
+Programutvecklingsmetodik
+null
+null
+null
+null
+Teleskopord
+Maskinvara
+Transmissionsmedium
+Modulation
+Bärvåg
+Digital
+null
+Elektrisk signal
+Lysdiod
+null
+Digital
+Dator
+Elektrisk signal
+null
+Språkvetenskap
+Datavetenskap
+null
+Artificiell intelligens
+Naturligt språk
+Taligenkänning
+null
+null
+null
+Heltal
+Aritmetisk funktion
+Algoritm
+Approximation
+null
+Matematisk analys
+Diskret matematik
+Numerisk analys
+null
+Datastruktur
+null
+Funktion (programmering)
+null
+Minnesadress
+null
+null
+Objektorienterad programmering
+null
+Klass (programmering)
+null
+Databas
+Kompilator
+Sats (programmering)
+Maskinkod
+Binärfil
+null
+null
+Objektorienterad programmering
+Programmeringsparadigm
+null
+Data (representation)
+null
+null
+null
+null
+Klass (programmering)
+Datatyp
+Programvara
+Källkod
+null
+Upphovsrätt
+Programdistributionsmodell
+Programvara
+Öppen källkod
+null
+null
+Maskinvara
+Programvara
+Daemon
+Datorprogram
+Transparens (optik)
+null
+Kalldragning
+Glas
+Kiseldioxid
+null
+null
+null
+Metall
+Attenuering
+null
+Agil systemutveckling
+Programmerare
+Källkod
+null
+null
+Process (datorteknik)
+null
+null
+null
+null
+Programmering
+null
+null
+null
+Programmering
+null
+null
+null
+Programmering
+null
+Kodning
+null
+Kodning
+Datasäkerhet
+null
+Kö (datastruktur)
+Stack (datastruktur)
+Datorprogram
+Exekvering
+Formellt språk
+Instruktionsuppsättning
+I/O
+Programmering
+Algoritm
+Kvantmekanik
+Fenomen
+null
+Kvantsammanflätning
+null
+null
+Dokumentation
+Produktutveckling
+Slutanvändare
+repair and operations, Reparation
+Handbok
+null
+null
+Swedish
+null
+Matematik
+Logik
+Formellt system
+Mängdteori
+null
+Datornätverk
+null
+Server
+null
+Datornätverk
+Uniform Resource Identifier
+Hypertext Transfer Protocol
+File Transfer Protocol
+null
+Java Database Connectivity
+Agent (program)
+null
+Webbläsare
+E-postprogram
+Industridesign
+Människa–datorinteraktion
+Beslutsfattande
+Operativsystem
+Verktyg
+Anläggningsmaskin
+Enhetsoperation
+Ergonomi
+Psykologi
+Design
+Användargränssnitt
+Maskin
+Programvara
+Dator
+Hushållsapparater
+Mobil enhet
+Elektronik
+Användbarhet
+null
+null
+Programmering
+Minnesadress
+Symbol
+Referens (datateknik)
+Källkod
+null
+null
+null
+Exekvering
+Emulator
+Datorarkitektur
+Programutvecklingsmetodik
+null
+Vattenfallsmodellen
+null
+Källkod
+Programvarutestning
+Följd
+null
+null
+Vattenfall
+Analys
+null
+null
+Programvarutestning
+Implementation (samhällskunskap)
+null
+Filändelse
+Ljudfil
+Microsoft
+IBM
+Persondator
+null
+null
+null
+Audio Interchange File Format
+Amiga
+Macintosh
+Microsoft Windows
+Pulskodsmodulering
+Bot (program)
+World Wide Web
+null
+IEEE 802.11
+Trådlöst LAN
+Internet
+null
+null
+XML
+Märkspråk
+HTML
+Webbsida
+Datavetenskap
