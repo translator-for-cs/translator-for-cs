@@ -1,0 +1,1039 @@
+3D computer graphics, 3D-grafik
+Abductive reasoning, Abduktion
+Abstract machine, Automat
+Abstract method, Funktion
+Accelerated Graphics Port, Accelerated graphics port
+Access control, Åtkomstkontroll
+Accounting software, Bokföringsprogram
+Acrostic, Akrostikon
+Address, Adressrymd
+Address space, Adressrymd
+Affect, Affekt
+Agent-based model, Agentbaserad modell
+Agile software development, Agil systemutveckling
+Alan Turing, Alan Turing
+Algebra, Algebra
+ALGOL, Algol
+Algorithm, Algoritm
+Algorithm design, Algoritm
+Algorithms, Algoritm
+Alphabet, Alfabet
+Ambient intelligence, Ambient intelligens
+Amiga, Amiga
+Analog circuit, Analog elektronik
+Analog signal, Analog signal
+Analysis, Analys
+Analytics, Analytics
+Animal, Djur
+Antecedent, Antecedent
+Anthropology, Antropologi
+Antibiotic, Antibiotikum
+Apple Macintosh, Macintosh
+Application developer, Programmerare
+Application programming interface, Application Programming Interface
+Application software, Tillämpningsprogram
+Applied mathematics, Tillämpad matematik
+Approximation, Approximation
+Approximation error, Absolutfel
+Arithmetic and logic operation, Instruktionsuppsättning
+Arithmetic, Aritmetik
+Arithmetic function, Aritmetisk funktion
+Arithmetic/logic instruction, Instruktionsuppsättning
+Array, Fält
+Artificial general intelligence, Artificiell generell intelligens
+Artificial intelligence, Artificiell intelligens
+Artificial neural network, Artificiellt neuronnät
+Artificial neural networks, Artificiellt neuronnät
+ASCII, ASCII
+Asexual reproduction, Asexuell förökning
+Aspect ratio, Bildformat
+Assembler, Assembler
+Assembly language, Assembler
+Association for the Advancement of Artificial Intelligence, Association for the Advancement of Artificial Intelligence
+Attention, Uppmärksamhet
+Attenuation, Attenuering
+Attribute, Objektorienterad programmering
+ATX, Advanced Technology Extended
+Audio file format, Ljudfil
+Audio Interchange File Format, Audio Interchange File Format
+Augmented reality, Förstärkt verklighet
+Automata theory, Automatteori
+Automated planning and scheduling, Automatisk planering
+Automated planning, Automatisk planering
+Autonomous, Autonomi
+Autonomous car, Självkörande bil
+Autonomy, Autonomi
+Auxiliary memory, Datorminne
+Axioms, Axiom
+Bacteremia, Bakteriemi
+Bar chart, Stapeldiagram
+Barcode, Streckkod
+Bayesian network, Bayesiskt nätverk
+Bayes' theorem, Bayes sats
+Behavioral sciences, Beteendevetenskap
+Big data, Big data
+Big O notation, Ordo
+Binary file, Binärfil
+Binary number, Binära talsystemet
+Binary relation, Binär relation
+Binary search algorithm, Binärsökning
+Binary tree, Binärträd
+Bioinformatics, Bioinformatik
+Biological evolution, Evolution
+Biology, Biologi
+BIOS, Basic Input/Output System
+Bit, Bit
+Bitmap, Bitmap
+Bit rate, Överföringskapacitet
+Blueprint, Blåkopia
+Blu-ray Disc, Blu-ray Disc
+BMP file format, Windows Bitmap
+Board game, Brädspel
+Boolean algebra, Boolesk algebra
+Boolean data type, Boolesk datatyp
+Boolean datatype, Boolesk datatyp
+Boolean logic, Boolesk algebra
+Boolean value, Boolesk datatyp
+Booting, Bootning
+Botnet, Botnet
+Bound variable, Fria och bundna variabler
+Brain, Hjärna
+Branching factor, Förgreningsfaktor
+Bug, Bugg
+Bus, Buss
+Byte, Byte
+Bytecode, Bytekod
+Cache, Cache
+Cache hit, Cache
+Cache misses, Cache
+Calculation, Beräkning
+Camera, Kamera
+Canada, Kanada
+Card reader, Kortläsare
+Carrier wave, Bärvåg
+Cartesian coordinate system, Kartesiskt koordinatsystem
+Case-based reasoning, Case Based Reasoning
+Categorization, Kategorisering
+Cathode ray tube, Katodstrålerör
+CD-ROM, CD-ROM
+Central nervous system, Centrala nervsystemet
+Central processing unit, Processor
+Cerebellum, Lillhjärnan
+Character encoding, Teckenkod
+Charge-coupled device, Charge Coupled Device
+Chemistry, Kemi
+Chess, Schack
+Child node, Träd
+Chipset, Chipset
+Cipher, Krypto
+CISC processor, CISC
+Civil engineering, Väg- och vattenbyggnad
+Class diagram, Klassmodeller
+Class, Klass
+Client, Klient
+Client–server model, Klient–server
+Cloning, Kloning
+Cloud computing, Datormoln
+Cloud storage, Molnlagring
+Cluster analysis, Klusteranalys
+Cluster, Datorkluster
+CMOS, CMOS
+Coaxial, Koaxial
+COBOL, COBOL
+Code, Kodning
+Code readability, Programmering
+Coding theory, Kodningsteori
+Cognition, Kognition
+Cognitive neuroscience, Kognitiv neurovetenskap
+Cognitive psychology, Kognitiv psykologi
+Cognitive science, Kognitionsvetenskap
+Color blindness, Defekt färgseende
+Color, Färg
+Color space, Färgrymd
+Color temperature, Färgtemperatur
+Color vision, Färgseende
+Comma, Kommatecken
+Command, Kommando
+Command-line interpreter, Kommandotolk
+Comma-separated values, Comma-separated values
+Communication, Kommunikation
+Communication protocol, Kommunikationsprotokoll
+Communication protocols, Kommunikationsprotokoll
+Communications protocol, Kommunikationsprotokoll
+Compact space, Kompakthet
+Compiler, Kompilator
+Compiler theory, Kompilator
+Completeness, Fullständighet
+Complexity class, Komplexitetsklass
+Complexity, Komplexitet
+Composite material, Komposit
+Composite video, Kompositvideo
+Computability theory, Beräkningsteori
+Computational biology, Beräkningsbiologi
+Computational chemistry, Beräkningskemi
+Computational complexity, Komplexitet
+Computational linguistics, Språkteknologi
+Computational number theory, Algoritmisk talteori
+Computational physics, Beräkningsfysik
+Compute device, OpenCL
+Computer-aided design, Computer-aided design
+Computer-Aided Design, Computer-aided design
+Computer architecture, Datorarkitektur
+Computer architectures, Datorarkitektur
+Computer case, Datorchassi
+Computer chess, Schackdator
+Computer data storage, Datorminne
+Computer, Dator
+Computer engineering, Datateknik
+Computer ethics, IT-etik
+Computer file, Fil
+Computer form factor, Formfaktor
+Computer graphics, Datorgrafik
+Computer hardware, Maskinvara
+Computer mouse, Datormus
+Computer network, Datornätverk
+Computer platform, Plattform
+Computer program, Datorprogram
+Computer programmer, Programmerare
+Computer programming, Programmering
+Computer programs, Datorprogram
+Computer science, Datavetenskap
+Computer scientist, Datorforskare
+Computers, Dator
+Computer security, Datasäkerhet
+Computer software, Programvara
+Computer storage device, Datorminne
+Computer system, Dator
+Computer systems, Dator
+Computer terminal, Datorterminal
+Computer vision, Datorseende
+Computing device, Dator
+Concatenation, Konkatenering
+Concept, Begrepp
+Concurrency, Samtidighet
+Conditional, If-sats
+Consequent, Konsekvent
+Constant factor, Ordo
+Constraint programming, Villkorsprogrammering
+Constructed language, Konstgjort språk
+Constructor, Konstruktor
+Continuous function, Kontinuerlig funktion
+Contradiction, Motsägelse
+Contrapositive, Kontraposition
+Contrast, Kontrast
+Control engineering, Reglerteknik
+Control flow, Programflöde
+Control unit, Styrenhet
+Conventional PCI, Peripheral Component Interconnect
+Conversation, Samtal
+Copyright, Upphovsrätt
+Core memory, Kärnminne
+Correlation and dependence, Korrelation
+Correlation, Korrelation
+Cost, Utgift
+CPU, Processor
+Crash, Systemkrasch
+Creative Commons, Creative Commons
+Creative Commons license, Creative Commons-licens
+Creativity, Kreativitet
+Crisp set, Mängd
+Cryptography, Kryptografi
+Customer, Kund
+Cyberbullying, Nätmobbning
+Cybernetics, Cybernetik
+Cyberspace, Cyberrymden
+Daemon, Daemon
+Dartmouth workshop, Dartmouth-konferensen
+Database, Databas
+Database management, Databas
+Database system, Databas
+Data center, Datorhall
+Data compression, Datakompression
+Data, Data
+Data mining, Datautvinning
+Data serialization, Serialisering
+Data storage device, Lagringsmedium
+Data storage, Lagringsmedium
+Data structure, Datastruktur
+Data type, Datatyp
+Data warehouse, Data warehouse
+DC power, Likström
+Deadlock, Baklås
+Debugger, Avlusare
+Decentralization, Decentralisering
+Decision making, Beslutsfattande
+Decision-making, Beslutsfattande
+Decision problem, Beslutsproblem
+Decision process, Beslutsfattande
+Decision theory, Beslutsteori
+Decision tree, Beslutsträd
+Declarative programming, Deklarativ programmering
+Decryption, Kryptografi
+Deductive reasoning, Deduktion
+Deep Blue, Deep Blue
+Deep learning, Djupinlärning
+DeepMind, Deepmind
+Deep neural network, Djupinlärning
+Demultiplexing, Multiplex
+Denial-of-service attack, Denial of Service
+Depth of field, Skärpedjup
+Design, Design
+Desktop computer, Skrivbordsdator
+Deterministic algorithm, Deterministisk algoritm
+Deterministic, Determinism
+Device driver, Drivrutin
+Diaphragm, Bländare
+Digital data, Digital
+Digital electronics, Digitalteknik
+Digital image, Digital bild
+Digital information, Digital
+Digital processing, Digital
+Digital signal processing, Digital signalbehandling
+Digital signal processor, Signalprocessor
+Digital Video Disc, DVD
+Digital Visual Interface, Digital Visual Interface
+Dijkstra's algorithm, Dijkstras algoritm
+Dimension, Dimension
+DIMM, DIMM
+Directed graph, Riktad graf
+Direct memory access, Direct Memory Access
+Directory service, Katalogtjänst
+Discrete mathematics, Diskret matematik
+DisplayPort, Displayport
+Distributed computing, Distributed computing
+Divide and rule, Söndra och härska
+DMA channel, Direct Memory Access
+Documentation, Dokumentation
+Domain name, Domännamn
+Domain Name System, Domännamnssystemet
+Download, Nedladdning
+Drawing, Kalldragning
+Dynamical system, Dynamiskt system
+Dynamic programming, Dynamisk programmering
+Dynamic random-access memory, Dynamiskt minne
+Economic incentive, Incitament
+Economics, Nationalekonomi
+Economies of scale, Stordriftsfördel
+Edmund Landau, Edmund Landau
+Electrical connector, Kontaktdon
+Electrical engineering, Elektroteknik
+Electrical signal, Elektrisk signal
+Electromagnetic wave, Elektromagnetisk strålning
+Electromechanical, Elektromekanik
+Electronic design automation, Electronic Design Automation
+Electronics, Elektronik
+Electronic visual display, Bildskärm
+Elementary algebra, Elementär algebra
+Email, E-post
+Emergence, Emergens
+Emergent phenomenon, Emergens
+Emotion, Känsla
+Empty set, Tomma mängden
+Emulator, Emulator
+Encapsulation, Inkapsling
+Encryption, Kryptering
+End user, Slutanvändare
+Engineering, Ingenjörsvetenskap
+English language, Engelska
+Environment, Miljö
+Epigenetics, Epigenetik
+Ergonomics, Ergonomi
+Error detection and correction, Felrättande kod
+Ethernet, Ethernet
+Ethics of artificial intelligence, Etiken kring artificiell intelligens
+Euclidean space, Euklidiskt rum
+Event, Evenemang
+Event, Händelse
+Event handler, Händelse
+Evolution, Evolution
+Exception handling, Undantagshantering
+Executable code, Exekverbar fil
+Executable, Exekverbar fil
+Execution, Exekvering
+Existential quantification, Existenskvantifikator
+Existential risk from artificial general intelligence, Existentiell risk orsakad av artificiell generell intelligens
+Expansion bus, Expansionskort
+Expansion card, Expansionskort
+Expert system, Expertsystem
+Expert systems, Expertsystem
+Expression, Matematiskt uttryck
+Facebook, Facebook
+Fact, Faktum
+Fan, Fläkt
+Feasibility study, Förstudie
+Field of view, Synfält
+Field Programmable Gate Array, Field-programmable gate array
+File format, Filformat
+Filename extension, Filändelse
+Filename, Filnamn
+File Transfer Protocol, File Transfer Protocol
+Financial, Finans
+Fingers, Finger
+Finitary relation, Relation
+Finite set, Ändlig mängd
+Finite state machine, Ändlig automat
+Firewall, Brandvägg
+FireWire, Firewire
+Firmware, Firmware
+First-order logic, Första ordningens logik
+First-order predicate logic, Första ordningens logik
+Flash memory, Flashminne
+Flash Memory, Flashminne
+Flight simulator, Flygsimulator
+Floating point arithmetic, Flyttal
+Floppy disk, Diskett
+Floppy disk drive, Diskett
+Focus, Fokus
+Formal language, Formellt språk
+Formal logic, Matematisk logik
+Formal methods, Formella metoder
+Formal model, Formellt språk
+Formal system, Formellt system
+Formal verification, Formell verifiering
+Formula, Formel
+Fortran, Fortran
+Frame grabber, Videoupptagningskort
+France, Frankrike
+Franciscan, Franciskanorden
+Free software, Fri programvara
+Frequency distribution, Frekvensfördelning
+Frequency, Frekvens
+Friendly artificial intelligence, Vänlig artificiell intelligens
+Functional programming, Funktionell programmering
+Function, Funktion
+Future, Framtid
+Futures studies, Framtidsstudier
+Fuzzy logic, Suddig logik
+Game theory, Spelteori
+Gamut, Färgomfång
+Generalization, Generalisering
+General-purpose computer, Dator
+Genetic algorithm, Genetisk programmering
+Genetic algorithms, Genetisk programmering
+Genetic diversity, Genetisk variation
+Genetic recombination, Genetisk rekombination
+Genius, Geni
+Genome, Genom
+Geometrization, Geometriseringsförmodan
+George Boole, George Boole
+GIF, GIF
+Gigabyte, Gigabyte
+Glass, Glas
+Global catastrophic risk, Globala katastrofrisker
+Global optimum, Extremum
+Go, Go
+Google DeepMind, Deepmind
+Google, Google
+Gradient, Gradient
+Grammar, Grammatik
+Grapheme, Grafem
+Graph, Graf
+Graphical display, Infographic
+Graphical user interface, Grafiskt användargränssnitt
+Graphics adapter, Grafikkort
+Graphics Processing Unit, Grafikprocessor
+Graph theory, Grafteori
+Grayscale, Gråskala
+Greylisting, Grålistning
+Guido van Rossum, Guido van Rossum
+GUI, Grafiskt användargränssnitt
+Haptic perception, Haptik
+Harassment, Trakasserier
+Hard disk drive, Hårddisk
+Hard disk, Hårddisk
+Hardware acceleration, Hårdvaruacceleration
+Harvard architecture, Harvardarkitektur
+Hash function, Hashfunktion
+Hash table, Hashtabell
+Heap, Heap
+Heapsort, Heapsort
+Hearing, Hörsel
+Heavy machinery, Anläggningsmaskin
+Hebbian learning, Hebbs teori
+Herman Goldstine, Herman Heine Goldstine
+Heuristic function, Heuristik
+Heuristic, Heuristik
+Hierarchy, Hierarki
+High-Definition Multimedia Interface, High-Definition Multimedia Interface
+High-level programming language, Högnivåspråk
+Histogram, Histogram
+Home appliance, Hushållsapparater
+Hopfield network, Hopfieldnät
+Http, Hypertext Transfer Protocol
+Human being, Människa
+Human-computer interaction, Människa–datorinteraktion
+Human–computer interaction, Människa–datorinteraktion
+Human, Människa
+Human mind, Psyke
+Human visual system, Syn
+Humor, Humor
+HyperText Markup Language, HTML
+Hypothesis, Hypotes
+Hypothetical, Hypotes
+IBM, IBM
+IBM PC, IBM PC
+IEEE 802.11, IEEE 802.11
+Image analysis, Bildanalys
+Image classification, Datorseende
+Image file format, Bildfilformat
+Image formats, Bildfilformat
+Immune system, Immunförsvar
+Imperative mood, Imperativ
+Imperative programming, Imperativ programmering
+Implementation, Implementation
+Incandescent light bulb, Glödlampa
+Inductive reasoning, Induktion
+Industrial design, Industridesign
+Inference rules, Slutledningsregel
+Inference, Slutledning
+Information extraction, Informationsextraktion
+Information, Information
+Information retrieval, Informationssökning
+Information science, Informationsvetenskap
+Information system, Informationssystem
+Information systems, Informationssystem
+Information technology, Informationsteknik
+Information theory, Informationsteori
+Infrared imaging, Värmekamera
+Inheritance, Arv
+Input, Indata
+Input/output, I/O
+Insertion sort, Insättningssortering
+Institute of Electrical and Electronics Engineers, Institute of Electrical and Electronics Engineers
+Instruction, Instruktionsuppsättning
+Instruction set architecture, Instruktionsuppsättning
+Instruction set, Instruktionsuppsättning
+Integer, Heltal
+Integer, Integer
+Integrated circuit, Integrerad krets
+Integrated development environment, Integrerad utvecklingsmiljö
+Intellectual giftedness, Intellektuell särbegåvning
+Intellectual property, Immaterialrätt
+Intelligence explosion, Teknologisk singularitet
+Intelligence, Intelligens
+Intelligent agent, Intelligent agent
+Intelligent personal assistant, Digital assistent
+Interdisciplinarity, Tvärvetenskap
+Interdisciplinary, Tvärvetenskap
+Interface, Gränssnitt
+International Business Machines, IBM
+International Commission on Illumination, CIE
+International System of Units, Internationella måttenhetssystemet
+Internet bot, Bot
+Internet, Internet
+Internet protocol suite, TCP/IP
+Internet technologies, TCP/IP
+Interpreted language, Interpreterande programspråk
+Interpreter, Interpretator
+Inter-process communication, Interprocesskommunikation
+Interrupt, Avbrott
+Interval, Intervall
+Invariant, Invariant
+I/O, I/O
+IP address, IP-adress
+Iteration, Iteration
+Java Database Connectivity, Java Database Connectivity
+Java, Java
+John von Neumann, John von Neumann
+JPEG, JPEG
+Jump drive, USB-minne
+Karl R. Popper, Karl Popper
+Kernel, Operativsystemkärna
+Keyboard, Tangentbord
+Knowledge base, Kunskapsbas
+Knowledge, Kunskap
+Knowledge management, Knowledge Management
+Language, Språk
+Laser, Laser
+Laser light, Laser
+Latency, Latens
+Laughter, Skratt
+Learning, Studieteknik
+LED display, Lysdiodskärm
+Lee Sedol, Lee Sedol
+Lens, Lins
+Letter, Bokstav
+Library, Programbibliotek
+License, Licens
+Light-emitting diode, Lysdiod
+Lighting, Belysning
+Light, Ljus
+Light spectrum, Elektromagnetiskt spektrum
+Linear combination, Linjärkombination
+Linear pulse-code modulation, Pulskodsmodulering
+Linear search, Linjärsökning
+Linguistics, Språkvetenskap
+Linked list, Länkad lista
+Linker, Länkare
+Lisp, Lisp
+Local area network, Lokalt datornät
+Logfile, Logg
+Logical conjunction, Konjunktion
+Logical connective, Logisk operator
+Logical consequence, Konsekvens
+Logical disjunction, Disjunktion
+Logical inference, Slutledning
+Logically, Logik
+Logical operations, Logisk operator
+Logical positivism, Logisk positivism
+Logic error, Logikfel
+Logic, Logik
+Logic programming, Logikprogrammering
+London, London
+Lossy compression, Destruktiv komprimering
+Lower level language, Lågnivåspråk
+Machine code, Maskinkod
+Machine language, Maskinkod
+Machine learning, Maskininlärning
+Machine, Maskin
+Machine translation, Maskinöversättning
+Magnetic core memory, Kärnminne
+Magnetic tape, Magnetband
+Magnetoresistive random-access memory, MRAM
+Mail user agent, E-postprogram
+Mainframe computer, Stordator
+Main memory, Datorminne
+Mains electricity, Nätspänning
+Maintenance, repair and operations, Reparation
+Many-valued logic, Flervärd logik
+Markov chain, Markovkedja
+Markup language, Märkspråk
+Massachusetts Institute of Technology, Massachusetts Institute of Technology
+Massively multiplayer online game, Massively multiplayer online game
+Mathematical analysis, Matematisk analys
+Mathematical expression, Matematiskt uttryck
+Mathematical logic, Matematisk logik
+Mathematically, Matematik
+Mathematical modeling, Matematisk modell
+Mathematical model, Matematisk modell
+Mathematical models, Matematisk modell
+Mathematical optimization, Optimeringslära
+Mathematical proof, Matematiskt bevis
+Mathematics, Matematik
+Matrix, Matris
+Maze, Labyrint
+MD5 Hash, MD5
+Mechanical engineering, Maskinteknik
+Mechanism design, Allokeringsmekanism
+Mechatronic, Mekatronik
+Mechatronics, Mekatronik
+Media player, Mediespelare
+Media studies, Medie- och kommunikationsvetenskap
+Megabyte, Megabyte
+Memory address, Minnesadress
+Memory card, Minneskort
+Memory, Minne
+Memristor, Memristor
+Meningitis, Hjärnhinneinflammation
+Merge sort, Merge sort
+Metadata, Metadata
+Metal, Metall
+Metamathematics, Metamatematik
+Method, Funktion
+Metrology, Mätteknik
+Metropolitan area network, Metropolitan Area Network
+Microcode, Mikroprogram
+Microprocessor, Mikroprocessor
+Microsoft, Microsoft
+Microsoft Windows, Microsoft Windows
+Mind, Psyke
+MIT Media Lab, MIT Media Lab
+Mnemonic, Minnesregel
+Mobile device, Mobil enhet
+Model theory, Modellteori
+Modem, Modem
+Mode, Typvärde
+Modulation, Modulation
+Modus ponens, Modus ponens
+Modus tollens, Modus tollens
+Molecule, Molekyl
+Monte Carlo method, Monte Carlo-metod
+Motherboard, Moderkort
+Mouse, Datormus
+Multidisciplinary, Tvärvetenskap
+MultiMediaCard, MultiMediaCard
+Multiplexer, Multiplexer
+Multiset, Multimängd
+Multi-valued logic, Flervärd logik
+Mutation, Mutation
+Mycin, MYCIN
+Naive Bayes classifier, Naiv bayesiansk klassificerare
+Natural environment, Miljö
+Natural language, Naturligt språk
+Natural, Natur
+Natural selection, Naturligt urval
+NEC Corporation, NEC
+Negation, Negation
+Nervous system, Nervsystemet
+Network, Datornätverk
+Networking cables, Nätverkskabel
+Network interface controller, Nätverkskort
+Network switch, Switch
+Neural system, Nervsystemet
+Neuroanatomy, Neuroanatomi
+Neurocybernetics, Brain-machine interface
+Neuron, Nervcell
+Neurophysiology, Neurofysiologi
+Neuroscience, Neurovetenskap
+Node, Nod
+Non-profit organization, Ideell förening
+Non-uniform memory access, Non-Uniform Memory Access
+Non-volatile memory, Icke-flyktigt datorminne
+Normal lens, Normalobjektiv
+NP-completeness, NP-fullständig
+NP, NP
+Number, Tal
+Number theory, Talteori
+Numerical analysis, Numerisk analys
+Object code, Objektfiler
+Object-oriented languages, Objektorienterad programmering
+Object oriented programming, Objektorienterad programmering
+Object-oriented programming, Objektorienterad programmering
+Observation, Observation
+Occam's razor, Ockhams rakkniv
+Olfactory, Luktsinne
+Online chat, Chatt
+Opcode, OP-kod
+OpenAI, Openai
+OpenCL, OpenCL
+OpenCV, OpenCV
+Open formula, Öppen utsaga
+Open-source model, Öppen källkod
+Operating system, Operativsystem
+Operation research, Operationsanalys
+Operations research, Operationsanalys
+Operations Research, Operationsanalys
+Operator, Operator
+Optical character recognition, Maskinläsning
+Optical disc drive, CD-brännare
+Optical disc, Optisk skiva
+Optical fiber, Fiberoptik
+Optical resolution, Optisk upplösning
+Optics, Optik
+Optimization, Optimeringslära
+Optimization problem, Optimeringsproblem
+Order of operations, Operatorprioritet
+Orthogonal, Ortogonalitet
+OS/2, OS/2
+OS/360 and successors, OS360 och efterföljare
+Outdegree, Riktad graf
+Pair programming, Parprogrammering
+Parallel computing, Parallelldator
+Parent company, Moderbolag
+Parenthesized, Parentes
+Parser, Parser
+Patent, Patent
+Pattern, Mönster
+PC clone, PC
+PCI Express, PCI Express
+Peer-to-peer, P2P-nätverk
+Pen drive, USB-minne
+Perception, Perception
+Perceptron, Perceptron
+Peripheral, Kringutrustning
+Personal computer, Persondator
+Petahertz, Hertz
+Phenomena, Fenomen
+Philosophy, Filosofi
+Philosophy of mind, Medvetandefilosofi
+Phonology, Fonologi
+Photography, Fotografi
+Physical memory, Datorminne
+Physiology, Fysiologi
+Pipeline, Vertikalstreck
+Pixel, Pixel
+Plain text, Text
+Pointer, Datatyp
+Polish notation, Prefixnotation
+Polynomial time, Tidskomplexitet
+Portmanteau, Teleskopord
+Position, Ortsvektor
+PostScript, Postscript
+Power-on self-test, Power-on Self Test
+Power supply, Nätaggregat
+Practical philosophy, Praktisk filosofi
+Predicate logic, Första ordningens logik
+Predictive analytics, Classification and Regression Tree
+Primary storage, Datorminne
+Principal component analysis, Principalkomponentanalys
+Principal components, Principalkomponentanalys
+Principle of bivalence, Bivalent logik
+Principle, Princip
+Printed circuit board, Mönsterkort
+Printer, Skrivare
+Priority queue, Prioritetskö
+Probabilistic model, Statistisk modell
+Probability density function, Täthetsfunktion
+Probability distribution, Sannolikhetsfördelning
+Probability, Sannolikhet
+Problem solving, Problemlösning
+Problem-solving, Problemlösning
+Procedural programming, Procedurell programmering
+Process, Process
+Product development, Produktutveckling
+Productivity, Produktivitet
+Programmable Array Logic, Programmable array logic
+Program machine code, Maskinkod
+Programmer, Programmerare
+Programming language, Programspråk
+Programming paradigm, Programmeringsparadigm
+Prolog, Prolog
+Proof theory, Bevisteori
+Property, Egendom
+Propositional calculus, Satslogik
+Propositional logic, Satslogik
+Propositions, Påstående
+Psychology, Psykologi
+Python, Python
+Q factor, Godhetstal
+Quantification, Kvantifikator
+Quantifier, Kvantifikator
+Quantum computing, Kvantdator
+Quantum entanglement, Kvantsammanflätning
+Quantum mechanics, Kvantmekanik
+Queue, Kö
+Quicksort, Quicksort
+Radix, Talbas
+Random-access memory, Random Access Memory
+Randomness, Slump
+Random variable, Stokastisk variabel
+Raster graphics, Rastergrafik
+Rational choice theory, Rational choice
+Ray Solomonoff, Ray Solomonoff
+Read-only memory, Read-only memory
+Real number, Reella tal
+Reasoning, Förnuft
+Recommendation systems, Rekommendationssystem
+Rectangle, Rektangel
+Recursion, Rekursion
+Recursion, Rekursiv algoritm
+Redundant Array of Independent Disks, Raid
+Reference, Referens
+Regression analysis, Regressionsanalys
+Regression, Regressionsanalys
+Regression testing, Regressionstestning
+Reinforcement learning, Förstärkningsinlärning
+Relational database, Relationsdatabas
+Relational databases, Relationsdatabas
+Relation, Binär relation
+Reproduction, Fortplantning
+Requirements analysis, Kravhantering
+Resource Description Framework, Resource Description Framework
+Resource, Resurs
+Resources, Resurs
+RGB, RGB
+Robotics, Robotik
+Robot, Robot
+Roger Ebert, Roger Ebert
+Round-off error, Avrundningsfel
+Router, Router
+Routing table, Dirigeringstabell
+R, R
+Rule of inference, Slutledningsregel
+Sample, Stickprov
+Scheimpflug principle, Scheimpflugs princip
+Scheme, Scheme
+Scholasticism, Skolastik
+School of thought, Lära
+Science, Vetenskap
+Scientific method, Vetenskaplig metod
+Scripting language, Skriptspråk
+---- Secondary words -----
+Selection sort, Urvalssortering
+Semantic, Semantik
+Semantics, Semantik
+Semantic Web, Semantiska webben
+Semiconductor chip, Integrerad krets
+Semiconductor, Halvledare
+Sensor, Sensor
+Sensory feedback, Återkoppling
+Sequence, Följd
+Sequence of events, Tid
+Server, Server
+Service-oriented architecture, Tjänsteorienterad arkitektur
+Set, Mängd
+Set theory, Mängdteori
+Sexual reproduction, Sexuell förökning
+Shogi, Shogi
+Short-term memory, Korttidsminne
+Shutter, Slutare
+Shutter speed, Slutartid
+Signal, Elektrisk signal
+Signal processing, Signalbehandling
+Signal, Signal
+Silica, Kiseldioxid
+Simulation, Simulering
+Single in-line memory module, SIMM
+SI prefix, SI-prefix
+Social science, Samhällsvetenskap
+Socrates, Sokrates
+Software agent, Agent
+Software application, Tillämpningsprogram
+Software bug, Bugg
+Software deployment, Mjukvaruimplementering
+Software developers, Programmerare
+Software development, Programutvecklingsmetodik
+Software distribution, Programdistributionsmodell
+Software, Programvara
+Software requirements specification, Software Requirements Specification
+Software testing, Programvarutestning
+Software tool, Programmeringsverktyg
+Solid-state drive, SSD-minne
+Somatosensory system, Känsel
+Sorting algorithm, Sorteringsalgoritm
+Sound card, Ljudkort
+Sound, Ljud
+Soundness, Sund
+Source code, Källkod
+Space complexity, Minneskomplexitet
+Space-time, Rumtid
+Sparse vector, Gles matris
+Speech recognition, Taligenkänning
+Speech synthesis, Talsyntes
+Spreadsheet, Kalkylprogram
+Stack, Stack
+Standard definition, Standardupplöst television
+Standards organization, Standardiseringsorgan
+Statement, Sats
+Static random-access memory, Statiskt minne
+Statistical independence, Oberoende
+Statistically significant, Signifikans
+Statistical model, Statistisk modell
+Statistical power, Statistisk styrka
+Statistical, Statistik
+Statistician, Statistiker
+Statistics, Statistik
+Steel construction, Stålbyggnad
+Stereotype, Stereotyp
+Stochastic model, Stokastisk process
+Stochastic process, Stokastisk process
+Stochastic, Stokastik
+Storage device, Datorminne
+Strategy, Strategi
+String, Sträng
+Structured storage, NoSQL
+Subset, Delmängd
+Superintelligence, Superintelligens
+Support vector machine, Stödvektormaskin
+Support-vector machine, Stödvektormaskin
+SVGA, SVGA
+S-VHS, S-VHS
+S-video, S-Video
+Switched-mode power supply, Switching Mode Power Supply
+Syllabary, Stavelseskrift
+Symbol, Symbol
+Synchronous dynamic random-access memory, SDRAM
+Syntax error, Syntaxfel
+Syntax, Syntax
+System on a chip, System-on-a-chip
+Systems biology, Systembiologi
+System, System
+Table, Tabell
+Tape drive, Bandstation
+Technological singularity, Teknologisk singularitet
+Technology, Teknologi
+TED, TED
+Telecommunications, Telekommunikation
+Telecommunication, Telekommunikation
+Telephoto lens, Teleobjektiv
+TensorFlow, TensorFlow
+Tensor, Tensor
+Text file, .txt
+Text, Text
+Text-to-speech, Talsyntes
+The arts, Konstarterna
+Theoretical chemistry, Teoretisk kemi
+Theoretical computer science, Teoretisk datavetenskap
+Thermography, Termografi
+Thomas J. Watson, Thomas J. Watson
+Thread, Tråd
+TIFF, TIFF
+Time complexity, Tidskomplexitet
+Time series prediction, Tidsserie
+Tools, Verktyg
+Touchscreen, Pekskärm
+Trackpad, Styrplatta
+Trademark, Varumärke
+Transhumanism, Transhumanism
+Transistor, Transistor
+Translation, Översättning
+Transmission medium, Transmissionsmedium
+Transparency and translucency, Transparens
+Tree, Träd
+Tree traversal, Traversering
+Trial and error, Trial and error
+Truth value, Sanningsvärde
+Tuple, Tupel
+Turing machine, Turingmaskin
+Turing test, Turingtestet
+TV tuner card, TV-kort
+Two-dimensional, 2D
+Type, Datatyp
+Type system, Typsystem
+Typewriter keyboard, Skrivmaskin
+Uncertainty, Osäkerhet
+undefined, Swedish
+Undirected graph, Graf
+Unified Modeling Language, Unified Modeling Language
+Uniform Resource Identifier, Uniform Resource Identifier
+Unique key, Databasnyckel
+United Kingdom, Storbritannien
+United States, USA
+Unit operation, Enhetsoperation
+Universal quantification, Allkvantifikator
+Universal Serial Bus, Universal Serial Bus
+URI, Uniform Resource Identifier
+URLs, Uniform Resource Locator
+URL, Uniform Resource Locator
+Usability, Användbarhet
+USB flash drive, USB-minne
+USB, Universal Serial Bus
+Use case, Användningsfall
+User agent, Användaragent
+User guide, Handbok
+User interface, Användargränssnitt
+Validity, Universalitet
+Value, Värde
+Value, Värdering
+Variable, Variabel
+Variance, Varians
+Vector graphics, Vektorgrafik
+Velocity, Hastighet
+Vertex, Nod
+VESA, Video electronics standards association
+VGA, Video Graphics Array
+Video card, Grafikkort
+Video games, Videospel
+Video Graphics Array, Video Graphics Array
+Video, Video
+Virtual machine, Virtuell maskin
+Visual, Syn
+Vocabulary, Ordförråd
+Waterfall model, Vattenfallsmodellen
+Waterfall, Vattenfall
+Watson, Watson
+Wavelength, Våglängd
+WAV, WAVE
+Web application, Webbapplikation
+Web browser, Webbläsare
+Webcam, Webbkamera
+Web crawler, Spindel
+Web page, Webbsida
+Web server, Webbserver
+Whitelist, Vitlista
+Wide-angle lens, Vidvinkelobjektiv
+Wide area network, Wide Area Network
+Wi-Fi, Wi-Fi
+Wireless LAN, Trådlöst LAN
+Word processor, Ordbehandlare
+Word size, Ord
+World Wide Web Consortium, World Wide Web Consortium
+World Wide Web, World Wide Web
+Write back cache, Cache
+X86, X86
+XHTML, XHTML
+XML, XML
+X-rays, Röntgenstrålning
+Zero-sum game, Nollsummespel
+Zip drive, Zip drive
+Zoom lens, Zoomobjektiv
