@@ -413,7 +413,75 @@ security_N,säkerhet_N
 implementation_N,implementering_N
 vulnerability_N,sårbarhet_N
 permutation_N,permutation_N
+CN artifiell_A intelligens_N, CN artificial_A intelligence_N
 cipher_N,skiffer_N
 cryptanalysis_N,kryptanalys_N
 symmetric_A,symmetrisk_A
 CN computer_N science_N,data_+_vetenskap_N
+programmering_N,programming_N
+funktion_N,function_N
+modell_N,model_N
+systemutveckling_N,CN software_N development_N
+algoritm_N,algorithm_N
+tillämpningsprogram_N,CN application_N software_N
+data_+_struktur_N,CN data_N structure_N
+artificiell_A,artificial_A
+intelligens_N,intelligence_N
+automatteori_N,CN automata_N theory_N
+binär_A,binary_A
+binär_+_sökning_N,CN binary_A search_N algorithm_N
+bit_N,bit_N
+överföringskapacitet_N,CN bit_N rate_N
+byte_N,byte_N
+klass_N,class_N
+datalogi_N,CN computer_N science_N
+dator_+_moln_N,CN cloud_N computing_N
+program_+_bibliotek_N,library_+ bibliotek N
+kodnings_+_teori_N,CN coding_N theory_N
+kognitions_+_vetenskap_N,CN cognitive_A science_N
+kompilator_N,compiler_N
+beräknings_+_teori_N,CN computability_N theory_N
+beräknings_+_biologi_N,CN computational_A biology_N
+beräknings_+_kemi_N,CN computational_A chemistry_N
+beräknings_+_fysik_N,CN computational_A physics_N
+dator_+_arkitektur_N,CN computer_N architecture_N
+datorminne_N,CN computer_N data_N storage_N
+dator_+_grafik_N,CN computer_N graphics_N
+dator_+_nätverk_N,CN computer_N network_N
+data_+_vetenskap_N,CN computer_N science_N
+dator_+_forskare_N,CN computer_N scientist_N
+data_+_säkerhet_N,CN computer_N security_N
+samtidighet_N,concurrency_N
+program_+_flöde_N,CN control_N flow_N
+kryptografi_N,cryptography_N
+nät_+_mobbning_N,cyberbullying_+ mobbning N
+cyberrymd_N,cyberspace_N
+dator_+_hall_N,CN data_N center_N
+databas_N,database_N
+data_+_utvinning_N,CN data_N mining_N
+_,CN data_N type_N
+digital_A,digital_A
+signal_+_behandling_N,CN signal_N processing_N
+domännamns_+_system_N,CN domain_N name_N system_N
+nedladdning_N,download_N
+kryptering_N,encryption_N
+händelse_N,event_N
+exekverbar_A,executable_A
+fil_N,file_N
+undantags_+_hantering_N,CN exception_N handling_N
+förstudie_N,CN feasibility_N study_N
+fil_+_ändelse_N,CN filename_N extension_N
+formell_A,formal_A
+metod_N,method_N
+verifiering_N,verification_N
+funktionell_A,functional_A
+spelteori_N,CN game_N theory_N
+gigabyte_N,gigabyte_N
+grafteori_N,CN graph_N theory_N
+hash_+_funktion_N,CN hash_N function_N
+hash_+_tabell_N,CN hash_N table_N
+heap_+_sort_N,heapsort_+ sort N
+människa-datorinteraktion_N,CN human-computer_N interation_N
+CN integrerad_A utvecklingsmiljö_N,CN integrated_A development_N environment_N
+CN imperativ_A programmering_N,CN imperative_A programming_Narv_N,inheritance_N
+insättnings_+_sortering_N,CN insertion_N sort_N
