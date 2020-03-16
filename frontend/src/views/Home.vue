@@ -1,69 +1,113 @@
 <template>
-  <v-container fluid>
-    <!-- Title on top of page -->
-    <div>
-      <h3 class="display-1 font-weight-medium text-center">Computer Science and Engineering translator</h3>
-    </div>
-
-    <br />
-    <!-- Start of translation part -->
-    <div>
-    <v-card>
-      <v-card-title>
-        <v-toolbar>
-
+  <v-row justify="center">
+    <v-col md="6">
+      <v-card style="margin-top: -220px;">
+        <v-toolbar flat>
           <!-- Toolbar where you choose language -->
-          <v-toolbar-title>
-            <!-- Wierd way to switch place on languages on button press (but works)-->
-            <v-btn text class="ma-1" v-if="toggleLang" disabled >{{ sv }}</v-btn>
-            <v-btn text class="ma-1" v-if="!toggleLang" disabled >{{ en }}</v-btn>
-            <v-btn icon @click="toggleLang = !toggleLang">
-              <v-icon>mdi-arrow-left-right</v-icon>
-            </v-btn>
-            <v-btn text class="ma-1" v-if="!toggleLang" disabled >{{ sv }}</v-btn>
-            <v-btn text class="ma-1" v-if="toggleLang" disabled >{{ en }}</v-btn>
-          </v-toolbar-title>
+          <v-row align="center" justify="space-around">
+            <v-col md="6">
+              <span class="title grey--text text--darken-1">{{langLeft}}</span>
+            </v-col>
 
+            <v-col md="6">
+              <span class="title grey--text text--darken-1">{{langRight}}</span>
+            </v-col>
+          </v-row>
         </v-toolbar>
-      </v-card-title>
 
-      <v-card-text>
-        <!-- Textfields -->
-        <v-row class="start">
-          <!-- First textfield -->
-          <v-textarea class="ma-2" clearable v-model="value" auto-grow></v-textarea>
+        <v-divider />
 
-          <!-- Vertical divider between textfields -->
-          <v-divider vertical />
+        <v-card-text>
+          <v-row class="start">
+            <v-col md="6" class="divider-right">
+              <div class="editor" ref="editor" contenteditable @input="onKeydown" />
+            </v-col>
 
-          <!-- Second textfield -->
-          <v-textarea auto-grow class="ma-2" readonly placeholder="Översättning" v-model="value"></v-textarea>
-        </v-row>
-      </v-card-text>
-
-    </v-card>
-    </div>
-    
-    <br />
-
-    <!-- Button to translate the words -->
-    <div id="buttons">
-      <v-btn color="primary x-large">Översätt</v-btn>
-    </div>
-  </v-container>
+            <v-col md="6">
+              <div
+                class="editor"
+                :class="{'grey--text': this.translation === ''}"
+                v-text="translationText"
+              />
+              <v-row>
+                <v-spacer />
+                <v-tooltip top>
+                  <template v-slot:activator="{ on }">
+                    <v-btn color="primary" text v-on="on" @click="copyTranslation">
+                      <v-icon>filter_none</v-icon>
+                    </v-btn>
+                  </template>
+                  <span>Copy translation</span>
+                </v-tooltip>
+              </v-row>
+            </v-col>
+          </v-row>
+        </v-card-text>
+        <v-divider />
+        <v-card-actions>
+          <v-spacer></v-spacer>
+          <v-btn color="primary" text>Translate</v-btn>
+          <v-tooltip top>
+            <template v-slot:activator="{ on }">
+              <v-btn color="primary" text v-on="on" @click="toggleLang = !toggleLang">
+                <v-icon>swap_horiz</v-icon>
+              </v-btn>
+            </template>
+            <span>Switch languages</span>
+          </v-tooltip>
+        </v-card-actions>
+      </v-card>
+    </v-col>
+  </v-row>
 </template>
 
 <script>
 export default {
   name: "Home",
   data: () => ({
-    sv: 'Svenska',
-    en: 'Engelska',
+    lang: {
+      sv: "Swedish",
+      en: "English"
+    },
     toggleLang: true,
-    value: ''
+    value: "",
+    translation: ""
   }),
+  computed: {
+    langLeft() {
+      return this.toggleLang ? this.lang.sv : this.lang.en;
+    },
+    langRight() {
+      return this.toggleLang ? this.lang.en : this.lang.sv;
+    },
+    translationText() {
+      return this.translation !== "" ? this.translation : "Translation";
+    }
+  },
+  methods: {
+    onKeydown() {
+      this.value = this.$refs.editor.textContent;
+      this.translation = Array.from(this.$refs.editor.childNodes)
+        .map(e => e.textContent)
+        .join("\n");
+      console.log(this.$refs.editor);
+    },
+    copyTranslation() {
+      window.navigator.clipboard.writeText(this.translation);
+    }
+  }
 };
 </script>
 
 <style lang="scss" scoped>
+.editor {
+  width: 100%;
+  min-height: 200px;
+  font-size: 22px;
+  white-space: pre-wrap;
+
+  &:focus {
+    outline: none;
+  }
+}
 </style>

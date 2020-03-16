@@ -1,18 +1,23 @@
 <template >
-  <v-navigation-drawer permanent app dark>
-    <div class="drawer-title text-center">
-      <router-link class="drawer-title display-2" :to="{ name: 'home' }">Translator</router-link>
-    </div>
+  <v-navigation-drawer app expand-on-hover>
+    <!--
+    <v-list-item>
+      <v-list-item-content>
+        <v-list-item-title class="title">CSE Translator</v-list-item-title>
+        <v-list-item-subtitle>A translator for Computer Science and Engineering</v-list-item-subtitle>
+      </v-list-item-content>
+    </v-list-item>
+    -->
 
     <v-divider></v-divider>
-
-    <v-list nav dark class="text-left">
-      <v-list-item link :to="{ name: 'home' }" exact-active-class="drawer-active">
+    <v-list nav>
+      <v-list-item v-for="item in links" :key="item.title" link>
         <v-list-item-icon>
-          <v-icon>home</v-icon>
+          <v-icon>{{ item.icon }}</v-icon>
         </v-list-item-icon>
+
         <v-list-item-content>
-          <v-list-item-title class="body-2 font-weight-light">Home</v-list-item-title>
+          <v-list-item-title>{{ item.title }}</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
     </v-list>
@@ -22,13 +27,31 @@
 <script>
 export default {
   name: "app-drawer",
+  props: {
+    open: {
+      required: true,
+      type: Boolean
+    }
+  },
   data: () => ({
-    show: false
+    links: [
+      {
+        title: "Translate",
+        icon: "translate",
+        view: "home"
+      },
+      {
+        title: "Lexicon",
+        icon: "search",
+        view: "lexicon"
+      }
+    ]
   })
 };
 </script>
 
 <style lang="scss">
+/*
 .v-navigation-drawer {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
     url("../assets/sidebar.jpg");
@@ -61,4 +84,5 @@ export default {
     }
   }
 }
+*/
 </style>

@@ -1,26 +1,25 @@
 <template>
   <v-app>
-    <main class="view">
-      <v-app-bar color="transparent" flat>
-        <v-row>
-          <v-spacer />
-          <v-col md="1"></v-col>
-        </v-row>
-      </v-app-bar>
-      <v-fade-transition mode="out-in">
-        <router-view :key="$route.fullPath" />
-      </v-fade-transition>
-    </main>
+    <v-app-bar app color="primary" dark extended flat>
+      <!--<v-app-bar-nav-icon @click="drawer = !drawer" />-->
+      <v-toolbar-title>Translator for Computer Science and Engineering</v-toolbar-title>
+    </v-app-bar>
+    <app-drawer :open="drawer" />
+
+    <v-fade-transition mode="out-in">
+      <router-view class="view" :key="$route.fullPath" />
+    </v-fade-transition>
 
     <toaster />
-    <app-drawer />
   </v-app>
 </template>
 
 <script>
 export default {
   name: "App",
-  data: () => ({})
+  data: () => ({
+    drawer: false
+  })
 };
 </script>
 
@@ -33,13 +32,8 @@ body,
   font-size: 14px;
   background: transparent !important;
 }
-
-.v-app-bar {
-  padding: 12px;
-}
-
 .view {
-  padding: 0 64px;
-  margin-left: 256px;
+  margin-top: 256px;
+  z-index: 1000000;
 }
 </style>

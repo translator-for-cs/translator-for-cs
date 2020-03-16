@@ -32,3 +32,11 @@ a {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.divider-left {
+  border-left: solid thin rgba(0, 0, 0, 0.12);
+}
+
+.divider-right {
+  border-right: solid thin rgba(0, 0, 0, 0.12);
+}
