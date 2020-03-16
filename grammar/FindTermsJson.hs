@@ -17,20 +17,36 @@ main = do
       let Just cat = readType c
       let parseText = filterUntranslated . map getTerms . parseTerms pgf eng swe cat . tokenize
       input <- getContents
-      let output = mkJsonList $ parseText input
-      putStrLn output
-      -- interact parseText
+      putStrLn $ mkJsonList $ parseText input
     _ -> putStrLn usage
 
 usage = "runghc FindTerms <pgf> <src-lang> <target-lang> <cat>  [<input] [>output]"
+
+translateFromEng :: String -> IO String
+translateFromEng s = do
+  pgf <- readPGF "Terms.pgf"
+  let Just eng = readLanguage "TermsEng"
+  let Just swe = readLanguage "TermsSwe"
+  let Just cat = readType "Term"
+  let parseText = filterUntranslated . map getTerms . parseTerms pgf eng swe cat . tokenize
+  return $ mkJsonList $ parseText s
+
+translateFromSwe :: String -> IO String
+translateFromSwe s = do
+  pgf <- readPGF "Terms.pgf"
+  let Just eng = readLanguage "TermsEng"
+  let Just swe = readLanguage "TermsSwe"
+  let Just cat = readType "Term"
+  let parseText = filterUntranslated . map getTerms . parseTerms pgf swe eng cat . tokenize
+  return $ mkJsonList $ parseText s
 
 data TermItem =
     TUnparsed [String]                -- segment of words not parts of a term
   | TParsed [String] [(Tree,String)]  -- words of a term, with tree and translation
  deriving Show
 
--- (Original, Translation)
-type ParsedTerm = (String, Maybe String)
+-- (Original, (Translation, Metadata))
+type ParsedTerm = (String, Maybe (String, String))
 data WordItem = Complex WordItem | Simple String String
   deriving Show
 
@@ -49,22 +65,24 @@ filterUntranslated ts = filter (\(_, t) -> isJust(t)) ts
 getTerms :: TermItem -> ParsedTerm
 getTerms ti = case ti of
   TUnparsed ss -> (unwords ss, Nothing)
-  TParsed ss ts -> (unwords ss, Just (translation ts))
+  TParsed ss ts -> (unwords ss, translation ts)
   where
     translation ts = case ts of
-      (t,s):_ -> s
-      _ -> ""
+      (t,s):_ -> Just (s, show t)
+      _ -> Nothing
 
 mkParsedTermJson :: ParsedTerm -> String
-mkParsedTermJson (s, Nothing) =
+mkParsedTermJson (orig, Nothing) =
     "{ \"word\": \"" 
-    ++ s
+    ++ orig
     ++ "\", translation: \"\"}"
-mkParsedTermJson (s, Just t) =
+mkParsedTermJson (orig, Just (t, s)) =
   "{ \"word\": \"" 
-    ++ s
+    ++ orig
     ++ "\", translation: \"" 
     ++ t
+    ++ "\", metadata: \"" 
+    ++ s
     ++ "\"}"
 
 wordToJson :: WordItem -> String

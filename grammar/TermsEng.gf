@@ -22,5 +22,4 @@ lin
   basic_skill_CN = makeCN basic_A skill_N ;
   relevant_AP = mkAP relevant_A ;
   graphical_AP = mkAP graphical_A ;
-
 }
