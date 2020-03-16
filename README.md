@@ -10,3 +10,5 @@
   Link to [Journal](https://docs.google.com/document/d/1LAk4aNMKYitM-akdndeMf9WInpcz4jsu0JU3QR_iao8/edit)\
   Link to [Canvas homepage](https://chalmers.instructure.com/groups/30462)
 
+### Presentation of Mockup (instead of meeting) 
+  [Presentation](https://docs.google.com/presentation/d/13pS01tRs1079T3vSZkqa9Pfj4nn_MeOaWkiqqTsjbNU/edit?usp=sharing)
