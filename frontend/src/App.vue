@@ -10,6 +10,8 @@
       <router-view class="view" :key="$route.fullPath" />
     </v-fade-transition>
 
+    <cse-footer />
+
     <toaster />
   </v-app>
 </template>
@@ -27,10 +29,11 @@ export default {
 @import "./util.scss";
 
 body,
-.v-application {
+#app.v-application {
   font-family: "Noto Sans", sans-serif;
   font-size: 14px;
   background: transparent !important;
+  background: #e0e0e0;
 }
 .view {
   margin-top: 256px;
