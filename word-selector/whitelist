@@ -483,5 +483,66 @@ hash_+_tabell_N,CN hash_N table_N
 heap_+_sort_N,heapsort_+ sort N
 människa-datorinteraktion_N,CN human-computer_N interation_N
 CN integrerad_A utvecklingsmiljö_N,CN integrated_A development_N environment_N
-CN imperativ_A programmering_N,CN imperative_A programming_Narv_N,inheritance_N
-insättnings_+_sortering_N,CN insertion_N sort_N
+CN imperativ_A programmering_N,CN imperative_A programming_N,
+arv_N,inheritance_N
+insättningssortering_N,CN insertion_N sort_N
+ascii_N,ascii_N
+fält_N,array_N
+binärträd_N,CN binary_A tree_N
+bioinformatik_N,bioinformatics_N
+CN boolesk_A datatyp_N,CN boolean_A data_N type_N
+krypto_N,crypto_N
+datorseende_N,CN computer_N vision_N
+konkatenering_N,concatenation_N
+intelligent_A,intelligent_A
+agent_N,agent_N
+gränssnitt_N,interface_N
+invariant_A,invariant_A
+iteration_N,iteration_N
+java_N,Java_N
+programspråk_N,CN programming_N language_N
+kärna_N,kernel_N
+linjär_+_sökning_N,CN linear_A search_N
+CN länkad_A lista_N,CN linked_A list_N
+logik_+_programmering_N,CN logic_N programming_N
+maskin_+_inlärning_N,CN machine_N learning_N
+matris_N,matrix_N
+modem_N,modem_N
+talteori_N,CN number_N theory_N
+numerisk_A,numerical_A
+analys_N,analysis_N
+CN numerisk_A analys_N,CN numerical_A analysis_N
+operativsystem_N,CN operating_A system_N
+fiberoptik_N,CN optical_N fiber_N
+par_+_programmering_N,CN pair_N programming_N
+kringutrustning_N,peripheral_N
+prioritetskö_N,CN priority_N queue_N
+kvant_+_dator_N,CN quantum_N computer_N
+kö_N,queue_N
+rekursion_N,recursion_N
+relations_+_databas_N,CN relational_A database_N
+krav_+_hantering_N,CN requirements_N analysis_N
+router_N,router_N
+dirigerings_+_tabell_N,CN routing_N table_N
+urvals_+_sortering_N,CN selection_N sort_N
+följd_N,sequence_N
+programvara_N,software_N
+mjukvaru_+_implementering_N,CN software_N deployment_N
+programutvecklings_+_metodik_N,CN software_N development_N
+sorterings_+_algoritm_N,CN sorting_N algorithm_N
+källkod_N,CN source_N code_N
+sträng_N,string_N
+användar_+_agent_N,CN user_N agent_N
+användar_+_gränssnitt_N,CN user_N interface_N
+vattenfalls_+_modell_N,CN waterfall_N model_N
+Wi-Fi_N,Wi-Fi_N
+XHTML_N,XHTML_N
+CN matematisk_A model_N,CN mathematical_A model_N
+generalisering_N,generalization_N
+begrepp_N,concept_N
+blåkopia_N,blueprint_N
+kund_N,customer_N
+slut_+_användare_N,CN end_N user_N
+beräkning_N,calculation_N
+produktivitet_N,productivity_N
+CN dynamisk_A programmering_N,CN dynamic_A programming_N
