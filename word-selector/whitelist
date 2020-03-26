@@ -546,3 +546,61 @@ slut_+_användare_N,CN end_N user_N
 beräkning_N,calculation_N
 produktivitet_N,productivity_N
 CN dynamisk_A programmering_N,CN dynamic_A programming_N
+dator_+_interaktion_N,CN computer_N interaction_N
+utvecklings_+_miljö_N,CN development_N environment_N
+lista_N,list_N
+matematisk_A,mathematical_A
+parallell_+_dator_N,CN parallel_A computing_N
+datorprogram_N,CN computer_N program_N
+programmerare_N,programmer_N
+ordbehandlare_N,CN word_N processor_N
+kalkyl_+_program_N,spreadsheet_N
+bokförings_+_program_N,CN accounting_N software_N
+webbläsare_N,CN web_N browser_N
+medie_+_spelare_N,CN media_N player_N
+flyg_+_simulator_N,CN flight_N simulator_N
+användnings_+_falla_V,CN use_N case_N
+klass_+_modell_N,CN class_N diagram_N
+teoretisk_A,theoretical_A
+diskret_A,discreet_A
+matematik_N,mathematics_N
+CN diskret_A matematik_N,CN discrete_A mathematics_N
+filosofi_N,philosophy_N
+sannolikhets_+_fördelning_N,CN probability_N distribution_N
+tidskomplexitet_N,CN time_N complexity_N
+tal_N,number_N
+mängdteori_N,CN set_N theory_N
+CN tomma_A mängden_N,CN empty_A set_N
+programmerings_+_verktyg_N,CN software_N tool_N
+biologi_N,biology_N
+statistik_N,statistics_N
+information_N,information_N
+kommunikation_N,communication_N
+telekommunikation_N,telecommunications_N
+åtkomstkontroll_N,CN access_N control_N
+domännamn_N,CN domain_N name_N
+ip-address_N,ip-adress_N
+vit_+_lista_V,whitelist_N
+grafik_+_kort_N,CN graphics_N card_N
+sanningsvärde_N,CN truth_N value_N
+variabel_N,variable_N
+konjunktion_N,conjunction_N
+disjunktion_N,disjunction_N
+negation_N,negation_N
+hårddisk_N,CN hard_A drive_N
+instruktion_N,instruction_N
+aritmetik_N,arithmetic_N
+styr_+_enhet_N,CN control_N unit_N
+maskinvara_N,hardware_N
+server_N,server_N
+kod_N,code_N
+informationsteori_N,CN information_N theory_N
+elektroteknik_N,electronics_N
+språkvetenskap_N,linguistics_N
+vetenskap_N,science_N
+minne_N,memory_N
+tabell_N,table_N
+filformat_N,CN file_N format_N
+data_+_teknik_N,CN computer_N engineering_N
+video_N,video_N
+ingenjörsvetenskap_N,engineering_N
