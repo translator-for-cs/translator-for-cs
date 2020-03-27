@@ -26,4 +26,6 @@ lin
   basic_skill_CN = makeCN grundläggande_1_A färdighet_1_N ;
   relevant_AP = mkAP relevant_1_A ;
   graphical_AP = mkAP grafisk_1_A ;
+  computer_science_CN = makeCN data_1_N vetenskap_1_N ;
+
 }

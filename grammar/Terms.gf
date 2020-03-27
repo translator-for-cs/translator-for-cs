@@ -16,5 +16,6 @@ fun
   basic_skill_CN : CN ;
   relevant_AP : AP ;
   graphical_AP : AP ;
+  computer_science_CN : CN ;
 
 }
