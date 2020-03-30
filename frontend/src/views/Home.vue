@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <v-row justify="center">
-      <v-col md="6">
+      <v-col md="10">
         <v-card style="margin-top: -232px;">
           <v-toolbar flat>
             <!-- Toolbar where you choose language -->
