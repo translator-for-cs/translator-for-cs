@@ -417,60 +417,60 @@ CN artifiell_A intelligens_N, CN artificial_A intelligence_N
 cipher_N,skiffer_N
 cryptanalysis_N,kryptanalys_N
 symmetric_A,symmetrisk_A
-CN computer_N science_N,data_+_vetenskap_N
+CN computer_N science_N,datavetenskap_N
 programmering_N,programming_N
 funktion_N,function_N
 modell_N,model_N
 systemutveckling_N,CN software_N development_N
 algoritm_N,algorithm_N
 tillämpningsprogram_N,CN application_N software_N
-data_+_struktur_N,CN data_N structure_N
+datastruktur_N,CN data_N structure_N
 artificiell_A,artificial_A
 intelligens_N,intelligence_N
 automatteori_N,CN automata_N theory_N
 binär_A,binary_A
-binär_+_sökning_N,CN binary_A search_N algorithm_N
+binärsökning_N,CN binary_A search_N algorithm_N
 bit_N,bit_N
 överföringskapacitet_N,CN bit_N rate_N
 byte_N,byte_N
 klass_N,class_N
 datalogi_N,CN computer_N science_N
-dator_+_moln_N,CN cloud_N computing_N
-program_+_bibliotek_N,library_+ bibliotek N
-kodnings_+_teori_N,CN coding_N theory_N
-kognitions_+_vetenskap_N,CN cognitive_A science_N
+datormoln_N,CN cloud_N computing_N
+programbibliotek_N,library_ bibliotek N
+kodningsteori_N,CN coding_N theory_N
+kognitionsvetenskap_N,CN cognitive_A science_N
 kompilator_N,compiler_N
-beräknings_+_teori_N,CN computability_N theory_N
-beräknings_+_biologi_N,CN computational_A biology_N
-beräknings_+_kemi_N,CN computational_A chemistry_N
-beräknings_+_fysik_N,CN computational_A physics_N
-dator_+_arkitektur_N,CN computer_N architecture_N
+beräkningsteori_N,CN computability_N theory_N
+beräkningsbiologi_N,CN computational_A biology_N
+beräkningskemi_N,CN computational_A chemistry_N
+beräkningsfysik_N,CN computational_A physics_N
+datorarkitektur_N,CN computer_N architecture_N
 datorminne_N,CN computer_N data_N storage_N
-dator_+_grafik_N,CN computer_N graphics_N
-dator_+_nätverk_N,CN computer_N network_N
-data_+_vetenskap_N,CN computer_N science_N
-dator_+_forskare_N,CN computer_N scientist_N
-data_+_säkerhet_N,CN computer_N security_N
+datorgrafik_N,CN computer_N graphics_N
+datornätverk_N,CN computer_N network_N
+datavetenskap_N,CN computer_N science_N
+datorforskare_N,CN computer_N scientist_N
+datasäkerhet_N,CN computer_N security_N
 samtidighet_N,concurrency_N
-program_+_flöde_N,CN control_N flow_N
+programflöde_N,CN control_N flow_N
 kryptografi_N,cryptography_N
-nät_+_mobbning_N,cyberbullying_+ mobbning N
+nätmobbning_N,cyberbullying_ mobbning N
 cyberrymd_N,cyberspace_N
-dator_+_hall_N,CN data_N center_N
+datorhall_N,CN data_N center_N
 databas_N,database_N
-data_+_utvinning_N,CN data_N mining_N
+datautvinning_N,CN data_N mining_N
 _,CN data_N type_N
 digital_A,digital_A
-signal_+_behandling_N,CN signal_N processing_N
-domännamns_+_system_N,CN domain_N name_N system_N
+signalbehandling_N,CN signal_N processing_N
+domännamnssystem_N,CN domain_N name_N system_N
 nedladdning_N,download_N
 kryptering_N,encryption_N
 händelse_N,event_N
 exekverbar_A,executable_A
 fil_N,file_N
-undantags_+_hantering_N,CN exception_N handling_N
+undantagshantering_N,CN exception_N handling_N
 förstudie_N,CN feasibility_N study_N
-fil_+_ändelse_N,CN filename_N extension_N
+filändelse_N,CN filename_N extension_N
 formell_A,formal_A
 metod_N,method_N
 verifiering_N,verification_N
@@ -478,9 +478,9 @@ funktionell_A,functional_A
 spelteori_N,CN game_N theory_N
 gigabyte_N,gigabyte_N
 grafteori_N,CN graph_N theory_N
-hash_+_funktion_N,CN hash_N function_N
-hash_+_tabell_N,CN hash_N table_N
-heap_+_sort_N,heapsort_+ sort N
+hashfunktion_N,CN hash_N function_N
+hashtabell_N,CN hash_N table_N
+heapsort_N,heapsort_ sort N
 människa-datorinteraktion_N,CN human-computer_N interation_N
 CN integrerad_A utvecklingsmiljö_N,CN integrated_A development_N environment_N
 CN imperativ_A programmering_N,CN imperative_A programming_N,
@@ -502,10 +502,10 @@ iteration_N,iteration_N
 java_N,Java_N
 programspråk_N,CN programming_N language_N
 kärna_N,kernel_N
-linjär_+_sökning_N,CN linear_A search_N
+linjärsökning_N,CN linear_A search_N
 CN länkad_A lista_N,CN linked_A list_N
-logik_+_programmering_N,CN logic_N programming_N
-maskin_+_inlärning_N,CN machine_N learning_N
+logikprogrammering_N,CN logic_N programming_N
+maskininlärning_N,CN machine_N learning_N
 matris_N,matrix_N
 modem_N,modem_N
 talteori_N,CN number_N theory_N
@@ -514,27 +514,27 @@ analys_N,analysis_N
 CN numerisk_A analys_N,CN numerical_A analysis_N
 operativsystem_N,CN operating_A system_N
 fiberoptik_N,CN optical_N fiber_N
-par_+_programmering_N,CN pair_N programming_N
+parprogrammering_N,CN pair_N programming_N
 kringutrustning_N,peripheral_N
 prioritetskö_N,CN priority_N queue_N
-kvant_+_dator_N,CN quantum_N computer_N
+kvantdator_N,CN quantum_N computer_N
 kö_N,queue_N
 rekursion_N,recursion_N
-relations_+_databas_N,CN relational_A database_N
-krav_+_hantering_N,CN requirements_N analysis_N
+relationsdatabas_N,CN relational_A database_N
+kravhantering_N,CN requirements_N analysis_N
 router_N,router_N
-dirigerings_+_tabell_N,CN routing_N table_N
-urvals_+_sortering_N,CN selection_N sort_N
+dirigeringstabell_N,CN routing_N table_N
+urvalssortering_N,CN selection_N sort_N
 följd_N,sequence_N
 programvara_N,software_N
-mjukvaru_+_implementering_N,CN software_N deployment_N
-programutvecklings_+_metodik_N,CN software_N development_N
-sorterings_+_algoritm_N,CN sorting_N algorithm_N
+mjukvaruimplementering_N,CN software_N deployment_N
+programutvecklingsmetodik_N,CN software_N development_N
+sorteringsalgoritm_N,CN sorting_N algorithm_N
 källkod_N,CN source_N code_N
 sträng_N,string_N
-användar_+_agent_N,CN user_N agent_N
-användar_+_gränssnitt_N,CN user_N interface_N
-vattenfalls_+_modell_N,CN waterfall_N model_N
+användaragent_N,CN user_N agent_N
+användargränssnitt_N,CN user_N interface_N
+vattenfallsmodell_N,CN waterfall_N model_N
 Wi-Fi_N,Wi-Fi_N
 XHTML_N,XHTML_N
 CN matematisk_A model_N,CN mathematical_A model_N
@@ -542,36 +542,36 @@ generalisering_N,generalization_N
 begrepp_N,concept_N
 blåkopia_N,blueprint_N
 kund_N,customer_N
-slut_+_användare_N,CN end_N user_N
+slutanvändare_N,CN end_N user_N
 beräkning_N,calculation_N
 produktivitet_N,productivity_N
 CN dynamisk_A programmering_N,CN dynamic_A programming_N
-dator_+_interaktion_N,CN computer_N interaction_N
-utvecklings_+_miljö_N,CN development_N environment_N
+datorinteraktion_N,CN computer_N interaction_N
+utvecklingsmiljö_N,CN development_N environment_N
 lista_N,list_N
 matematisk_A,mathematical_A
-parallell_+_dator_N,CN parallel_A computing_N
+parallelldator_N,CN parallel_A computing_N
 datorprogram_N,CN computer_N program_N
 programmerare_N,programmer_N
 ordbehandlare_N,CN word_N processor_N
-kalkyl_+_program_N,spreadsheet_N
-bokförings_+_program_N,CN accounting_N software_N
+kalkylprogram_N,spreadsheet_N
+bokföringsprogram_N,CN accounting_N software_N
 webbläsare_N,CN web_N browser_N
-medie_+_spelare_N,CN media_N player_N
-flyg_+_simulator_N,CN flight_N simulator_N
-användnings_+_falla_V,CN use_N case_N
-klass_+_modell_N,CN class_N diagram_N
+mediespelare_N,CN media_N player_N
+flygsimulator_N,CN flight_N simulator_N
+användningsfalla_V,CN use_N case_N
+klassmodell_N,CN class_N diagram_N
 teoretisk_A,theoretical_A
 diskret_A,discreet_A
 matematik_N,mathematics_N
 CN diskret_A matematik_N,CN discrete_A mathematics_N
 filosofi_N,philosophy_N
-sannolikhets_+_fördelning_N,CN probability_N distribution_N
+sannolikhetsfördelning_N,CN probability_N distribution_N
 tidskomplexitet_N,CN time_N complexity_N
 tal_N,number_N
 mängdteori_N,CN set_N theory_N
 CN tomma_A mängden_N,CN empty_A set_N
-programmerings_+_verktyg_N,CN software_N tool_N
+programmeringsverktyg_N,CN software_N tool_N
 biologi_N,biology_N
 statistik_N,statistics_N
 information_N,information_N
@@ -580,8 +580,8 @@ telekommunikation_N,telecommunications_N
 åtkomstkontroll_N,CN access_N control_N
 domännamn_N,CN domain_N name_N
 ip-address_N,ip-adress_N
-vit_+_lista_V,whitelist_N
-grafik_+_kort_N,CN graphics_N card_N
+vitlista_V,whitelist_N
+grafikkort_N,CN graphics_N card_N
 sanningsvärde_N,CN truth_N value_N
 variabel_N,variable_N
 konjunktion_N,conjunction_N
@@ -590,7 +590,7 @@ negation_N,negation_N
 hårddisk_N,CN hard_A drive_N
 instruktion_N,instruction_N
 aritmetik_N,arithmetic_N
-styr_+_enhet_N,CN control_N unit_N
+styrenhet_N,CN control_N unit_N
 maskinvara_N,hardware_N
 server_N,server_N
 kod_N,code_N
@@ -601,48 +601,48 @@ vetenskap_N,science_N
 minne_N,memory_N
 tabell_N,table_N
 filformat_N,CN file_N format_N
-data_+_teknik_N,CN computer_N engineering_N
+datateknik_N,CN computer_N engineering_N
 video_N,video_N
 ingenjörsvetenskap_N,engineering_N
 teknologi_N,technology_N
-nät_+_aggregat_N,CN power_N supply_N
-informations_+_system_N,CN information_N system_N
-signal_+_processor_N,CN digital_A signal_N processor_N
+nätaggregat_N,CN power_N supply_N
+informationssystem_N,CN information_N system_N
+signalprocessor_N,CN digital_A signal_N processor_N
 simulering_N,simulation_N
 nätverk_N,network_N
-webb_+_server_N,CN web_N server_N
-programmerings_+_paradigm_N,CN programming_N paradigm_N
+webbserver_N,CN web_N server_N
+programmeringsparadigm_N,CN programming_N paradigm_N
 sensor_N,sensor_N
 tråd_N,thread_N
 grafisk_A,graphic_A
-webb_+_applikation_N,CN web_N application_N
-driv_+_rutin_N,CN device_N driver_N
-instruktions_+_uppsättning_N,CN instruction_N set_N architecture_N
+webbapplikation_N,CN web_N application_N
+drivrutin_N,CN device_N driver_N
+instruktionsuppsättning_N,CN instruction_N set_N architecture_N
 parser_N,parser_N
 exekvering_N,execution_N
 avbrott_N,interruption_N
-interprocess_+_kommunikation_N,CN inter-process_A communication_N
+interprocesskommunikation_N,CN inter-process_A communication_N
 operator_N,operator_N
 matematisk_A,mathematical_A
 uttryck_N,expression_N
 miljö_N,environment_N
 värde_N,value_N
-fil_+_namn_N,CN file_N name_N
+filnamn_N,CN file_N name_N
 bevis_N,proof_N
-kommando_+_tolk_N,CN command-line_N interpreter_N
-databas_+_nyckel_N,CN unique_A key_N
+kommandotolk_N,CN command-line_N interpreter_N
+databasnyckel_N,CN unique_A key_N
 heltal_N,integer_N
 virtuell_A,virtual_A
 avlusare_N,debugger_N
 egendom_N,property_N
 pekskärm_N,touchscreen_N
 dokumentation_N,documentation_N
-skript_+_språk_N,CN scripting_N language_N
+skriptspråk_N,CN scripting_N language_N
 bugg_N,bug_N
 formell_A,formal_A
 lysdiod_N,LED_N
-tal_+_igenkänning_N,CN speech_N recognition_N
-minnes_+_adress_N,CN memory_N address_N
+taligenkänning_N,CN speech_N recognition_N
+minnesadress_N,CN memory_N address_N
 datateknik_N,CN computer_N engineering_N
 operation_N,operation_N
 enhet_N,unit_N
