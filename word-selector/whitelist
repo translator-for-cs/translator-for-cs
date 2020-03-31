@@ -454,7 +454,7 @@ datasäkerhet_N,CN computer_N security_N
 samtidighet_N,concurrency_N
 programflöde_N,CN control_N flow_N
 kryptografi_N,cryptography_N
-nätmobbning_N,cyberbullying_ mobbning N
+nätmobbning_N,cyberbullying_N mobbning N
 cyberrymd_N,cyberspace_N
 datorhall_N,CN data_N center_N
 databas_N,database_N
@@ -480,7 +480,7 @@ gigabyte_N,gigabyte_N
 grafteori_N,CN graph_N theory_N
 hashfunktion_N,CN hash_N function_N
 hashtabell_N,CN hash_N table_N
-heapsort_N,heapsort_ sort N
+heapsort_N,heapsort_N
 människa-datorinteraktion_N,CN human-computer_N interation_N
 CN integrerad_A utvecklingsmiljö_N,CN integrated_A development_N environment_N
 CN imperativ_A programmering_N,CN imperative_A programming_N,
@@ -559,7 +559,7 @@ bokföringsprogram_N,CN accounting_N software_N
 webbläsare_N,CN web_N browser_N
 mediespelare_N,CN media_N player_N
 flygsimulator_N,CN flight_N simulator_N
-användningsfalla_V,CN use_N case_N
+användningsfall_N,CN use_N case_N
 klassmodell_N,CN class_N diagram_N
 teoretisk_A,theoretical_A
 diskret_A,discreet_A
