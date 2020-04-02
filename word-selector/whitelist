@@ -148,7 +148,8 @@ lecture_N,föreläsning_N
 article_N,artikel_N
 university_N,universitet_N
 element_N,element_N
-address_N,adress_Nprogramming_N,programmering_N
+address_N,adress_N
+programming_N,programmering_N
 model_N,modell_N
 processor_N,processor_N
 core_N,kärna_N
