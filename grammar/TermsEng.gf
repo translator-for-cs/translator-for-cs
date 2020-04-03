@@ -23,4 +23,7 @@ lin
   relevant_AP = mkAP relevant_A ;
   graphical_AP = mkAP graphical_A ;
   computer_science_CN = makeCN computer_N science_N ;
+  web_N = mkN "web";
+  page_N = mkN "page";
+  web_page_CN = makeCN web_N page_N;
 }

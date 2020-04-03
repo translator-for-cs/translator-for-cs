@@ -27,5 +27,7 @@ lin
   relevant_AP = mkAP relevant_1_A ;
   graphical_AP = mkAP grafisk_1_A ;
   computer_science_CN = makeCN data_1_N vetenskap_1_N ;
-
+  web_N = mkN "webb";
+  page_N = mkN "sida";
+  web_page_CN = makeCN web_N page_N;
 }

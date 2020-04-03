@@ -17,5 +17,7 @@ fun
   relevant_AP : AP ;
   graphical_AP : AP ;
   computer_science_CN : CN ;
-
+  web_page_CN : CN ;
+  web_N: N;
+  page_N: N;
 }
