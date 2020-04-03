@@ -30,4 +30,9 @@ lin
   web_N = mkN "webb";
   page_N = mkN "sida";
   web_page_CN = makeCN web_N page_N;
+  -- Should be "minnesaddress" but currently gives "minneadress"
+  -- memory_address_CN = makeCN minne_1_N adress_1_N;'
+  memory_address_CN = makeCN "minnes" adress_1_N;
+  computer_engineering = makeCN data_1_N teknik_1_N;
+  wireless_AP = mkAP trådlös_1_A;
 }

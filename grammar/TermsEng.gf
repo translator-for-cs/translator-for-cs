@@ -26,4 +26,16 @@ lin
   web_N = mkN "web";
   page_N = mkN "page";
   web_page_CN = makeCN web_N page_N;
+  speech_recognition_CN = makeCN speech_N recognition_N;
+  memory_N = mkN "memory";
+  address_N = mkN "address";
+  memory_address_CN = makeCN memory_N address_N;
+  computer_engineering = makeCN computer_N engineering_N;
+  operation_N = mkN "operation" ;
+  unit_N = mkN "unit" ;
+  symbol_N = mkN "symbol" ;
+  reference_N = mkN "reference" ;
+  personal_computer_CN = makeCN personal_A computer_N ;
+  bot_N = mkN "bot";
+  wireless_AP = mkAP wireless_A;
 }
