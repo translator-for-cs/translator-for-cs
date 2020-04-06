@@ -2,9 +2,9 @@
 
 How to use
 
-'''
+```
 python3 gfAnnotate.py <inputfile> <outputfile> <language>
-'''
+```
 
 Language is either 'swe' or 'eng'.
 
