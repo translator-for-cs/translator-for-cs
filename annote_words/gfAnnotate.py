@@ -134,8 +134,3 @@ elif (lang == 'eng'):
 
 else:
     print(F"{lang} is not supported. Use 'swe' or 'eng'! ")
-
-
-
-
-# ../../../../Documents/GitHub/translator-for-cs/word-selector/whitelist
