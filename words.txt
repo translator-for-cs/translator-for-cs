@@ -60,5 +60,5 @@ CN sorting_N algorithm_N,sorteringsalgoritm_N
 CN linear_A search_V,CN linjär_A sökning_V
 CN Data_N Communication_N,Datakommunikation_N
 CN Domain_N Name_N System_N,Domännamnssystemet_N
-CN Routing_N Protocoll_N,Routingprotokoll_N
+CN Routing_N Protocol_N,Routingprotokoll_N
 CN Congestion_N control_N,Stockningskontroll_N
