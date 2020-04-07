@@ -83,7 +83,7 @@ if(lang == 'swe'):
                 elif(wordSwe[-3:-2] == '_'):
                     if(wordSwe[-2:-1] == 'N'):
                         makeWordSwe = 'mkN ' + wordSwe[:-3] + '_1' + wordSwe[-3:-1]
-                        writeString = F"{wordEng} = {makeWordSwe} {end}"
+                        writeString = F"{wordEng} = mkN \"{wordSwe[:-3]}\" {end}"
                         if writeString not in read:
                             o.write(writeString)
 
