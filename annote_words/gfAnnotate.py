@@ -9,7 +9,7 @@ lines = f.readlines()
 f.close()
 
 if(lang == 'swe'):
-    with open(outputFile, 'w') as o:
+    with open(outputFile, 'a') as o:
 
         for word in lines:
             wordSwe = word.split(',')[1]
@@ -92,7 +92,7 @@ if(lang == 'swe'):
     print(F"Writing to {outputFile} completed")
 
 elif (lang == 'eng'):
-    with open(outputFile, 'w') as o:
+    with open(outputFile, 'a') as o:
         for word in lines:
             wordEng = word.split(',')[0]
             beg = wordEng[:-2]
