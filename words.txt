@@ -35,10 +35,9 @@ CN game_N engine_N,spelmotor_N
 CN discrete_A mathematics_N,CN diskret_A matematik_N
 CN compiler_N construction_N,kompileringskonstruktion_N
 CN regular_A expression_N,CN reguljärt_A uttryck_N
-CN programming_A paradigm_N,programmeringsparadigm_N
+CN programming_N paradigm_N,programmeringsparadigm_N
 CN code_N generator_N,kodgenerator_N
 CN formal_A verification_N,CN formell_A verifiering_N
-CN graphics_A card_N,grafikkort_N
 CN differential_A equation_N,differentialekvation_N
 CN artificial_A intelligence_N,CN artificiell_A intelligens_N
 CN algorithm_N design_V,algoritmdesign_V
@@ -51,7 +50,6 @@ CN agile_A software_N development_N,CN agil_A mjukvaruutveckling_N
 CN big_A data_N,CN big_A data_N
 CN binary_A number_N,CN binärt_A tal_N
 CN binary_A search_V tree_N,CN binärt_A sökträd_N
-CN computer_A architecture_N,datorarkitektur_N
 CN security_N protocol_N,säkerhetsprotokoll_N
 CN virtual_A private_A network_N,CN virtuellt_A privat_A nätverk_N
 CN floating_A point_N number_N,flyttal_N
@@ -60,5 +58,5 @@ CN sorting_N algorithm_N,sorteringsalgoritm_N
 CN linear_A search_V,CN linjär_A sökning_V
 CN Data_N Communication_N,Datakommunikation_N
 CN Domain_N Name_N System_N,Domännamnssystemet_N
-CN Routing_N Protocoll_N,Routingprotokoll_N
+CN Routing_N Protocol_N,Routingprotokoll_N
 CN Congestion_N control_N,Stockningskontroll_N
