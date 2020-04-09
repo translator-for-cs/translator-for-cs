@@ -4,6 +4,8 @@ inputFile = sys.argv[1]
 outputFile = sys.argv[2]
 lang = sys.argv[3]
 
+terms = []
+
 f = open(inputFile, 'r')
 lines = f.readlines()
 f.close()
@@ -94,23 +96,23 @@ if(lang == 'swe'):
                         if writeString not in read:
                             o.write(writeString)
 
-                elif(wordSwe[-4:-3] == '_'):
-                    makeWordSwe = 'mkV2 ' + wordSwe[:-4] + '_1' + wordSwe[-4:-1]
-                    writeString = F"{wordEng} = {makeWordSwe} {end}"
-                    if writeString not in read:
-                        o.write(writeString)
-
-                else:
-                    if(wordSwe[-5:-1] == '_V2V'):
-                        makeWordSwe = 'mkV2V ' + wordSwe[:-5] + '_1' + wordSwe[-5:-1]
-                        writeString = F"{wordEng} = {makeWordSwe} {end}"
-                        if writeString not in read:
-                            o.write(writeString)
-                    else:
-                        makeWordSwe = 'mkAdv ' + wordSwe[:-5] + '_1' + wordSwe[-5:-1]
-                        writeString = F"{wordEng} = {makeWordSwe} {end}"
-                        if writeString not in read:
-                            o.write(writeString)
+                # elif(wordSwe[-4:-3] == '_'):
+                #     makeWordSwe = 'mkV2 ' + wordSwe[:-4] + '_1' + wordSwe[-4:-1]
+                #     writeString = F"{wordEng} = {makeWordSwe} {end}"
+                #     if writeString not in read:
+                #         o.write(writeString)
+                #
+                # else:
+                #     if(wordSwe[-5:-1] == '_V2V'):
+                #         makeWordSwe = 'mkV2V ' + wordSwe[:-5] + '_1' + wordSwe[-5:-1]
+                #         writeString = F"{wordEng} = {makeWordSwe} {end}"
+                #         if writeString not in read:
+                #             o.write(writeString)
+                #     else:
+                #         makeWordSwe = 'mkAdv ' + wordSwe[:-5] + '_1' + wordSwe[-5:-1]
+                #         writeString = F"{wordEng} = {makeWordSwe} {end}"
+                #         if writeString not in read:
+                #             o.write(writeString)
 
         print(F"Writing to {outputFile} completed")
 
@@ -129,6 +131,7 @@ elif (lang == 'eng'):
                         indexes = [pos for pos, char in enumerate(wordEng) if char=='_']
                         makeWordEng = wordEng[3:indexes[0]] + '_' + wordEng[indexes[0]+3:indexes[1]] + '_' + wordEng[indexes[1]+3:indexes[2]+1]
                         writeString = F"{makeWordEng}CN = makeCN {wordEng[3:]} {end}"
+                        terms.append(F"{makeWordEng}CN: CN{end}")
                         if writeString not in read:
                             o.write(writeString)
 
@@ -136,32 +139,39 @@ elif (lang == 'eng'):
                         ind = wordEng.find('_')
                         makeWordEng = wordEng[3:ind] + '_' + wordEng[ind+3:-1]
                         writeString = F"{makeWordEng}CN = makeCN {wordEng[3:]} {end}"
+                        terms.append(F"{makeWordEng}CN: CN{end}")
                         if writeString not in read:
                             o.write(writeString)
 
 
                 elif(wordEng[-2:] == '_N'):
-                    writeString = F"{beg}_N = mkN {wordEng} {end}"
+                    writeString = F"{beg}_N = mkN \"{wordEng[:-2]}\" {end}"
+                    terms.append(F"{beg}_N: N{end}")
                     if writeString not in read:
                         o.write(writeString)
 
                 elif(wordEng[-2:] == '_A'):
                     writeString = F"{beg}_AP = mkAP {wordEng} {end}"
+                    terms.append(F"{beg}_AP: AP{end}")
                     if writeString not in read:
                         o.write(writeString)
 
-                elif(wordEng[-3:-2] == '_'):
-                    ending = wordEng[-2:]
-                    writeString = F"{wordEng} = mk{ending} {wordEng} {end}"
-                    if writeString not in read:
-                        o.write(writeString)
+                # elif(wordEng[-3:-2] == '_'):
+                #     ending = wordEng[-2:]
+                #     writeString = F"{wordEng} = mk{ending} {wordEng} {end}"
+                #     terms.append(F"{wordEng}: {ending}{end}")
+                #     if writeString not in read:
+                #         o.write(writeString)
 
-                else:
-                    ending = wordEng[-3:]
-                    writeString = F"{wordEng} = mk{ending} {wordEng} {end}"
-                    if writeString not in read:
-                        o.write(writeString)
+                # else:
+                #     ending = wordEng[-3:]
+                #     writeString = F"{wordEng} = mk{ending} {wordEng} {end}"
+                #     terms.append(F"{wordEng}: {ending}{end}")
+                #     if writeString not in read:
+                #         o.write(writeString)
 
+            for t in terms:
+                o.write(t)
         print(F"Writing to {outputFile} completed")
 
 else:
