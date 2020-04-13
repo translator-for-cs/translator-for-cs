@@ -25,7 +25,6 @@ fun
   --computer_engineering: CN;
   --wireless_AP: AP;
   --course_N: N;
-  boolean_AP: AP;
   course_N: N;
   prerequisite_N: N;
   computer_N: N;
@@ -507,7 +506,7 @@ fun
   hash_table_CN: CN;
   heapsort_N: N;
   --human-computer_interation_CN: CN;
-  integrated_development_environment_CN: CN;
+  --integrated_development_environment_CN: CN;
   imperative_programming_CN: CN;
   inheritance_N: N;
   insertion_sort_CN: CN;
@@ -528,7 +527,7 @@ fun
   programming_language_CN: CN;
   kernel_N: N;
   linear_search_CN: CN;
-  linked_list_CN: CN;
+  --linked_list_CN: CN;
   logic_programming_CN: CN;
   machine_learning_CN: CN;
   matrix_N: N;
@@ -537,7 +536,7 @@ fun
   numerical_AP: AP;
   analysis_N: N;
   numerical_analysis_CN: CN;
-  operating_system_CN: CN;
+  --operating_system_CN: CN;
   optical_fiber_CN: CN;
   pair_programming_CN: CN;
   peripheral_N: N;
@@ -684,12 +683,13 @@ fun
   computing_N: N;
   optical_N: N;
   fiber_N: N;
-  operating_A: A;
-  linked_AP: A;
-  integrated_A: A;
+  --operating_A: A;
+  --linked_AP: AP;
+  --integrated_A: A;
   executable_A: A;
   center_N: N;
   computability_N: N;
   coding_N: N;
   automata_N: N;
+  --linked_A: A;
 }
