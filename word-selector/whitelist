@@ -867,4 +867,41 @@ CN garbage_N collection_N,skräpsamling_N
 CN global_A variable_N,CN global_A variabel_N
 virus_N,virus_N
 CN motion_N sensor_N,rörelsesensor_N
-~                                        
+player_N,spelare_N
+recursive_A,rekursiv_A
+definition_N,definition_N
+connection_N,anslutning_N
+register_V2,registrera_V2
+scope_N,räckvidd_N
+screen_N,skärm_N
+semiconductor_N,halvledare_N
+simulate_V2,simulera_V2
+singleton_N,singleton_N
+maintenance_N,underhåll_N
+verification_N,verifiering_N
+validation_N,validering_N
+sort_V2,sortera_V2
+array_N,fält_N
+editor_N,redigerare_N
+spam_N,skräppost_N
+subset_N,delmängd_N
+technological_A,teknologisk_A
+text_N,text_N
+transistor_N,transistor_N
+translator_N,översättare_N
+true_N,sann_N
+value_N,värde_N
+user_N,användare_N 
+programmable_A,programerbar_A 
+CN text_N editor_N,textredigerare_N 
+register_N,register_N 
+CN hardware_N acceleration_N,hårdvaru_+_acceleration_N
+CN address_N space_N,adressrymd_N
+bus_N,buss_N
+CN card_N reader_N,kortläsare_N
+cache_N,cache_N
+CD-ROM_N,CD-ROM_NCN
+computer_N case_N,dator_+_chassi_N
+CN form_N factor_N,formfaktor_N
+CN core_N memory_N,kärnminne_N
+CN computer_N data_N storage_N,datorminne_N
