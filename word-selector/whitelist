@@ -895,69 +895,74 @@ user_N,användare_N
 programmable_A,programerbar_A 
 CN text_N editor_N,textredigerare_N 
 register_N,register_N 
-CN hardware_N acceleration_N,hårdvaru_+_acceleration_N
+CN hardware_N acceleration_N,hårdvaruacceleration_N
 CN address_N space_N,adressrymd_N
 bus_N,buss_N
 CN card_N reader_N,kortläsare_N
 cache_N,cache_N
 CD-ROM_N,CD-ROM_NCN
-computer_N case_N,dator_+_chassi_N
+computer_N case_N,datorchassi_N
 CN form_N factor_N,formfaktor_N
 CN core_N memory_N,kärnminne_N
 CN computer_N data_N storage_N,datorminne_N
-CN expansion_N bus_N,expansions_+_kort_N
+CN expansion_N bus_N,expansionskort_N
 firewall_N,brandvägg_N
 firmware_N,firmware_N
-CN flash_A memory_N,flash_+_minne_N
+CN flash_A memory_N,flashminne_N
 CN floppy_A disk_N,diskett_N
-CN graphics_A processing_N unit_N,grafik_+_processor_N
+CN graphics_A processing_N unit_N,grafikprocessor_N
 CN hard_A disk_N drive_N,hårddisk_N
 hardware_N,maskinvara_N
-instruction_N,instruktions_+_uppsättning_N
+instruction_N,instruktionsuppsättning_N
 CN integrated_A circuit_N,CN integrerad_A krets_N
 keyboard_N,tangentbord_N
 CN mainframe_N computer_N,stordator_N
-CN memory_N address_N,minnes_+_adress_N
-CN memory_N card_N,minnes_+_kort_N
-microcode_N,mikro_+_program_N
+CN memory_N address_N,minnesadress_N
+CN memory_N card_N,minneskort_N
+microcode_N,mikroprogram_N
 modem_N,modem_N
 motherboard_N,moderkort_N
-CN computer_N network_N,dator_+_nätverk_N
-CN network_N interface_N controller_N,nätverks_+_kort_N
+CN computer_N network_N,datornätverk_N
+CN network_N interface_N controller_N,nätverkskort_N
 CN operating_A system_N,operativsystem_N
 code_N,kod_N
 peripheral_N,kringutrustning_N
 CN personal_A computer_N,persondator_N
-CN power_N supply_N,nät_+_aggregat_N
+CN power_N supply_N,nätaggregat_N
 printer_N,skrivare_N
 server_N,server_N
 software_N,programvara_N
-CN sound_N card_N,ljud_+_kort_N
+CN sound_N card_N,ljudkort_N
 CN tape_N drive_N,bandstation_N
-CN computer_N terminal_N,dator_+_terminal_N
-trackpad_+ platta N,styr_+_platta_N
+CN computer_N terminal_N,datorterminal_N
+trackpad_N,styrplatta_N
 card_N,kort_N
-CN video_A card_N,grafik_+_kort_N
+CN video_A card_N,grafikkort_N
 webcam_N,webbkamera_N
 enhet_N,drive_N
 arithmetic_N,aritmetik_N
 artificial_A,artificiell_A
-CN machine_N learning_N,maskin_+_inlärning_N
+CN machine_N learning_N,maskininlärning_N
 fan_N,fläkt_N
 screen_N,bildskärm_N
-CN LED_N display_N,lysdiod_+_skärm_N
+CN LED_N display_N,lysdiodskärm_N
 logical_A,logisk_A
 operator_N,operator_N
-CN data_N storage_N device_N,lagrings_+_medium_N
-CN communications_N protocol_N,kommunikations_+_protokoll_N
-CN printed_A circuit_N board_N,mönster_+_kort_N
+CN data_N storage_N device_N,lagringsmedium_N
+CN communications_N protocol_N,kommunikationsprotokoll_N
+CN printed_A circuit_N board_N,mönsterkort_N
 video_N,video_N
-CN digital_A signal_N processor_N,signal_+_processor_N
+CN digital_A signal_N processor_N,signalprocessor_N
 semiconductor_N,halvledare_N
-CN parallel_A computing_N,parallell_+_dator_N
+CN parallel_A computing_N,parallelldator_N
 graphical_A,grafisk_A
-CN user_N interface_N,användar_+_gränssnitt_N
-CN desktop_N computer_N,skrivbords_+_dator_N
+CN user_N interface_N,användargränssnitt_N
+CN desktop_N computer_N,skrivbordsdator_N
 CN computer_N program_N,datorprogram_N
 laser_N,laser_N
 electromagnetic_A,elektromagnetisk_A
+mouse_N,datormus_N
+CN static_A random-access_A memory_N,CN statiskt_A minne_N
+CN electromagnetic_A wave_N,CN elektromagnetisk_A strålning_N
+CN optical_A disc_N,CN optisk_A skiva_N
+CN integrated_A circuit_N,CN integrerad_A krets_N
