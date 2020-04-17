@@ -1,0 +1,283 @@
+Accelerated graphics port
+Hårdvaruacceleration
+null
+Adressrymd
+Adressrymd
+Advanced Technology Extended
+null
+Blu-ray Disc
+Buss (elektronisk term)
+Cache
+null
+null
+Cache
+null
+null
+null
+null
+Kortläsare
+null
+Chipset
+null
+null
+CD-ROM
+Datorchassi
+null
+Formfaktor
+null
+null
+Peripheral Component Interconnect
+Processor
+Kärnminne
+Processor
+null
+Datorminne
+DVD
+Digital Visual Interface
+null
+null
+Direct Memory Access
+Displayport
+null
+DIMM
+Dynamiskt minne
+Expansionskort
+Expansionskort
+Brandvägg
+Firmware
+Flashminne
+Diskett
+Diskett
+null
+null
+null
+Grafikprocessor
+Hårddisk
+Maskinvara
+Harvardarkitektur
+High-Definition Multimedia Interface
+null
+I/O
+null
+Instruktionsuppsättning
+null
+Integrerad krets
+USB-minne
+Tangentbord
+Instruktionsuppsättning
+null
+null
+Stordator
+Datorminne
+null
+null
+null
+Minnesadress
+null
+Minneskort
+null
+Mikroprogram
+Modem
+null
+null
+Moderkort
+Datormus
+Datornätverk
+Nätverkskort
+null
+Non-Uniform Memory Access
+Icke-flyktigt datorminne
+null
+Operativsystem
+OP-kod
+CD-brännare
+USB-minne
+Kringutrustning
+Persondator
+Nätaggregat
+null
+Skrivare
+null
+null
+PCI Express
+null
+Raid
+Random Access Memory
+Read-only memory
+Server
+Programvara
+SIMM
+SSD-minne
+Statiskt minne
+Ljudkort
+Datorminne
+SDRAM
+null
+Bandstation
+Datorterminal
+Styrplatta
+TV-kort
+Universal Serial Bus
+null
+USB-minne
+Grafikkort
+Video Graphics Array
+null
+Webbkamera
+Cache
+null
+null
+Zip drive
+
+3D-grafik
+Aritmetik
+Logik
+Heltal
+Datorminne
+Artificiellt neuronnät
+Maskininlärning
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+Cache
+null
+null
+null
+null
+null
+Fläkt
+null
+Bildskärm
+null
+null
+Lysdiodskärm
+Katodstrålerör
+Aritmetik
+Logisk operator
+Kärnminne
+null
+Lagringsmedium
+null
+OpenCL
+OpenCL
+null
+null
+Direct Memory Access
+null
+Kommunikationsprotokoll
+Mönsterkort
+Kontaktdon
+Maskinkod
+Signalprocessor
+Datorminne
+null
+null
+Maskinkod
+Datorminne
+null
+Halvledare
+Skrivmaskin
+Tangentbord
+null
+Instruktionsuppsättning
+Instruktionsuppsättning
+Instruktionsuppsättning
+null
+Programvara
+Direct Memory Access
+null
+Parallelldator
+Dator
+null
+null
+Grafiskt användargränssnitt
+Skrivbordsdator
+Computer-aided design
+Ethernet
+null
+Integrerad krets
+null
+System-on-a-chip
+Datorprogram
+Basic Input/Output System
+Bootning
+Datorprogram
+Laser
+Elektromagnetisk strålning
+Elektromagnetiskt spektrum
+Optisk skiva
+Dator
+Nätspänning
+Likström
+Switching Mode Power Supply
+Instruktionsuppsättning
+null
+null
+null
+null
+null
+null
+Latens
+null
+Halvledare
+null
+Transistor
+null
+Mikroprocessor
+Instruktionsuppsättning
+null
+Datornätverk
+null
+null
+null
+null
+Datorkluster
+Datornätverk
+Icke-flyktigt datorminne
+Icke-flyktigt datorminne
+Integrerad krets
+null
+null
+Flashminne
+MultiMediaCard
+MRAM
+null
+Programmable array logic
+Field-programmable gate array
+null
+null
+Multiplexer
+Multiplex
+Datorprogram
+null
+Halvledare
+Ljud
+null
+Megabyte
+null
+null
+Magnetband
+null
+Elektromekanik
+Finger
+null
+CISC
+X86
+IBM
+PC
+null
+null
+Datornätverk
+Ethernet
+null
+null
+null
