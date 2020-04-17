@@ -7,16 +7,17 @@ cat
   [Line] ;
 
 fun
-  MkPlan : Line -> (
-    prerequisites,
-    goals,
-    learning,
-    knowledge,
-    competence,
-    judgement,
-    content,
-    organization : Paragraph
-    ) -> Plan ;
+  MkPlan :
+    Line ->
+    Paragraph ->
+    Paragraph ->
+    Paragraph ->
+    Paragraph ->
+    Paragraph ->
+    Paragraph ->
+    Paragraph ->
+    Paragraph ->
+      Plan ;
 
   MkParagraph : [Line] -> Paragraph ;
 
