@@ -3,7 +3,7 @@ CN computer_N security_N model_N,datasäkerhetsmodell_N
 CN information_N technology_N,informationsteknik_N
 CN software_N development_V,mjukvaruutveckling_V
 CN programming_N language_N,programmeringsspråk_N
-CN unauthorized_A acces_N,CN obehörig_A åtkomst_N
+CN unauthorized_A access_N,CN obehörig_A åtkomst_N
 CN confidential_A information_N,CN konfidentiell_A information_N
 CN holistic_A approach_N,helhetssyn_N
 CN ethical_A aspect_N,CN etisk_A aspekt_N
@@ -43,7 +43,7 @@ CN artificial_A intelligence_N,CN artificiell_A intelligens_N
 CN algorithm_N design_V,algoritmdesign_V
 CN network_N security_N,nätverksäkerhet_N
 CN distributed_A systems_N,CN distribuerade_A system_N
-CN applied_A data_N science_N,CN applicierad_A datavetenskap_N
+CN applied_A data_N science_N,CN applicerad_A datavetenskap_N
 CN abstract_A data_N type_N,CN abstrakt_A datatyp_N
 CN abstract_A method_N,CN abstrakt_A metod_N
 CN agile_A software_N development_N,CN agil_A mjukvaruutveckling_N

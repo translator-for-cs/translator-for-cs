@@ -21,4 +21,9 @@ oper
       = \s,n -> mkCN (mkN s n) ;
     } ;
 
+  makeV2 = overload {
+    makeV2 : V -> V2
+      = \v -> mkV2 v ; 
+  } ; 
+
 }

@@ -25,6 +25,12 @@ oper
       = \m,n,o -> mkCN (mkN (mkUtt (mkCN (mkN (mkUtt (mkCN m)).s n))).s o) ;
     } ;
 
+  makeV2 = overload {
+    makeV2 : V -> V2
+      = \v -> mkV2 v ;
+    makeV2 : Str -> V2
+      = \s -> mkV2 s ;
 
+    } ;
 
 }
