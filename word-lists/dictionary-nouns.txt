@@ -1,4 +1,3 @@
-== noun Computers ==
 Operating system
 Basic
 Teleprocessing
