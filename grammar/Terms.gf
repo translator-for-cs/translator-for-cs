@@ -20,4 +20,8 @@ fun
   web_page_CN : CN ;
   web_N: N;
   page_N: N;
+  speech_recognition_CN: CN;
+  memory_address_CN : CN;
+  computer_engineering: CN;
+  wireless_AP: AP;
 }

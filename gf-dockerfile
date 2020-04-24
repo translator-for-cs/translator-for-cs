@@ -1,0 +1,12 @@
+from haskell:8.4
+
+ADD gf_3.10-2_amd64.deb /tmp
+RUN dpkg -i /tmp/gf_3.10-2_amd64.deb
+RUN rm /tmp/gf_3.10-2_amd64.deb
+
+RUN apt-get update && apt-get install -y libghc-haskeline-dev
+
+RUN useradd -ms /bin/bash dave
+USER dave
+WORKDIR /data
+RUN cabal update && cabal install alex happy gf
