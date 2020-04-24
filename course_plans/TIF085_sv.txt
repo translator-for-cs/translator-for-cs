@@ -1,0 +1,38 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen är en utvidgning och fördjupning av gymnasiets fysikkurser som bygger på de matematiska kunskaper som studenterna har inhämtat i inledningen av D-programmet. För att kunna tillgodogöra sig kursen krävs att man har gymnasiefysiken någorlunda aktuell samt att man har kunskaper i Linjär algebra och Matematisk analys i nivå med D-programmets kurser inom dessa grenar av matematiken.
+	
+                Syfte
+	Kursen syftar till att ge studenterna en bred översikt över fysiken. Studenterna ska bli bekanta med dels fysik som är relevant i deras roll som ingenjörer och dels fysik som ger en fördjupad världsbild. I de delar som är viktiga för ingenjörsrollen är tillämpning av matematik för att behandla fysikaliska modeller av central betydelse.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	inom Mekaniktillämpa Newtons lagar för att lösa enklare mekanikproblembeskriva rörelser i flera dimensioner såväl där komponenterna består av partiklar som där de har utsträckning.
+inom Värmelära
+tillämpa termodynamikens lagar för att behandla idealiserade termodynamiska processer
+lösa enklare värmeledningsproblem.
+inom Vågfysikgöra beräkningar på olika typer av fortskridande vågor.
+räkna på enklare problem vars lösning kräver insikt i fenomenen interferens och diffraktion.
+
+
+	
+                Innehåll
+	Kursen innehåller klassisk mekanik, vågfysik och ellära. I mekanikdelen studeras främst partiklars rörelse, Newtons lagar med tillämpningar, begrepp som arbete, energi, rotationsrörelse, konservering av energi, rörelsemängd och rörelsemängdsmoment. Inom vågrörelsedelen studeras oscillationer och vågor, ljudvågor, superposition och stående vågor. I kursen introduceras ordinära differentialekvationer med fysikaliska tillämpningar såsom transienta förlopp.
+        	  
+                Organisation
+	Undervisningen ges i form av föreläsningar, räkneövningar och laborationer. 
+
+	
+                Litteratur
+	            "University Physics with Modern Physics", 14: e upplagan. Global edition. Young & Freedman. Pearson
+		
+                       Examination inklusive obligatoriska moment
+       	För att bli godkänd på kursen krävs godkänd skriftlig tentamen samt godkända laborationer. Baserat på tentamensresultatet ges betygen U,3,4 eller 5.
+Förutom ordinarie tentamen erbjuds två deltentor under läsperioden. 
+	
+    
+
+    

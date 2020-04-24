@@ -1,0 +1,49 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+                Syfte
+	Linjär algebra är ett matematiskt verktyg som används inom alla vetenskaper som använder matematik och är därför ett oundgängligt redskap för i stort sett alla civilingenjörer. Detta gäller inte minst för ingenjörer inom datavetenskap som har massor av tillämpningar av linjär algebra. Det slutgiltliga syftet är därför att du som ingenjör skall vara redo att betrakta nya problem utifrån dina kunskaper i linjär algebra och kunna angripa problemen med dessa nya verktyg.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	 redogöra för innebörden hos den linjära algebrans grundläggande begrepp och sambanden mellan dessakombinera tidigare kunskaper i matematik och olika begrepp inom linjär algebra för praktisk problemlösningredovisa lösningar till matematiska problem skriftligt på ett tillfredsställande sättmed stöd av litteratur och internet kunna lösa problem som utvidgar och fördjupar elevens kunskap inom linjär algebraanvända den matematiska programvaran Matlab som stöd för beräkningarskriva och dokumentera program i Matlab för lösning av problem inom linjär algebra
+
+	
+                Innehåll
+	Geometriska vektorer: 
+Skalärprodukt, vektorprodukt, linjärkombinationer, ortogonal projektion, koordinatsystem, linjer och plan.
+Matrisalgebra: 
+Addition, multiplikation, transponat, identitet och invers.
+Linjära avbildningar: 
+Matrisrepresentation, geometriska avbildningar, sammansättning och invers.
+Vektorer i godtycklig dimension: 
+Generalisering av de geometriska begreppen till godtycklig dimension.
+Linjära ekvationssystem: 
+Matrisform, lösningsmängd, Gausselimination och minstakvadratlösning.
+Determinant: 
+Definition, beräkning och geometrisk tolkning.
+Baser och linjärt oberoende: 
+Byta bas i koordinatsystem och för linjär avbildning, ON-bas och ON-matris.
+Egenvärden och egenvektorer: 
+Karakteristisk ekvation, spektralsatser, diagonalisering och potensmetoden.
+Grafer och grannmatriser: 
+Grafbegrepp, övergångsmatris, slumpvandring, stationär fördelning och Markovkedja.
+
+        	  
+                Organisation
+	Undervisningen ges i form av föreläsningar, räkneövningar samt gruppövningar som kombinerar teoretiska fördjupningsuppgifter med datoruppgifter. 
+
+Mer detaljerad information ges på kursens webbsida före kursstart.
+
+	
+                Litteratur
+	            Anges på kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Momentet Tentamen examineras med en skriftlig tentamen med betygen U, 3, 4 och 5. Momentet Laboration examineras med redovisning av inlämningsuppgifter.
+
+	
+    
+
+    

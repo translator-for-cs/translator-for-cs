@@ -1,0 +1,32 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Kravet för kursen är att ha framgångsrikt slutfört två år med ämnet datavetenskap eller motsvarande. Särskilt relevant är matematik (inklusive diskret matematik), programmering, algoritmer och/eller datastrukturer.
+	
+                Syfte
+	Under de senaste åren har kraftfulla verktyg för verifikation av programvaru- och hårdvarusystem utvecklats. Dessa verktyg förlitar sig på ett avgörande sätt i logiska tekniker. Kursen ger en god grund i logik och en kort introduktion till några logiska ramverk som används för att modellera, specificera och modellera datorsystem. Grundläggande kunskaper i logik är en god grund för kurser i programverifiering, formella metoder och artificiell intelligens.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Studenterna ska kunna förstå och använda formella verktyg för kontroll av mjukvara och hårdvara, såsom SAT-lösare och "model checking tools" (som används i programvaruteknik). De  skall också kunna förklara innebörden av sundhet och fullständighet för olika logiker (sats-, predikat- och temporal logik) och skriva härledningar i naturlig deduktion i predikatlogik.
+	
+                Innehåll
+	Vi täcker: satslogik (avsnitt 1,1-1,5), predikatlogik (avsnitt 2,1-2,6) och model-checking (avsnitten 3.2 och 3.4). Med andra ord, en grundlig introduktion till grundläggande begrepp och metoder i logik: naturlig deduktion, semantik för både sats- och predikatlogik, sundhet och fullständighet, konjunktiv normalform, Horn klausuler, oavgörbarhet av predikatlogik, uttrycksfullhet av predikatlogik, existentiella och universella andra- ordningens logiker.
+        	  
+                Organisation
+	Undervisning ges i form av föreläsningar och övningar.
+
+	
+                Litteratur
+	            Huth, Ryan. Logic in Computer Science, se http://www.cs.bham.ac.uk/research/lics/
+		
+                       Examination inklusive obligatoriska moment
+       	För att bli godkänd på kursen krävs godkänd skriftlig tentamen. Frivillig veckovis inlämningsuppgift som ger bonus poäng på alla tentamen under samma akademisk år erbjuds under kursens gång. Slut betyget är baserat på tentamensresultatet.
+	
+    
+
+    

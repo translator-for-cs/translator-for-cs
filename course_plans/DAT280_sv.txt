@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Studenter skall ha fullföljt två års studier inom datavetenskap, datateknik eller jämförbar utbildning. Kursdeltagare skall ha genomgått en introduktionskurs i funktionell programmering, företrädesvis användande Haskell eller Erlang. (Kursexempel på Chalmers är TDA452 och TDA555.)
+	
+                Syfte
+	Syftet med kursen är att introducera principer och praktiska tekniker för parallell programmering i ett funktionellt programmeringsspråk. Med parallell programmering menas användning av flera hårdvaruenheter (kärnor eller processorer) för att öka beräkningskapaciteten. Kursen belyser metoder för parallell funktionell programmering i både Haskell och Erlang. Akutell forskning inom ämnet presenteras, och kursen använder vetenskapliga artiklar som kursmaterial.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelse1. Förstå betydelsen av skillnad mellan samtidighet (concurrency) och parallellism2. Kunna beskriva metoder för parallellism inom funktionella programspråk i den vetenskapliga litteraturen.Färdigheter1. Skriva, modifiera och testa parallella funktionella program, avsedda för olika datorsystemarkitekturer inklusive multiprocessorer med delat minne, nätverk av servrar, och grafikprocessorer (GPU).2. Tolka exekveringsprofiler av parallella program och åtgärda flaskhalsar.Värderingsförmåga och förhållningssätt1. Identifiera under vilka omständigheter ett funktionellt språk är lämpligt för att läsa ett parallellt programmeringsproblem.2. Välja den form av parallell funktionell programmering som passar för ett givet problem, och förklara valet.
+	
+                Innehåll
+	Kursen behandlar principer och praktiska tekniker för parallell programmering i Haskell och Erlang.Fördelar med parallell funktionell programmering: oföränderlighet (immutability), avsaknad av synkroniseringsfel, (determinism).Att profilera parallella funktionella program: kornighet, flaskhalsar, lokalitet, databeroenden Parallella funktionella algoritmer: "söndra-och-härska".Metoder för att uttrycka parallellism i Haskell: "Eval-monaden", "Par-monaden", parallella strategier, skelett och dataparallellism.Funktionell GPU programmering.Parallellisering och distribuering i Erlang. Skalbarhet. Felhantering i ett massivt parallellt system.Fallstudier av applikationer för parallell funktionell programmering inom industrin, så som "map-reduce" och skalbara "no-SQL" databaser.
+        	  
+                Organisation
+	Kursen ges i form av föreläsningar och obligatoriska laborationer. Gästföreläsningar hålls av externa experter och ledande forskare.
+	
+                Litteratur
+	            Utvalda vetenskapliga artiklar, se kurshemsidan.
+		
+                       Examination inklusive obligatoriska moment
+       	För att bli godkänd på kursen krävs godkänd skriftlig tentamen samt godkända laborationer. Baserat på tentamensresultatet ges betygen U, 3, 4 eller 5.
+	
+    
+
+    

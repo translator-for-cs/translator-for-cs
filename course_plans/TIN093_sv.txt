@@ -1,0 +1,36 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	För att kunna följa kursen krävs kunskaper om datastrukturer och diskret matematik, motsvarande inledande kurser i ämnena.
+	
+                Syfte
+	Kursen kretsar kring tre naturliga frågeställningar man ställs inför då man vill använda en dator för att beräkna lösningen på ett problem:Är problemet beräkningsmässigt lösningsbart?Hur kan lösningen utformas?Hur snabbt kan problemet lösas? I kursen behandlas grundläggande metoder för att kunna besvara dessa typer av frågor så exakt som möjligt, och dessutom förbättra förmågan att skriva snabba och väl underbyggda program.
+
+Det viktigaste målet med kursen är att ge allmänna principer för att skapa bra algoritmer för nya problem där det inte finns en känd lösningsmetod.
+
+Andra viktiga aspekter är: att förbättra studenternas intuition för tidskomplexitet hos beräkningsproblem och algoritmer, att visa hur valet av datastrukturer kan påverka prestandan (exekveringshastigheten) för ett program, samt vikten av att anpassa datastrukturer efter algoritmen man vill använda.
+
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelsebeskriva dina algoritmer och deras egenskaper: förklara algoritmer skriftligen, så att andra kan förstå hur de fungerar, varför de är korrekta och snabba, och var de är användbara.inse att icke-triviala beräkningsproblem, som måste lösas med hjälp av algoritmer, dyker upp i olika verkliga datortillämpningar och att formalisera dem.intractability: känna igen "intractable problems" och andra klasser av problem som P, NP, NPC.bevisa korrektheten av algoritmer.Färdighet och förmågadesign: tillämpa de viktigaste designteknikerna för effektiva algoritmer (t.ex. giriga, dynamisk programmering, söndra och härska, backtracking, heuristiska) på problem som liknar läroboksexemplen men är nya.utföra hela utvecklingscykeln av algoritmer: problemanalys, välja, modifiera och kombinera lämpliga tekniker och datastrukturer, analys av korrekthet och komplexitet, fylla i implementationsdetaljer, hitta möjliga förbättringar, etc.utföra enkla reduktioner mellan problem, förklara NP fullständighet, känna igen olika beräkningssvåra problem som tenderar att dyka upp om och om igen i olika applikationer, klara, åtminstonei princip, beräkningsmässigt svåra problem med hjälp av heuristik förfiningar av uttömmande sökning, approximativa lösningar, etc.implementera algoritmer ordentligt och utvärdera dem i teori och experimentVärderingsförmåga och förhållningssättkritiskt bedöma algoritmiska idéer och visa förmåga att motstå frestelsen att skapa uppenbara och till synes rimliga algoritmer (som ofta visar sig vara felaktiga) .analysera: förklara varför tidseffektivitet hos algoritmer är avgörande, uttrycka tidskomplexitet på ett rigoröst och vetenskapligt korrekt sätt, analysera tids komplexiteten hos algoritmer (summera operationer i nästlade loopar, lösa vanliga rekursionsekvationer, etc.) det vill säga göra en objektiv bedömning av prestanda för att kunna jämföra med andra algoritmer.Var dock medveten om att detta inte är en kurs i programmering! Fokus ligger på design av algoritmer från en given problemformulering och analys av effektiviteten i dessa algoritmer. Det är, så att säga, det analytiska arbete som måste göras innan du skriver någon kod, om man vill lösa ett nytt problem med hjälp av datorer.
+	
+                Innehåll
+	Kursen ger kunskaper om:Introduktion. Vad är en effektiv algoritm?Verktyg för analys av algoritmer. O-notation. Analysera loopar och rekursiva anrop. Lösa rekursionekvationer.Datastrukturer och algoritmer. Granskning av grundläggande datastrukturer.Kombinera datastrukturer. Merge-and-find.Grafalgoritmer.Giriga algoritmer.Divide-and-conquer.Dynamisk programmering.Backtracking och Implicita sökträd. Branch-and-bound.Kort introduktion till lokala sök-och approximationsalgoritmer.Grundläggande komplexitetsteori. Komplexitetsklasserna P, NP och NPC, reduktioner. Exempel på NP-fullständiga problem. Att hantera svåra problem.Kort introduktion till andra designtekniker: lokal sökning, approximationsalgoritmer, randomiserade algoritmer, förbehandling, nätverksflöde.
+        	  
+                Organisation
+	Kursen ges i form av föreläsningar, kombinerat med handledning i grupper för problemlösning och ett antal inlämningsuppgifter som syftar till att utveckla förmågan att analysera och utforma algoritmer.
+	
+                Litteratur
+	            Information om litteratur ges på kursens hemsida före kursstart.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom individuell skriftlig salstentamen.
+	
+    
+
+    

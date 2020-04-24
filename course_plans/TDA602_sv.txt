@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	För att delta i kursen krävs att studenten fullgjort två års studier inom Datavetenskap eller liknande ämne.Kunskap om materialet som täcks av kurserna DAT151 Programming language technology och EDA263 Computer security rekommenderas men är inte ett formellt krav.
+	
+                Syfte
+	De säkerhetsmekanismer som kan anses vara standard idag är inte tillräckliga för att skydda mot alla typer av attacker. Flertalet attacker sker på applikationsnivå genom att utnyttja fel och misstag i applikationen. Detta gör att attacken till viss del kan kringgå existerande skydd eftersom den körs med den attackerade applikationens rättigheter. Ett sätt att säkerställa att program är säkra är att använda programspråksmetoder för att analysera programmets källkod - en del av språkbaserad säkerhet. Språkbaserad säkerhet för med sig möjligheten att använda existerande metoder inom programanalys för att specificera och säkerställa säkerhetskrav.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter fullgjord kurs ska studenten ha praktisk och teoretisk kunskap om programspråkssäkerhet. Detta inkluderar färdighet att identifiera säkerhetsproblem på applikations- och språknivå, samt utforma och implementera lösningar på dessa problem och argumentera för lösningarnas säkerhet, användbarhet och effektivitet.Studenten skall kunna demonstrera kunskap om:olika grunder för attacker på applikationsnivå, såsom trojanska hästar, maskar, buffer overrun attacker, webapplikationsattacker, och covert channels.ochspråkbaserade metoder för att skydda mot sådana attacker, såsom statisk analys, reference monitoring, programtransformation och stackinspektion.Dessutom skall studenten öka sin förmåga att skriva tekniskt material.
+	
+                Innehåll
+	Denna kurs kombinerar praktik med nytt forskningsmaterial, vilket innebär emfas på användning av formella och semantiska modeller för att specificera och säkerställa säkerhetsegenskaper.Kursen har ett genomgående dualt synsätt vad gäller attacker och skydd mot desamma. Denna dualitet genomsyrar föreläsningarna, laborationerna, uppgifterna och projekten. 
+        	  
+                Organisation
+	Kursen består av föreläsningar, gruppmöten och projektpresentationer.
+	
+                Litteratur
+	            Se separat lista.
+		
+                       Examination inklusive obligatoriska moment
+       	För att bli godkänd på kursen krävs det att studenten färdigställer och blir godkänd på samtliga laborationer samt blir godkänd på det examinerande projektet, vilket innefattar både en presentation av projektet i klassen och en godkänd projektrapport.
+	
+    
+
+    

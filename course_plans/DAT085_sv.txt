@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	För att söka kursen ska studenten ha hittat en lärare som är villig att agera som handledare för projektet. Studenten ska ha läst kurser vilka handledaren bedömmer är nödvändiga för att kunna klara av projektet. Ett skriftligt projektförslag måste vara godkänt av en av kursens examinatorer innan studenten registreras på kursen.
+	
+                Syfte
+	I denna kurs ska studenten genomföra ett projektarbete inom en begränsad tid. Ämnet är fritt valt inom datavetenskap eller datateknik, och kan antingen vara föreslaget av en potentiell handledare eller av studenten själv. Projektet skall vara icke-trivialt. Projektet kan göras i en liten grupp där samtliga medlemmar bidrar substansiellt, eller individuellt. Projektet redovisas genom en slutrapport samt en muntlig presentation. Bedömning sker efter innehåll, djup och tydligehet.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	    arbeta med ett komplext problem som har ett klart mål men inget fördefinierat resultatintegrera kunskap från olika områden om det behövstillämpa och stärka förmågor som t.ex.att känna igen och lösa ett problemmodellering av problemtillämpning och anpassning av kända metoderoberoende litteratursökningimplementering av mjukvara och användande av existerande mjukvarupakettestning av mjukvaraatt dra slutsatser från experimentella resultat.planera ett komplext arbete, sätta upp delmål och hålla projektet igång, göra realistiska bedömningar om resurskrav och möjliga resultat, revision av mål och att hitta andra angreppssätt om nödvändigt.kommunicera och presentera resultaten effektivt, både skriftligt och muntligdokumentera arbetet så att andra kan bygga vidare på resultatet
+	
+                Innehåll
+	Projektets ämne kan väljas fritt inom områdena datavetenskap och datateknik. Projektet kan antingen föreslås av studenten själv eller av en handledare. 
+        	  
+                Organisation
+	Projektet kan utföras i grupper om 2-3 studenter eller individuellt. Vid grupparbeten ska samtliga studenter inom projektet bidra med en väsentlig del av arbetet. Projektet skall avslutas inom en studieperiod. Studenten måste själv hitta en handledare. Det finns inga schemalagda aktiviteter utan studenten och handledaren bestämmer om schemat.
+	
+                Litteratur
+	            Litteratur beror på projektet.
+		
+                       Examination inklusive obligatoriska moment
+       	Skriftlig rapport och muntlig presentation. Betyget baseras på det skriftliga arbetet, speciellt på det vetenskapliga djupet, teknisk skicklighet, korrekthet och klarhet. Handledaren rekomenderar ett slutbetyg för projektet, vilket sedan ska godkännas av kursens examinator.
+	
+    
+
+    

@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Studenten skall ha god förståelse av en dators konstruktion och grundläggande kunskaper i maskinnära programmering samt ha kännedom om begrepp som assembler och avbrott etc, dvs innehållet i någon kurs i maskinorienterad programmering. Studenten behöver också ha kunskaper om datastrukturer t ex träd, länkade listor, hashtabeller, dvs innehållet i en kurs i datastrukturer samt programmeringskunskaper (minst 7,5 kurspoäng i dataprogrammering). Kunskap om grundläggande sannolikhetslära kan vara en fördel, men kan också inhämtas parallellt med denna kurs.
+	
+                Syfte
+	Operativsystem finns överallt där datorsystem finns; inte bara i stationära datorer och servrar utan också i fordon, telefoner och inbyggda industriella system. Kursen ger en introduktion till design och implementering av operativsystem. I synnerhet är syftet: att förklara strukturen och funktionen i ett operativsystem och dess samarbete med datorsystem det stöder; att belysa viktiga operativsystemaspekter och algoritmer i operativsystemets implementationer; att åtfölja med konkreta exempel och att förbereda studenterna för kommande kurser.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter kursen skall studenterna kunna visa att de har kunskaper om och förståelse för: 1. Grundläggande funktioner i moderna operativsystem 2. Grundläggande begrepp och algoritmer rörande operativsystems implementering. 3. Implementeringen av enklare delar av ett operativsystem Studenterna skall också kunna: * uppskatta design utrymme och kompromisser involverade i genomförandet av ett operativsystem. * Skriva C-program som anropar operativsystemet på systemanropsnivå. * Implementera någon enklare rutin i ett operativsystem i programspråket C. * en del programmering med konstruktioner multitrådsprogrammering synkronisering (t.ex. miljö språk: C + +, Java).
+	
+                Innehåll
+	Kursen ger en introduktion till design och implementering av operativsystem. Exempel på avsnitt som behandlas är: Processbegreppet, Parallella processer, resurshantering, hantering av låsningssituationer (deadlock), hantering av primärminne, virtuellt minne, CPU schemaläggning, skivminnen, filsystem, distribuerade filsystem och mikrokärnor, virtual machines, säkerhet- och skyddsmekanismer. Kursen presenterar viktiga komponenter i operativsystem, och kompletterar denna diskussion med hur deras slutliga utformning och implementering utvecklades från historiska till moderna mobila OS. De olika begreppen illustreras med exempel från Unix, Linux, Windows och operativsystem for mobila apparater. 
+        	  
+                Organisation
+	Undervisningen bedrivs i from av föreläsningar, lektionsövningar och laborationer. Laborationerna avser att ge erfarenhet av program som anropar operativsystemet på systemanropsnivå samt programmering av enklare interna rutiner i ett operativsystem. Exempel på laborationer är en kommandotolk för unix samt att programmera vissa interna delar av ett operativsystem som t.ex. en schemaläggare och delar av ett virtuellt minne. I labmomentet kommer systemet Pintos att användas. Detta är ett pedagogiskt operativsystem som stöder trådar, laddning och körning av användarprogram och ett filsystem. Pintos är internationellt renommerat som en väletablerad plattform av högsta kvalité för praktiskt labbande för operativsystem.
+	
+                Litteratur
+	            Andrew S. Tanenbaum, Herbert Bos: Modern Operating Systems (4th ed.). Prentice Hall Press, 2015.eller A. Silberschatz, P. Galvin, G. Gagne: Operating System Concepts, Ninth Edition, Wiley 2010;   Tidskriftsartiklar.
+		
+                       Examination inklusive obligatoriska moment
+       	Genomförande av laboration och skriftlig tentamen.
+	
+    
+
+    

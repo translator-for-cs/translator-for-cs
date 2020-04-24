@@ -1,0 +1,30 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	
+	
+                Syfte
+	Den här kursen är en introduktion till imperativ programmering och programvaruutveckling. Kursen syftar till att ge grundläggande färdigheter i programmeringsmässig problemlösning med imperativa metoder, och ge en första inblick i programmerandet som hantverk. 
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunna slutföra enkla programmeringsuppgifter. Detta betyder att studenten ska veta hur man:    läser programmeringuppgifterbryter ner programmeringsuppgiften i mindre lättare deluppgifterkonstruerar en lösning till den ursprungliga uppgiften med att lösa mindre deluppgifterskriver testprogram som hjälper med programmeringen och som kontrollerar kvaliteten av den färdiga lösningen Förklara och använda sig av grundläggande begrepp inom imperativ och objektorienterad programmering. Detta betyder att studenten ska kunna förklara och använda sig av:skillnaden mellan primitiva typer och referenstyper, och illustrera detta med principskisser över minnesceller med värden och referenserhur en- och flerdimensionella fält deklareras, skapas och användsskillnaden mellan statiska metoder/variabler och instansmetoder/variablerskillnaden mellan en metod som returnerar ett värde och en metod med resultattypen voidhur parameteröverföring sker vid anrop av metoderskillnaden mellan en klass och ett objektbegreppet subklass och beskriva hur en sådan deklarerasvad ett interface är och vad som menas med att en klass implementerar ett interfacebegreppen datainkapsling och informationsdöljandeenkla grafiska och händelsestyrda programKonstruera metoder med utnyttjande av programspråkets datatyper och styrstrukturer. Detta betyder att studenten ska kunna:    definiera statiska metoder och instansmetoder, med lämpliga val av parametrar och resultattyputnyttja styrstrukturer som for-, while-, och if -satser på ett strukturerat sätthantera såväl en- som flerdimensionella fältanvända standardklasser för att konstruera listorläsa indata som matas in av en användarepresentera utdata för användaren och utföra enkel redigering av utdatautnyttja undantag för att signalera och ta hand om eventuella fellösa enkla problem med rekursion Självständigt konstruera imperativa och enkla objektorienterade program som använder färdiga standardklasser och enkla egenhändigt konstruerade klasser. Detta betyder att studenten ska kunna:    definiera enkla klasser som beskriver konkreta begrepp såsom tärningar, bankkonton, etc.skriva program där man använder standardklasser som Integer, Double, Scanner, String, StringBuilder, Arrays, Color, System, ArrayList m.fl.dokumentera program med kommentareranvända kodningsstandardtesta sina program
+	
+                Innehåll
+	I kursen används programspråket Java. Följande moment behandlas:    variabler, uttryck och satser, prioritet, metoder, parameteröverföring, rekursionfält och inläsning från en användareenkla typer och referenstyper, typomvandlinggrundläggande objektorienterade begrepp såsom klasser, objekt, metoder och instansvariablerolika tester på likhet, kanonisk form för klassergrundläggande arv och gränssnitt (interfaces)standardklasser för grafiska användargränssnitthändelser och lyssnarefelhantering med hjälp av undantagsökning på Internet efter dokumentation för standardklassernågra av klasserna i Javas API
+        	  
+                Organisation
+	Undervisningen ges i form av samverkande gruppövningar och föreläsningar, samt handledning i samband med obligatoriska programmeringsuppgifter 
+(laborationer).
+	
+                Litteratur
+	            Information om aktuell litteratur ges på kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Skriftlig tentamina samt obligatoriska inlämningsuppgifter (laborationer).
+	
+    
+
+    

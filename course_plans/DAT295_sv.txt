@@ -1,0 +1,39 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Du ska ha klarat av minst en kurs i programmering och trivas med utmanande programmeringsuppgifter (C eller C ++). Du förväntas också ha kunskaper motsvarande en grundläggande kurs från något av områdena: datakommunikation, datanät, operativsystem, algoritmer och datastrukturer eller styrteknik
+	
+                Syfte
+	I den här kursen kommer du att lära dig hur man konstruerar autonoma (förarlösa) fordon som rör sig självständigt och kommunicerar med andra fordon för att koordinera beslut och handlingar. Kursen bygger på lagarbete och projekt där du kommer att simulera fordonssystem och bygga sådana system av miniatyrfordonsmodeller (robotar).
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelse
+Förvärvat kunskaper inom robotik, inbyggda styrsystem och/eller kommunikationssystem med betoning på praktisk erfarenhet av konstruktion, programmering samt insikter i aktuell forskning och utveckling inom området.
+Färdighet och förmåga
+Visa förmåga att utveckla och konstruera datoriserade styrsystem, distribuerade algoritmer, program och nätverksprotokoll, anpassade efter användande trafikanters behov, och som möter samhälleliga krav på hållbar utveckling i sociala och ekologiska termer. Visa förmåga att arbeta i team och att samarbeta i grupper med olika konstitutioner och bakgrunder. Visa förmåga att planera en ingenjörs uppgift och att rapportera om framsteg och prestationer inom projekt.
+Värderingsförmåga och förhållningssätt
+Visa förmåga att planera en ingenjörsuppgift, redogöra för individuella och gruppens prestationer, formulera slutsatser, både muntligt och skriftligt, på ett sätt som kan förstås och delas av ingenjörer med andra specialinriktningar.
+
+	
+                Innehåll
+	Kursen omfattar  en rad tvärvetenskapliga föreläsningar avsedda att förbereda studenterna och skapa en större gemensam bakgrund hos projektgrupperna.
+Dessutom presenterar studenterna (veckovis) lägesrapporter av projekten, vilka åtföljs av diskussioner. Dessa diskussioner, som leds av en expert på området, fokuserar kring lösningar på de problem som eleverna möter.
+
+        	  
+                Organisation
+	Föreläsningar, projektmöten, rapporter och projektresultat.
+	
+                Litteratur
+	            Relevanta vetenskapliga artiklar kommer att ges på kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	För godkänt krävs aktiv närvaro, godkänd rapportering och godkänt projektresultat.
+	
+    
+
+    

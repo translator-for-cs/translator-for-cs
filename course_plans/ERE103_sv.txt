@@ -1,0 +1,30 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Grundläggande begrepp från matematiken som måste behärskas före kursstart är:- Komplexa tal- Linjär algebra- Taylorutveckling- Ordinära differentialekvationer- LaplacetransformenDet förutsätts även att man har kunskaper om de grundläggande fysikaliska samband som behövs för att ställa upp energi-, kraft- och materialbalanser. 
+	
+                Syfte
+	Reglering i tekniska system är en kombination av mätning och därpå baserad styrning, med användning av återkoppling; en regulator utnyttjar informationen i mätvärdena om systemets tillstånd för att påverka systemet enligt fastställda krav.Denna grundkurs syftar till att introducera grunderna inom reglertekniken och de metoder som används för att konstruera grundläggande reglersystem för dynamiska system. Kursen vidgar datateknikstudenternas perspektiv på tekniska system och ger förståelse för hur mekanik, elektronik, datorteknik och reglerteknik samverkar. Dessa insikter kan utnyttjas till att förbättra och utveckla nya produkter med ny funktionalitet och förbättrad prestanda.Efter avklarad kurs ska studenten ha grundläggande kunskaper i reglertekniska analys- och designmetoder för att på ett ingenjörsmässigt vis kunna lösare enklare reglerproblem. 
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	förklara funktionen hos ett reglersystem, samt beskriva dess möjligheter och begränsningar; definiera begreppen återkoppling och framkoppling;formulera dynamiska modeller för enklare tekniska system, såväl i form av tillståndsekvationer som överföringsfunktioner;linjärisera olinjära modeller;analysera linjära systems egenskaper i tids- och frekvensplanet och transformera mellan olika representationsformer;skissa frekvenskurvor i Bodediagram samt tolka frekvenskurvor i Bodediagram och Nyquistdiagram;dimensionera vanliga typer av filter beroende på vilket frekvenssvar som önskas;tillämpa Nyqvistkriteriet för att avgöra stabiliteten för ett återkopplat system;analysera ett reglersystem med hjälp av känslighetsfunktioner, och förstå de möjligheter, begränsningar och konflikter som råder mellan önskemålen i ett reglersystem och hur detta är kopplat till systemets kretsöverföringsfunktion;välja och dimensionera P-, PI- och PID-regulatorer så att önskade specifikationer uppfylls;förstå och förklara alternativa designprinciper och regulatorstrukturer, såsom störningframkoppling, kaskadreglering och tillståndsåterkoppling;implementera enkla regulatorer med dator, samt förstå sampling och vikningseffekten;använda moderna datorhjälpmedel för att underlätta analys, design och utvärdering av dynamiska system.
+	
+                Innehåll
+	Inledning: Exempel på reglerproblem, återkoppling och framkoppling, kompensering av störningar, servofunktioner, hantering av parametervariationer, inverkan av mätstörningar och styrsignalbegränsningar.Dynamiska modeller: Överföringsfunktioner, blockdiagram, transient- och frekvensanalys, Bodediagrammet. Principer för framtagning av dynamiska modeller för tekniska system. Speciell uppmärksamhet ägnas åt likheter mellan system från helt olika teknikområden. Tillståndsmodeller, linjärisering och simulering.Analys av återkopplade system: Stabilitet, Nyquistkriteriet, stabilitetsmarginaler, känslighet och robusthet med avseende på parameterosäkerheter och icke-modellerad dynamik. Prestanda och noggrannhet, transienta och stationära egenskaper, specifikation i tids- och frekvensplanet.Dimensionering av reglersystem och filter: Grundläggande principer för regulatordesign, möjligheter och begränsningar beroende på motsättningar mellan olika frekvensområden. Design av PI- och PID-regulatorer, kaskadreglering, framkoppling samt tillståndsåterkoppling.Implementering: Digital implementering baserat på analog design, hantering av styrsignalbegränsningar.Laborationer och inlämningsuppgifter: Design och implementering av regulatorer för verklig process.
+        	  
+                Organisation
+	Föreläsningar och övningar.Laboration och inlämningsuppgifter (obligatoriska).
+	
+                Litteratur
+	            Se kurshemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Skriftlig tentamen (U, 3, 4, 5), samt godkänd laboration och inlämningsuppgifter (U, G).
+
+	
+    
+
+    

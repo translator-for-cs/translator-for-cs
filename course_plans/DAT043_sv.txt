@@ -1,0 +1,54 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	 
+	
+                Syfte
+	Kursens syfte är att lära ut grundprinciperna för det objektorienterade synsättet och hur man konstruerar objektorienterade program. Det objektorienterade synsättet har idag en mycket stark ställning när det gäller programutveckling. Program som är uppbyggda enligt objektorienterade principer består av ett antal samverkande objekt. Objekten kapslar in data och erbjuder metoder för att avläsa och uppdatera dem. Objekten beskrivs av s.k. klasser.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	
+självständigt konstruera objektorienterade program som både använder sig av egenhändigt konstruerade klasser och av färdiga standardklasser.
+konstruera händelsestyrda program med grafiska användargränssnitt.
+använda standardklasser för bl.a. datasamlingar, strömmar och filer.
+söka information om standardklasser i Java API.
+använda några vanligt förekommande kodutvecklingsverktyg.
+beskriva enkla objektorienterade modeller i ett objektorienterat modelleringsspråk.
+
+	
+                Innehåll
+	I kursen används programspråket Java. Följande moment behandlas:
+
+Grundläggande begrepp i objektorienterad programutveckling. Vad som skiljer det objektorienterade synsättet från andra synsätt.
+Objekt och klass. datainkapsling.
+Konstruktorer, metoder, instansvariabler, klassvariabler.
+Modularisering av program.
+Användning av dokumentation för standardbibliotek.
+Användning av standardklasser för datasamlingar.
+Kodningsstandard, namnsättning och kommentering.
+Testning av program.
+Arv, dynamisk bindning och polymorfism.
+Abstrakta klasser och gränssnitt.
+Grafiska användargränssnitt. Händelser och lyssnare.
+Model-View-Controller-arkitekturen för program med grafiska användargränssnitt.
+Felhantering.
+Strömmar och filer.
+Något om aktiva objekt och trådar.
+Orientering om modellering i UML.
+
+        	  
+                Organisation
+	Undervisningen ges i form av föreläsningar och handledda övningar.
+	
+                Litteratur
+	            Information om aktuell litteratur ges i samband med kursstart på kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Skriftlig tentamen. Slutbetyg i skala 3-5 ges efter godkända inlämningsuppgifter (laborationer) och baseras på tentamensbetyget.
+	
+    
+
+    

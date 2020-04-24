@@ -1,0 +1,35 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen förutsätter en viss matematisk mognad som lämpligen inhämtas via de tidigare kurserna i programmet.
+	
+                Syfte
+	Kursens syfte är att, tillsammans med övriga matematikkurser, ge en matematisk allmänbildning användbar i fortsatta studier och yrkesverksamhet. Kursen skall ge kunskaper i envariabelanalys nödvändiga för övriga kurser inom IT-programmet.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	kunna definiera och manipulera elementära funktioner och algebraiska uttryckförklara begreppen derivata och integral och kopplingen dem emellan 
+beräkna integraler både analytiskt och numeriskt
+förklara optimalitetskriterier
+kunna lösa enklare differentialekvationerapproximera funktioner med polynom samt framställa dem som potensserier 
+kombinera kunskaper om olika begrepp i praktisk problemlösning 
+
+
+	
+                Innehåll
+	Grundläggande analys i en variabel: elementära funktioner, gränsvärdesbegeppet, kontinuitet och deriverbarhet för reella funktioner, medelvärdessatsen, Riemannintegralen, primitiva funktioner och kopplingen till integraler, tillämpningar av intregralberäkningar på volymer av kroppar och längden av kurvor, enklare differentialekvationer, Taylorutvecklingar och approximationer av funktioner, komplexa tal 
+        	  
+                Organisation
+	Föreläsningar och övningar.
+	
+                Litteratur
+	            Calculus, a Completa Course av R. A. Adams Addison Wesley Longman
+		
+                       Examination inklusive obligatoriska moment
+       	Avslutande skriftlig examination. Frivillig dugga som kan ge bonuspoäng till tentan kan förekomma.
+	
+    
+
+    
