@@ -706,5 +706,5 @@ lin
   boolean_AP = mkAP (mkA "boolesk") ;
   automata_N = mkN "automat" ;
   agile_AP = mkAP (mkA "agil") ;
-  big_AP = mkAP (mkA "stor") ;
+  big_AP = mkAP stor_1_A ;
 }
