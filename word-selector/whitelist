@@ -961,7 +961,7 @@ CN desktop_N computer_N,skrivbordsdator_N
 CN computer_N program_N,datorprogram_N
 laser_N,laser_N
 electromagnetic_A,elektromagnetisk_A
-mouse_N,datormus_N
+CN computer_N mouse_N,datormus_N
 CN static_A random-access_A memory_N,CN statiskt_A minne_N
 CN electromagnetic_A wave_N,CN elektromagnetisk_A strålning_N
 CN optical_A disc_N,CN optisk_A skiva_N
