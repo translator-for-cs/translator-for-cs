@@ -891,10 +891,10 @@ transistor_N,transistor_N
 translator_N,översättare_N
 true_N,sann_N
 value_N,värde_N
-user_N,användare_N 
-programmable_A,programerbar_A 
-CN text_N editor_N,textredigerare_N 
-register_N,register_N 
+user_N,användare_N
+programmable_A,programerbar_A
+CN text_N editor_N,textredigerare_N
+register_N,register_N
 CN hardware_N acceleration_N,hårdvaruacceleration_N
 CN address_N space_N,adressrymd_N
 bus_N,buss_N

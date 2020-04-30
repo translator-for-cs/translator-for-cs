@@ -1,0 +1,31 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Denna kurs är en direkt fortsättning på kursen TDA548 Grundläggande programvaruutveckling, vilken, eller en motsvarande kurs, utgör förkunskapskrav.
+	
+                Syfte
+	Programvaruutveckling är centralt för en civilingenjör inom informationsteknik. Kursen presenterar det objektorienterade programmeringsparadigmet och lägger stor vikt vid design av objektorienterade program.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelseRedogöra för objektorienterade design-principer.Känna igen och redogöra för olika objektorienterade design-mönster; inklusive deras syfte och effekt.
+Färdigheter och förmågaAnvända och redogöra för grundläggande objektorienterade koncept, som klasser och objekt, primitiver och referenser, metoder och konstruktorer, variabler och attribut, etc.Använda och redogöra för mer avancerade språkmekanismer och tekniker, som exceptions, generics, trådar, defensive copying, etc,Använda och redogöra för arv och parameteriserade typer, och därtill hörande mekanismer, för att åstadkomma polymorfism och återanvändning av kod.Applicera design-principer och design-mönster för att åstadkomma sund objekt-orienterad design.Designa och implementera objektorienterade program för en given domän på ett sunt sätt med avseende på korrekthet, modifierbarhet och återanvändbarhet.Utföra och beskriva testning av objektorienterade program.
+Värderingsförmåga och förhållningssättAnalysera och utvärdera kod enligt principer för god objektorienterad design och implementation.
+	
+                Innehåll
+	Kursen presenterar det objektorienterade programmeringsparadigmet och lägger stor vikt vid programkonstruktion och design.Begreppsapparat och teknik utökas och fördjupas: metoder, objekt, abstrakta- och anonyma klasser, initiering, polymorfism, överlagring och överskuggning,implementations- och gränssnittsarv, användning generiska typer, konstruktion av enkla generiska klasser, felhantering, immutabilitet och defensive copying, och introduktion till trådar och trådsäkerhet m.m.Hantering av tillstånd, beroenden, modulära program, programmeringstekniker, modifierbarhet, designprinciper, designmönster och MVC-modellen.För att beskriva designen används elementära delar av the Unified Modelling Language (UML).
+        	  
+                Organisation
+	Undervisningen består av föreläsningar, övningar och laborationer samt handledning i samband med dessa.
+	
+                Litteratur
+	            Information om aktuell litteratur ges innan kursstart på kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom:- Muntlig tentamen (3 hp, betygskala: U, 3, 4, 5) - Laboration (3 hp, betygskala: U, G)- Inlämningsuppgift (1,5 hp, betygskala: U, 3, 4, 5) Laborationerna utförs i grupper om normalt 3 studenter.På hela kursen ges något av betygen: Underkänd (U), 3, 4, 5. För att bli godkänd på kursen krävs det att ha minst en 3:a på både muntlig tentamen och skriftlig rapporten samt Godkänd (G) på datorlaborationer. Betyget för hela kursen blir sammansatt av betyget för muntlig tentamen och inlämningsuppgiften. I sammansättningen väger betyget för muntlig tentamen tyngre.
+	
+    
+
+    

@@ -1,0 +1,46 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen TDA596 eller motsvarande.
+	
+                Syfte
+	Kursen syftar till att ge studenten kunskap om skillnader och styrkor/svagheter hos distribuerade system jämfört med sekventiella eller starkt kopplade system. Målet är att ge studenten förmågan att undersöka de problem som måste hanteras och lösas för att skapa ett väl fungerande distribuerat system.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Få en god förståelse om de framsteg i teknologi, system- och kommunikationsarkitektur som har drivit på användningen av distribuerade system. Redogöra för, förklara och tillämpa principerna och metoderna för att skapa effektiva protokoll och algoritmer för distribuerade system, och hur dessa interagerar med systemets övergripande design. Redogöra för och förklara de utmaningar och möjligheter som applikationsutvecklare ställs inför vid utveckling av ett distribuerat system eller sensornätverk. Designa, implementera och utvärdera distribuerade system och applikationer.
+
+	
+                Innehåll
+	Kursen tar upp följande problem inom distribuerade system:
+Replikering:
+För- och nackdelar med att replikera data, såsom förbättrade responstider och pålitlighet vilket kan vägas mot kostnader för ökande kommunikation för att säkerställa att data förblir konsistent.
+Synkronisering:
+Olika sorters lås och metoder för att upptäcka deadlock samt metoder för synkronisering utan lås.
+Feltolerans och återställning:
+Metoder för checkpointing, optimistisk och pessimistisk återställning.
+Feltolerans och metoder att uppnå konsensus i distribuerade system:
+Synkroniserings- och koordineringsproblem är mycket viktiga och fundamentala i distribuerade system. I kursen tas grundläggande lösningar och deras konsekvenser upp, samt visar på lösningar och protokoll för system som måste klara specifika krav.
+Feltolerant Multicast.
+Resursallokering.
+Distribuerade algoritmer: Design och analys av distribuerade algoritmer.
+Sensornätverk och energieffektiva distribuerade lösningar.
+Denial of Service Attacker.
+
+        	  
+                Organisation
+	Schemalagda föreläsningar och parallellt med föreläsningarna utförs handledda programmeringsuppgifter. Laborationerna ger studenten möjlighet att undersöka fundamentala egenskaper och beteenden hos de protokoll som tas upp i kursen.
+	
+                Litteratur
+	            Se separat litteraturlista.
+		
+                       Examination inklusive obligatoriska moment
+       	För att bli godkänd på kursen krävs godkänd skriftlig tentamen samt godkända laborationer. Baserat på tentamensresultatet ges betygen U, 3,4 eller 5.
+	
+    
+
+    

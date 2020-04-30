@@ -1,0 +1,25 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen skall vara en fördjupning av tidigare kunskaper varför studenterna bör tillhöra minst årskurs tre på respektive program. Studierna eller projektarbetet ska göras före eventuellt examensarbete på programmet.
+	
+                Syfte
+	Syftet med kursen är att ge studenten tillfälle att individuellt eller i en grupp fördjupa sig inom ämnesområdet data- och informationsteknik utanför de inom programmen erbjudna kurserna.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	- I projektform genomföra utveckling av ett mindre system bestående av hård- och eller mjukvara enligt en fastställd utvecklingsprocess och tidsplan.
+
+- Dokumentera projektarbetet i form av t ex kravspecifikation, användarmanual samt en projektrapport. 
+	
+                    Organisation
+	Antingen kan en läskurs erbjudas inom något område där kurser saknas, alternativt genomförs ett tillämpningsinriktat projekt. Initiativet kan komma från studenten själv eller från lärare som har förslag på projekt och kan erbjuda handledning. 
+	
+                           Examination inklusive obligatoriska moment
+       	Kursen examineras i form av en skriftlig rapport
+	
+    
+
+    

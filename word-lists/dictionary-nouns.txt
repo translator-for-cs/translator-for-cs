@@ -1,0 +1,218 @@
+Operating system
+Basic
+Teleprocessing
+Interleaving
+Doss
+Netbook
+Machine-word
+Central processing unit
+Paging
+Virtual storage
+Supermini
+Byte
+Dos
+Ddp
+Bytes
+Groupware
+Motherboard
+Firmware
+Print out
+Gigabyte
+Cobol
+Batch processing
+Expert system
+Mainframe
+Access time
+Printout
+Print-out
+Bit
+Read only memory
+Pseudo-code
+Pixel
+Meta tag
+Gigo
+Chad
+Toolbar
+Ada
+Windowing
+Webcast
+Applet
+Lisp
+Address bar
+Dasd
+Authoring
+App
+Source code
+Paper tape
+Ip address
+Printhead
+Random access memory
+Dictionary attack
+Yottabyte
+Shareware
+Gigabit
+Telecomputer
+User name
+Username
+Terabyte
+Bluetooth
+Alpha-test
+Extracode
+Disk drive
+Removable cartridge
+Video screen
+Megabyte
+Multiprocessing
+Control key
+Meta tag
+Logo
+Task bar
+Logos
+Line printer
+Ebcdic
+Control character
+Light pen
+Megabit
+Tape drive
+Copy protection
+Indirect address
+Taskbar
+Spambot
+Hotkey
+Kilobit
+Conditional operation
+Microcode
+Magnetic drum
+Virtual memory
+Pathname
+Binary code
+Object code
+Fortran
+Adware
+Acoustic coupler
+Expansion slot
+External storage
+Basics
+Jpeg
+Hot key
+Thumb drive
+Logic circuit
+Login-name
+Soft copy
+Optical disc
+Read-only memory
+Data set
+Domain name
+Cybercasting
+Qubyte
+Machine language
+Hard disk
+Diskette
+Data exhaust
+Usb drive
+Auxiliary storage
+Alt
+Desktop publishing
+Softkey
+Pascal
+Webcasting
+Virtual machine
+Pattern recognition
+Kilobyte
+Text editor
+Doubleword
+Top-down
+And circuit
+Parity check
+Delimiter
+Flashdrive
+Single precision
+Menu bar
+Metatag
+User id
+Pseudocode
+Recoverable error
+Eprom
+Check bit
+Preprocessor
+Load module
+Exabyte
+Or circuit
+Access method
+Thermal printer
+Magnetic disk
+Numerical control
+Boolean operation
+Screen saver
+Zettabyte
+Job control language
+Clickthrough
+Preprocessor
+Dip
+Working storage
+Word time
+Status bar
+Boolean-operator
+Main memory
+Social tagging
+Beta version
+Disk operating system
+Assembly time
+Bootstrap memory
+Read/write head
+Dot matrix
+Macrocode
+System-programming
+Symbolic code
+Read only memory
+Pointing device
+Gigabit
+Loading program
+User group
+Click-through
+Cassette memory
+Pseudo-code
+Telecomputing
+Audio response unit
+Third-party software
+Microcomputing
+Structured programming
+Megapixel
+Multiprogramming
+Drum printer
+Character set
+Control unit
+Pins
+Front-end processor
+Screen saver
+Hot link
+Expansion board
+Optical character reader
+High-level language
+Static dump
+Optical disk
+Assembly routine
+Static memory
+Subroutine
+Dot matrix
+Algorithmic language
+System program
+Binary cell
+Magnetic bubble
+Bootstrap memory
+Leapfrog test
+Interblock gap
+Secure server
+Screensaver
+Real storage
+Winchester disk
+Multiprocessor
+Utility program
+Microinstruction
+System program
+Disk pack
+Closed-loop
+Hollerith code
+Logical operator
+Or gate
+Feedback loop
