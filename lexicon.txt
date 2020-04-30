@@ -1,5 +1,3 @@
-@@ -0,0 +1,643 @@
-_,10base5
 generation_N,generation N
 partnership_N,partnerskap_N
 project_N,projekt_N
@@ -14,7 +12,7 @@ syntax_N,syntax_N
 notation_N,notation_N
 tree_N,träd_N
 window_N,fönster_N
-_,verktygslåda_N
+toolbox_N,verktygslåda_N
 accelerate_V2,accelerera_V2
 graphic_N,grafik_N
 port_N,port_N
@@ -23,14 +21,13 @@ control_N,kontroll_N
 list_N,lista_N
 method_N,metod_N
 time_N,tid_N
-_,gift_N
+poison_N,gift_N
 acknowledge_VS,erkänna_VS
-__,karaktär_N
+character_N,karaktär_N
 acoustic_N,akustik_N
-_,(coupler) koppling_N
+coupler_N,koppling_N
 acronym_N,akronym_N
 with_Prep,med_Prep
-_,(four) fyra_Num
 letters_N,bokstäver_N
 active_A,aktiv_A
 current_N,ström_N
@@ -44,7 +41,7 @@ display_N,prov_N
 monitor_N,bildskärm_N
 server_N,server_N
 page_N,sida_N
-_,(terminator) terminator_N
+terminator_N,terminator_N
 object_N,objekt_N
 actor_N,skådespelare_N
 base_V2,stödja_V2
@@ -57,7 +54,7 @@ cache_N,gömställe_N
 address_N,adress_N
 resolution_N,resolution_N
 space_N,plats_N
-layout_N,(formgivining) layout_N
+layout_N,layout_N
 randomization_N,randomisering_N
 administrative_A,administrativa_A
 domain_N,domän_N
@@ -71,9 +68,9 @@ power_N,kraft_N
 interface_N,gränssnitt_N
 communication_N,kommunikation_N
 procedure_N,procedur_N
-_,(encryption) kryptering_N
+encryption_N,kryptering_N
 standard_N,standard_N
-_,linux_N
+linux_N,linux_N
 sound_N,ljud_N
 architecture_N,arkitektur_N
 message_N,meddelande_N
@@ -83,7 +80,6 @@ device_N,apparat_N
 interrupt_V2,avbryta_V2
 controller_N,kontroll_N
 research_N,forskning_N
-project_N,projekt_N
 agency_N,byrå_N
 technology_N,teknologi_N
 attachment_N,bilaga_N
@@ -95,12 +91,11 @@ cell_N,cell_N
 rate_N,takt_N
 alternate_V2,växla_V2
 national_A,nationell_A
-standard_N,standard_N
 institute_N,institut_N
 for_Prep,för_Prep
 internet_N,internet_N
 number_N,nummer_N
-_,amoled_N
+amoled_N,amoled_N
 amplitude_N,amplitud_N
 compiler_N,kompilator_N
 kit_N,verktyg_N
@@ -114,11 +109,10 @@ anti_+_virus_N,antivirus_N
 apache_N,apache_N
 ant_N,myra_N
 portable_A,bärbar_A
-run_+_time_V2,körtid_V2
 apple_N,äpple_N
 desktop_N,skrivbord_N
 bus_N,buss_N
-_,(connector) kopplingsdon_N
+connector_N,kopplingsdon_N
 filing_N,arkivering_N
 lossless_A,förlustlös_A
 worldwide_A,global_A
@@ -140,10 +134,10 @@ holding_N,innehav_N
 operate_V2,arbeta_V2
 system_N,system_N
 artificial_A,artificiell_A
-__,(intelligence_N) intelligens_N
+intelligence_N,intelligens_N
 neural_A,neural_A
 network_N,nätverk_N
-_,ascii_N
+ascii_N,ascii_N
 aspect_N,aspekt_N
 orient_V2,orientera_V2
 association_N,samband_N
@@ -179,7 +173,7 @@ average_N,genomsnitt_N
 bit_+_rate_VS,bithastighet_N
 bandwidth_N,bandbredd_N
 processor_N,processor_N
-_,(basic_A) grundläggande_A
+basic_A,grundläggande_A
 multilingual_A,flerspråkig_A
 plane_N,nivå_N
 telecommunication_N,telekommunikation_N
@@ -190,12 +184,10 @@ forwarding_N,spedition_N
 directional_A,riktad_A
 text_N,text_N
 decimal_N,decimal_N
-file_N,arkiv_N
 library_N,bibliotek_N
 large_A,stor_A
-object_N,objekt_N
-_,(bind_V2) binda_V2
-_,(bios_N) bios_N
+bind_V2,binda_V2
+bios_N,bios_N
 bipolar_A,bipolär_A
 junction_N,förbindelse_N
 transistor_N,transistor_N
@@ -211,7 +203,6 @@ gateway_N,port_N
 normal_A,normal_A
 form_N,formulär_N
 breadth_N,bredd_N
-_,(first_Num) först_Num
 device_N,enhet_N
 bulletin_N,rapport_N
 business_N,företag_N
@@ -231,9 +222,9 @@ mark_N,mark_N
 fault_N,fel_N
 tolerance_N,tolerans_N
 capability_N,kompetens_N
-__,(maturity_N) mognad_N
+maturity_N,mognad_N
 integration_N,integrering_N
-_,captcha_N
+captcha_N,captcha_N
 theorem_N,sats_N
 carriage_N,vagn_N
 carrier_N,bärare_N
@@ -244,7 +235,7 @@ sheet_N,lager_N
 cathode_N,katod_N
 ray_N,stråle_N
 tube_N,tub_N
-_,cd_N
+cd_N,cd_N
 challenge_N,utmaning_N
 handshake_N,handskakning_N
 authentication_N,autentisering_N
@@ -290,7 +281,6 @@ complex_N,komplex_N
 instruction_N,instruktion_N
 set_N,uppsättning_N
 computer_N,dator_N
-component_N,del_N
 computational_A,beräkning_A
 fluid_N,vätska_N
 dynamics_N,dynamik_N
@@ -364,7 +354,6 @@ denial_N,avslag_N
 attack_N,attack_N
 depth_N,djup_N
 publish_V2,publicera_V2
-_,_
 deterministic_A,deterministisk_A
 finite_A,ändlig_A
 automaton_N,robot_N
@@ -401,7 +390,6 @@ exchange_N,utbyte_N
 host_N,mängd_N
 link_V2,knyta_V2
 random_A,slumpmässigt_A
-system_N,system_N
 international_A,internationell_A
 learning_N,bildning_N
 electronically_Adv,elektroniskt_Adv
@@ -430,7 +418,6 @@ resource_N,resurs_N
 estimate_VS,uppskatta_VS
 event_N,fall_N
 trace_V2,spåra_V2
-window_N,fönster_N
 format_N,format_N
 expand_V2V,utöka_V2V
 expense_N,utgift_N
@@ -441,13 +428,13 @@ industry_N,industri_N
 triton_N,triton_N
 hint_N,antydan_N
 markup_N,påslag_N
-_,meta_N
+meta_N,meta_N
 presence_N,närvaro_N
 tag_N,tagg
 framework_N,system_N
 exterior_N,yttre_N
 external_A,yttre_A
-_,sata_N
+sata_N,sata_N
 extract_N,utdrag_N
 transform_V2,transformera_V2
 load_N,laddning_N
@@ -472,7 +459,7 @@ correction_N,rättelse_N
 dictionary_N,lexikon_N
 front_N,front_N
 side_N,sida_N
-_,ssh_N
+ssh_N,ssh_N
 full_A,full_A
 future_A,framtida_A
 garbage_N,skräp_N
@@ -523,7 +510,6 @@ internationalization_N,internationalisering_N
 localization_N,lokalisering_N
 internationalize_V2,internationalisera_V2
 organization_N,organisation_N
-telecommunication_N,telekommunikation_N
 union_N,union_N
 assign_V2V,tilldela_V2V
 authority_N,myndighet_N
@@ -578,7 +564,6 @@ insertion_N,införande_N
 voltage_N,spänning_N
 magnetic_A,magnetisk_A
 recognition_N,igenkännande_N
-submission_N,underkastelse_N
 main_A,huvudsaklig_A
 mandatory_A,obligatoriskt_A
 role_N,roll_N
@@ -632,270 +617,143 @@ instrumentation_N,instrumentering_N
 peer_N,jämlike_N
 peripheral_N,kringutrustning_N
 interconnect_V2,sammanlänka_V2
-_,perl_N
+perl_N,perl_N
 regular_A,regelbundna_A
 expression_N,uttryck_N
 persistent_A,ständig_A
 assistant_N,assistent_N
-_,php_N
+php_N,php_N
 micro_+_controller_N,mikrokontroller_N
 pin_N,stift_N
 pixel_N,pixel_N
 old_A,gammal_A
-
-
-port V2
-port A
-
-access V2 
-
-control V2 kontrollera 
-
-list V2V att lista
-
-time V2 dags
-
-acoustic A akustisk
-
-active N
-
-current A
-
-loop V2
-
-liquid A likvid flytande klar disponibel i vätskeform
-
-display VS skylta med uppvisa förevisa stoltsera med
-
-monitor V2 övervaka följa kontrollera lyssna på avlyssna vara övervakare bevaka
-
-page V2 söka kall på
-
-object V2 invända protestera säga emot göra invändningar argumentera emot sätta sig emot opponera
-
-cache V2 gömma gräva ned
-
-address V2 rikta tilltala titulera adressera vända sig till skriva adress på ta itu med
-
-space V2 fördela placera
-
-flash V2 skjuta sprida blotta blinka lysa med flamma blinka med vifta med blotta sig blixtra gnistra fara fram briljera med glimta ljunga susa fram låta lysa telegrafera ut blixtsnabbt sprida susa förbi
-
-power V2 driva
-
-standard A norm- standard- vanlig normal klassisk fullgod allmänt erkänd mönster-
-
-sound V2 spela ljuda klinga ringa på tona sondera pejla blåsa i slå an medicin sondera låta loda
-
-research V2 efterforska forska studera ingående
-
-project VS framhäva rikta planera kasta beräkna kasta ut skjuta ut sticka fram framhävas projektera projiceras slunga ut låta framträda ha planer på projicera
-
-state VS säga fastställa konstatera ange förklara bestämma meddela påstå framföra berätta uppge upplysa om framställa klarlägga anföra fastslå framlägga
-
-rate VS betraktas som räknas räkna uppskatta värdera klassa klassificera anse taxera
-
-institute V2 införa vidta inrätta grunda
-
-number V2 omfatta räkna räknas uppgå till numrera summerar paginera
-
-escape VS fly undkomma undgå komma undan rymma undfly slippa undan åka bort lyckas fly läcka ut smita undan klara sig undan rinna ut
-
-border V2 gränsa dela gräns med infatta
-
-transfer V2 överföra flytta förflytta vidarekoppla transferera överlåta
-
-call V3 kalla ringa ropa hälsa på benämna kalla på ringa efter anropa ropa på utropa telefonera avlysa göra visit
-
-averige A genomsnittlig vanliga genomsnitts- genomsnittlig genomsnitts-
-
-plane V2 plana hyvla glida
-
-file V2 lämna in arkivera inregistrera fila sätta in i pärm gå på led gå i rad inge skrivelse
-
-object V2 invända protestera säga emot göra invändningar argumentera emot sätta sig emot opponera
-
-block V2 hindra stoppa blockera spärra stänga av stötta spärra av täppa till skymma avspärra stötta under
-
-map V2 kartlägga beskriva systematiskt
-
-order VV beställa leda inrätta styra säga till ordnar stadga anordna föreskriva
-
-mark V3 markera rätta märka signera beteckna
-
-fault V2 kritisera klandra anmärka på döma för felserve serva fel förkasta förkasta sig
-
-sense VS förstå känna fatta märka uppfatta ana mäta känna på sig ha på känn känna av
-
-multiple A multipel- mångfaldig mångisidig flerfaldig
-
-ray V2 stråla
-
-challenge V2 utmana ifrågasätta stimulera pröva trotsa sporra anropa
-
-chief A högsta viktigaste högst rankade huvud-
-
-command V2 kräver kräva inge bjuda behärska disponera dominera förfoga över
-
-line V2 fylla rada upp fodra kanta fåra späcka beklä
-
-value V2 bedöma uppskatta värdera taxera skatta
-
-commercial A kommersiell affärsmässigt handels- affärs-
-
-common A gemensamma gemensam vanlig
-
-request VS be begära begärde uppmana efterfråga anhålla om anmoda inkrävs hemställa äska
-
-public A allmänna allmän offentlig statlig
-
-support VV hjälpa främja upprätthålla tåla försörja gynna underhålla 
-
-function V fungera
-
-complex A komplex komplicerad sammansatt
-
-set VV sätta ställa lägga ordna orsaka
-
-component A del
-
-fluid A flytande ledig obestämd
-
-free V2V fria befria 
-
-update V2 uppdatera
-
-check V2 kontrollera undersöka stoppa
-
-attack V2 angripa attackera anfalla
-
-act VA handla agera fungera
-
-document V2 dokumentera
-
-double V2 dubbla
-
-double Adv dubbelt
-
-drop V2 släppa
-
-game V2 spela
-
-exchange V2 byta byta ut utbyta bytas växlas
-
-learn VV lära
-
-interchange V2 växla
-
-mail V2 posta
-
-curve V2 svänga böja kröka
-
-end VA avsluta
-
-license V2 licensiera auktorisera
-
-interior A inre invändig inomhus-
-
-hint VS antyda syfta 
-
-exterior A yttre utvändig utvärtes ytter-
-
-extract V2 hämta få fram utvinna
-
-load V2 ladda fylla
-
-doubt VS tvivla
-
-partition V2 dela
-
-hard Adv svårt hårt
-
-monochrome A enfärgad monokrom
-
-report VS rapportera meddela
-
-chat V2 prata chatta
-
-storm V2 storma
-
-native A inhemsk infödd 
-
-job V2 arbeta 
-
-scale V2 förstora förminska
-
-scratch V2 repa utesluta stryka
-
-master V2 förstå bemästra behärska
-
-label V3 beteckna rubricera
-
-uniform A enhetlig
-
-original A första ursprunglig 
-
-express V2 uttrycka uttala yttra
-
-express Adv express
-
-peer V kika kisa plira
-
-peripheral A yttre perifer av mindre betydelse
-
+control_V2,kontrollera_V2 
+listV2V,lista_V2V
+time_V2,tajma_V2
+acoustic_A,akustisk_A
+current_A,nurvarande_A
+liquid_A,flytande_A
+display_VS,uppvisa_VS
+monitor_V2,övervaka_V2
+page_V2,söka_V2
+object_V2,invända_V2
+cache_V2,gömma_V2
+address_V2,rikta_V2
+space_V2,fördela_V2
+flash_V2,blinka_V2
+power_V2,driva_V2
+standard_A,standard_A
+sound_V2,ljuda_V2
+research_V2,efterforska_V2
+project_VS,framhäva_VS
+state_VS,konstatera_VS
+rate_VS,räknas_VS
+institute_V2,införa_V2
+number_V2,omfatta_V2
+escape_VS,fly_VS
+border_V2,gränsa_V2
+transfer_V2,överföra_V2
+call_V3,ringa_V3
+averige_A,genomsnittlig_A
+plane_V2,plana_V2
+file_V2,arkivera_V2
+block_V2,hindra_V2
+map_V2,kartlägga_V2
+order_VV,beställa_VV
+mark_V3,markera_V3
+fault_V2,kritisera_V2
+sense_VS,förstå_VS
+multiple_A,multipel_A
+ray_V2,stråla_V2
+challenge_V2,utmana_V2
+chief_A,högsta_A
+command_V2,kräva_V2
+value_V2,värdera_V2
+commercial_A,kommersiell_A
+common_A,vanlig_A
+request_VS,begära_VS
+public_A,offentlig_A
+support_VV,hjälpa_VV
+function_V,fungera_V
+complex_A,komplex_A 
+set_VV,sätta_VV
+component_A,del_A
+fluid_A,flytande_A
+free_V2V,fria_V2V
+update_V2,uppdatera_V2
+check_V2,kontrollera_V2
+attack_V2,angripa_V2
+act_VA,handla_VA
+document_V2,dokumentera_V2
+double_V2,dubbla_V2
+double_Adv,dubbelt_Adv
+drop_V2,släppa_V2
+game_V2,spela_v2
+exchange_V2,byta_V2
+learn_VV,lära_VV
+interchange_V2,växla_V2
+mail_V2,posta_V2
+curve_V2,svänga_V2
+end_VA,avsluta_VA
+license_V2,licensiera_V2
+interior_A,inre_A
+hint_VS,antyda_VS 
+exterior_A,yttre_A
+extract_V2,hämta_V2
+load_V2,ladda_V2
+doubt_VS,tvivla_VS
+partition_V2,dela_V2
+hard_Adv,svårt_Adv
+monochrome_A,enfärgad_A
+report_VS,rapportera_VS
+chat_V2,prata_V2
+storm_V2,storma_V2
+native_A,inhemsk_A
+job_V2,arbeta_V2 
+scale_V2,förstora_V2
+scratch_V2,repa_V2
+master_V2,bemästra_V2
+label_V3,beteckna_V3
+uniform_A,enhetlig_A
+original_A,ursprunglig_A 
+express_V2,uttrycka_V2
+express_Adv,express_Adv
+peer_V,kika_V
+peripheral_A,yttre_A
 course_N,kurs_N
 prerequisite_N,förkunskapskrav_N
-computer_N,dator_N
-organization_N,organisation_N
 design_N,design_N
-foundation_N,grund_N
-basic_A,grundläggande_A
-architecture_N,arkitektur_N
 principle_N,princip_N
-memory_N,minne_N
 aim_N,mål_N
 component_N,komponent_N
 technical_A,teknisk_A
-system_N,system_N
 functional_A,funktionell_A
 execute_V2,exekvera_V2
 fast_Adv,snabb_Adv
 fast_A,snabb_A
-power_N,kraft_N
 efficient_A,effektiv_A
-performance_N,prestanda_N
 progress_N,framgång_N
 engineering_N,ingenjörskonst_N
 convert_V2,omvandla_V2
 raw_N,rå_N
-speed_N,hastighet_N
-transistor_N,transistor_N
-application_N,applikation_N
 software_N,mjukvara_N
 structure_N,struktur_N
 parallelism_N,parallelism_N
 high_A,hög_A
 outcome_N,utfall_N
 completion_N,komplettering_N
-master_N,mästare_N
 concept_N,koncept_N
 modern_A,modern_A
-order_N,ordning_N
-research_N,forskning_N
 advance_N,framsteg_N
 field_N,fält_N
-microprocessor_N,mikroprocessor_N
 advance_V2,avancerad_V2
 technique_N,teknik_N
-instruction_N,instruktion_N
 parallel_N,parallel_N
 parallel_A,parallel_A
 establish_V2,etablera_V2
-hierarchy_N,hierarki_N
 assess_V2,bedöma_V2
 proficiency_N,skicklighet_N
 quantitative_A,kvantitiv_A
-establish_V2,etablera_V2
 impact_N,verkan_N
 architectural_A,arkitekturell_A
 state_N,tillstånd_N
@@ -906,27 +764,21 @@ essential_N,essentiell_A
 achieve_V2,uppnå_V2
 base_V2,basera_V2
 analysis_N,analys_N
-method_N,metod_N
 assessment_N,bedömning_N
 consumption_N,konsumption_N
 part_N,del_N
 affect_V2,påverka_V2
 evolution_N,evolution_N
-technology_N,teknologi_N
 include_VV,inkludera_VV
 law_N,lag_N
 execution_N,exekvering_N
-time_N,tid_N
-throughput_N,genomströmning_N
 fundamental_N,fundamental_N
 locality_N,lokalitet_N
-reference_N,referens_N
 evaluate_V2,evaluera_V2
 level_N,nivå_N
 define_V2,definera_V2
 limit_N,gräns_N
 category_N,kategori_N
-dynamic_A,dynamisk_A
 dynamic_N,dynamik_N
 static_A,statisk_A
 algorithm_N,algoritm_N
@@ -935,7 +787,6 @@ prediction_N,förutsägelse_N
 speculation_N,spekulering_N
 loop_N,loop_N
 different_A,annorlunda_A
-source_N,källa_N
 bottleneck_N,flaskhals_N
 reduce_V2,minska_V2
 miss_N,miss_N
@@ -943,10 +794,7 @@ penalty_N,bestraffning_N
 hit_N,träff_N
 example_N,exempel_N
 free_N,fri_N
-virtual_A,virtuell_A
 address_V2,adressera_V2
-address_N,adress_N
-knowledge_N,kunskap_N
 linear_A,linjär_A
 algebra_N,algebra_N
 probability_N,sannolikhet_N
@@ -956,13 +804,11 @@ desirable_A,önskvärd_A
 image_N,bild_N
 overview_N,översikt_N
 practical_A,praktisk_A
-application_N,applikation_N
 measurement_N,mått_N
 develop_V2,utveckla_V2
 solve_V2,lösa_V2
 problem_N,problem_N
 derive_V2,derivera_V2
-science_N,vetenskap_N
 geometry_N,geometri_N
 optimization_N,optimering_N
 statistics_N,statistik_N
@@ -970,155 +816,66 @@ grade_V2,betyg_V2
 camera_N,kamera_N
 modelling_N,modellering_N
 stereo_N,stereo_N
-structure_N,struktur_N
 mathematical_A,matematisk_A
 central_N,central_N
-algorithm_N,algoritm_N
 square_N,kvadrat_N
 apply_VV,applicera_VV
 terminology_N,terminologi_N
 structure_V2,struktur_V2
-logic_N,logik_N
 solution_N,lösning_N
 geometric_A,geometrisk_A
-camera_N,kamera_N
-class_N,klass_N
 exercise_N,övning_N
 session_N,session_N
 pair_N,par_N
-project_N,projekt_N
 submission_N,inlämning_N
-report_N,rapport_N
 result_N,resultat_N
 lecture_N,föreläsning_N
 article_N,artikel_N
 university_N,universitet_N
 element_N,element_N
-address_N,adress_N
 programming_N,programmering_N
 model_N,modell_N
-processor_N,processor_N
-core_N,kärna_N
 chip_N,chip_N
 share_V2,dela_V2
 thread_N,tråd_N
-resource_N,resurs_N
-project_N,projekt_N
-document_V2,dokumentera_V2
 scientific_A,vetenskaplig_A
 literature_N,litteratur_N
-session_N,session_N
 sequence_N,sekvens_N
 lab_N,labb_N
 methodology_N,metodologi_N
 systematically_Adv,systematisk_Adv
 assembly_N,assembly_N
-language_N,språk_N
 sustainability_N,hållbarhet_N
 compute_V2,beräkna_V2
-level_N,nivå_N
 sustainable_A,hållbar_A
 electrical_A,elektrisk_A
 mechanism_N,mekanism_N
-circuit_N,krets_N
 storage_N,lagring_N
 energy_N,energi_N
 operate_V2,operera_V2
-device_N,enhet_N
-component_N,komponent_N
-configuration_N,konfiguration_N
-class_N,klass_N
-evaluate_V2,evaluera_V2
 optimize_V2,optimisera_V2
 interpret_V2,interpretera_V2
 requirement_N,krav_N
-electronic_A,elektronisk_A
-data_N,data_N
-instance_N,instans_N
 measure_V2,mäta_V2
 estimate_VS,estimera_VS
 save_V2,spara_V2
-lecture_N,föreläsning_N
-result_N,resultat_N
-future_A,framtida_A
 generation_N,generation_N
-optimization_N,optimisering_N
-theory_N,teori_N
 practice_N,praktiken_N
 discrete_A,diskret_A
-linear_A,linjär_A
-science_N,vetenskap_N
 complexity_N,komplexitet_N
 kind_N,sort_N
 context_N,kontext_N
 transportation_N,transportering_N
-telecommunication_N,telekommunikation_N
-industrial_A,industriell_A
-linear_A,linjär_A
-algebra_N,algebra_N
-probability_N,sannolikhet_N
-theory_N,teori_N
-program_V2V,program_V2V
-desirable_A,önskvärd_A
-image_N,bild_N
-overview_N,översikt_N
-practical_A,praktisk_A
-application_N,applikation_N
-measurement_N,mått_N
-develop_V2,utveckla_V2
-solve_V2,lösa_V2
-problem_N,problem_N
-derive_V2,derivera_V2
-science_N,vetenskap_N
-geometry_N,geometri_N
-optimization_N,optimering_N
-statistics_N,statistik_N
-grade_V2,betyg_V2
-camera_N,kamera_N
-modelling_N,modellering_N
-stereo_N,stereo_N
-structure_N,struktur_N
-mathematical_A,matematisk_A
-central_N,central_N
-algorithm_N,algoritm_N
-square_N,kvadrat_N
-apply_VV,applicera_VV
-terminology_N,terminologi_N
-structure_V2,struktur_V2
-logic_N,logik_N
-solution_N,lösning_N
-geometric_A,geometrisk_A
-camera_N,kamera_N
-class_N,klass_N
-exercise_N,övning_N
-session_N,session_N
-pair_N,par_N
-project_N,projekt_N
-submission_N,inlämning_N
-report_N,rapport_N
-result_N,resultat_N
-lecture_N,föreläsning_N
-article_N,artikel_N
-university_N,universitet_N
-element_N,element_N
 physics_N,fysik_N
 numerical_A,numerisk_A
-apply_VV,appliciera_VV
-develop_V2,utveckla_V2
 modeling_N,modellera_N
-integrate_V2,integrera_V2
-structure_V2,struktur_V2
 equation_N,ekvation_N
 molecular_A,molekylär_A
-dynamic_N,dynamik_N
 integration_N,integration_N
-apply_VV,applicera_VV
 planning_N,planering_N
 hardware_N,hårdvara_N
 property_N,egenskap_N
-algorithmic_A,algoritmisk_A
 optimal_A,optimal_A
-domain_N,domän_N
 formulate_V2,formulera_V2
 model_V2,modellera_V2
 manageable_A,hanterlig_A
@@ -1131,15 +888,8 @@ obtain_V2,erhålla_V2
 program_V2V,programmera_V2V
 integer_N,heltal_N
 special_A,särskild_A
-graph_N,graf_N
 separate_V2,åtskilja_V2
-list_N,lista_N
-scale_N,skala_N
-network_N,nätverk_N
-communication_N,kommunikation_N
-protocol_N,protokoll_N
 stack_N,stack_N
-internet_N,internet_N
 distribute_V2,distribuera_V2
 service_N,tjänst_N
 summarize_V2,summera_V2
@@ -1148,115 +898,64 @@ development_N,utveckling_N
 setting_N,inställning_N
 link_N,länk_N
 limit_V2V,gräns_V2V
-bandwidth_N,bandbredd_N
 scalability_N,skalbarhet_N
 imperative_A,imperativ_A
 vector_N,vektor_N
 dimension_N,dimension_N
-graphic_N,grafik_N
 implement_V2,implementera_V2
 process_N,process_N
 functionality_N,funktionalitet_N
 strict_A,strikt_A
-matrix_N,matris_N
 bachelor_N,kandidat_N
 dimensional_A,dimensionell_A
-hardware_N,hårdvara_N
-image_N,bild_N
-model_N,modell_N
 rendering_N,rendera_N
 shadow_N,skugga_N
 mathematics_N,matematisk_N
 design_V2V,design_V2V
-function_N,funktion_N
 mechanical_A,mekanisk_A
 safety_N,säkerhet_N
 multimedia_N,multimedia_N
-execute_V2,exekvera_V2
 abstraction_N,abstraktion_N
 implement_N,implementera_N
 synchronization_N,synkronisering_N
-implement_V2,implementera_V2
-language_N,språk_N
-kernel_N,kärna_N
-distribute_V2,distribuera_V2
-protocol_N,protokoll_N
 node_N,nod_N
 topology_N,topologi_N
-mathematics_N,matematisk_N
-course_N,kurs_N
-machine_N,maskin_N
-orient_V2,orientera_V2
 embed_V2,inbädda_V2
 perform_V2,utföra_V2
-function_N,funktion_N
-mechanical_A,mekanisk_A
-safety_N,säkerhet_N
 behavior_N,beteende_N
-example_N,exempel_N
-game_N,spel_N
-multimedia_N,multimedia_N
-interface_N,gränssnitt_N
 run_VS,köra_VS
 verify_V2,verifiera_V2
 set_N,set_N
 good_A,bra_A
 during_Prep,under_Prep
 task_N,arbetsuppgift_N
-implement_V2,implementera_V2
 decompose_V2,bryta-ned_V2
-library_N,bibliotek_N
-synchronization_N,synkronisering_N
-language_N,språk_N
 general_A,allmän_A
-implement_V2,implementera_V2
-kernel_N,kärna_N
-distribute_V2,distribuera_V2
-available_A,tillgänglig_A
 capacity_N,kapacitet_N
-cyclic_A,cyklisk_A
-priority_N,prioritet_N
-protocol_N,protokoll_N
-node_N,nod_N
-topology_N,topologi_N
 access_N,åtkomst_N
 response_N,respons_N
 conjunction_N,konjunktion_N
 account_N,konto_N
 maximum_N,maximum_N
-theory_N,teori_N
 low_Adv,låg_Adv
 delay_N,fördröjning_N
-execute_V2,exekvera_V2
 correctness_N,korrekthet_N
-abstraction_N,abstraktion_N
 philosophy_N,filosofi_N
 complex_A,komplex_A
 maintain_VS,underhålla_VS
-environment_N,miljö_N
 semaphore_N,semafor_N
-syntax_N,syntax_N
-tree_N,träd_N
 semantics_N,semantik_N
-compiler_N,kompilator_N
 induction_N,induktion_N
 proof_N,bevis_N
-read_VS,läsa_VS
-finite_A,ändlig_A
 formal_A,formell_A
-library_N,bibliotek_N
-type_N,typ_N
 algebraic_A,algebraisk_A
 monad_N,monad_N
 transformer_N,transformator_N
-specification_N,specifikation_N
 property_N,egenskaper_N
 construction_N,konstruktion_N
 construct_V2,konstruera_V2
 quick_A,snabb_A
 exception_N,undantag_N
-cryptography_N,kryptografi_N
-security_N,säkerhet_N
 implementation_N,implementering_N
 vulnerability_N,sårbarhet_N
 permutation_N,permutation_N
@@ -1265,28 +964,16 @@ cipher_N,skiffer_N
 cryptanalysis_N,kryptanalys_N
 symmetric_A,symmetrisk_A
 CN computer_N science_N,datavetenskap_N
-programming_N,programmering_N
-function_N,funktion_N
-model_N,modell_N
 CN software_N development_N,systemutveckling_N
-algorithm_N,algoritm_N
 CN application_N software_N,tillämpningsprogram_N
 CN data_N structure_N,datastruktur_N
-artificial_A,artificiell_A
-intelligence_N,intelligens_N
 CN automata_N theory_N,automatteori_N
-binary_A,binär_A
 CN binary_A search_N algorithm_N,binärsökning_N
-bit_N,bit_N
 CN bit_N rate_N,överföringskapacitet_N
-byte_N,byte_N
-class_N,klass_N
-CN computer_N science_N,datalogi_N
 CN cloud_N computing_N,datormoln_N
 library_ bibliotek N,programbibliotek_N
 CN coding_N theory_N,kodningsteori_N
 CN cognitive_A science_N,kognitionsvetenskap_N
-compiler_N,kompilator_N
 CN computability_N theory_N,beräkningsteori_N
 CN computational_A biology_N,beräkningsbiologi_N
 CN computational_A chemistry_N,beräkningskemi_N
@@ -1295,35 +982,26 @@ CN computer_N architecture_N,datorarkitektur_N
 CN computer_N data_N storage_N,datorminne_N
 CN computer_N graphics_N,datorgrafik_N
 CN computer_N network_N,datornätverk_N
-CN computer_N science_N,datavetenskap_N
 CN computer_N scientist_N,datorforskare_N
 CN computer_N security_N,datasäkerhet_N
 concurrency_N,samtidighet_N
 CN control_N flow_N,programflöde_N
-cryptography_N,kryptografi_N
 cyberbullying_N mobbning N,nätmobbning_N
 cyberspace_N,cyberrymd_N
 CN data_N center_N,datorhall_N
-database_N,databas_N
 CN data_N mining_N,datautvinning_N
 CN data_N type_N,datatyp_N
-digital_A,digital_A
 CN signal_N processing_N,signalbehandling_N
 CN domain_N name_N system_N,domännamnssystem_N
 download_N,nedladdning_N
-encryption_N,kryptering_N
 event_N,händelse_N
 executable_A,exekverbar_A
 file_N,fil_N
 CN exception_N handling_N,undantagshantering_N
 CN feasibility_N study_N,förstudie_N
 CN filename_N extension_N,filändelse_N
-formal_A,formell_A
-method_N,metod_N
 verification_N,verifiering_N
-functional_A,funktionell_A
 CN game_N theory_N,spelteori_N
-gigabyte_N,gigabyte_N
 CN graph_N theory_N,grafteori_N
 CN hash_N function_N,hashfunktion_N
 CN hash_N table_N,hashtabell_N
@@ -1333,7 +1011,6 @@ CN integrated_A development_N environment_N,CN integrerad_A utvecklingsmiljö_N
 CN imperative_A programming_N,CN imperativ_A programmering_N
 inheritance_N,arv_N
 CN insertion_N sort_N,insättningssortering_N
-ascii_N,ascii_N
 array_N,fält_N
 CN binary_A tree_N,binärträd_N
 bioinformatics_N,bioinformatik_N
@@ -1341,35 +1018,26 @@ CN boolean_A data_N type_N,CN boolesk_A datatyp_N
 crypto_N,krypto_N
 CN computer_N vision_N,datorseende_N
 concatenation_N,konkatenering_N
-intelligent_A,intelligent_A
 agent_N,agent_N
-interface_N,gränssnitt_N
 invariant_A,invariant_A
 iteration_N,iteration_N
 Java_N,Java_N
 CN programming_N language_N,programspråk_N
-kernel_N,kärna_N
 CN linear_A search_N,linjärsökning_N
 CN linked_A list_N,CN länkad_A lista_N
 CN logic_N programming_N,logikprogrammering_N
 CN machine_N learning_N,maskininlärning_N
-matrix_N,matris_N
-modem_N,modem_N
 CN number_N theory_N,talteori_N
-numerical_A,numerisk_A
-analysis_N,analys_N
 CN numerical_A analysis_N,CN numerisk_A analys_N
 CN operating_A system_N,operativsystem_N
 CN optical_N fiber_N,fiberoptik_N
 CN pair_N programming_N,parprogrammering_N
-peripheral_N,kringutrustning_N
 CN priority_N queue_N,prioritetskö_N
 CN quantum_N computer_N,kvantdator_N
 queue_N,kö_N
 recursion_N,rekursion_N
 CN relational_A database_N,relationsdatabas_N
 CN requirements_N analysis_N,kravhantering_N
-router_N,router_N
 CN routing_N table_N,dirigeringstabell_N
 CN selection_N sort_N,urvalssortering_N
 sequence_N,följd_N
@@ -1395,9 +1063,6 @@ productivity_N,produktivitet_N
 CN dynamic_A programming_N,CN dynamisk_A programmering_N
 CN computer_N interaction_N,datorinteraktion_N
 CN development_N environment_N,utvecklingsmiljö_N
-list_N,lista_N
-mathematical_A,matematisk_A
-CN parallel_A computing_N,parallelldator_N
 CN computer_N program_N,datorprogram_N
 programmer_N,programmerare_N
 CN word_N processor_N,ordbehandlare_N
@@ -1412,7 +1077,6 @@ theoretical_A,teoretisk_A
 discreet_A,diskret_A
 mathematics_N,matematik_N
 CN discrete_A mathematics_N,CN diskret_A matematik_N
-philosophy_N,filosofi_N
 CN probability_N distribution_N,sannolikhetsfördelning_N
 CN time_N complexity_N,tidskomplexitet_N
 number_N,tal_N
@@ -1420,9 +1084,6 @@ CN set_N theory_N,mängdteori_N
 CN empty_A set_N,CN tomma_A mängden_N
 CN software_N tool_N,programmeringsverktyg_N
 biology_N,biologi_N
-statistics_N,statistik_N
-information_N,information_N
-communication_N,kommunikation_N
 telecommunications_N,telekommunikation_N
 CN access_N control_N,åtkomstkontroll_N
 CN domain_N name_N,domännamn_N
@@ -1431,62 +1092,40 @@ whitelist_N,vitlista_V
 CN graphics_A card_N,grafikkort_N
 CN truth_N value_N,sanningsvärde_N
 variable_N,variabel_N
-conjunction_N,konjunktion_N
 disjunction_N,disjunktion_N
 negation_N,negation_N
 CN hard_A drive_N,hårddisk_N
-instruction_N,instruktion_N
-arithmetic_N,aritmetik_N
 CN control_N unit_N,styrenhet_N
 hardware_N,maskinvara_N
-server_N,server_N
 code_N,kod_N
 CN information_N theory_N,informationsteori_N
 electronics_N,elektroteknik_N
 linguistics_N,språkvetenskap_N
-science_N,vetenskap_N
-memory_N,minne_N
 table_N,tabell_N
 CN file_N format_N,filformat_N
 CN computer_N engineering_N,datorteknik_N
-video_N,video_N
 engineering_N,ingenjörsvetenskap_N
-technology_N,teknologi_N
-CN power_N supply_N,nätaggregat_N
 CN information_N system_N,informationssystem_N
 CN digital_A signal_N processor_N,signalprocessor_N
-simulation_N,simulering_N
-network_N,nätverk_N
 CN web_N server_N,webbserver_N
 CN programming_N paradigm_N,programmeringsparadigm_N
 sensor_N,sensor_N
-thread_N,tråd_N
 graphic_A,grafisk_A
 CN web_N application_N,webbapplikation_N
 CN device_N driver_N,drivrutin_N
 CN instruction_N set_N architecture_N,instruktionsuppsättning_N
 parser_N,parser_N
-execution_N,exekvering_N
 interruption_N,avbrott_N
 CN inter-process_A communication_N,interprocesskommunikation_N
 operator_N,operator_N
-mathematical_A,matematisk_A
-expression_N,uttryck_N
-environment_N,miljö_N
-value_N,värde_N
 CN file_N name_N,filnamn_N
-proof_N,bevis_N
 CN command-line_N interpreter_N,kommandotolk_N
 CN unique_A key_N,databasnyckel_N
-integer_N,heltal_N
-virtual_A,virtuell_A
 debugger_N,avlusare_N
 property_N,egendom_N
 touchscreen_N,pekskärm_N
-documentation_N,dokumentation_N
 CN scripting_N language_N,skriptspråk_N
 bug_N,bugg_N
-formal_A,formell_A
 LED_N,lysdiod_N
 CN speech_N recognition_N,taligenkänning_N
 CN memory_N address_N,minnesadress_N
@@ -1494,7 +1133,6 @@ CN computer_N engineering_N,datateknik_N
 operation_N,operation_N
 unit_N,enhet_N
 symbol_N,symbol_N
-reference_N,referens_N
 CN personal_A computer_N,persondator_N
 bot_N,bot_N
 wireless_A,trådlös_A
@@ -1502,35 +1140,21 @@ CN web_N page_N,webbsida_N
 scanner_N,skanner_N
 abstract_A,abstrakt_A
 concrete_A,konkret_A
-accelerate_V2,accelerera_V2
 accumulator_N,ackumulator_N
 accuracy_N,noggrannhet_N
 precision_N,precision_N
-action_N,handling_N
 selection_N,urval_N
 activation_N,aktivering_N
-active_A,aktiv_A
-adaptive_A,adaptiv_A
 inference_N,slutledning_N
-page_N,sida_N
 resolution_N,upplösning_N
-string_N,sträng_N
 argument_N,argument_N
-artificial_A,artificiell_A
 associative_A,associativ_A
-asynchronous_A,asynkron_A
 automated_A,automatiserad_A
-automate_V2,automatisera_V2
 reasoning_N,resonemang_N
-theorem_N,sats_N
 automaton_N,automatisering_N
 robot_N,robot_N
 robotics_N,robotik_N
-control_N,kontroll_N
 benchmark_N,riktvärde_N
-format_N,format_N
-expression_N,uttryck_N
-branch_N,gren_N
 branch_V,grena_V
 answer_N,svar_N
 nested_A,nästlad_A
@@ -1543,34 +1167,22 @@ if-statement_N,if-sats_N
 while-loop_N,while-loop_N
 while-statement_N,while-sats_N
 allocation_N,tilldelning_N
-framework_N,ramverk_N
 search_V2,söka_V2
 build_V2,bygga_V2
-rule_N,regel_N
 engine_N,motor_N
 capsule_N,kapsel_N
 categorical_A,kategorisk_A
-channel_N,kanal_N
-communication_N,kommunikation_N
-classification_N,klassificering_N
 classifier_N,klassificerare_N
 clock_V2,klocka_V2
-cloud_N,moln_N
-code_N,kod_N
-collection_N,samling_N
 column_N,kolumn_N
-database_N,databas_N
 sort_V2,sortera_V2
 computable_A,beräkningsbar_A
-computation_N,beräkning_N
 console_N,konsol_N
 constant_N,konstant_N
 constrain_V2,begränsa_V2
 conditional_A,villkorlig_A
 constraint_N,begränsning_N
 container_N,behållare_N
-variable_N,variabel_N
-store_V2,lagra_V2
 redundant_A,överflödig_A
 condition_N,villkor_N
 block_N,block_N
@@ -1582,7 +1194,6 @@ declare_V,deklarera_V
 initialization_N,initiering_N
 initialize_V,initialisera_V
 index_N,index_N
-element_N,element_N
 runtime_N,körning_N
 error_N,fel_N
 CN runtime_N error_N,exekveringsfel_N
@@ -1595,15 +1206,12 @@ pattern_N,mönster_N
 blacklist_N,CN svarta_A listan_N
 automation_N,automatisering_N
 coherency_N,sammanhang_N
-entry_N,inträde_N
 closure_N,stängning_N
 histogram_N,histogram_N
 combinatorial_A,kombinatorisk_A
 comparison_N,jämförelse_N
 compile_V2,sammanställa_V2
 cybernetics_N,cybernetik_N
-computation_N,beräkning_N
-concept_N,begrepp_N
 conceptual_A,begreppsmässig_A
 conceptualization_N,begreppsmässighet_N
 consistent_A,konsekvent_A
@@ -1612,27 +1220,19 @@ continual_A,ständig_A
 improvement_N,förbättring_N
 continuation_N,fortsättning_N
 style_N,stil_N
-continuous_A,kontinuerlig_A
 cooperative_A,samverkande_A
 processing_N,bearbetning_N
 stream_N,ström_N
-transmission_N,överföring_N
 boundary_N,gräns_N
-support_N,stöd_N
 default_N,standard_N
 dependency_N,beroende_N
-description_N,beskrivning_N
-deterministic_A,deterministisk_A
 differentiable_A,differentierbar_A
 reduction_N,reduktion_N
-event_N,händelse_N
 disk_N,disk_N
 display_N,bildskärm_N
 divide_V2,dela_V2
 conquer_V2,erövra_V2
-double_V2,dubbla_V2
 point_N,punkt_N
-test_N,test_N
 creativity_N,kreativitet_N
 effective_A,effektiv_A
 descriptive_A,beskrivande_A
@@ -1641,27 +1241,17 @@ interference_N,interferens_N
 switch_N,strömbrytare_N
 extract_V2,extrahera_V2
 transform_V2,omvandla_V2
-load_V2,ladda_V2
 false_A,falsk_A
-fault_N,fel_N
 feature_N,funktion_N
 extraction_N,extraktion_N
 controller_N,kontrollant_N
-object_N,objekt_N
 formula_N,formel_N
 frame_N,ram_N
 open_A,öppen_A
-frequency_N,frekvens_N
 signature_N,signatur_N
-garbage_N,skräp_N
 generative_A,generativ_A
 genetic_A,generisk_A
-global_A,global_A
-breadth_N,bredd_N
-recognition_N,igenkännande_N
 human_N,människa_N
-enhancement_N,förbättring_N
-identifier_N,identifierare_N
 segmentation_N,segmentering_N
 immutable_A,oföränderlig_A
 incremental_A,inkrementell_A
@@ -1670,42 +1260,25 @@ hide_V2,dölja_V2
 query_N,fråga_N
 visualization_N,visualisering_N
 input_N,inmatning_N
-technology_N,teknologi_N
 cycle_N,cykel_N
 test_V2,testa_V2
-interactive_A,interaktiv_A
 internal_A,inre_A
-documentation_N,dokumentation_N
-solution_N,lösning_N
 public_A,publik_A
 interpretation_N,tolkning_N
 irregular_A,oregelbunden_A
 issue_N,problem_N
 iterative_A,iterativ_A
-factor_N,faktor_N
 primitive_A,primitiv_A
 lazy_A,lat_A
 merger_N,sammanslagning_N
 loader_N,lastare_N
-logical_A,logisk_A
 implication_N,implikation_N
 random_A,slumpmässig_A
-module_N,modul_N
-message_N,meddelande_N
-check_V2,kontrollera_V2
 motion_N,rörelse_N
-bind_V2,binda_V2
 entity_N,entitet_N
 nondeterministic_A,icke-deterministisk_A
 monotonic_A,monoton_A
-file_N,fil_N
-transfer_V2,överföra_V2
 transformation_N,omvandling_N
-interaction_N,interaktion_N
-parameter_N,parameter_N
-partition_V2,dela_V2
-address_N,adress_N
-condition_N,villkor_N
 precondition_N,förhandsvillkor_N
 CN key_N feature_N,huvudfunktion_N
 CN garbage_N collection_N,skräpsamling_N
@@ -1714,42 +1287,32 @@ virus_N,virus_N
 CN motion_N sensor_N,rörelsesensor_N
 player_N,spelare_N
 recursive_A,rekursiv_A
-definition_N,definition_N
 connection_N,anslutning_N
 register_V2,registrera_V2
 scope_N,räckvidd_N
-screen_N,skärm_N
 semiconductor_N,halvledare_N
 simulate_V2,simulera_V2
 singleton_N,singleton_N
 maintenance_N,underhåll_N
-verification_N,verifiering_N
 validation_N,validering_N
-sort_V2,sortera_V2
-array_N,fält_N
 editor_N,redigerare_N
 spam_N,skräppost_N
 subset_N,delmängd_N
 technological_A,teknologisk_A
-text_N,text_N
-transistor_N,transistor_N
 translator_N,översättare_N
 true_N,sann_N
-value_N,värde_N
 user_N,användare_N 
 programmable_A,programerbar_A 
 CN text_N editor_N,textredigerare_N 
 register_N,register_N 
 CN hardware_N acceleration_N,hårdvaruacceleration_N
 CN address_N space_N,adressrymd_N
-bus_N,buss_N
 CN card_N reader_N,kortläsare_N
 cache_N,cache_N
 CD-ROM_N,CD-ROM_NCN
-computer_N case_N,datorchassi_N
+CN computer_N case_N,datorchassi_N
 CN form_N factor_N,formfaktor_N
 CN core_N memory_N,kärnminne_N
-CN computer_N data_N storage_N,datorminne_N
 CN expansion_N bus_N,expansionskort_N
 firewall_N,brandvägg_N
 firmware_N,firmware_N
@@ -1757,62 +1320,39 @@ CN flash_A memory_N,flashminne_N
 CN floppy_A disk_N,diskett_N
 CN graphics_A processing_N unit_N,grafikprocessor_N
 CN hard_A disk_N drive_N,hårddisk_N
-hardware_N,maskinvara_N
 instruction_N,instruktionsuppsättning_N
 CN integrated_A circuit_N,CN integrerad_A krets_N
 keyboard_N,tangentbord_N
 CN mainframe_N computer_N,stordator_N
-CN memory_N address_N,minnesadress_N
 CN memory_N card_N,minneskort_N
 microcode_N,mikroprogram_N
-modem_N,modem_N
 motherboard_N,moderkort_N
-CN computer_N network_N,datornätverk_N
 CN network_N interface_N controller_N,nätverkskort_N
 CN operating_A system_N,operativsystem_N
-code_N,kod_N
-peripheral_N,kringutrustning_N
-CN personal_A computer_N,persondator_N
 CN power_N supply_N,nätaggregat_N
 printer_N,skrivare_N
-server_N,server_N
-software_N,programvara_N
 CN sound_N card_N,ljudkort_N
 CN tape_N drive_N,bandstation_N
 CN computer_N terminal_N,datorterminal_N
 trackpad_N,styrplatta_N
-card_N,kort_N
 CN video_A card_N,grafikkort_N
 webcam_N,webbkamera_N
 enhet_N,drive_N
-arithmetic_N,aritmetik_N
-artificial_A,artificiell_A
-CN machine_N learning_N,maskininlärning_N
 fan_N,fläkt_N
 screen_N,bildskärm_N
 CN LED_N display_N,lysdiodskärm_N
-logical_A,logisk_A
-operator_N,operator_N
 CN data_N storage_N device_N,lagringsmedium_N
 CN communications_N protocol_N,kommunikationsprotokoll_N
 CN printed_A circuit_N board_N,mönsterkort_N
-video_N,video_N
-CN digital_A signal_N processor_N,signalprocessor_N
-semiconductor_N,halvledare_N
 CN parallel_A computing_N,parallelldator_N
 graphical_A,grafisk_A
-CN user_N interface_N,användargränssnitt_N
 CN desktop_N computer_N,skrivbordsdator_N
-CN computer_N program_N,datorprogram_N
 laser_N,laser_N
 electromagnetic_A,elektromagnetisk_A
 CN computer_N mouse_N,datormus_N
 CN static_A random-access_A memory_N,CN statiskt_A minne_N
 CN electromagnetic_A wave_N,CN elektromagnetisk_A strålning_N
 CN optical_A disc_N,CN optisk_A skiva_N
-CN integrated_A circuit_N,CN integrerad_A krets_N
-
-CN computer_N security_N,datasäkerhet_N
 CN computer_N security_N model_N,datasäkerhetsmodell_N
 CN information_N technology_N,informationsteknik_N
 CN software_N development_V,mjukvaruutveckling_V
@@ -1821,7 +1361,6 @@ CN unauthorized_A access_N,CN obehörig_A åtkomst_N
 CN confidential_A information_N,CN konfidentiell_A information_N
 CN holistic_A approach_N,helhetssyn_N
 CN ethical_A aspect_N,CN etisk_A aspekt_N
-CN operating_A system_N,operativsystem_N
 CN design_N pattern_N,designmönster_N
 CN mathematical_N modelling_N,CN matematisk_N modellering_N
 CN functional_N programming_V,CN funktionell_N programmering_V
@@ -1834,22 +1373,16 @@ CN mandatory_A access_N control_V,CN obligatorisk_A åtkomstkontroll_N
 CN system_N specification_N,systemspecifikation_N
 CN multi-core_A processor_N,CN flerkärnig_A processor_N
 CN domain-specific_A language_N,CN domänspecifikt_A språk_N
-CN data_N structure_N,datastruktur_N
 CN data_N management_N,datahantering_N
 CN object-oriented_A program_N,CN objektorienterat_A program_N
 CN source_A code_N,källkod_N
 CN machine_N code_N,maskinkod_N
-CN computer_N network_N,datornätverk_N
-CN computer_N graphics_N,datorgrafik_N
 CN computer_N system_N,datorsystem_N
 CN software_N engineer_N,mjukvaruingenjör_N
 CN software_N system_N,mjukvarusystem_N
-CN application_N software_N,tillämpningsprogram_N
 CN game_N engine_N,spelmotor_N
-CN discrete_A mathematics_N,CN diskret_A matematik_N
 CN compiler_N construction_N,kompileringskonstruktion_N
 CN regular_A expression_N,CN reguljärt_A uttryck_N
-CN programming_N paradigm_N,programmeringsparadigm_N
 CN code_N generator_N,kodgenerator_N
 CN formal_A verification_N,CN formell_A verifiering_N
 CN differential_A equation_N,differentialekvation_N
@@ -1868,7 +1401,6 @@ CN security_N protocol_N,säkerhetsprotokoll_N
 CN virtual_A private_A network_N,CN virtuellt_A privat_A nätverk_N
 CN floating_A point_N number_N,flyttal_N
 CN attack_V model_N,attackmodell_N
-CN sorting_N algorithm_N,sorteringsalgoritm_N
 CN linear_A search_V,CN linjär_A sökning_V
 CN Data_N Communication_N,Datakommunikation_N
 CN Domain_N Name_N System_N,Domännamnssystemet_N
