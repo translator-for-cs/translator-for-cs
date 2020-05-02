@@ -1,0 +1,64 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	För tillträde till kursen ska studenten ha avklarade kurser om 60 hp inom ämnet datavetenskap eller motsvarande, inklusive en 7,5 hp fortsättningskurs i programmering (TDA552, TDA342 eller liknande), och en 7,5 hp kurs i datastrukturer (DAT037, TDA416 eller liknande).Detta är en avancerad kurs: Vi förutsätter att studenten har akademisk mognad och en vilja att utforska självständigt. Studenten ska ha förmåga att slutföra ett betydande programmeringsprojekt. 
+	
+                Syfte
+	Artificiell intelligens (AI) studerar hur datorer kan utföra uppgifter som traditionellt har ansetts kräva mänsklig intelligens. Syftet med kursen är att ge en fördjupad förståelse för möjligheter och begränsningar med AI-metoder.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter godkänd kurs ska studenten kunna:
+Kunskap och förståelse:
+Förklara grundläggande begrepp och algoritmer för viktad sökning, planering och constraint satisfaction-problem (CSP).
+Jämföra fördelar och nackdelar med olika algoritmer för sökning, planering och CSP.
+Redogöra för den historiska utvecklingen, nuvarande läge och framtidsutsikter för något AI-delområde.
+
+Färdigheter och förmåga
+Välja passande algoritmer för sökning, planering och CSP för att lösa givna AI-problem på ett minnes- och tidseffektivt sätt.
+Implementera effektiva algoritmer för sökning, planering och problemlösning i ett passande programmeringsspråk.
+Sammanfatta vetenskapliga framsteg och etiska frågeställningar.
+Skriva vetenskapliga texter.
+
+Värderingsförmåga och förhållningssätt
+Analysera och kritiskt diskutera etiska frågeställningar inom AI.
+Granska och konstruktivt kritisera vetenskapliga texter.
+
+
+	
+                Innehåll
+	Artificiell intelligens (AI) studerar hur datorer kan utföra uppgifter som traditionellt har ansetts kräva mänsklig intelligens. Kursen ger en introduktion till ämnet och har två huvudsyften.
+Det ena syftet är att ge en förståelse för vilka delområden som finns inom AI, deras historiska utveckling, och vilka etiska problemställningar som kan uppkomma inom olika delområden. Detta görs genom att läsa litteratur inom olika AI-områden, att sammanfatta och diskutera litteraturen skriftligt, och att granska uppsatser av andra studenter.Det andra syftet är att lära ut grundläggande begrepp och algoritmer för heuristisk (informerad) sökning, planering och problemlösning, inklusive deras användningsområden, samt hur de kan användas för att lösa intressanta AI-problem. Följande algoritmer och begrepp ingår:
+generella sökproblem ¿ viktade och oviktade grafer, grafsökning, trädsökning, sökträd
+olika klasser av sök- och planeringsproblem ¿ fullständig respektive ofullständig information, deterministiska respektive ickedeterministiska problem
+standardalgoritmer för deterministisk sökning och planering med perfekt information ¿ oinformerad sökning, informerad sökning, lokal sökning
+sökning med ofullständig information, ickedeterministiska problem, respektive problem med flera agenter
+constraint satisfaction-problem
+heuristiker för informerad sökning och för constraint satisfaction-problem
+
+
+        	  
+                Organisation
+	Studenterna formar projektgrupper om 3-5 personer, och varje grupp tilldelas en handledare, ett programmeringsprojekt och ett uppsats-ämne. Undervisningsformerna är grupphandledning, uppsatsskrivande, programutveckling i grupper, samt referentgranskning (peer review) på andras uppsatser. Dessutom förekommer teoretiska föreläsningar, praktiska övningsuppgifter och skriftliga prov.
+	
+                Litteratur
+	            Se separat litteraturlista.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom:
+en individuell skriftlig salstentamen (2,5 hp)
+ett programmeringsprojekt utfört i grupp om 3¿5 studenter, med muntlig redovisning (3,5 hp)
+en skriftlig uppsats i grupp om 3¿5 studenter, med referentgranskning (1,5 hp)
+
+För att bli godkänd på gruppmomenten måste studenten delta aktivt under handledning, redovisning och i gruppens egen planering, samt ha gjort väsentliga och mätbara bidrag till slutresultatet (programmet och uppsatsen). För att bli godkänd på uppsatsmomentet måste studenten dessutom ha läst och aktivt diskuterat uppsatser av andra projektgrupper.
+Om studenten underkänns på ett gruppmoment, får denne en individuell uppgift att slutföra istället för en uppgift att utföra i grupp. Misslyckas även detta så måste studenten göra om hela momentet i en ny projektgrupp.
+Det slutliga betyget för kursen är baserat på det vägda medelvärdet av betygen på delkurserna.
+
+	
+    
+
+    

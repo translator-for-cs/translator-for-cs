@@ -583,7 +583,7 @@ CN access_N control_N,åtkomstkontroll_N
 CN domain_N name_N,domännamn_N
 ip-adress_N,ip-address_N
 whitelist_N,vitlista_V
-CN graphics_N card_N,grafikkort_N
+CN graphics_A card_N,grafikkort_N
 CN truth_N value_N,sanningsvärde_N
 variable_N,variabel_N
 conjunction_N,konjunktion_N
@@ -692,3 +692,315 @@ relation_N,relation_N
 pattern_N,mönster_N
 variable_N,variabel_N
 bug_N,bug_N
+scanner_N,skanner_N
+abstract_A,abstrakt_A
+concrete_A,konkret_A
+accelerate_V2,accelerera_V2
+accumulator_N,ackumulator_N
+accuracy_N,noggrannhet_N
+precision_N,precision_N
+action_N,handling_N
+selection_N,urval_N
+activation_N,aktivering_N
+active_A,aktiv_A
+adaptive_A,adaptiv_A
+inference_N,slutledning_N
+page_N,sida_N
+resolution_N,upplösning_N
+string_N,sträng_N
+argument_N,argument_N
+artificial_A,artificiell_A
+associative_A,associativ_A
+asynchronous_A,asynkron_A
+automated_A,automatiserad_A
+automate_V2,automatisera_V2
+reasoning_N,resonemang_N
+theorem_N,sats_N
+automaton_N,automatisering_N
+robot_N,robot_N
+robotics_N,robotik_N
+control_N,kontroll_N
+benchmark_N,riktvärde_N
+format_N,format_N
+expression_N,uttryck_N
+branch_N,gren_N
+branch_V,grena_V
+answer_N,svar_N
+nested_A,nästlad_A
+statement_N,sats_N
+parameter_N,parameter_N
+comment_N,kommentar_N
+framework_N,ramverk_N
+if-loop_N,if-loop_N
+if-statement_N,if-sats_N
+while-loop_N,while-loop_N
+while-statement_N,while-sats_N
+allocation_N,tilldelning_N
+framework_N,ramverk_N
+search_V2,söka_V2
+build_V2,bygga_V2
+rule_N,regel_N
+engine_N,motor_N
+capsule_N,kapsel_N
+categorical_A,kategorisk_A
+channel_N,kanal_N
+communication_N,kommunikation_N
+classification_N,klassificering_N
+classifier_N,klassificerare_N
+clock_V2,klocka_V2
+cloud_N,moln_N
+code_N,kod_N
+collection_N,samling_N
+column_N,kolumn_N
+database_N,databas_N
+sort_V2,sortera_V2
+computable_A,beräkningsbar_A
+computation_N,beräkning_N
+console_N,konsol_N
+constant_N,konstant_N
+constrain_V2,begränsa_V2
+conditional_A,villkorlig_A
+constraint_N,begränsning_N
+container_N,behållare_N
+variable_N,variabel_N
+store_V2,lagra_V2
+redundant_A,överflödig_A
+condition_N,villkor_N
+block_N,block_N
+boolean_A,boolesk_A
+program_N,program_N
+sequential_A,sekventiell_A
+declaration_N,deklaration_N
+declare_V,deklarera_V
+initialization_N,initiering_N
+initialize_V,initialisera_V
+index_N,index_N
+element_N,element_N
+runtime_N,körning_N
+error_N,fel_N
+CN runtime_N error_N,exekveringsfel_N
+accelerator_N,accelerator_N
+cooling_N,kylning_N
+asymptotic_A,asymptotisk_A
+optical_A,optisk_A
+variance_N,varians_N
+pattern_N,mönster_N
+blacklist_N,CN svarta_A listan_N
+automation_N,automatisering_N
+coherency_N,sammanhang_N
+entry_N,inträde_N
+closure_N,stängning_N
+histogram_N,histogram_N
+combinatorial_A,kombinatorisk_A
+comparison_N,jämförelse_N
+compile_V2,sammanställa_V2
+cybernetics_N,cybernetik_N
+computation_N,beräkning_N
+concept_N,begrepp_N
+conceptual_A,begreppsmässig_A
+conceptualization_N,begreppsmässighet_N
+consistent_A,konsekvent_A
+satisfaction_N,tillfredsställelse_N
+continual_A,ständig_A
+improvement_N,förbättring_N
+continuation_N,fortsättning_N
+style_N,stil_N
+continuous_A,kontinuerlig_A
+cooperative_A,samverkande_A
+processing_N,bearbetning_N
+stream_N,ström_N
+transmission_N,överföring_N
+boundary_N,gräns_N
+support_N,stöd_N
+default_N,standard_N
+dependency_N,beroende_N
+description_N,beskrivning_N
+deterministic_A,deterministisk_A
+differentiable_A,differentierbar_A
+reduction_N,reduktion_N
+event_N,händelse_N
+disk_N,disk_N
+display_N,bildskärm_N
+divide_V2,dela_V2
+conquer_V2,erövra_V2
+double_V2,dubbla_V2
+point_N,punkt_N
+test_N,test_N
+creativity_N,kreativitet_N
+effective_A,effektiv_A
+descriptive_A,beskrivande_A
+cable_N,kabel_N
+interference_N,interferens_N
+switch_N,strömbrytare_N
+extract_V2,extrahera_V2
+transform_V2,omvandla_V2
+load_V2,ladda_V2
+false_A,falsk_A
+fault_N,fel_N
+feature_N,funktion_N
+extraction_N,extraktion_N
+controller_N,kontrollant_N
+object_N,objekt_N
+formula_N,formel_N
+frame_N,ram_N
+open_A,öppen_A
+frequency_N,frekvens_N
+signature_N,signatur_N
+garbage_N,skräp_N
+generative_A,generativ_A
+genetic_A,generisk_A
+global_A,global_A
+breadth_N,bredd_N
+recognition_N,igenkännande_N
+human_N,människa_N
+enhancement_N,förbättring_N
+identifier_N,identifierare_N
+segmentation_N,segmentering_N
+immutable_A,oföränderlig_A
+incremental_A,inkrementell_A
+indicator_N,indikator_N
+hide_V2,dölja_V2
+query_N,fråga_N
+visualization_N,visualisering_N
+input_N,inmatning_N
+technology_N,teknologi_N
+cycle_N,cykel_N
+test_V2,testa_V2
+interactive_A,interaktiv_A
+internal_A,inre_A
+documentation_N,dokumentation_N
+solution_N,lösning_N
+public_A,publik_A
+interpretation_N,tolkning_N
+irregular_A,oregelbunden_A
+issue_N,problem_N
+iterative_A,iterativ_A
+factor_N,faktor_N
+primitive_A,primitiv_A
+lazy_A,lat_A
+merger_N,sammanslagning_N
+loader_N,lastare_N
+logical_A,logisk_A
+implication_N,implikation_N
+random_A,slumpmässig_A
+module_N,modul_N
+message_N,meddelande_N
+check_V2,kontrollera_V2
+motion_N,rörelse_N
+bind_V2,binda_V2
+entity_N,entitet_N
+nondeterministic_A,icke-deterministisk_A
+monotonic_A,monoton_A
+file_N,fil_N
+transfer_V2,överföra_V2
+transformation_N,omvandling_N
+interaction_N,interaktion_N
+parameter_N,parameter_N
+partition_V2,dela_V2
+address_N,adress_N
+condition_N,villkor_N
+precondition_N,förhandsvillkor_N
+CN key_N feature_N,huvudfunktion_N
+CN garbage_N collection_N,skräpsamling_N
+CN global_A variable_N,CN global_A variabel_N
+virus_N,virus_N
+CN motion_N sensor_N,rörelsesensor_N
+player_N,spelare_N
+recursive_A,rekursiv_A
+definition_N,definition_N
+connection_N,anslutning_N
+register_V2,registrera_V2
+scope_N,räckvidd_N
+screen_N,skärm_N
+semiconductor_N,halvledare_N
+simulate_V2,simulera_V2
+singleton_N,singleton_N
+maintenance_N,underhåll_N
+verification_N,verifiering_N
+validation_N,validering_N
+sort_V2,sortera_V2
+array_N,fält_N
+editor_N,redigerare_N
+spam_N,skräppost_N
+subset_N,delmängd_N
+technological_A,teknologisk_A
+text_N,text_N
+transistor_N,transistor_N
+translator_N,översättare_N
+true_N,sann_N
+value_N,värde_N
+user_N,användare_N
+programmable_A,programerbar_A
+CN text_N editor_N,textredigerare_N
+register_N,register_N
+CN hardware_N acceleration_N,hårdvaruacceleration_N
+CN address_N space_N,adressrymd_N
+bus_N,buss_N
+CN card_N reader_N,kortläsare_N
+cache_N,cache_N
+CD-ROM_N,CD-ROM_NCN
+computer_N case_N,datorchassi_N
+CN form_N factor_N,formfaktor_N
+CN core_N memory_N,kärnminne_N
+CN computer_N data_N storage_N,datorminne_N
+CN expansion_N bus_N,expansionskort_N
+firewall_N,brandvägg_N
+firmware_N,firmware_N
+CN flash_A memory_N,flashminne_N
+CN floppy_A disk_N,diskett_N
+CN graphics_A processing_N unit_N,grafikprocessor_N
+CN hard_A disk_N drive_N,hårddisk_N
+hardware_N,maskinvara_N
+instruction_N,instruktionsuppsättning_N
+CN integrated_A circuit_N,CN integrerad_A krets_N
+keyboard_N,tangentbord_N
+CN mainframe_N computer_N,stordator_N
+CN memory_N address_N,minnesadress_N
+CN memory_N card_N,minneskort_N
+microcode_N,mikroprogram_N
+modem_N,modem_N
+motherboard_N,moderkort_N
+CN computer_N network_N,datornätverk_N
+CN network_N interface_N controller_N,nätverkskort_N
+CN operating_A system_N,operativsystem_N
+code_N,kod_N
+peripheral_N,kringutrustning_N
+CN personal_A computer_N,persondator_N
+CN power_N supply_N,nätaggregat_N
+printer_N,skrivare_N
+server_N,server_N
+software_N,programvara_N
+CN sound_N card_N,ljudkort_N
+CN tape_N drive_N,bandstation_N
+CN computer_N terminal_N,datorterminal_N
+trackpad_N,styrplatta_N
+card_N,kort_N
+CN video_A card_N,grafikkort_N
+webcam_N,webbkamera_N
+enhet_N,drive_N
+arithmetic_N,aritmetik_N
+artificial_A,artificiell_A
+CN machine_N learning_N,maskininlärning_N
+fan_N,fläkt_N
+screen_N,bildskärm_N
+CN LED_N display_N,lysdiodskärm_N
+logical_A,logisk_A
+operator_N,operator_N
+CN data_N storage_N device_N,lagringsmedium_N
+CN communications_N protocol_N,kommunikationsprotokoll_N
+CN printed_A circuit_N board_N,mönsterkort_N
+video_N,video_N
+CN digital_A signal_N processor_N,signalprocessor_N
+semiconductor_N,halvledare_N
+CN parallel_A computing_N,parallelldator_N
+graphical_A,grafisk_A
+CN user_N interface_N,användargränssnitt_N
+CN desktop_N computer_N,skrivbordsdator_N
+CN computer_N program_N,datorprogram_N
+laser_N,laser_N
+electromagnetic_A,elektromagnetisk_A
+CN computer_N mouse_N,datormus_N
+CN static_A random-access_A memory_N,CN statiskt_A minne_N
+CN electromagnetic_A wave_N,CN elektromagnetisk_A strålning_N
+CN optical_A disc_N,CN optisk_A skiva_N
+CN integrated_A circuit_N,CN integrerad_A krets_N

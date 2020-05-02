@@ -1,0 +1,29 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	För att vara behörig till kursen ska studenten vara godkänd på minst två kurser i programmering.
+	
+                Syfte
+	Kursen syftar till att ge studenterna grundläggande kunskap i, och första erfarenhet av, mjukvaruutveckling inom ramarna av ett praktiskt projektarbete.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter fullgjord kurs skall studenten besitta följande kunskaper, färdigheter och förmågor:Kunskap och förståelse, studenten skall kunna:beskriva mjukvaruutveckling som en ingenjörsdisciplin genom att använda relevant terminologibeskriva relationen mellan intressent, produkt och processFärdigheter och förmågor, studenten skall kunna:specificera, implementera och utvärdera ett system utifrån vad olika intressenter anser vara värdefulltlära sig tillsammans med övriga medlemmar i laget de verktyg och APIer som är relevanta för ett projekttillämpa en strukturerad mjukvaruutvecklingsprocess som medlem i ett lagOmdöme och tillvägagångssätt, studenten skall kunna:reflektera över hur processen genomförts i ett projektreflektera över sina egna och gruppens lärandestrategier
+	
+                Innehåll
+	Kursen ger en praktisk introduktion till mjukvaruutveckling. Studenterna kommer att arbeta med ett öppet problem som definieras av en eller flera intressenter utanför studenternas arbetslag. Studenter får alltså inte själva bestämma projektets inriktning. För att hantera den utmaningen lär sig studenterna:en mjukvaruutvecklingsprocess för att strukturera arbetespecificering och utvärdering av krav och samarbete med intressenter för att det som levereras ska anses värdefulltnya teknologier och verktyg och lämpliga sätt att använda de på för att realisera sitt värdeerbjudande genom att utforma egna lärandestrategier organisera sig själva i lag för att nå gemensamma mål med begränsade resurserreflektera över sitt egna arbete och lärande för att möjliggöra kontinuerlig förbättring av sitt egna arbetssätt
+        	  
+                Organisation
+	Kursen organiseras som ett projekt där studenterna arbetar i lag om sex studenter (vanligtvis) för att lösa en realistisk mjukvaruutvecklingsuppgift. Lagen har veckovisa handledningsmöten. Som supplement till projektet ges en serie övningar och föreläsningar som ger fördjupad insikt i uppgiften samt mjukvaruutveckling i stort.
+	
+                Litteratur
+	            Anges på kurshemsidan.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras kontinuerligt varje vecka med en rapport. Rapporten innehåller både en gemensam lagdel och en individuell del för varje lagmedlem för att dokumentera projektets framskridande. Slutbetyget sätts utifrån den sista versionen av rapporten. Exakt hur slutbetyget sätts utifrån rapporten blir specificerat i kurs-PM. Rapportens innehåll är relaterat till lärandemålen och kursens innehåll. Vidare är den uppdelad i olika avsnitt enligt kurs-PM där varje avsnitt måste bearbetas varje vecka för att bli godkänd.
+	
+    
+
+    

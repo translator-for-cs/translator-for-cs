@@ -1,0 +1,29 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Kunskaper inom (satslogik) logik. Gedigen kompetens inom Java. Viss kunskap inom funktionell programmering är också önskvärd. För studenter utan nämnda kunskaper kommer kursen att erbjuda vissa tutorials, dock kommer man att behöva spendera något mer tid till att även lära sig denna paradigm. 
+	
+                Syfte
+	Parallellprogrammering har blivit allmänt förekommande i olika typer av system, exempelvis för att påskynda beräkningar där fysisk parallellism kan utnyttjas, för att tillhandahålla interaktiva fleranvändarmiljöer, och för att hantera interaktion med asynkrona externa händelser. Kursen syftar till att ge en introduktion till de principer som ligger till grund för parallella system, samt praktiska programmeringslösningar för modellering där man utnyttjar samtidighet i program. Områden där dessa principer och praxis är relevanta inkluderar operativsystem, distribuerade system, realtidssystem och flerkärniga arkitekturer.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelse:demonstrera kunskaper om de frågor och problem som uppstår när man konstruerar korrekta parallela program;identifiera synkroniseringsproblem typiska för parallella program, såsom kapplöpningsvillkor och ömsesidig uteslutning.Färdigheter och förmåga:tillämpa vanliga mönster, såsom låsning, semaforer och meddelandestyrd synkronisering för att lösa parallella programmeringsproblem;kunna använda tekniker, speciellt avsedda för parallellprogrammering, i moderna parallell-programmeringsspråk;implementera lösningar med vanliga mönster i moderna programmeringsspråk.Värderingsförmåga och förhållningssätt:värdera styrkorna och möjliga svagheter inom det parallella programmeringsparadigmet;bedöma om ett program, ett bibliotek, eller en datastruktur är säker för användning i ett parallellprogrammeringsproblem;välja korrekta språkkonstruktioner för att implementera synkronisering och lösa kommunikationsproblem mellan olika beräkningsenheter.
+	
+                Innehåll
+	Fysisk kontra logisk parallellismProblem som kan uppkomma vid samtidighet: kapplöpningsvillkor, uteslutning, dödläge, rättvisa, livelockÖmsesidig uteslutningSynkronisering med delat minne: med semaforer eller finkornig låsningMeddelandestyrd synkronisering: med meddelandeköer
+        	  
+                Organisation
+	Kursen organiseras i form av föreläsningar och laborationer.
+	
+                Litteratur
+	            Aktuell information om litteratur ges innan kursstart på kursens hemsida. Vid senaste genomförandet av kursen användes "Principles of Concurrent and Distributed Programming (Second edition)", Mordechai Ben-Ari, Addison-Wesley, 2006. ISBN 0-321-31283-X.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom en individuell skriftlig salstentamen (4.5 hec) och laborationer (3.0 hec) som normalt genomförs i par. Det slutliga kursbetyget avgörs av resultatet på både laboratoriedelen ochtentamen.
+	
+    
+
+    

@@ -1,0 +1,39 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Studenten ska ha kunskaper från en grundläggande kurs  i datorkommunikation eller datornätverk som behandlat TCP/IP-protokollstacken och ha programmeringserfarenhet. Dessutom krävs en kurs i operativsystem eller motsvarande.
+	
+                Syfte
+	Varför blir datorsystem allt mer distribuerade? Hur kan vi bygga pålitliga och feltoleranta distribuerade system? Hur har Internet kunnat skala till flera miljarder användare? Hur är moderna distribuerade system som t.ex. molntjänster, smarta elnät och kommunicerande bilar uppbyggda? Detta är några frågor som kursen behandlar. Målet med kursen är att få en förståelse för design av distribuerade system och de underliggande principer och mekanismer som dagens distribuerade system använder sig av. Föreläsningarna ger nödvändig fundamental kunskap och laborationerna ger praktisk erfarenhet av utveckling av distribuerade system och erfarenhet med att arbeta med verklighetsanknutna problem.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	1.	Kunskap och förståelse:Visa kunskap om grundläggande koncept inom distribuerade system och förstå utmaningar och problem såsom synkronisering, konsistens, replikering, och feltolerans.Kunna beskriva tillämpningar inom distribuerade system och de mekanismer dessa använder för att kunna utföra sina tjänster.Ha god kunskap i att kunna diskutera och analysera de problem och krav som olika designmetoder och lösningar står inför.God förståelse inom området för att kunna jämföra och sammanfatta styrkor och svagheter med olika lösningar.2.	Praktisk färdighet:Kunna utveckla, programmera och utvärdera småskaliga distribuerade system med hjälp av de fundamentala mekanismer som introducerats i kursen.
+Visa förmåga i att utveckla programvara som kan fungera i miljöer med t.ex. opålitliga kommunikationslänkar och begränsad bandbredd.3.	Beskrivning- och analysförmåga:Ha god förmåga att beskriva och analysera både existerande och nya metoder för design av distribuerade system, speciellt med avseende på systemens förmåga att skala och vara feltoleranta.4.	Kommunikation:De kommunikativa färdigheter som praktiseras i den här kursen ger ökad förmåga till samverkan i grupp genom träning i muntlig och skriftlig presentation av labbresultat.
+
+	
+                Innehåll
+	Kursen börjar med en introduktion av grundläggande koncept för distribuerade system och de utmaningar dessa står inför. Därefter repeteras viss väsentlig kunskap om kommunikation och operativsystem för att därefter fokusera på:Namngivning
+Ömsesidig uteslutning (mutual exclusion) och val (election)
+Klockor och tid
+Konsistens och replikering
+Feltolerans i distribuerade system
+Utvalda representativa distribuerade applikationerLektionerna ger studenterna nödvändig teoretisk kunskap och laborationerna praktisk erfarenhet av att utveckla distribuerade system med verklighetsanknutna problem, där praktiskt analysarbete och laborationer ökar förståelsen både av koncept och verkliga problem. Målet är att efter kursen ska studenten förstå fundamentala egenskaper och problem vid design av distribuerade system.
+
+        	  
+                Organisation
+	Schemalagda föreläsningar och parallellt med föreläsningarna utförs hemuppgifter och handledda labbuppgifter. 
+	
+                Litteratur
+	            Andrew S. Tanenbaum, Marten van Steen, "Distributed Systems - Principles and Paradigms", Pearson
+		
+                       Examination inklusive obligatoriska moment
+       	För att bli godkänd på kursen krävs godkänd skriftlig tentamen samt godkända hemuppgifter och laborationer. Baserat på tentamensresultatet ges betygen U, 3,4 eller 5.
+	
+    
+
+    

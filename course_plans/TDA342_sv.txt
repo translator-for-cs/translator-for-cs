@@ -1,0 +1,34 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	För att vara behöriga för kursen skall studenterna ha klarat av två år av en utbildning på väg mot en högskoleexamen inom datateknik eller motsvarande. Mer specifikt krävs kurserna TDA452 Funktionell programmering, TMV210 Introduktion till diskret matematik och minst en av kurserna DAT151 Programming language technology eller DAT121 Programming paradigms eller motsvarande.Koncept: Abstrakt syntaxträd, semantik, interpretator, kompilator. Algoritm, komplexitet, "divide-and-conquer". Induktionsbevis, logik, likhetsbevis (equality reasoning).Det är rekommenderat, men inte ett krav, att läsa följande kurser i förväg: Algorithms och ("Logic in computer science" eller "Finite automata theory and formal languages").
+	
+                Syfte
+	Kursens mål är att utforska de kraftfulla mekanismer som funktionella programspråk erbjuder när det gäller att lösa verkliga problem och strukturera större program. Fokus ligger på design av programbibliotek och inbäddade språk.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	designa inbäddade domänspecifika språk (EDSL)förklara och ge exempel på (abstrakt) syntax, semantik, etc.implementera EDSL i Haskell (som kombinatorbibliotek)läsa, förstå och utöka Haskellprogram som använder sig av avancerade typsystemegenskaper:typklasser(generaliserade) algebraiska datatyperfunktorer, monader och monadtransformerareanvända specifikationsbaserade utvecklingsteknikerformulera och testa egenskaper som programmet ska uppfyllaresonera om funktionella programs korrekthettransformera program baserat på sådana resonemangförklara och diskutera de ämnen som beskrivs ovan
+	
+                Innehåll
+	En stor fördel med funktionella programspråk är att de flesta språkkonstruktionerna kan namnges och därmed återanvändas som högre ordningens funktioner. Funktionella program kan därför ofta konstrueras genom att kombinera konstruktioner från ett funktionsbibliotek. Den här metoden gör det möjligt att snabbt konstruera program med en hög grad av korrekthet. Detta är den centrala idén i kursen.
+Vi kan lära oss en hel del genom att studera standardbibliotekens list-funktioner som map, fold osv. Dessa funktioner kan generaliseras så att de fungerar för andra datatyper.
+Realistiska funktionella program måste också hantera tillståndsförändringar, avbrott, "backtracking" och andra "icke-funktionella" beteenden. Vi kommer att jobba med hur dessa kan modelleras rent funktionellt. Det matematiska begreppet "monad" hjälper oss med detta.
+Med hjälp av dessa kunskaper kommer vi att konstruera domänspecifika programbibliotek ämnade att lösa problem inom ett ett visst tillämpningsområde. Den här sortens bibliotek kan sägas definiera ett domänspecifikt språk eftersom konstruktionerna som programmeraren använder huvudsakligen består av biblioteksfunktioner. Vi kommer att studera bibliotek för inläsning (parsning), utskrift (pretty printing), grafik, webbprogrammering och interaktion. Kursen kommer också att presentera en del aktuell forskning vilket kan göra att innehållet varierar en del mellan åren. Kursen använder sig huvudsakligen av programmeringsspråket Haskell.
+        	  
+                Organisation
+	Det är två 2-timmars förelåsningar varje vecka. Studenterna förväntas lägga rätt mycket egen tid på programmering och självstudier. Mycket hjälp erbjuds också.
+	
+                Litteratur
+	            Se separat litteraturlista.
+		
+                       Examination inklusive obligatoriska moment
+       	Det är 2-3 obligatoriska programmeringslaborationer som genomförs i par, och en skriftlig tentamen i slutet av kursen.
+	
+    
+
+    

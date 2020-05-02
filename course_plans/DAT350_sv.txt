@@ -1,0 +1,32 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	120 hp i datavetenskap eller matematik eller
+motsvarande samt grundläggande kunskaper i logik och funktionell programmering.
+	
+                Syfte
+	Kraftfulla och flexibla typsystem är en viktig aspekt för moderna programmeringsspråk. Denna kurs ger en introduktion till detta område. Bland annat introducerar vi begreppet "beroende typ", dvs. en typ som kan bero på värden av en annan typ. Beroende typer har många användningsområden. Genom att identifiera påståenden och typer (Curry-Howard identifieringen) kan man uttrycka i stort sett vilken egenskap som helst hos ett program. I kursen får studenten lära sig använda ett interaktivt programmeringssystem för beoende typer. Kursen ska ge breda och gedigna kunskaper om hur typsystem för programspråk är uppbyggda, och dessutom ge exempel på typbaserade tekniker inom datavetenskapen. 
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	hur man programmerar i ett funktionellt programmeringsspråk med beroende typerhur man bevisar teorem i ett funktionellt programmeringsspråk med beroende typerförstå hur man använder deduktionssystem för att presentera typsystem och beräkningsregler för programmeringsspråk
+	
+                Innehåll
+	Introduktion till operationell semantik och typsystemBeroende typerCurry-Howard identifieringen av påståenden och typerProgrammering i Agda, en bevisassistentPresentation av forskningsartiklar om typsystem
+        	  
+                Organisation
+	Undervisning ges i form av föreläsningar, övningar och handledning.
+	
+                Litteratur
+	            Types and Programming Languages by Benjamin Pierce, MIT PressVerified Functional Programming in Agda by Aaron Stump, Association for Computing Machinery and Morgan & Claypool
+		
+                       Examination inklusive obligatoriska moment
+       	Hemtentamen för betyg 3, utöver detta muntlig tentamen för betyg 4 eller 5Presentation av avancerat ämne eller forskningsresultat om typsystem eller av programmeringsprojekt i det beroende typade språket Agda
+	
+    
+
+    

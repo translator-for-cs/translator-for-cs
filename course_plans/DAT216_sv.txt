@@ -1,0 +1,43 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen TDA548 Grundläggande programvaruutveckling eller motsvarande.
+	
+                Syfte
+	I princip alla datorprogram som ska användas av människor använder sig idag av grafiska gränssnitt. Att utveckla dessa innebär inte bara en förståelse av hur dessa kan implementeras utan även att man har en förståelse för de som ska använda programmen. Kursen ger praktisk erfarenhet i dessa två aspekter genom ett grupprojekt som ger en fördjupning av delmomentet kring grafiska komponenter från kursen Objektorienterad programvaruutveckling. Projektets mål är att utveckla en applikation för en specifik användargrupp och att genom att låta dessa testa programmet iterativt förbättra det.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelse
+Skapa och motivera skisser på ett grafiskt gränssnitt baserat på en specifik användning och användargruppKänna igen och kunna identifiera vanliga mönster inom gränssnittsdesignKunna beskriva vanliga metoder för utvärdering av användargränssnitt
+Färdighet och förmåga
+Implementera ett gränssnitt genom tillämpning eller expansion av ett standardbibliotek för grafiska gränssnittVälja och tillämpa vanliga mönster inom gränssnittsdesign på ett designproblemArbeta iterativt för att skapa lättanvända gränssnitt genom en växelverkan mellan implementation och användartest
+Värderingsförmåga och förhållningssätt
+Genomföra projekt där uppdelning och koordinering av arbetsuppgifter mellan medlemmar behövsUtveckla och specificera projektmål successivt allteftersom ett projekt genomförs.
+	
+                Innehåll
+	Kursen innehåller en genomgång av standardklasserna i ett välutvecklat 
+grafiskt bibliotek, en översikt över vilka riktlinjer som krävs för att 
+skapa lättanvända gränssnitt samt metoder för att iterativt utveckla och
+ förbättra ett gränssnitt.
+        	  
+                Organisation
+	Undervisningen består av föreläsningar, övningar, handledning och 
+inlämningsuppgifter. En stor del av arbetet är självständigt grupparbete
+ där en prototyp utvecklas. Projektets mål är att utveckla en 
+applikation för en specifik användargrupp och att genom att låta dessa 
+testa programmet iterativt förbättra det.
+	
+                Litteratur
+	            Anges på kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Bedömning sker i form av två moment. Momenten benämns Tentamen 4 hp, som
+ examineras i form av skriftlig salstentamen, och Projekt 3,5 hp, som 
+examineras i form av projektrapport. Vidare krävs att samtliga i kursen ingående uppgifter skall redovisas med godkänt resultat.
+	
+    
+
+    

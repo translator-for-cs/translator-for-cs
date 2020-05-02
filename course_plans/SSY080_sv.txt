@@ -1,0 +1,42 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Matematisk analys i en variabel, komplexa tal samt komplexa exponentialfunktioner. Elektriska nät.
+	
+                Syfte
+	Kursen ska ge en grundläggande kunskap om linjära system och hur dessa kan användas för att beskriva effekter i fysikaliska system. Olika matematiska verktyg för att beräkna relationen mellan insignal och utsignal hos ett linjärt system lärs ut.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	
+identifiera och ge exempel på olika signaltyper som periodiska signaler, absolut summer/integrer-bara signaler, energisignaler och bandbegränsade signaler.identifiera viktiga systemegenskaper som linjäritet, skift-invarians, kausalitet och BIBO.stabilitet, i olika exempel.välja lämpliga transformer (Fourierserier, kontinuerlig och diskret tid Fouriertransform, Laplacetransform, diskret Fouriertransform och z-transform) för ett givet problem.beräkna transformen för, i kursen, vanligt förekommande signaler. tillämpa transformmetoder för att lösa LTI-ekvationen  y = h * x, både i kontinuerlig och diskret tid, när två av faktorerna är kända.identifiera Nyquist-frekvensen för en bandbegränsad signal.använda samplingsteoremet för att rekonstruera bandbegränsade signaler från samplade värden.tolka DFT grafer   (Diskret Tid Fouriertransform) av samplade signaler. 
+	
+                Innehåll
+	Kursen behandlar:Kontinuerliga och diskreta signaler. Signalmodeller.
+LTI-system och deras egenskaper. Faltning.
+Fourierrepresentationer av olika typer av signaler samt deras egenskaper.
+Parsevals formel.
+Sampling samt rekonstruktion av samplade signaler.
+Diskret Fouriertransform (DFT) - numerisk beräkning av Fourierrepresentationer.
+Laplacetransform och z-transform.
+Impuls- och stegsvar.
+Systembeskrivningarna: Överföringsfunktion och Frekvenssvar.
+
+        	  
+                Organisation
+	Föreläsningar, räkneövningar och en laboration.
+	
+                Litteratur
+	            Se kurshemsida.
+
+		
+                       Examination inklusive obligatoriska moment
+       	Skriftlig tentamen
+Laboration
+
+	
+    
+
+    
