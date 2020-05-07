@@ -10,10 +10,26 @@ Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller 
 	
     
             Lärandemål (efter fullgjord kurs ska studenten kunna)
-	Kunskap och förståelseredogöra för några grundläggande abstrakta datatyper och datastrukturer, bland annat listor, köer, hashtabeller, träd och graferredogöra för några av de algoritmer som används för att effektivt hantera dessa datastrukturer, och förklara varför de är korrektaFärdigheter och förmågatillämpa grundläggande abstrakta datatyper och datastrukturer, samt algoritmer relaterade till dessaimplementera och använda abstrakta datatyper som gränssnitt och datastrukturer som klasser, i ett objektorienterat programmeringsspråkanvända ett standardbibliotek för datastrukturer och algoritmerVärderingsförmåga och förhållningssättanalysera effektivitet hos vissa algoritmer, till exempel söknings- och sorteringsalgoritmergöra välgrundade val mellan olika datastrukturer och algoritmer för olika tillämpningar
+Kunskap och förståelse
+redogöra för några grundläggande abstrakta datatyper och datastrukturer, bland annat listor, köer, hashtabeller, träd och grafer 
+redogöra för några av de algoritmer som används för att effektivt hantera dessa datastrukturer, och förklara varför de är korrekta 
+Färdigheter och förmåga 
+tillämpa grundläggande abstrakta datatyper och datastrukturer, samt algoritmer relaterade till dessa 
+implementera och använda abstrakta datatyper som gränssnitt och datastrukturer som klasser, i ett objektorienterat programmeringsspråk 
+använda ett standardbibliotek för datastrukturer och algoritmer 
+Värderingsförmåga och förhållningssätt 
+analysera effektivitet hos vissa algoritmer, till exempel söknings- och sorteringsalgoritmer 
+göra välgrundade val mellan olika datastrukturer och algoritmer för olika tillämpningar
 	
                 Innehåll
-	Kursen täcker följande ämnen:abstrakta datatyperasymptotisk effektivitet och enkel komplexitetsanalys av imperativ kodvanliga datastrukturer såsom fält, listor, träd och hashtabellerhur dessa kan användas för att implementera abstrakta datatyper såsom stackar, köer, prioritetsköer, avbildningar, mängder och graferstandardalgoritmer för dessa datastrukturer, inklusive deras resurskravsöknings- och sorteringsalgoritmerstandardbibliotek för datastrukturer och algoritmervanliga algoritmdesigntekniker, såsom brute force, divide and conquer ("dela upp och erövra"), och randomisering
+Kursen täcker följande ämnen: 
+abstrakta datatyper 
+asymptotisk effektivitet och enkel komplexitetsanalys av imperativ kod 
+vanliga datastrukturer såsom fält, listor, träd och hashtabeller 
+hur dessa kan användas för att implementera abstrakta datatyper såsom stackar, köer, prioritetsköer, avbildningar, mängder och grafer 
+standardalgoritmer för dessa datastrukturer, inklusive deras resurskravsöknings- och sorteringsalgoritmer 
+standardbibliotek för datastrukturer och algoritmer 
+vanliga algoritmdesigntekniker, såsom brute force, divide and conquer ("dela upp och erövra"), och randomisering
         	  
                 Organisation
 	Undervisningen består av föreläsningar, övningar och laborationer med handledning.

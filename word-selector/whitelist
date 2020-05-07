@@ -966,3 +966,58 @@ CN static_A random-access_A memory_N,CN statiskt_A minne_N
 CN electromagnetic_A wave_N,CN elektromagnetisk_A strålning_N
 CN optical_A disc_N,CN optisk_A skiva_N
 CN integrated_A circuit_N,CN integrerad_A krets_N
+s_N,behörighet_N
+course_N,kurs_N
+educational_N program_N,utbildningsprogram_N
+prerequisite_N,behörighets_+_krav_N
+course_N,kurs_N
+program_N plan_N,program_+_plan_N
+course_N specific_A,kurs_+_specifik_A
+prerequisite_N,för_+_kunskap_N
+object_N oriented_A,objekt_+_orientera_V
+CN programming_N language_N,programmeringsspråk_N
+recursive_A,rekursiv_A
+function_N,funktion_N
+method_N,metod_N
+mathematical_A,matematisk_A
+concept_N,begrepp_N
+set_N,mängd_N
+graph_N,graf_N
+logarithm_N,logaritm_N
+aim_N,syfte_N
+CN data_N structure_N,data_+_struktur_N
+algorithm_N,algoritm_N
+fundamental_A,fundamental_A
+software_N,programvara_N
+CN data_N abstraction_N,data_+_abstraktion_N
+CN program_N component_N,program_+_komponent_N
+knowledge_N,kunskap_N
+skill_N,färdighet_N
+CN algorithm_N analysis_N,algoritm_+_analys_N
+student_N,student_N
+abstract_A,abstrakt_A
+CN data_N type_N,data_+_typ_N
+queue_N,kö_N
+CN hash_N table_N,hash_+_tabell_N
+class_N,klass_N
+CN standard_N library_N,standard_+_bibliotek_N
+CN sorting_N algorithm_N,sorterings_+_algoritm_N
+well-grounded_A,välgrundad_A
+application_N,tillämpning_N
+CN complexity_N analysis_N,komplexitets_+_analys_N
+stack_N,stack_N
+CN priority_A queue_N,prioritets_+_kö_N
+CN standard_A algorithm_N,standard_+_algoritm_N
+CN resource_N requirement_N search_V,resurskrav_+_sökning_N
+CN algorithm_N design_N techniques_N,algoritmdesign_+_tekniker_N
+lecture_N,föreläsning_N
+exercise_N,övning_N
+CN laboratory_A task_N,laboration_N
+supervision_N,handledning_N
+course_N,kurs_N
+website_N,hemsida_N
+examination_N,examination_N
+compulsory_A,obligatorisk_A
+individual_N,individuell_A
+CN examination_N hall_N exam_N,sals_+_tentamen_N
+CN laboratory_N task_N,laboration_N
