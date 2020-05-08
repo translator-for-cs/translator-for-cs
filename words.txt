@@ -3,7 +3,7 @@ CN computer_N security_N model_N,datasäkerhetsmodell_N
 CN information_N technology_N,informationsteknik_N
 CN software_N development_V,mjukvaruutveckling_V
 CN programming_N language_N,programmeringsspråk_N
-CN unauthorized_A access_N,CN obehörig_A åtkomst_N
+CN unauthorized_A acces_N,CN obehörig_A åtkomst_N
 CN confidential_A information_N,CN konfidentiell_A information_N
 CN holistic_A approach_N,helhetssyn_N
 CN ethical_A aspect_N,CN etisk_A aspekt_N
@@ -35,7 +35,7 @@ CN game_N engine_N,spelmotor_N
 CN discrete_A mathematics_N,CN diskret_A matematik_N
 CN compiler_N construction_N,kompileringskonstruktion_N
 CN regular_A expression_N,CN reguljärt_A uttryck_N
-CN programming_N paradigm_N,programmeringsparadigm_N
+CN programming_A paradigm_N,programmeringsparadigm_N
 CN code_N generator_N,kodgenerator_N
 CN formal_A verification_N,CN formell_A verifiering_N
 CN differential_A equation_N,differentialekvation_N
@@ -43,13 +43,14 @@ CN artificial_A intelligence_N,CN artificiell_A intelligens_N
 CN algorithm_N design_V,algoritmdesign_V
 CN network_N security_N,nätverksäkerhet_N
 CN distributed_A systems_N,CN distribuerade_A system_N
-CN applied_A data_N science_N,CN applicerad_A datavetenskap_N
+CN applied_A data_N science_N,CN applicierad_A datavetenskap_N
 CN abstract_A data_N type_N,CN abstrakt_A datatyp_N
 CN abstract_A method_N,CN abstrakt_A metod_N
 CN agile_A software_N development_N,CN agil_A mjukvaruutveckling_N
 CN big_A data_N,CN big_A data_N
 CN binary_A number_N,CN binärt_A tal_N
 CN binary_A search_V tree_N,CN binärt_A sökträd_N
+CN computer_A architecture_N,datorarkitektur_N
 CN security_N protocol_N,säkerhetsprotokoll_N
 CN virtual_A private_A network_N,CN virtuellt_A privat_A nätverk_N
 CN floating_A point_N number_N,flyttal_N

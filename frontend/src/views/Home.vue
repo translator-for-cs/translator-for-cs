@@ -21,32 +21,15 @@
           <v-card-text>
             <v-row class="start">
               <v-col md="6" class="divider-right">
-                <div class="editor" contenteditable ref="editor" @input="onKeydown">
-                  <!--
-                  <span
-                    @input="onKeydown"
-                    v-for="(word, index) in inputWords"
-                    :key="index"
-                    :class="{highlight: highlight === index}"
-                    @mouseenter="highlight = index"
-                    @mouseleave="highlight = -1"
-                  >{{word}}&nbsp;</span>
-                  -->
-                </div>
+                <div class="editor" ref="editor" contenteditable @input="onKeydown" />
               </v-col>
 
               <v-col md="6">
                 <div
                   class="editor"
                   :class="{'grey--text': this.translation === ''}"
-                  ref="translationTarget"
-                >
-                  <span
-                    v-for="(word, index) in outputWords"
-                    :key="index"
-                    :class="{highlight: highlight === index}"
-                  >{{word}}&nbsp;</span>
-                </div>
+                  v-text="translationText"
+                />
                 <v-row>
                   <v-spacer />
                   <v-tooltip top>
@@ -64,10 +47,10 @@
           <v-divider />
           <v-card-actions>
             <v-spacer></v-spacer>
-            <v-btn color="primary" text @click="translate">Translate</v-btn>
+            <v-btn color="primary" text>Translate</v-btn>
             <v-tooltip top>
               <template v-slot:activator="{ on }">
-                <v-btn color="primary" text v-on="on" @click="toggleLanguage">
+                <v-btn color="primary" text v-on="on" @click="toggleLang = !toggleLang">
                   <v-icon>swap_horiz</v-icon>
                 </v-btn>
               </template>
@@ -90,11 +73,7 @@ export default {
     },
     toggleLang: true,
     value: "",
-    translation: "",
-    lastInput: 0,
-    inputWords: [],
-    outputWords: [],
-    highlight: -1
+    translation: ""
   }),
   computed: {
     langLeft() {
@@ -108,64 +87,20 @@ export default {
     }
   },
   methods: {
-    toggleLanguage() {
-      this.toggleLang = !this.toggleLang;
-      const temp = this.inputWords;
-      this.inputWords = this.outputWords;
-      this.outputWords = temp;
-    },
     onKeydown() {
       this.value = this.$refs.editor.textContent;
-      /*
       this.translation = Array.from(this.$refs.editor.childNodes)
         .map(e => e.textContent)
         .join("\n");
-        */
-      //this.translate();
     },
     copyTranslation() {
       window.navigator.clipboard.writeText(this.translation);
-    },
-    async translate() {
-      const editor = this.$refs.editor;
-      const { data } = await this.$api.get(
-        `/translate/${this.langLeft.substring(0, 3).toLowerCase()}?query=${
-          this.value
-        }`
-      );
-      console.log(data);
-
-      editor.textContent = "";
-
-      this.outputWords = data.map(({ word, translation }) =>
-        translation === "" ? word : translation
-      );
-
-      this.inputWords = data
-        .map(({ word }) => word)
-        .reduce((html, s) => `${html}<span>${s} </span>`, "");
-
-      editor.innerHTML = this.inputWords;
-
-      /*
-      this is a web page
-      const range = document.createRange();
-      const sel = window.getSelection();
-      const lastRow = editor.childNodes[editor.childNodes.length - 1];
-      range.setStart(lastRow, lastRow.textContent.length - 1);
-      range.collapse(true);
-      sel.removeAllRanges();
-      sel.addRange(range);
-      */
     }
   }
 };
 </script>
 
 <style lang="scss" scoped>
-.highlight {
-  background: #faf;
-}
 .editor {
   width: 100%;
   min-height: 200px;
