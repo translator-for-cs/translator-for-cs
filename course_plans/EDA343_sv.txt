@@ -1,0 +1,31 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Studenten ska ha god förståelse för datorers uppbyggnad (kursen "EDA452 Grundläggande datorteknik" eller motsvarande. En programmeringskurs (t ex Java eller C) är ett krav.
+
+Kunskaper om grundläggande sannolikhetsteori (stokastiska variabler) och elementär grafteori kan vara en fördel, men kan också förvärvas under kursen via kompletterande studier.
+	
+                Syfte
+	Nätverk av datorer blir en alltmer naturlig och viktigare beståndsdel inom många teknikområden. Kursen inriktar sig på de aspekter av datakommunkation som en verksam ingenjör kommer i kontakt med i sitt yrkesarbete. Detta är en grundkurs med bred inriktning mot området datakommunikation.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	01. ha grundlägggande kunskaper och färdigheter inom området datakommunikation och datornätverk. 02. ha god kännedom om referensmodeller för datakommunikation och deras lager med avseende på funktion, tjänster och protokoll. 03. tillämpa referensmodellerna för att skapa förståelse om uppbyggnaden och användning av olika datornätverk. 04. ha god kännedom om de principer, protokoll och standarder som TCP/IP-baserade nätverk bygger på. 05. ha grundläggande kunskaper om de viktigaste applikationsprotokollen. 06. ha god kännedom om TCP/IP-modellen om Internets uppbyggnad och arkitektur samt bearbeta en grundläggande IP-adresseringsplan för ett intranät. 07. ha god förståelse för Internets begränsningar med avseende på servicegarantier i samband med nyutvecklade tjänster. 08. redogöra för hur olika typer av datornätverk är uppbyggda i förhållande till transmissionsmediets egenskaper, kraven på bandbredden, kodningsmetoder och funktioner för fel- och flödeskontroll. 09. söka djupare kunskap om enskilda standarder och protokoll inom datakommunikationsområdet. 10. använda nätverksanalysprogram för att analysera datatrafik i ett lokalt nätverk med anslutning till Internet. 11. ha grundläggande praktiska färdigheter i konfiguration av lokala nätverk.
+	
+                Innehåll
+	Kursen behandlar datakommunikation och olika fundamentala koncept som krävs för att förstå, designa och analysera datoranätverk. Kretskoppling respektive paketkoppling för datornätverk. Referensmodeller för datakommunikation. Distribuerade applikationer och applikationsprotokoll, WWW, DNS, e-post. Sockets. Principer för tillförlitlig respektive datagram dataöverföring, TCP och UDP. Bitfel-, flödes- och stockningskontroll på Internet. Internets protokoll och adressering, IPv4 och IPv6.  Stödprotokollen ARP och ICMP. Routingalgoritmer DV och LS. Routing på Internet och Autonoma System. Routingprotokollen RIP, OSPF och BGP.  Länkprotokollen och felupptäckande koder. Lokala nätverk LAN. Länkaccess till mediet och MAC-protokollen. Ethernet, switching och VLANs. Trådlös LAN. Multimedia-applikationer på Internet. Säkerhet i datornätverk. Brandvägg och paketfiltrering. Skydd för WLAN.
+        	  
+                Organisation
+	Traditionella föreläsningar ges där den grundläggande teorin och viktiga koncept presenteras för att komplettera kursboken. Föreläsningar ges varje vecka, och som ett komplement till föreläsningarna hålls ett antal sessioner för övningar med hjälp av övningsledare. Inför varje övningstillfälle väljs lämpliga övningsuppgifter ut som ansluter till innehållet av motsvarande föreläsningar.I kursen ingår obligatoriskt moment som består av två laborationer samt en inlämningsuppgift. Laborationer ingår där man praktiskt får bekanta sig med nätverksutrustning och olika kommunikationsprotokoll. Som hemuppgift finns också en inlämningsuppgift innehållande deluppgifter som bl.a. handlar om att söka sig djupare information och testa själv olika verktyg. I kursen ingår även ett frivilligt moment med webb-baserade självstudier.
+	
+                Litteratur
+	            James F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach", 6th Edition, Pearson Education. Cisco Networking Academy, "Introduction to Networks", version 5.0, Interaktivt webb-baserat kursmaterial. 
+		
+                       Examination inklusive obligatoriska moment
+       	För godkänd kurs krävs godkänd skriftlig tentamen samt att studenten fått godkänt på alla obligatoriska laborationer och inlämningsuppgift. Slutbetyget i skalan U/3-5 ges baserat på tentamens resultat.
+	
+    
+
+    

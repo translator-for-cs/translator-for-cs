@@ -1,0 +1,29 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen bygger på kunskaper inhämtade i tidigare kurser inom digitalteknik- och mikrodatorområdet. För att vara behörig till kursen krävs avslutade kurser i Grundläggande datorteknik och Programmering av inbyggda system
+	
+                Syfte
+	Kursen ska ge studenten grundläggande och allmänna färdigheter i att driva respektive medverka i tekniska utvecklingsprojekt, vilket innebär att arbeta koordinerat i en projektgrupp för planering, genomförande och uppföljning, med stor vikt lagd på skriftlig kommunikation. Kursen ska också ge studenten tekniska färdigheter i att konstruera, integrera och verifiera hård- och mjukvara för processorbaserade system.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	1. konstruera, verifiera och demonstrera ett mikrodatorsystem som består av en mikroprocessor och lämpliga periferienheter (eventuellt också viss elektronik för gränssnitt och ett grafiskt gränssnitt) för att uppfylla specificerad funktionalitet och prestanda.2. skriva ett C-program för en mikroprocessor med fokus på hantering av periferienheter.3. visa basfärdigheter i att driva och följa upp ett tekniskt utvecklingsprojekt som drivs i en grupp om en handfull utvecklare.4. med stöd av grundläggande funktioner hos ett versionshanteringssystem, organisera löpande dokumentation, rapporter samt programkod.5. skriva en grundläggande projektplan inför ett tekniskt utvecklingsprojekt.6. skriva en projektrapport som avslutning på ett tekniskt utvecklingsprojekt samt kritiskt granska ytterligare ett projekt.7. resonera om ställningstaganden och slutsatser, deras bakgrund och deras följder, i det egna projektet samt för ytterligare ett projekt.
+	
+                Innehåll
+	Konstruktion och verifiering av ett mikrodatorsystem, inklusive mikroprocessor och periferienheter, som tas fram för en viss funktionalitet och viss prestanda. Metodik för projektarbete, inklusive planering, drift, uppföljning och versionshantering. Skriftlig framställning i form av dokumentation, protokoll och slutrapport.
+        	  
+                Organisation
+	Initialt introducerar föreläsningarna den mikrodatorteknik som krävs för att göra tekniska bedömningar och val vid konstruktion av systemet. Dessutom belyser de tidiga föreläsningarna hur man driver och dokumenterar tekniska utvecklingsprojekt, till exempel aspekter som rapportskrivning, gruppdynamik och versionshantering.Projektgruppen, som sätts samman av lärarlaget, väljer projekt från ett begränsat antal erbjudna projekt. I samband med valet tilldelas varje projektgrupp en mentor som ger stöd under projektarbetet. De första två läsveckorna ägnar projektgruppen sig främst åt att läsa in sig på teknisk dokumentation och åt att utarbeta en projektplan.Konstruktionsarbetet påbörjas i läsvecka 3 och löper, med stöd av veckovisa projektgruppsmöten och kontinuerlig dokumentation, fram till de avslutande två läsveckorna då arbetet med systemverifiering, demonstrationsförberedelser och slutdokumentation intensifieras.
+	
+                Litteratur
+	            Manualer och datablad.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen, som drivs på projektform i grupper om 6-8 studenter, leder till individuella betyg (U, 3, 4 respektive 5). Betyget baseras på olika samverkande parametrar, nämligen kvalitet i projektdrift (planering, konstruktionsarbete), teknisk kvalitet (uppfyllande av plan, kvalitet hos slutprodukt) samt kvalitet i skriftlig kommunikation (disciplinärt språk, informationsstruktur, retorik, publikanpassad argumentation). Betygsgrundande bedömning sker för fyra speciella leveranser: 1) projektplan, 2) oppositionskommentar på annan grupps utkast på slutrapport, 3) demonstration av slutprodukt samt 4) slutrapport. Dessutom sker betygsgrundande bedömning vid flera tillfällen under kursens gång med avseende på projektmöteshantering och versionshantering. Resultatet av dessa bedömningar är ett gruppbetyg. Baserat på respektive students bidrag till projektgruppens arbete sätts ett individuellt betyg som kan vara högre eller lägre än gruppbetyget.
+	
+    
+
+    

@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Datorarkitektur (DAT105) eller motsvarande rekommenderas starkt. Studenterna måste förstå funktionen hos en processors pipeline och cachar och måste kunna läsa assemblerkod.
+	
+                Syfte
+	Syftet med kursen är att göra eleverna medvetna om vikten av hållbarhet inom databehandling och att visa tekniker för att uppnå det på de olika nivåerna i ett datorsystem.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelsebeskriva varför hållbar databehandling är ett viktigt aktuellt ämnebeskriva de elektriska mekanismerna som orsakar strömavbrottbeskriva kretstekniker för att minska strömförlust och påverkan på prestandabeskriva datorarkitektur, minne och sekundära lagringstekniker för att minska energiförbrukningenbeskriva tekniker för operativsystem, runtime-system och applikationer för att minska energiförbrukningenredogöra för vad som påverkar energiförbrukning i datorsystem vad beträffar datorns arkitekturFärdighet och förmågaanvända specifika enheter för att direkt mäta energiförbrukningen i hela systemetanvända inbyggt stöd för monitorering av prestanda för att mäta energiförbrukningen för vissa komponenter i systemetanvända simuleringsverktyg för att uppskatta energiförbrukningen för olika systemkonfigurationerVärderingsförmåga och förhållningssättidentifiera styrkor och svagheter hos olika klasser av datorsystemkomponenter (t ex processor, minne) med avseende på energieffektivitetutvärdera och jämföra olika arkitektur- och systemtekniker med avseende på energieffektivitetredogöra för metoder för utvärdering och rapportering av energiförbrukning i datorsystem och hur dessa kan användas för att finna optimeringarvärdera energiförbrukning utifrån samhälleliga och etiska aspektertolka omvärldens krav på datorarkitekturers utformning, för att möta samhälleliga behov av hållbarhet
+	
+                Innehåll
+	Kursen syftar till att ge en överblick över energieffektivitetsaspekterna i datorsystem och databehandling, allt från elektroniska kretsar till applikationer för system som sträcker sig från små IoT-enheter till stora datacenter. Exempelvis kommer eleverna att lära sig metoder för att mäta och uppskatta energiförbrukningen för olika arkitekturella komponenter, samt arkitektur- och mjukvarutekniker för att spara energi i systemet.
+        	  
+                Organisation
+	Kursen består av en föreläsningsserie, hemuppgifter, muntliga och laborationer inklusive ett projekt utfört i grupp. Studenterna kommer att bli ombedda att presentera resultaten av sina hemuppgifter genom korta muntliga presentationer för att demonstrera sin förståelse och underlätta diskussionen. Diskussionerna kommer inte bara att fokusera på teknik, men också på hur tekniken dels påverkar världens koldioxidutsläpp just nu och dels på hur den sannolikt kommer att inverka på samhället i kommande generationer.
+	
+                Litteratur
+	            Stefanos Kaxiras and Margaret Martonosi. 2008. Computer Architecture Techniques for Power-Efficiency (1st ed.). Morgan and Claypool Publishers.Magnus Själander, Margaret Martonosi, Stefanos Kaxiras. 2014. Power-efficient Computer Architectures: Recent Advances. Morgan and Claypool Publishers.Artiklar från forskningslitteratur och facktidskrifter.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom en individuell skriftlig salstentamen samt godkända laborationer. Laborationerna utförs i grupper om normalt 2-3 studenter.BetygDen slutliga betyget baseras på resultatet av den skriftliga tentamen.
+	
+    
+
+    

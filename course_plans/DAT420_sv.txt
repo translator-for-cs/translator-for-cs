@@ -1,0 +1,41 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Förkunskapskravet för kursen är att ha avklarat en programmeringskurs, 7,5hp.
+	
+                Syfte
+	Kursens syfte är att ge studenter grundläggande kunskap i metoder för design och evaluering av gränssnitt.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelse    Beskriva faser i designprocessenBeskriva metoder för att arbeta med människa-datorinteraktionBeskriv likheter och skillnader i design för olika användargrupperBeskriva överväganden för att involvera användare i designprocessenFärdigheter och förmågor    Designa speciellt anpassat för vissa användargrupperDesigna med avseende på användareÄndra designmetoder för att passa användarnas kontext och behovIdentifiera användarnas behov och kravVärderingsförmåga och förhållningssätt    Analysera design utifrån användarnas behovGöra en välgrundat utvärdering av de etiska och samhälleliga konsekvenserna av en designKritisera design och designprocesser med avseende på användarnas behov
+
+	
+                Innehåll
+	Människa-datorinteraktion (HCI) är ett område som
+arbetar med konstruktion, utvärdering och implementering av interaktiva
+datorsystem för mänskliga användare och samt studier av de fenomen som uppstår
+i denna kontext. I människa-datorinteraktion är det huvudsakliga målet att göra
+analyser, fastställa krav, design och utvärdera interaktiva datorbaserade
+system och produkter med avseende på användaren. Syftet med kursen är att ge
+studenten grundläggande kunskaper om människans kognition och relevant metodik.
+Kursen kommer att omfatta en bred kunskap om utformningen av interaktiva
+datorsystem och gränssnittsdesign.
+        	  
+                Organisation
+	Kursen bygger på föreläsningar, övningar, projekt och en individuell tentamen.
+	
+                Litteratur
+	            Se kurshemsida
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom två
+moduler, nämligen:Övningar och projekt, 3 credits (godkänd/underkänd)En inlämningsuppgift bestående av två delar: en del som fokuserar på
+litteratur och en del som fokuserar på reflektioner angående projektarbetet,
+4,5 credits (underkänd,3,4,5)I fall studenten inte blir godkänd på inlämningsuppgiften måste den skriva en ny inlämningsuppgift. Slutbetyget för kursen baseras på betyget för inlämningsuppgiften.
+	
+    
+
+    

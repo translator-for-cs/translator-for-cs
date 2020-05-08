@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Undervisningen förutsätter kunskaper motsvarande en kandidatexamen. Dessutom krävs kunskaper i ett programmeringsspråk, till exempel C. Kursen EDA093 Operativsystem eller motsvarande rekommenderas.
+	
+                Syfte
+	Denna kurs ger grundläggande kunskaper inom området datasäkerhet (eng. "security"), dvs hur man skyddar sitt system mot avsiktliga intrång. Intrång kan göras med avsikt att ändra eller förstöra resurser (data, programvara, maskinvara, osv.), för att skaffa tillgång till konfidentiell information eller för att orättmätigt utnyttja systemet och dess tjänster. Kursen behandlar de hot som finns, svagheter i datorsystemen och kommunikationsnäten samt de regelverk och mekanismer som kan användas för att skydda systemen. Kursen behandlar säkerhet som en del av det överordnade begreppet pålitlighet (eng. dependability). Säkerhetstänkandet sätts även in i ett vidare sammanhang, genom att organisatoriska, affärsmässiga, sociala, juridiska, mänskliga och etiska aspekter berörs.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter fullgjord kurs skall studenten ha tillgodogjort sig följande lärandemål. Studenten skall: * ha en övergripande och grundläggande förståelse för datasäkerhet och vad otillräcklig datasäkerhet innebär för de betraktade systemen* ha en generell förståelse för olika skyddsmekanismer* kunna analysera olika typer av system ur datasäkerhetssynpunkt, samt kunna föreslå åtgärder för att säkra systemen* ha förståelse för några metoder för att modellera säkerhet* förstå vanliga metoder för säkerhetsbedömning, utvärdering och svårigheterna i hur säkerhet kan mätas* ha förbättrat sin förmåga att uttrycka sig skriftligt genom att författa en teknisk rapport* föra ett välunderbyggt resonemang kring etiska och sociala aspekter av datasäkerhet.
+	
+                Innehåll
+	Introduktion till datasäkerhet: definitioner, terminologi, standarder. Några praktikfall. Koppling till tillförlitlighet, tillgänglighet och katastrofsäkerhet.Säkerhet i UNIX: filsystem, systemadministration, lösenord och konton, behörighet.Säkerhetshot: systematik, fysisk säkerhet, röjande strålning, virus, maskar, trojanska hästar, och logiska bomber.Steganografi och hemliga kanaler.Introduktion till kryptoteknik.Säkra operativsystem. Säkerhetsmekanismer: autentisering, behörighet, åtkomstkontroll, filskydd, referensmonitorkonceptet, kryptering och separation.Intrångsdetekteringssystem. Vilseledande system.Säkerhetsmodeller: Bell-LaPadula, Biba, m. fl.Introduktion till säkerhet i nätverk och brandväggar.Säkerhet för databaser, defensiv programmeringsteknik.  Mätning av säkerhet. Säkerhetsplanering och organisation. Säkerhetspolicy och riskanalys. Social Engineering och datakriminalitet. Lagar och etik.
+        	  
+                Organisation
+	Kursen utgörs av en föreläsningsserie, vissa övningsmoment och laborationer. Normalt ges någon föreläsning av föreläsare från industrin, som belyser säkerhet ur tillämpningssynpunkt. Vid laborationerna får man praktiskt sätta sig in i hur några vanliga säkerhetsmekanismer fungerar.Denna kurs är en grundkurs i datasäkerhet och är en del av den föreslagna säkerhetsfördjupningen på Chalmers och Göteborg universitet. Med denna kurs får studenterna en bred överblick över datasäkerhetsfältet. För mer detaljerade kunskaper inom några områden hänvisas till fortsättningskurserna i kryptoteknik (TDA 351), Nätverkssäkerhet (EDA491) och Språkbaserad säkerhet (TDA601). Etiska och sociala aspekter utvecklas ytterligare i kursen DAT147.
+	
+                Litteratur
+	            Information om litteratur ges på kursens hemsida före kursstart.
+		
+                       Examination inklusive obligatoriska moment
+       	Skriftlig tentamen och godkända laborationer.
+	
+    
+
+    

@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Kurs TIN092 Algorithms eller motsvarande.
+	
+                Syfte
+	Kursen handlar om avancerade metoder för design och analys av algoritmer. Det fortsätter på samma sätt som den första kursen i algoritmer och upprätthåller en strikt analytisk stil. Kursen går djupare in i specialiserade ämnen och kan  även hänvisa till den aktuella forskningen.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	- ha fördjupade kunskaper om några viktiga konstruktions- och analysmetoder för algoritmer,  i synnerhet om metoder för att lösa NP-komplexa problem- i viss mån kunna tillämpa dessa metoder för att lösa nya problem som kan uppstå i olika tillämpningar- kunna upptäcka samband mellan olika algoritmiska problem och reducera (återföra) dem till varandra- kunna förklara komplexa algoritmer och bevis i skriftlig form- vara medveten om utvalda ämnen av aktuell forskning i algoritmer
+	
+                Innehåll
+	- Approximationsalgoritmer och deras analys,- Användning av linjär optimering, i synnerhet för approximation,- Nätverksflöde med vissa tillämpningar- Randomiserade algoritmer och deras analys med hjälp av lämpliga stokastiska variabler,- Snabba algoritmer som använder trädstrukturer och små parametrar
+        	  
+                Organisation
+	Föreläsningar och inlämningsuppgifter.
+	
+                Litteratur
+	            Se separat litteraturlista.
+		
+                       Examination inklusive obligatoriska moment
+       	Inlämningsuppgifter och en avslutande hemtentamen.
+	
+    
+
+    

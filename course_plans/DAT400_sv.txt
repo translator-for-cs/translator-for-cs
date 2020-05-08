@@ -1,0 +1,41 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen DAT017 - Machine oriented programming eller liknande kurs är ett krav. Kursen TDA384 - Principer för parallell programmering är rekommenderad.
+	
+                Syfte
+	Kursen behandlar parallella programmeringsmodeller, effektiva programmeringsmetoder och verktyg för prestandaoptimering med målet att utveckla högeffektiva parallella program.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	- Lista de olika typerna av parallella datorarkitekturer, programmeringsmodeller och paradigm, samt olika system för synkronisering och kommunikation.
+- Lista de typiska stegen för att parallellisera en sekventiell algoritm
+- Ange olika metoder för analysmetoder av parallella programsystem
+
+- Använda metoder för prestandaanalys för att bestämma flaskhalsarna vid exekverandet av ett parallellt program
+- Bestämma den övre gränsen för prestanda för ett parallellt program
+
+- För en specifik programvara, specificera de resultat flaskhalsar som begränsar effektiviteten hos parallellkoden och välj lämpliga strategier för att övervinna dessa 
+- Utforma energibesparande parallelliseringsstrategier baserade på en specifik algoritm struktur och datorsystemsorganisation
+- Argumentera för vilka metoder för prestandaanalys som är viktiga, givet en specifik kontext
+	
+                Innehåll
+	Kursen består av ett antal föreläsningar och laborationer. Föreläsningarna börjar med en översikt över parallella datorarkitekturer och parallella programmeringsmodeller och paradigmer. En viktig del av diskussionen är mekanismer för synkronisering och datautbyte. Därefter behandlas prestandaanalys av parallella program. Kursen fortsätter med en diskussion om verktyg och tekniker för att utveckla parallella program enligt modellen för ett delat adressutrymme. Detta avsnitt behandlar populära programmeringsmiljöer som pthreads och OpenMP. Därefter diskuterar kursen parallella program för distribuerat adressutrymme. Fokus i denna del ligger på Message Passing Interface (MPI). Slutligen diskuterar vi programmeringsmetoder för att exekvera applikationer på acceleratorer såsom GPUer. Den här delen introducerar programmeringsmiljön CUDA (Compute Unified Device Architecture).Föreläsningarna kompletteras med en uppsättning laborationer där deltagarna fördjupar sig i ämnesområden som har tagits upp under föreläsningar. Under laborationerna parallelliserar deltagarna exempelprogram över en rad parallella arkitekturer, och använder verktyg för prestandaanalys för att upptäcka och ta bort flaskhalsar i parallella implementeringar av programmen.
+
+        	  
+                Organisation
+	Undervisningen består av teoriinriktade föreläsningar och laborationer där deltagarna utvecklar kod för olika typer av parallella datorsystem
+	
+                Litteratur
+	            Parallel Programming for Multicore and Cluster Systems, Thomas Rauber, Gudula Rünger (2nd edition, 2013) https://www.springer.com/gp/book/9783642378003
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom individuell skriftligt tentamen som kommer att hållas i en tentamen sal samt ett skriftlig laboration rapport som skall lämnas in i grupper av tvåDet slutliga betyget för kursen är baserat på det vägda medelvärdet av betygen på delkurserna.
+	
+    
+
+    

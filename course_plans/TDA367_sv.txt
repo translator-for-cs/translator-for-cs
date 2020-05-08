@@ -1,0 +1,29 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Godkänt slutbetyg i TDA548 'Grundläggande Programvaruutveckling' eller motsvarande, och i TDA552 'Objektorienterad Programmering och Design' eller motsvarande.
+	
+                Syfte
+	Kursen avser att ge kunskap om och övning i professionell utveckling av mjukvara genom praktiskt projektarbete.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter fullgjord kurs skall studenten besitta följande kunskaper, färdigheter och förmågor:Kunskap och förståelseRedogöra för arbetsmetodik i tekniska utvecklingsprojekt, speciellt mjukvaruprojekt.Beskriva alla faser i ett utvecklingsarbete: problemidentifiering, problemformulering, användaranalys, specifikation, design, implementation, testning, utvärdering, etc.Beskriva grundläggande koncept inom mjukvaruutveckling, t.ex. krav och utvecklingsprocess.Färdigheter och förmågorGenomföra ett mindre objektorienterat mjukvaruprojekt i grupp enligt fastställd utvecklingsprocess och tidsplan.Dokumentera projektarbetet i form av en grundläggande kravspecifikation och ett enklare designdokument.Tillämpa färdigheter från tidigare programmeringskurser, så som design-principer och -mönster, i en projektliknande miljö.Använda moderna hjälpmedel för programutveckling t.ex. testramverk, 'build automation', och versionshanteringssystem.Värderingsförmåga och förhållningssättReflektera över god objektorienterad design och implementation i projektet.
+	
+                Innehåll
+	Kursen presenterar en enkel, testdriven, objektorienterad process. Begrepp som iterativ utveckling, objektorienterad analys och design, domän- och designmodell introduceras. Olika aspekter på design gås igenom: testbarhet, beroenden, krav, m.fl.
+        	  
+                Organisation
+	Vi kommer att ha:ett mindre antal föreläsningar,ett obligatoriskt seminarium,och några 'workshops'.Parallellt med detta genomför studenterna, i grupper om fyra, ett fullständig utvecklingsprojekt i form av ett mindre mjukvaruprojekt. I projektet ingår obligatoriska veckovisa handledarmöten och en muntlig slutpresentation.
+	
+                Litteratur
+	            Eventuell kurslitteratur meddelas på kurshemsidan.
+		
+                       Examination inklusive obligatoriska moment
+       	Examination sker genom muntlig presentation av projektet, inlämning av källkod samt ett slutrapport där studenterna dokumentera projektets specifikation och design. Dessutom ska studenterna göra en 'peer-review' av andras design och kod som ingår i slutrapportet. Dessa tre delar vägs samman för betyget. En exakt beskrivning angående viktning och betygskriterier finns i kurs-pm. Betyg sätts på gruppnivå men den slutgiltiga betyget anpassas på individnivå, baserat på individuellt bidrag.Vi använder följande betygsskala: underkänd (U), 3, 4, 5.
+	
+    
+
+    

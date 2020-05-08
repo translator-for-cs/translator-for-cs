@@ -1,0 +1,29 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	En kurs i grundläggande imperativ programmering och en kurs i grundläggande datorteknik. 
+	
+                Syfte
+	Kursens syfte är att vara en introduktion till konstruktion av små inbyggda system och att ge en förståelse för hur imperativa styrstrukturer översätts till assembler samt för de svårigheter som uppstår vid programmering av händelsestyrda system med flera indatakällor.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	skriva enkla assemblerprogram med användande av den valda arkitekturens instruktionsuppsättning. skriva enkla maskinorienterade C-program med användande av programspråkets datatyper och styrstrukturer. beskriva motsvarigheten i assembler till typiska programstrukturer i C. utnyttja de i kursen använda verktygen för programutveckling på ett adekvat sätt. medverka vid konstruktion och programmering av enkla inbyggda system med givna komponenter. konstruera system innefattande olika typer av undantag (interna undantag, avbrott, återstart). beskriva och exemplifiera några olika typer av digitala kringkomponenter och deras användning. 
+	
+                Innehåll
+	Programutveckling i C och assemblerspråk, test och felsökning. Strukturerad assemblerprogrammering, grunder för kodgenerering. Första nivåns systemprogrammering, dvs. hur datorn programmeras för start från spänningstillslag och hantering av olika typer av undantag så som interna fel, händelser och avbrott. Programmering av kretsar för parallell in- och utmatning, tidshantering och programmering av räknarkretsar. Grunderna för datorkommunikation och programmering av kretsar för seriekommunikation. Dessutom implementeras ett enkelt tidsdelningssystem ( i C och assemblerspråk) med speciell tonvikt på användning av periferikretsar. 
+        	  
+                Organisation
+	Schemalagd undervisning består av föreläsningar, demonstrationer och handledda simulerings- och kodningsövningar. Dessutom utförs handledda obligatoriska laborationer. Under kursen konstruerar eleven större och större programblock i assembler och C. Teorin inhämtas genom föreläsningar och demonstrationer. Eleven konstruerar sina programoch testar dessa med hjälp av simulatorer under simuleringsövningar och självstudier. Inför laborationer anpassar eleven sina program så att funktionen dessutom kan verifieras i hårdvara.
+	
+                Litteratur
+	            Se kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	För att bli godkänd på kursen krävs godkänd skriftlig tentamen samt godkända laborationer. Baserat på tentamensresultatet ges betygen U, 3, 4 eller 5.
+	
+    
+
+    

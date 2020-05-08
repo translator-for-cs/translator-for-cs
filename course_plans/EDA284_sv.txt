@@ -1,0 +1,31 @@
+Behörighet:För kurser på avancerad nivå gäller samma grundläggande och särskilda behörighetskrav som till det kursägande programmet. (När kursen är på avancerad nivå men ägs av ett grundnivåprogram gäller dock tillträdeskrav för avancerad nivå.)
+Undantag från tillträdeskraven:
+Sökande med  en programregistrering på ett program där kursen ingår i programplanen undantas från ovan krav.
+      
+
+
+            Kursspecifika förkunskaper
+	Kursen DAT105 Datorarkitektur eller motsvarande krävs. Kursen TDA383 Principer förparallell programmering rekommenderas.
+	
+                Syfte
+	Under perioden 1975 till 2005 åstadkom datorindustrin en fenomenal bedrift: på trettio år placerade vi en en personlig dator på varje skrivbord och i varje ficka.  År 2005 hejdades den utvecklingen abrupt, varvid industrin satte nya mål: att placera en personlig parallell superdator på varje skrivbord, i varje hem och i varje ficka.  År 2011 var övergången komplett genom att även surfplattor och mobiltelefoner fick multicore-processorer.  Snart kommer denna process att leda till fyra- och åttakärniga processorer även i ordinära surfplattor, och de sista spelkonsolerna kommer att gå från en till flera kärnor.  För första gången i historien kommer därmed ¿vanliga¿ datorplattformar inte längre att utgöras av von-Neumann-maskiner med en processorkärna.  Effekt och temperatur är numera lika viktiga designmål som prestanda.  Högprestanda-datorer konstrueras nu för bästa prestanda per watt.  Denna kurs behandlar hur dagens multicore-system är konstruerade, med blicken på hur framtida system kan komma att byggas under det närmaste decenniet.  Vi går också igenom de historiska ursprungen till många designstrategier som har återuppstått i nutida system men i andra former och sammanhang (till exempel dataparallellism, VLIW-parallellism och parallellism på trådnivå). 
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter godkänd kurs ska studenten kunna:Kunskap och förståelsebeskriva aktuella metoder för parallell databehandlingförklara designprinciperna för hårdvarustödet för att stödja programmeringsmodellerna shared memory och message passingbeskriva implementeringen av olika modeller av parallellitet på trådnivå, såsom multitrådade kärnor, chip-multiprocessorer, multipla kärnor eller GPGPUFärdigheter och förmågaimplementera synkroniseringsmetoder för parallella datorer som använder shared memory och message passingdesigna skalbar parallellprogramvara och analysera dess prestandaVärderingsförmåga och förhållningssättanalysera avvägningar mellan olika metoder för parallell databehandling när det gäller funktion, prestanda och kostnad
+	
+                Innehåll
+	Under perioden 1975 till 2005 åstadkom datorindustrin en fenomenal bedrift: på trettio år placerade vi en en personlig dator på varje skrivbord och i varje ficka. År 2005 hejdades den utvecklingen abrupt, varvid industrin satte nya mål: att placera en personlig parallell superdator på varje skrivbord, i varje hem och i varje ficka. År 2011 var övergången komplett genom att även surfplattor och mobiltelefoner fick multicore-processorer.Effekt och temperatur är numera lika viktiga designmål som prestanda. Högprestanda- datorer konstrueras nu för bästa prestanda per watt. Denna kurs behandlar hur dagens multicore-system är konstruerade, med blicken på hur framtida system kan komma att byggas under det närmaste decenniet.
+        	  
+                Organisation
+	Kursens innehåll är indelat i flera delar:en repetition av grundläggande koncept inom datorarkitekturgrundläggande multiprocessor-design för  programmeringsmodellerna message passing och shared memoryinterconnection networks, en nödvändig komponent i chip-multiprocessorer och skalbara parallella datorsystemhur man korrekt stödjer parallella algoritmer i shared memory-hårdvarade senaste årens övergång till chip-multiprocessorer (även kända som "multicores")En röd tråd som går igenom alla delar är en diskussion om kostnadsavvägningar med avseende på prestanda, kraft, energi, kontrollerbarhet, programmerbarhet och underhållbarhet. Ett andra förenande tema är minnesflaskhalsen och vikten av effektivresurshantering.Föreläsningarna kompletteras med flera övningstillfällen. Genom tre laborationsuppgifter lär sig studenterna att utveckla programvara med hjälp av modeller som C++-trådar och OpenMP, att utveckla och analysera synkroniseringsalgoritmer, och hur man använder pretandaanalysverktyg. Kursen innehåller också ett skriftligt projekt där studenterna får ta rollen som en datorarkitekt som undersöker och diskuterar lösningar på ett visst problem inom området parallelldatorarkitektur.
+	
+                Litteratur
+	            Se separat litteraturlista.  
+		
+                       Examination inklusive obligatoriska moment
+       	Skriftlig individuell tentamen, laborationer, samt ett flerveckors skriftligt projekt som genomförs individuellt eller i par.
+	
+    
+
+    

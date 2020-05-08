@@ -1,0 +1,29 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Minst 5 hp kurser inom temat miljö och hållbar utveckling (MHU).
+	
+                Syfte
+	Syftet med kursen är att ge studenterna möjlighet att tillämpa sina kunskaper om IT och hållbar utveckling och arbeta med verkliga problem och utmaningar som företag och andra organisationer i Västra Götalandsregionen står inför. Studenterna tar själva initiativ till projektarbeten och kontakt med tänkbara samarbetspartners, med stöd av undervisande personal och andra resurser i kursen. I projektet arbetar studenterna sedan med problemlösning med hjälp av grön IT, inom ett ramverk för hållbar utveckling och affärs- och organisationsutveckling. Problemen och lösningarna ska ha en tydlig IT-koppling. Slutresultat kan vara konkreta lösningsförslag såväl som förstudier av mer analytisk karaktär. För att sätta in projektarbetet i ett sammanhang innehåller kursen även en introduktion med fördjupning i hållbar utveckling och innovation.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Efter fullgjord kurs ska studenten kunnaRedogöra för begreppet hållbar utveckling med avseende på företags och andra organisationers användning av informationsteknologi.Redogöra för begreppet innovation och dess tillämpbarhet på grön IT-lösningarAnvända metoder och verktyg från IT-området samt kunskaper om hållbar utveckling och innovation för att genomföra en problemanalys.Använda metoder och verktyg från IT-området samt kunskaper om hållbar utveckling och innovation för att utarbeta en kravspecifikation.Använda metoder och verktyg från IT-området samt kunskaper om hållbar utveckling och innovation för att utarbeta en design.Använda metoder och verktyg från IT-området samt kunskaper om hållbar utveckling och innovation för att utarbeta ett konceptförslag.Reflektera kring de möjligheter och begränsningar som grön IT erbjuder för utveckla organisationer och minska miljöpåverkan.
+	
+                Innehåll
+	En allmän del där studenterna fördjupar sin förståelse av områdena grön IT, hållbar utveckling och innovation. Ett projektarbete där studenterna tillsammans med representanter från ett eller flera företag eller andra organisationer, lärare och handledare samt medstudenter deltar i och bidrar till samtliga faser av förändringsarbetet mot en ökad hållbarhet: problemorientering, problemanalys och problemlösning. Modul II avser problemanalysen (analys av företagets verksamhet, problem och potential för grön IT). Modul III avser problemlösningen (kravspecifikation, design och konceptförslag).
+        	  
+                Organisation
+	Kursen omfattar en inledande föreläsningsserie, övningar, handledning av projektarbete, samt redovisning av projektarbete.
+	
+                Litteratur
+	            Kurslitteratur meddelas vid kursstart.
+		
+                       Examination inklusive obligatoriska moment
+       	Examinationen består av två delar:Skriftlig dugga om 3 hp som behandlar de teman som tas upp i introduktionsmodulen och primärt examinerar lärandemål 1, 2 och 7.Projektarbete i grupp om 4,5 hp som primärt examinerar lärandemål 4-7.För slutbetyg krävs att bägge momenten är godkända. 
+	
+    
+
+    

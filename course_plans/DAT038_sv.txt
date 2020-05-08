@@ -1,0 +1,30 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Programmering i ett objektorienterat programmeringsspråk, inklusive rekursiva funktioner och metoder. Grundläggande matematiska begrepp, såsom mängder, funktioner, relationer, grafer, logaritmer och induktionsbevis.
+	
+                Syfte
+	Datastrukturer och algoritmer utgör fundamentala byggstenar i nästan alla programvaror. Kunskap om  dataabstraktion, datastrukturer och algoritmer är nödvändig vid konstruktion, användning och underhåll av förändringsbara, återanvändbara och effektiva programkomponenter.
+Kursen ger kunskaper och färdigheter i konstruktion och användning av algoritmer och datastrukturer, samt en introduktion till algoritmanalys och dataabstraktion.
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	Kunskap och förståelseredogöra för några grundläggande abstrakta datatyper och datastrukturer, bland annat listor, köer, hashtabeller, träd och graferredogöra för några av de algoritmer som används för att effektivt hantera dessa datastrukturer, och förklara varför de är korrektaFärdigheter och förmågatillämpa grundläggande abstrakta datatyper och datastrukturer, samt algoritmer relaterade till dessaimplementera och använda abstrakta datatyper som gränssnitt och datastrukturer som klasser, i ett objektorienterat programmeringsspråkanvända ett standardbibliotek för datastrukturer och algoritmerVärderingsförmåga och förhållningssättanalysera effektivitet hos vissa algoritmer, till exempel söknings- och sorteringsalgoritmergöra välgrundade val mellan olika datastrukturer och algoritmer för olika tillämpningar
+	
+                Innehåll
+	Kursen täcker följande ämnen:abstrakta datatyperasymptotisk effektivitet och enkel komplexitetsanalys av imperativ kodvanliga datastrukturer såsom fält, listor, träd och hashtabellerhur dessa kan användas för att implementera abstrakta datatyper såsom stackar, köer, prioritetsköer, avbildningar, mängder och graferstandardalgoritmer för dessa datastrukturer, inklusive deras resurskravsöknings- och sorteringsalgoritmerstandardbibliotek för datastrukturer och algoritmervanliga algoritmdesigntekniker, såsom brute force, divide and conquer ("dela upp och erövra"), och randomisering
+        	  
+                Organisation
+	Undervisningen består av föreläsningar, övningar och laborationer med handledning.
+	
+                Litteratur
+	            Se kursens hemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Kursen examineras genom en individuell skriftlig salstentamen (4,5 hp) samt laborationer (3,0 hp). Laborationerna genomförs normalt i par. 
+	
+    
+
+    

@@ -1,0 +1,29 @@
+Behörighet:För kurser på grundnivå inom Chalmers utbildningsprogram gäller samma behörighetskrav som till de(t) program där kursen ingår i programplanen.
+      
+
+
+            Kursspecifika förkunskaper
+	Inga särskilda förkunskaper krävs. 
+	
+                Syfte
+	Kursen syftar till att både introducera grundläggande kunskaper inom området hållbar utveckling samt metoder och verktyg för uthålligare IT-utveckling och IT-användning.Kursen syftar till att ge en förståelse för de komplexa sammanhang som påverkar hållbarhetsanpassning av produkter och tjänster sett ur ett livscykelperspektiv samt att erbjuda möjligheter att reflektera kring IT-ingenjörens möjligheter att på olika nivåer och områden medverka till ett hållbart samhälle.En viktig utgångspunkt är att kursens olika moment skall ge kunskaper och möjligheter att träna på att bryta ner komplexa hållbarhetsfrågeställningar till hanterbara delproblem som ligger inom IT-ingenjörens påverkansområden. 
+	
+    
+            Lärandemål (efter fullgjord kurs ska studenten kunna)
+	- Redogöra för olika dimensioner av och perspektiv på begreppet hållbar utveckling.- Redogöra för orsaker till ohållbar utveckling samt relevanta exempel på tillstånd och trender i natursystem och samhälleliga system. Exempel: befolkningstillväxt, välfärdsutveckling, resursanvändning, konsumtion, ekonomiska drivkrafter/hinder, inlåsningseffekter, emissioner m.m.- Redogöra för IT områdets relationer till natur och samhälle. - Använda metoder och verktyg för enklare analys av miljöeffekter härrörande från en produkts livscykel. Exempel: Beskrivning av resursanvändning, emissioner, miljöpåverkan och systemeffekter kopplade till ett specifikt tekniksystem.- Använda problemlösning samt kritiskt och kreativt tänkande i grupp för att koppla IT-utveckling och IT-användning till sociala, ekologiska och ekonomiska aspekter av hållbar utveckling.- Reflektera över sin yrkesroll och sitt professionella ansvar såväl som sin medborgarroll i förhållande till hållbar utveckling.- Reflektera över hur fakta skiljer sig från värderingar, identifiera etiska dilemman.- Reflektera över vad som är trovärdiga faktaanspråk och hur det är rimligt att använda dessa som stöd för argument.
+	
+                Innehåll
+	- Principerna i hållbar utveckling- IT-ingenjörens roll i ett hållbart samhälle- Att formulera utvecklingsprojekt utifrån hållbarhetsprinciper- Historiska perspektiv på IT och hållbar utveckling- Att genomföra en nulägesanalys- Konkreta exempel på pågående IT- och hållbarhetsprojekt- Livscykelanalyser- Utmaningen med kompensationseffekter.- Metoder för urval och genomförande av IT- och hållbarhetsprojekt
+        	  
+                Organisation
+	Undervisningen bedrivs i form av föreläsningar parallellt med projektarbetet som genomförs i grupp och redovisas skriftligt och muntligt.Kursens ena moment innehåller teoretiska principer inom hållbar utveckling som också utgör underlag för formulerandet av en vision för projektarbetet. Detta moment redovisas i en individuell hemtentamen som lämnas in efter kursens slut.  Kursens andra moment är ett grupprojekt som omfattar formulering av en hållbarhetsvision, verktyg för nulägesanalys samt utveckling och prioritering av IT-baserade lösningar på ett hållbarhetsproblem som identifierats av gruppmedlemmarna. Grupprojektet redovisas i en skriftlig rapport och en muntlig presentation.  
+	
+                Litteratur
+	            Se kurshemsida.
+		
+                       Examination inklusive obligatoriska moment
+       	Projektarbete i grupp som redovisas skriftligt och muntligt (3hp). Skriftlig tentamen (4,5hp).Betygskala: U, 3, 4, 5.Båda kustmomenten måste vara godkända för att kursen som helhet ska bli godkänd.
+	
+    
+
+    
