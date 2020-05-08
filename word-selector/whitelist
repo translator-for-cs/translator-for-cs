@@ -1260,3 +1260,45 @@ compulsory_A,obligatorisk_A
 individual_N,individuell_A
 CN examination_N hall_N exam_N,sals_+_tentamen_N
 CN laboratory_N task_N,laboration_N
+word_V2,ord_V2
+byte_N,byte_N
+batch_N,batch_N
+expert_N,expert_N
+pixel_N,pixel_N
+lisp_V2,lisp_V2
+authore_V2,författa_V2
+dictionary_N,lexikon_N
+shareware_N,shareware_N
+gigabit_N,gigabit_N
+user_+_name_V3,användarnamn_+ name V3
+terabyte_N,terabyte_N
+alpha_N,alfa_N
+cartridge_N,patron_N
+multiprocessing_N,multiprocessing_N
+logo_N,logo_N
+light_N,ljus_N
+megabit_N,megabit_N
+protection_N,skydd_N
+indirect_A,indirekt_A
+taskbar_N,aktivitetsfältet_N
+hotkey_N,snabbvalstangent_N
+magnetic_A,magnetisk_A
+acoustic_N,akustisk_N
+external_N,extern_N
+basic_N,grundläggande_N
+name_V3,namn_V3
+menu_N,meny_N
+CN menu_N bar_N, menyfältet_N
+bar_N,fält_N
+pseudo_+_code_V2,pseudokod_V2
+recoverable_A,återhämta_A
+head_V2,huvud_V2
+loading_N,ladda_N
+click_V,klicka_V
+cassette_N,kassett_N
+routine_N,rutin_N
+sub_+_routine_N,subrutin_N
+secure_V2,säker_V2
+screen_+_saver_N,skärmsläckare_N
+utility_N,verktyg_N
+CN static_A memory_N,CN statiskt_A minne_N
