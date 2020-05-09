@@ -22,8 +22,8 @@ resolver: lts-9.21
 # User packages to be built.
 # Various formats can be used as shown in the example below.
 #
-# packages:
-# - some-directory
+packages:
+  - ../grammar
 # - https://example.com/foo/bar/baz-0.0.2.tar.gz
 #   subdirs:
 #   - auto-update
@@ -34,7 +34,8 @@ packages:
 # These entries can reference officially published versions as well as
 # forks / in-progress versions pinned to a git hash. For example:
 #
-# extra-deps:
+extra-deps:
+  - gf-3.10@sha256:6f851dfaab5e1f9d4f3796515b86f78806a2bb305136a902713dfc2b92d9cfb0
 # - acme-missiles-0.3
 # - git: https://github.com/commercialhaskell/stack.git
 #   commit: e7b331f14bcffb8367cd58fbfc8b40ec7642100a
