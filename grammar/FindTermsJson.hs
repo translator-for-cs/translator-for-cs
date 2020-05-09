@@ -1,4 +1,4 @@
-module FindTerms where
+module FindTermsJson where
 
 import PGF
 
@@ -7,6 +7,7 @@ import Data.List
 import Data.Maybe
 import System.Environment (getArgs)
 
+{-
 main = do
   xx <- getArgs
   case xx of
@@ -19,26 +20,45 @@ main = do
       input <- getContents
       putStrLn $ mkJsonList $ parseText input
     _ -> putStrLn usage
+    -}
+
+langs :: IO [Language]
+langs = readPGF "../grammar/CSEGrammar.pgf" >>= (\g -> return (languages g))
+
+translate :: IO String
+translate = do
+  pgf <- readPGF "../grammar/CSEGrammar.pgf"
+  let Just eng = readLanguage "CSEGrammarEng"
+  let Just swe = readLanguage "CSEGrammarSwe"
+  let Just cat = readType "Term"
+  let parseText =  parseTerms pgf eng swe cat (tokenize "the web page is not complete")
+  let terms = map getTerms parseText
+  let json = mkJsonList terms
+  return json
 
 usage = "runghc FindTerms <pgf> <src-lang> <target-lang> <cat>  [<input] [>output]"
 
 translateFromEng :: String -> IO String
 translateFromEng s = do
-  pgf <- readPGF "Terms.pgf"
-  let Just eng = readLanguage "TermsEng"
-  let Just swe = readLanguage "TermsSwe"
-  let Just cat = readType "Term"
-  let parseText = filterUntranslated . map getTerms . parseTerms pgf eng swe cat . tokenize
-  return $ mkJsonList $ parseText s
+  pgf <- readPGF "../grammar/CSEGrammar.pgf"
+  let Just eng = readLanguage "CSEGrammarEng"
+  let Just swe = readLanguage "CSEGrammarSwe"
+  let Just cat = readType "S"
+  let parseText =  parseTerms pgf eng swe cat (tokenize s)
+  let terms = map getTerms parseText
+  let json = mkJsonList terms
+  return json
 
 translateFromSwe :: String -> IO String
 translateFromSwe s = do
-  pgf <- readPGF "Terms.pgf"
-  let Just eng = readLanguage "TermsEng"
-  let Just swe = readLanguage "TermsSwe"
-  let Just cat = readType "Term"
-  let parseText = filterUntranslated . map getTerms . parseTerms pgf swe eng cat . tokenize
-  return $ mkJsonList $ parseText s
+  pgf <- readPGF "../grammar/CSEGrammar.pgf"
+  let Just eng = readLanguage "CSEGrammarEng"
+  let Just swe = readLanguage "CSEGrammarSwe"
+  let Just cat = readType "S"
+  let parseText =  parseTerms pgf swe eng cat (tokenize s)
+  let terms = map getTerms parseText
+  let json = mkJsonList terms
+  return json
 
 data TermItem =
     TUnparsed [String]                -- segment of words not parts of a term
@@ -47,8 +67,6 @@ data TermItem =
 
 -- (Original, (Translation, Metadata))
 type ParsedTerm = (String, Maybe (String, String))
-data WordItem = Complex WordItem | Simple String String
-  deriving Show
 
 prTermItem :: TermItem -> String
 prTermItem ti = case ti of
@@ -75,22 +93,15 @@ mkParsedTermJson :: ParsedTerm -> String
 mkParsedTermJson (orig, Nothing) =
     "{ \"word\": \"" 
     ++ orig
-    ++ "\", translation: \"\"}"
+    ++ "\", \"translation\": \"\"}"
 mkParsedTermJson (orig, Just (t, s)) =
   "{ \"word\": \"" 
     ++ orig
-    ++ "\", translation: \"" 
+    ++ "\", \"translation\": \"" 
     ++ t
-    ++ "\", metadata: \"" 
+    ++ "\", \"metadata\": \"" 
     ++ s
     ++ "\"}"
-
-wordToJson :: WordItem -> String
-wordToJson (Simple c w) = "{ class: \""
-  ++ c 
-  ++ "\", word: \""
-  ++ w
-  ++ "\"}"
 
 mkJsonList :: [ParsedTerm] -> String
 mkJsonList items = "[" ++ intercalate "," (map mkParsedTermJson items) ++ "]"
