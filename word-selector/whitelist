@@ -1178,7 +1178,7 @@ number_V2,omfatta_V2
 numerical_A,numerisk_A
 objective_N,objektiv_N
 object_N,objekt_N
-object_N oriented_A,objekt_+_orientera_V
+object_N oriented_N,objekt_+_orienterat_N
 object_V2,invända_V2
 obtain_V2,erhålla_V2
 officer_N,officer_N
@@ -1656,3 +1656,111 @@ world_N,värld_N
 worldwide_A,global_A
 write_VV,skriva_VV
 XHTML_N,XHTML_N
+CN learning_N outcome_N,lärandemål_N
+construct_V,konstruera_V
+CN software_N development_N,program_+_utveckling_N
+object_N,objekt_N
+CN standard_N class_N,standard_+_klass_N
+CN data_N collection_N,data_+_samling_N
+stream_N,ström_N
+file_N,fil_N
+CN code_N development_N tool_N,kodutvecklings_+_verktyg_N
+model_N,modell_N
+CN modelling_N language_N,modellerings_+_språk_N
+CN programming_N language_N,programspråk_N
+CN admission_N requirement_N,tillträdes_+_krav_N
+CN program_N registration_N,program_+_registrering_N
+CN computer_N science_N,data_+_vetenskap_N
+verification_N,verifikation_N
+CN hardware_N system_N,hårdvaru_+_system_N
+develop_V,utveckla_V
+logical_A,logisk_A
+technology_N,teknik_N
+framework_N,ramverk_N
+CN computer_N system_N,datorsystem_N
+CN program_N verification_N,program_+_verifiering_N
+intelligence_N,intelligens_N
+student_N,student_N
+CN software_N technology_N,programvaru_+_teknik_N
+CN predicate_V logic_N,predikatlogik_N
+CN propositional_A logic_N,sats_+_logik_N
+subjunctive_N,konjunktiv_N
+CN normal_N form_N,normal_+_form_N
+assignment_N,inlämnings_+_uppgift_N
+program_N,program_N
+CN computer_N science_N,data_+_teknik_N
+CN computer_N architecture_N,dator_+_arkitektur_N
+CN cache_N memory_N,cache_+_minne_N
+computer_N,dator_N
+functional_N,funktionell_A
+CN computer_N construction_N,dator_+_konstruktion_N
+structure_N,struktur_N
+CN computer_N architecture_N,dator_+_arkitektur_N
+processor_N,processor_N
+CN memory_N hierarchy_N,minnes_+_hierarki_N
+execute_V,exekvera_V
+CN power_N consumption_N,ström_+_förbrukning_N
+CN computer_N science_N,dator_+_teknik_N
+quantitative_A,kvantitativ_A
+CN performance_N bottleneck_N,prestanda_+_flaskhals_N
+hierarchy_N,hierarki_N
+CN processor_N architecture_N,processor_+_arkitektur_N
+CN processor_N core_N,processor_+_kärna_N
+CN microarchitecture_N level_N,mikroarkitektur_+_nivå_N
+CN memory_N hierarchy_N level_N,minneshierarki_+_nivå_N
+exercise_N,övning_N
+CN problem_N solving_N,problem_+_lösning_N
+document_V,dokumentera_V
+CN simulation_N method_N,simulerings_+_metod_N
+systematic_A,systematisk_A
+structure_N,struktur_N
+CN litterature_N study_N,litteratur_+_studie_N
+scientific_N,vetenskaplig_A
+CN programming_N skill_N,programmerings_+_kunskap_N
+CN programming_N language_N,programspråk_N
+boolean_N,_
+CN assembly_N programming_N,assembler_+_programmering_N
+compiler_N,kompilator_N
+CN programming_N language_N,programmeringsspråk_N
+syntax_N,syntax_N
+CN context_N free_N,kontext_+_fria_V
+grammars_N,grammatiker_N
+parsing_N,parsning_N
+translation_N,översättning_N
+implement_V,implementera_V
+semantic_A,semantisk_A
+CN implementation_N problems_N,implementations_+_problematik_N
+polymorph_A,polymorf_A
+unification_N,unifiering_N
+CN implementation_N problem_N,implementations_+_problem_N
+grammar_N,grammatik_N
+CN syntax_N analysis_N,syntaxanalys_N
+CN language_N extension_N,språk_+_utvidgning_N
+CN software_N development_N,programvaru_+_utveckling_N
+CN user_N group_N,användargrupp_N
+iterative_A,iterativ_A
+evaluation_N,utvärdering_N
+CN interface_N design_N,gränssnitts_+_design_N
+CN user_N test_N,användar_+_test_N
+prototype_N,prototyp_N
+CN information_N technology_N,informationsteknik_N
+establish_V,etablera_V
+extract_V,extrahera_V
+CN software_N development_N,mjukvaru_+_utveckling_N
+CN software_N development_N process_N,mjukvaruutvecklings_+_process_N
+technology_N,teknologi_N
+CN software_N development_N assignment_N,mjukvaruutvecklings_+_uppgift_N
+function_N,funktion_N
+processor_N,processor_N
+CN assembly_N code_N,_
+CN circuit_N structure_N,krets_+_struktur_N
+optimization_N,optimering_N
+CN computer_N architecture_N,dator_+_arkitektur_N
+circuit_N,krets_N
+supercomputer_N,superdator_N
+CN compiler_N techniques_N,kompilator_+_tekniker_N
+CN computer_N system_N,datorsystem_N
+CN data_N processing_N,databehandling_N
+CN storage_N techniques_N,lagrings_+_tekniker_N
+application_N,applikation_N
+CN computer_N system_N component_N,datorsystem_+_komponent_N
