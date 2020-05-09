@@ -15,6 +15,7 @@ yarn serve
 ```
 
 ### Compiles and minifies for production
+You might want to change the API URL in main.js to match where you are hosting the backend.
 ```
 yarn build
 ```
