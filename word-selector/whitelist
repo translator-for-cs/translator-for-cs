@@ -1764,3 +1764,58 @@ CN data_N processing_N,databehandling_N
 CN storage_N techniques_N,lagrings_+_tekniker_N
 application_N,applikation_N
 CN computer_N system_N component_N,datorsystem_+_komponent_N
+functional_A,funktionell_A
+CN hardware_N unit_N,hårdvaru_+_enhet_N
+core_N,kärna_N
+CN computing_N capacity_N,beräknings_+_kapacitet_N
+CN computer_N system_N architecture_N,datorsystem_+_arkitektur_N
+multiprocessor_N,multi_+_processor_N
+server_N,server_N
+CN graphics_N processing_N unit_N,grafik_+_processor_N
+bottleneck_N,flaskhals_N
+CN programming_N problem_N,programmerings_+_problem_N
+CN synchronization_N error_N,_
+CN data_N dependencies_N,beroende_N
+parallellization_N,parallellisering_N
+distribution_N,distribuering_N
+database_N,databas_N
+CN processor_N base_N,processor_+_basera_V
+developer_N,utvecklare_N
+CN version_N control_N system_N,versionshanterings_+_system_N
+CN program_N code_N,programkod_N
+verification_N,verifiering_N
+CN version_N control_N,versions_+_hantering_N
+CN system_N verification_N,system_+_verifiering_N
+CN programming_N assignment_N,programmerings_+_uppgift_N
+CN control_N system_N,styrsystem_N
+CN communication_N system_N,kommunikations_+_system_N
+distribute_V,distribuera_V
+CN network_N protocol_N,nätverks_+_protokoll_N
+interdisciplinary_A,tvärvetenskaplig_A
+CN computer_N security_N,dator_+_säkerhet_N
+CN cyber_N security_N,cyber_+_säkerhet_N
+CN data_N set_N,datamängd_N
+associate_V,associera_V
+CN domain_N specific_A,domän_+_specifik_A
+CN domain_N specific_N,domän_+_specifik_A
+CN requirements_N analysis_N,krav_+_hantering_N
+CN user_N experience_N,användar_+_upplevelse_N
+CN software_N architecture_N,mjukvaru_+_arkitektur_N
+CN software_N system_N,mjukvarusystem_N
+architect_N,arkitekt_N
+CN software_N development_N project_N,mjukvaru_+_utvecklingsprojekt_N
+CN system_N requirement_N,system_+_krav_N
+CN performance_N optimization_N,prestanda_+_optimering_N
+CN performance_N analysis_N,prestanda_+_analys_N
+bottleneck_N,flaskhals_N
+recursion_N,rekursion_N
+output_N,_
+CN programming_M course_N,programmerings_+_kurs_N
+evaluation_N,evaluering_N
+CN design_N process_N,design_+_process_N
+CN computer_N interaction_N,dator_+_interaktion_N
+interactive_A,interaktiv_A
+CN computer_N based_A,datorbaserad_A
+user_N,användare_N
+CN machine_N oriented_A,maskin_+_orienterad_A
+CN development_N process_N,utvecklingsprocess_N
