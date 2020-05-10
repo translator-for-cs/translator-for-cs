@@ -19,7 +19,7 @@ Components.install = function install(Vue) {
 Vue.use(Components);
 
 const env = {
-  API_URL: "http://localhost:8081/"
+  API_URL: "http://localhost:3000/"
 };
 
 Vue.prototype.$api = axios.create({
