@@ -10,6 +10,7 @@ fun
 
 -- example lexicon
 fun
+  goal_CN: CN;
   generation_N: N;
   partnership_N: N;
   project_N: N;
@@ -1017,7 +1018,7 @@ fun
   hash_function_CN: CN;
   hash_table_CN: CN;
   heapsort_N: N;
-  --human-computer_interation_CN: CN;
+  human_computer_interation_CN: CN;
   integrated_development_environment_CN: CN;
   imperative_programming_CN: CN;
   inheritance_N: N;
@@ -1061,7 +1062,7 @@ fun
   user_agent_CN: CN;
   user_interface_CN: CN;
   waterfall_model_CN: CN;
-  --Wi-Fi_N: N;
+  Wi_Fi_N: N;
   XHTML_N: N;
   mathematical_model_CN: CN;
   generalization_N: N;
@@ -1098,7 +1099,7 @@ fun
   telecommunications_N: N;
   access_control_CN: CN;
   domain_name_CN: CN;
-  --ip-adress_N: N;
+  ip_adress_N: N;
   whitelist_N: N;
   graphics_card_CN: CN;
   truth_value_CN: CN;
@@ -1127,10 +1128,10 @@ fun
   instruction_set_architecture_CN: CN;
   parser_N: N;
   interruption_N: N;
-  --inter-process_communication_CN: CN;
+  inter_process_communication_CN: CN;
   operator_N: N;
   file_name_CN: CN;
-  --command-line_interpreter_CN: CN;
+  command_line_interpreter_CN: CN;
   unique_key_CN: CN;
   debugger_N: N;
   property_N: N;
@@ -1320,7 +1321,7 @@ fun
   address_space_CN: CN;
   card_reader_CN: CN;
   cache_N: N;
-  --CD-ROM_N: N;
+  CD_ROM_N: N;
   computer_case_CN: CN;
   form_factor_CN: CN;
   core_memory_CN: CN;
@@ -1361,7 +1362,7 @@ fun
   laser_N: N;
   electromagnetic_AP: AP;
   computer_mouse_CN: CN;
-  --static_random-access_memory_CN: CN;
+  static_random_access_memory_CN: CN;
   electromagnetic_wave_CN: CN;
   optical_disc_CN: CN;
   computer_security_model_CN: CN;
@@ -1379,13 +1380,13 @@ fun
   database_administator_CN: CN;
   recursive_data_type_CN: CN;
   graphical_user_interface_CN: CN;
-  --two-factor_authentication_CN: CN;
+  two_factor_authentication_CN: CN;
   mandatory_access_control_CN: CN;
   system_specification_CN: CN;
-  --multi-core_processor_CN: CN;
-  --domain-specific_language_CN: CN;
+  multi_core_processor_CN: CN;
+  domain_specific_language_CN: CN;
   data_management_CN: CN;
-  --object-oriented_program_CN: CN;
+  object_oriented_program_CN: CN;
   source_code_CN: CN;
   machine_code_CN: CN;
   computer_system_CN: CN;

@@ -156,7 +156,7 @@ elif (lang == 'eng'):
 
 
                 elif(wordEng[-2:] == '_N'):
-                    writeString = F"{beg}_N = mkN \"{wordEng[:-2]}\" {end}"
+                    writeString = F"{beg}_N = mkN \"{wordEng[:-2]}\" \"{wordEng[:-2]}s\" {end}"
                     terms.append(F"{beg}_N: N{end}")
                     if writeString not in read:
                         o.write(writeString)
