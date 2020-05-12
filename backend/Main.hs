@@ -32,4 +32,11 @@ main = do
       query <- param "query"
       w <- liftIO $ translateFromSwe query
       text $ T.pack w
-
+    get "/lexicon/eng" $ do
+      query <- param "query"
+      w <- liftIO $ translateWordFromEng query
+      text $ T.pack w
+    get "/lexicon/swe" $ do
+      query <- param "query"
+      w <- liftIO $ translateWordFromSwe query
+      text $ T.pack w

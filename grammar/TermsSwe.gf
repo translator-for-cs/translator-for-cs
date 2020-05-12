@@ -1331,7 +1331,7 @@ lin
   network_interface_controller_CN = makeCN (mkN "nätverkskort") ;
   power_supply_CN = makeCN (mkN "nätaggregat") ;
   printer_N = mkN "skrivare" ;
-  sound_card_CN = makeCN (mkN "ljudkort") ;
+  sound_card_CN = makeCN (mkN "ljudkort" "ljudkort") ;
   tape_drive_CN = makeCN (mkN "bandstation" "bandstationer") ;
   computer_terminal_CN = makeCN (mkN "datorterminal") ;
   trackpad_N = mkN "styrplatta" ;
