@@ -16,7 +16,7 @@ lin
 
 -- example lexicon
 lin
-  goal_CN = mkCN (mkN "goal") ;
+  goal_CN = mkCN (mkN "goal" "goals") ;
   generation_N = mkN "generation" "generations" ;
   partnership_N = mkN "partnership" ;
   project_N = mkN "project" "projects" ;
@@ -1035,7 +1035,7 @@ lin
   number_theory_CN = makeCN number_N theory_N ;
   numerical_analysis_CN = makeCN numerical_A analysis_N ;
   operating_system_CN = makeCN (mkA "operating") system_N ;
-  optical_fiber_CN = makeCN optical_A (mkN "fiber") ;
+  optical_fiber_CN = makeCN optical_A (mkN "fiber" "fibers") ;
   pair_programming_CN = makeCN pair_N programming_N ;
   priority_queue_CN = makeCN priority_N queue_N ;
   quantum_computer_CN = makeCN quantum_N computer_N ;
