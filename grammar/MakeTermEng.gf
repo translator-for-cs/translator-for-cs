@@ -23,6 +23,8 @@ oper
       = \a,m,n -> mkCN a (mkN (mkUtt (mkCN m)).s n) ;
     makeCN : N -> N -> N -> CN
       = \m,n,o -> mkCN (mkN (mkUtt (mkCN (mkN (mkUtt (mkCN m)).s n))).s o) ;
+    makeCN : N -> AP -> CN                        
+      = \n,a -> mkCN n a ;
 
     } ;
 
