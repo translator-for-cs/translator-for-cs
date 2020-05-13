@@ -60,6 +60,28 @@ translateFromSwe s = do
   let json = mkJsonList terms
   return json
 
+translateWordFromEng :: String -> IO String
+translateWordFromEng s = do
+  pgf <- readPGF "../grammar/CSEGrammar.pgf"
+  let Just eng = readLanguage "CSEGrammarEng"
+  let Just swe = readLanguage "CSEGrammarSwe"
+  let Just cat = readType "Term"
+  let parseText =  parseTerms pgf eng swe cat (tokenize s)
+  let terms = map getTerms parseText
+  let json = mkJsonList terms
+  return json
+
+translateWordFromSwe :: String -> IO String
+translateWordFromSwe s = do
+  pgf <- readPGF "../grammar/CSEGrammar.pgf"
+  let Just eng = readLanguage "CSEGrammarEng"
+  let Just swe = readLanguage "CSEGrammarSwe"
+  let Just cat = readType "Term"
+  let parseText =  parseTerms pgf swe eng cat (tokenize s)
+  let terms = map getTerms parseText
+  let json = mkJsonList terms
+  return json
+
 data TermItem =
     TUnparsed [String]                -- segment of words not parts of a term
   | TParsed [String] [(Tree,String)]  -- words of a term, with tree and translation

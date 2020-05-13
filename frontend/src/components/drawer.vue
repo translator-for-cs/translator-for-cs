@@ -11,7 +11,7 @@
 
     <v-divider></v-divider>
     <v-list nav>
-      <v-list-item v-for="item in links" :key="item.title" link>
+      <v-list-item v-for="item in links" :key="item.title" :to="item.route" link>
         <v-list-item-icon>
           <v-icon>{{ item.icon }}</v-icon>
         </v-list-item-icon>
@@ -38,12 +38,14 @@ export default {
       {
         title: "Translate",
         icon: "translate",
-        view: "home"
+        view: "home",
+        route: "/"
       },
       {
         title: "Lexicon",
         icon: "search",
-        view: "lexicon"
+        view: "lexicon",
+        route: "/lexicon"
       }
     ]
   })
