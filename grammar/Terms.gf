@@ -1776,4 +1776,5 @@ fun
   cartridge_N: N;
   presentation_N: N;
   problem_solving_CN: CN;
+  clock_N : N;
 }
