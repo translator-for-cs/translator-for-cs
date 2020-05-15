@@ -38,7 +38,6 @@ lin
   accelerate_V2 = mkV2 (mkV "accelerera" "accelererar") ;
   graphic_N = mkN "grafik" "grafiker" ;
   port_N = mkN "port" "portar" ;
-  --access_N = mkN "tillgång" "tillgångar";
   control_N = mkN "kontroll" "kontroller";
   list_N = mkN "lista" "listor";
   method_N = mkN "metod" "metoder";
@@ -108,7 +107,6 @@ lin
   institute_N = mkN "institut" "institut" ;
   for_Prep = mkPrep "för" ;
   internet_N = mkN "internet" "internet" ;
-  --number_N = mkN "nummer" ;
   amoled_N = mkN "amoled" "amoled" ;
   amplitude_N = mkN "amplitud" "amplituder";
   compiler_N = mkN "kompilator" "kompilatorer";
@@ -135,7 +133,6 @@ lin
   application_N = mkN "applikation" "applikationer";
   binary_AP = mkAP (mkA "binär") ;
   layer_N = mkN "lager" "lager" ;
-  --service_N = mkN "service" ;
   provider_N = mkN "leverantör" "leverantörer";
   specific_AP = mkAP särskild_1_A ;
   integrate_V2 = mkV2 (mkV "integrera") ;
@@ -145,7 +142,6 @@ lin
   arithmetic_N = mkN "aritmetik" ;
   logic_N = mkN "logik" "logiker" ;
   holding_N = mkN "innehav" "innehav" ;
-  --operate_V2 = mkV2 arbeta_1_V2 ;
   system_N = mkN "system" "system" ;
   artificial_AP = mkAP artificiell_1_A ;
   intelligence_N = mkN "intelligens" "intelligenser";
@@ -203,7 +199,6 @@ lin
   bipolar_AP = mkAP bipolär_1_A ;
   junction_N = mkN "förbindelse" "förbindelser" ;
   transistor_N = mkN "transistor" "transistorer";
-  --block_N = mkN "hinder" ;
   availability_N = mkN "tillgång" "tillgångar" ;
   map_N = mkN "karta" "kartor";
   screen_N = mkN "skärm" "skärmar" ;
@@ -218,7 +213,6 @@ lin
   bulletin_N = mkN "rapport" "rapporter";
   business_N = mkN "företag" "företag" ;
   continuity_N = mkN "kontinuitet" "kontinuiteter" ;
-  --execution_N = mkN "verkställande" ;
   management_N = mkN "förvaltning" "förvaltningar" ;
   readiness_N = mkN "beredskap" "beredskaper" ;
   reference_N = mkN "referens" "referenser" ;
@@ -233,7 +227,6 @@ lin
   tolerance_N = mkN "tolerans" "toleranser" ;
   capability_N = mkN "kompetens" "kompetenser" ;
   maturity_N = mkN "mognad" "mognad" ;
-  --integration_N = mkN "integrering" ;
   captcha_N = mkN "captcha" "captchas";
   theorem_N = mkN "sats" "satser";
   carriage_N = mkN "vagn" "vagnar";
@@ -267,7 +260,6 @@ lin
   command_N = mkN "kommando" "kommandon";
   line_N = mkN "linje" "linjer";
   comma_N = mkN "komma" "komman" ;
-  --separate_V2 = mkV2 separera_1_V2 ;
   value_N = mkN "värde" "värden";
   commercial_N = mkN "reklamfilm" "reklamfilmer" ;
   shelf_N = mkN "hylla" "hyllor";
@@ -276,7 +268,6 @@ lin
   public_N = mkN "allmänhet" "allmänhet" ;
   radio_N = mkN "radio" "radio" ; 
   communicate_V2 = mkV2 (mkV "kommunicera") ;
-  --sequential_AP = mkAP följande_1_A ;
   disc_N = mkN "disk" "disker";
   compatibility_N = mkN "förenlighet" "förenlighet";
   support_N = mkN "stöd" "stöd" ;
@@ -294,7 +285,6 @@ lin
   dynamics_N = mkN "dynamik" "dynamiker" ;
   independent_AP = mkAP oberoende_1_A ;
   computation_N = mkN "beräkning" "beräkningar" ;
-  --compute_V2 = mkV2 uppskatta_1_V2 ;
   axial_AP = mkAP axial_1_A ;
   aid_V2 = mkV2 (mkV "hjälpa") ;
   industrial_AP = mkAP industriell_1_A ;
@@ -303,7 +293,6 @@ lin
   assist_V2 = mkV2 (mkV "hjälpa") ;
   translation_N = mkN "översättning" "översättningar" ;
   emergency_N = mkN "kris" "kriser";
-  --response_N = mkN "svar" ;
   team_N = mkN "lag" "lag" ;
   generate_V2 = mkV2 (mkV "generera") ;
   imagery_N = mkN "bilder" "bilder";
@@ -317,7 +306,6 @@ lin
   electronics_N = mkN "elektronik" "elektroniker" ;
   delivery_N = mkN "leverans" "leveranser";
   scramble_VV = mkVV (mkV "förvränga") ;
-  --context_N = mkN "sammanhang" ;
   free_AP = mkAP fri_1_A ;
   grammar_N = mkN "grammatik" "grammatiker" ;
   continuous_AP = mkAP kontinuerlig_1_A ;
@@ -347,7 +335,6 @@ lin
   diagram_N = mkN "diagram" "diagram";
   congestion_N = mkN "stockning" "stockningar" ;
   integrity_N = mkN "integritet" "integriteter" ;
-  --field_N = mkN "område" ;
   loss_N = mkN "förlust" "förluster";
   manipulation_N = mkN "manipulation" "manipulationer";
   equipment_N = mkN "utrustning" "utrustningar" ;
@@ -355,7 +342,6 @@ lin
   arrival_N = mkN "ankomst" "ankomster" ;
   packet_N = mkN "paket" "paket";
   inspection_N = mkN "granskning" ;
-  --procedure_N = mkN "förfarande" ;
   definitive_AP = mkAP avgörande_1_A ;
   media_N = mkN "media" "media";
   denial_N = mkN "avslag" "avslag" ;
@@ -368,16 +354,12 @@ lin
   millennium_N = mkN "årtusende" "årtusenden" ;
   copyright_N = mkN "upphovsrätt" "upphovsrätter" ;
   act_N = mkN "lag" "lag" ;
-  --signature_N = mkN "underskrift" ;
   recorder_N = mkN "registrator" ;
   visual_AP = mkAP visuell_1_A ;
   recovery_N = mkN "återhämtning" "återhämtning" ;
-  --storage_N = mkN "lager" ;
-  --rendering_N = mkN "tolkning" ;
   manager_N = mkN "manager" "manager" ;
   disaster_N = mkN "katastrof" "katastrofer" ;
   discretionary_AP = mkAP oinskränkt_1_A ;
-  --distribute_V2 = mkV2 sprida_1_V2 ;
   document_N = mkN "dokument" "dokument"; 
   specification_N = mkN "specifikation" "specifikationer" ;
   identify_V2 = mkV2 (mkV "identifiera") ;
@@ -396,14 +378,12 @@ lin
   exchange_N = mkN "utbyte" "utbyten";
   host_N = mkN "mängd" "mängder";
   link_V2 = mkV2 (mkV "knyta") ;
-  --random_AP = mkAP slumpmässigt_1_A ;
   international_AP = mkAP internationell_1_A ;
   learning_N = mkN "bildning" "bildningar" ;
   electronically_Adv = mkAdv (mkA "elektroniskt") ;
   store_V2 = mkV2 (mkV "lagra") ;
   electronic_AP = mkAP elektronisk_1_A ;
   interchange_N = mkN "utbyte" "utbyten";
-  --delay_N = mkN "försening" ;
   calculator_N = mkN "miniräknare" "miniräknare" ;
   frontier_N = mkN "gräns" "gränser";
   foundation_N = mkN "grund" "grunder";
@@ -419,11 +399,8 @@ lin
   licence_N = mkN "legitimation" "legitimationer";
   agreement_N = mkN "avtal" "avtal" ;
   enhance_V2 = mkV2 (mkV "höja") ;
-  --evolution_N = mkN "utveckling" ;
   interior_N = mkN "inrede" "inreden" ;
   resource_N = mkN "resurs" "resurser" ;
-  --estimate_VS = mkVS uppskatta_1_VS ;
-  --event_N = mkN "fall" ;
   trace_V2 = mkV2 (mkV "spåra") ;
   format_N = mkN "format" "format" ;
   expand_V2V = mkV2V (mkV "utöka") ;
@@ -441,10 +418,8 @@ lin
   external_AP = mkAP (mkA "yttre") ;
   sata_N = mkN "sata" "sata";
   extract_N = mkN "utdrag" "utdrag" ;
-  --transform_V2 = mkV2 transformera_1_V2 ;
   load_N = mkN "laddning" "laddningar";
   extreme_AP = mkAP extrem_1_A ;
-  --low_Adv = mkAdv lågt_1_Adv ;
   frequency_N = mkN "frekvens" "frekvenser" ;
   fear_N = mkN "rädsla" "rädslor";
   uncertainty_N = mkN "osäkerhet" ;
@@ -516,7 +491,6 @@ lin
   union_N = mkN "union" "unioner" ;
   assign_V2V = mkV2V (mkV "tilldela") ;
   authority_N = mkN "myndighet" "myndigheter" ;
-  --connection_N = mkN "uppkoppling" ;
   report_N = mkN "rapport" "rapporter";
   suite_N = mkN "svit" "sviter";
   relay_N = mkN "relä" "reläer";
@@ -591,11 +565,9 @@ lin
   image_N = mkN "bild" "bilder";
   label_N = mkN "etikett" "etiketter";
   instrument_N = mkN "instrument" "instrument" ;
-  --application_N = mkN "tillämpning" ;
   negative_AP = mkAP negativ_1_A ;
   news_N = mkN "nyheter" "nyheter" ;
   appliance_N = mkN "tillämpning" "tillämpningar" ;
-  --internal_AP = mkAP intern_1_A ;
   uniform_N = mkN "uniform" "uniformer" ;
   spline_N = mkN "lister" "lister" ;
   volatile_AP = mkAP labil_1_A ;
@@ -672,7 +644,6 @@ lin
   commercial_AP = mkAP kommersiell_1_A ;
   common_AP = mkAP vanlig_1_A ;
   request_VS = mkVS (mkV "begära") ;
-  --public_AP = mkAP offentlig_1_A ;
   support_VV = mkVV (mkV "hjälpa") ;
   function_V = mkV "fungera" ;
   complex_AP = mkAP (mkA "komplex")  ;
@@ -723,19 +694,15 @@ lin
   prerequisite_N = mkN "förkunskapskrav" "förkunskapskrav" ;
   design_N = mkN "design" "designer";
   principle_N = mkN "princip" "principer";
-  --aim_N = mkN "mål" ;
   component_N = mkN "komponent" "komponenter";
   technical_AP = mkAP teknisk_1_A ;
   functional_AP = mkAP funktionell_1_A ;
-  execute_V2 = mkV2 (mkV "exekvera") ;
   fast_Adv = mkAdv (mkA "snabb") ;
   fast_AP = mkAP snabb_1_A ;
   efficient_AP = mkAP effektiv_1_A ;
   progress_N = mkN "framgång" "framgångar" ;
-  --engineering_N = mkN "ingenjörskonst" ;
   convert_V2 = mkV2 (mkV "omvandla") ;
   raw_N = mkN "rå" "rå" ;
-  --software_N = mkN "mjukvara" ;
   structure_N = mkN "struktur" "strukturer" ;
   parallelism_N = mkN "parallelism" "parallelism" ;
   high_AP = mkAP hög_1_A ;
@@ -798,7 +765,6 @@ lin
   algebra_N = mkN "algebra" "algebra" ;
   probability_N = mkN "sannolikhet" "sannolikheter" ;
   theory_N = mkN "teori" "teorier";
-  --program_V2V = mkV2V program_1_V2V ;
   desirable_AP = mkAP önskvärd_1_A ;
   overview_N = mkN "översikt" "översikter" ;
   practical_AP = mkAP praktisk_1_A ;
@@ -922,7 +888,6 @@ lin
   behavior_N = mkN "beteende" "beteenden" ;
   run_VS = mkVS (mkV "köra") ;
   verify_V2 = mkV2 (mkV "verifiera") ;
-  --set_N = mkN "set" ;
   good_AP = mkAP bra_1_A ;
   during_Prep = mkPrep "under" ;
   task_N = mkN "arbetsuppgift" "arbetsuppgifter" ;
@@ -947,7 +912,6 @@ lin
   algebraic_AP = mkAP algebraisk_1_A ;
   monad_N = mkN "monad" "monader";
   transformer_N = mkN "transformator" "transformatorer" ;
-  --property_N = mkN "egenskaper" ;
   construction_N = mkN "konstruktion" "konstruktioner" ;
   construct_V2 = mkV2 (mkV "konstruera") ;
   quick_AP = mkAP snabb_1_A ;
@@ -959,7 +923,6 @@ lin
   cryptanalysis_N = mkN "kryptanalys" "kryptanalyser" ;
   symmetric_AP = mkAP symmetrisk_1_A ;
   computer_science_CN = makeCN (mkN "datavetenskap" "datavetenskaper") ;
-  --software_development_CN = makeCN systemutveckling_1_N ;
   application_software_CN = makeCN (mkN "tillämpningsprogram" "tillämpningsprogram") ;
   data_structure_CN = makeCN (mkN "datastruktur" "datastrukturer") ;
   automata_theory_CN = makeCN automatteori_1_N ;
@@ -1017,7 +980,6 @@ lin
   invariant_AP = mkAP invariant_1_A ;
   iteration_N = mkN "iteration" "iterationer" ;
   Java_N = mkN "Java" "Java"; 
-  --programming_language_CN = makeCN programspråk_1_N ;
   linear_search_CN = makeCN (mkN "linjärsökning" "linjärsökningar") ;
   linked_list_CN = makeCN (mkA "länkad") lista_1_N ;
   logic_programming_CN = makeCN (mkN "logikprogrammering" "logikprogrammering") ;
@@ -1035,10 +997,8 @@ lin
   requirements_analysis_CN = makeCN (mkN "kravhantering" "kravhanteringar") ;
   routing_table_CN = makeCN (mkN "dirigeringstabell" "dirigeringstabeller") ;
   selection_sort_CN = makeCN (mkN "urvalssortering" "urvalssorteringar") ;
-  --sequence_N = mkN "följd" ;
   software_N = mkN "programvara" "programvaror" ;
   software_deployment_CN = makeCN (mkN "mjukvaruimplementering" "mjukvaruimplementeringar") ;
-  --software_development_CN = makeCN programutvecklingsmetodik_1_N ;
   sorting_algorithm_CN = makeCN (mkN "sorteringsalgoritm" "sorteringsalgoritmer") ;
   source_code_CN = makeCN källkod_1_N ;
   string_N = mkN "sträng" "strängar" ;
@@ -1049,7 +1009,6 @@ lin
   XHTML_N = mkN "XHTML" "XHTML" ;
   mathematical_model_CN = makeCN matematisk_1_A modell_1_N ;
   generalization_N = mkN "generalisering" "generaliseringar" ;
-  --concept_N = mkN "begrepp" ;
   blueprint_N = mkN "blåkopia" "blåkopior" ;
   customer_N = mkN "kund" "kunder" ;
   end_user_CN = makeCN (mkN "slutanvändare" "slutanvändare") ; 
@@ -1091,14 +1050,11 @@ lin
   negation_N = mkN "negation" "negationer";
   hard_drive_CN = makeCN hårddisk_1_N ;
   control_unit_CN = makeCN (mkN "styrenhet" "styrenheter") ;
-  --hardware_N = mkN "maskinvara" ;
   code_N = mkN "kod" "koder" ;
   information_theory_CN = makeCN informationsteori_1_N ;
-  --electronics_N = mkN "elektroteknik" ;
   linguistics_N = mkN "språkvetenskap" "språkvetenskaper" ;
   table_N = mkN "tabell" "tabeller" ;
   file_format_CN = makeCN (mkN "filformat" "filformat") ;
-  --computer_engineering_CN = makeCN datorteknik_1_N ;
   engineering_N = mkN "ingenjörsvetenskap" "ingenjörsvetenskaper" ;
   information_system_CN = makeCN (mkN "informationssystem" "informationssystem") ;
   digital_signal_processor_CN = makeCN (mkN "signalprocessor" "signalprocessorer") ;
@@ -1117,7 +1073,6 @@ lin
   command_line_interpreter_CN = makeCN (mkN "kommandotolk" "kommandotolkar") ;
   unique_key_CN = makeCN (mkN "databasnyckel" "databasmycklar") ;
   debugger_N = mkN "avlusare" "avlusare"; 
-  --property_N = mkN "egendom" ;
   touchscreen_N = mkN "pekskärm" "pekskärmar" ;
   scripting_language_CN = makeCN (mkN "skriptspråk") ;
   bug_N = mkN "bugg" "buggar";
@@ -1125,7 +1080,6 @@ lin
   speech_recognition_CN = makeCN (mkN "taligenkänning" "taligenkänningar") ;
   memory_address_CN = makeCN (mkN "minnesadress" "minnesadresser") ;
   computer_engineering_CN = makeCN (mkN "datateknik" "datatekniker") ;
-  --operation_N = mkN "operation" ;
   unit_N = mkN "enhet" "enheter" ;
   symbol_N = mkN "symbol" "symboler";
   personal_computer_CN = makeCN (mkN "persondator" "persondatorer") ;
@@ -1160,7 +1114,6 @@ lin
   if_statement_N = mkN "if-sats" "if-satser" ;
   while_loop_N = mkN "while-loop" "while-loopar" ;
   while_statement_N = mkN "while-sats" "while-satser" ;
-  --allocation_N = mkN "tilldelning" ;
   search_V2 = mkV2 (mkV "söka") ;
   build_V2 = mkV2 (mkV "bygga") ;
   engine_N = mkN "motor" "motorer" ;
@@ -1204,7 +1157,6 @@ lin
   histogram_N = mkN "histogram" "histogram" ;
   combinatorial_AP = mkAP kombinatorisk_1_A ;
   comparison_N = mkN "jämförelse" "jämförelser" ;
-  --compile_V2 = mkV2 sammanställa_1_V2 ;
   cybernetics_N = mkN "cybernetik" "cybernetiker" ;
   conceptual_AP = mkAP begreppsmässig_1_A ;
   conceptualization_N = mkN "begreppsmässighet" "begreppsmässigheter" ;
@@ -1238,7 +1190,6 @@ lin
   false_AP = mkAP (mkA "falsk") ;
   feature_N = mkN "funktion" "funktioner" ;
   extraction_N = mkN "extraktion" "extraktioner" ;
-  --controller_N = mkN "kontrollant" ;
   formula_N = mkN "formel" "formler";
   frame_N = mkN "ram" "ramar" ;
   open_AP = mkAP öppen_1_A ;
@@ -1253,7 +1204,6 @@ lin
   hide_V2 = mkV2 (mkV "dölja") ;
   query_N = mkN "fråga" "frågor" ;
   visualization_N = mkN "visualisering" "visualiseringar" ;
-  --input_N = mkN "inmatning" ;
   cycle_N = mkN "cykel" "cyklar";
   test_V2 = mkV2 (mkV "testa") ;
   internal_AP = mkAP (mkA "inre") ;
@@ -1313,7 +1263,6 @@ lin
   floppy_disk_CN = makeCN diskett_1_N ;
   graphics_processing_unit_CN = makeCN (mkN "grafikprocessor" "grafikprocessorer") ;
   hard_disk_drive_CN = makeCN hårddisk_1_N ;
-  --instruction_N = mkN "instruktionsuppsättning" ;
   integrated_circuit_CN = makeCN (mkA "integrerad") krets_1_N ;
   keyboard_N = mkN "tangentbord" "tangentbord" ;
   mainframe_computer_CN = makeCN stordator_1_N ;
@@ -1330,7 +1279,6 @@ lin
   video_card_CN = makeCN (mkN "grafikkort" "grafikkort") ;
   webcam_N = mkN "webbkamera" "webbkameror" ;
   fan_N = mkN "fläkt" "fläktar" ;
-  --screen_N = mkN "bildskärm" ;
   LED_display_CN = makeCN (mkN "lysdiodskärm" "lysdiodskärmar") ;
   data_storage_device_CN = makeCN (mkN "lagringsmedium" "lagringsmedium") ;
   communications_protocol_CN = makeCN (mkN "kommunikationsprotokoll" "kommunikationsprotokoll") ;
@@ -1465,12 +1413,10 @@ lin
   generalize_V2 = mkV2 (mkV "generalisera") ;
   reinforce_V2 = mkV2 (mkV "förstärka") ;
   batch_N = mkN "batch" "batcher";
-  --abstract_N = mkN "abstrakt" "abstrakter";
   work_N = mkN "arbeta" "arbeten" ;
   educational_programme_CN = makeCN utbildningsprogram_1_N ;
   os_N = mkN "os" "os";
   modify_V2 = mkV2 (mkV "modifiera") ;
-  --distribution_N = mkN "distribuering" "distribueringar" ;
   motherboard_V2 = mkV2 (mkV "moderkort") ;
   aim_N = mkN "syfte" "syften";
   study_V2 = mkV2 (mkV "studera") ;
@@ -1695,7 +1641,7 @@ lin
   experience_V2 = mkV2 (mkV "erfarenhet" "erfarenheter") ;
   computer_construction_CN = makeCN (mkN "datorkonstruktion" "datorkonstruktioner") ;
   unreliable_AP = mkAP opålitlig_1_A ;
-  execute_V = mkV "exekvera" "exekverade";
+  execute_V = mkV "exekvera" "exekverade" "exekverat";
   alpha_N = mkN "alfa" "alfa";
   interested_AP = mkAP (mkA "interesserad" "intresseade") ;
   focus_V2 = mkV2 (mkV "fokusera" "fokuserade") ;
@@ -1709,7 +1655,7 @@ lin
   basic_N = mkN "grundläggande" "grundläggande";
   dot_V2 = mkV2 (mkV "punkt") ;
   goal_CN = makeCN (mkN "mål" "mål") ;  
-  teach_V2V = mkV2V (mkV "lära") ;
+  teach_V2V = mkV2V lära_1_V ;
   synchronization_error_CN = makeCN (mkN "synkroniseringsfel" "synkroniseringsfel") ;
   clock_N = mkN "klocka" "klockor" ;
   }

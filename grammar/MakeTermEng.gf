@@ -28,19 +28,4 @@ oper
 
     } ;
 
-  makeV = overload {
-    makeV : V2 -> V2
-      = \v -> mkV2 (mkV "v") ;
-    makeV : V3 -> V3
-      = \v -> mkV3 (mkV "v") ;
-    makeV : V2V -> V2V
-      = \v -> mkV2V (mkV "v") ;
-    makeV : VV -> VV
-      = \v -> mkVV (mkV "v") ;
-    makeV : VS -> VS
-      = \v -> mkVS (mkV "v") ;
-    makeV : Str -> V
-      = \s -> mkV s ;
-    } ;
-
 }
