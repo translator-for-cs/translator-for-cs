@@ -1,6 +1,6 @@
 --# -path=.:alltenses:english
 
-concrete CoursePlansEng of CoursePlans = CSEGrammarEng **
+concrete CoursePlansEng of CoursePlans = CatEng **
 
   open
     SyntaxEng,

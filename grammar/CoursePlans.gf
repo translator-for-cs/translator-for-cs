@@ -1,4 +1,4 @@
-abstract CoursePlans = CSEGrammar ** {
+abstract CoursePlans = Cat ** {
 
 cat
   Plan ;

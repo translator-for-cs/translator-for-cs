@@ -1,6 +1,6 @@
 --# -path=.:alltenses:swedish
 
-concrete CoursePlansSwe of CoursePlans = CSEGrammarSwe **
+concrete CoursePlansSwe of CoursePlans = CatSwe **
 
   open
     SyntaxSwe,
