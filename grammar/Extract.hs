@@ -25,7 +25,7 @@ extract = do
   return analyses
 
 -- show results from s fields only, each lemma only once
-trim ms = nub [(showCId f,mainWord f) | (f,'s':_) <- ms]
+trim ms = nub [showCId f | (f,'s':_) <- ms]
 
 -- the word and its main cat, no sense dist
 mainWord  = filter (not . isDigit) . showCId

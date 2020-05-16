@@ -1662,7 +1662,7 @@ lin
   basic_NCSE = mkN "grundläggande" "grundläggande";
   dot_VCSE =  (mkV "punkt") ;
   goal_CNCSE = makeCN (mkN "mål" "mål") ;  
-  teach_VCSE =  lära_1_V ;
+  teach_VCSE =  undervisa_1_V ;
   synchronization_error_CNCSE = makeCN (mkN "synkroniseringsfel" "synkroniseringsfel") ;
   clock_NCSE = mkN "klocka" "klockor" ;
   }

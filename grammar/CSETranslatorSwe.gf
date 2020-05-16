@@ -3,7 +3,7 @@
 concrete CSETranslatorSwe of CSETranslator =
   CoursePlansSwe,
   TermsSwe,
-  ParseSwe 
+  ParseSwe - [come_to_VP]
 
 **
   open SyntaxSwe, ParadigmsSwe
