@@ -10,6 +10,7 @@ import Data.List
 thepgf  = "CSETranslator.pgf"
 thelang = maybe undefined id $ readLanguage "CSETranslatorSwe"
 
+-- obtained by: cat ../courseplans/*_sv.txt >all_sv.txt
 thecorpus = "all_sv.txt"
 
 main = do
