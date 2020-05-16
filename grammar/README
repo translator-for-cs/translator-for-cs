@@ -11,6 +11,19 @@ Prerequisites:
   ln -s <PATH-TO-gf-rgl>/src/english/
   ln -s <PATH-TO-gf-rgl>/src/swedish/
 
+To make the translator grammar:
+
+  gf -make -probs=CSETranslator.probs CSETranslatorEng.gf CSETranslatorSwe.gf
+
+To test the translator grammar:
+
+  $ gf -cshell CSETranslator.pgf
+  > p -lang=CSETranslatorSwe -number=1 "efter kursen måste alla studenter skriva och läsa programkod" | l
+  after course all students must write and read program code
+  efter kursen måste alla studenter skriva och läsa programkod
+
+OBSOLETE:
+
 Then you can test this grammar as follows:
 
   $ gf CSEGrammarEng.gf CSEGrammarSwe.gf

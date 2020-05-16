@@ -8,6 +8,11 @@ in {
 
 lincat
   Term = Utt ;
+  CNCSE = CN ;
+  NCSE = N ;
+  APCSE = AP ;
+  VCSE = V ;
+  AdvCSE = Adv ;
 
 lin
   CNSgTerm cn = mkUtt cn | mkUtt (mkNP the_Det cn) ;
@@ -17,6 +22,11 @@ lin
     | lin Utt {s = ap.s ! R.Strong (R.GSg R.Neutr)}
     | lin Utt {s = ap.s ! R.Strong R.GPl}
     ;
+  VFinTerm v = lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
+  VInfTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} ;
+  AdvTerm adv = mkUtt adv ;
+
+  N2CN n = mkCN n ;
 
 -- example lexicon
 lin
@@ -242,7 +252,7 @@ lin
   challenge_N = mkN "utmaning" "utmanigar" ;
   handshake_N = mkN "handskakning" "handskakningar";
   authentication_N = mkN "autentisering" "autentiseringar";
-  chief_N = mkN "ledare" "ledare"; 
+  chief_N = mkN "ledare" "ledare";
   information_N = mkN "information" "informationer";
   officer_N = mkN "officer" "officern" "officerer" "officererna" ;
   cisco_N = mkN "cisco" "cisco" ;
@@ -266,7 +276,7 @@ lin
   request_N = mkN "begäran" "begäran" "begäran" "begäran" ;
   broker_N = mkN "agent" "agenter";
   public_N = mkN "allmänhet" "allmänheten" "allmänheter" "allmänheterna" ;
-  radio_N = mkN "radio" "radion" "radior" "radiorna" ; 
+  radio_N = mkN "radio" "radion" "radior" "radiorna" ;
   communicate_V2 = mkV2 (mkV "kommunicera") ;
   disc_N = mkN "disk" "disker";
   compatibility_N = mkN "förenlighet" "förenlighet";
@@ -338,7 +348,7 @@ lin
   loss_N = mkN "förlust" "förluster";
   manipulation_N = mkN "manipulation" "manipulationer";
   equipment_N = mkN "utrustning" "utrustningar" ;
-  warehouse_N = mkN "lager" "lager"; 
+  warehouse_N = mkN "lager" "lager";
   arrival_N = mkN "ankomst" "ankomster" ;
   packet_N = mkN "paket" "paket";
   inspection_N = mkN "granskning" ;
@@ -360,7 +370,7 @@ lin
   manager_N = mkN "manager" "managern" "managers" "managers" ;
   disaster_N = mkN "katastrof" "katastrofer" ;
   discretionary_AP = mkAP oinskränkt_1_A ;
-  document_N = mkN "dokument" "dokument"; 
+  document_N = mkN "dokument" "dokument";
   specification_N = mkN "specifikation" "specifikationer" ;
   identify_V2 = mkV2 (mkV "identifiera") ;
   dot_N = mkN "punkt" "punkter";
@@ -388,7 +398,7 @@ lin
   frontier_N = mkN "gräns" "gränser";
   foundation_N = mkN "grund" "grunder";
   identity_N = mkN "identitet" "identiteter";
-  card_N = mkN "kort" "kort"; 
+  card_N = mkN "kort" "kort";
   mail_N = mkN "mail" "mailen" "mail" "mailen" ;
   elliptic_AP = mkAP elliptisk_1_A ;
   curve_N = mkN "kurva" "kurvor" ;
@@ -446,7 +456,7 @@ lin
   geography_N = mkN "geografi" "geografi" ;
   gigabit_N = mkN "gigabit" "gigabiten" "gigabits" "gigabits" ;
   gigabyte_N = mkN "gigabyte" "gigabyten" "gigabytes" "gigabytes" ;
-  globalization_N = mkN "globalisering" "globaliseringar"; 
+  globalization_N = mkN "globalisering" "globaliseringar";
   global_AP = mkAP global_1_A ;
   unique_AP = mkAP unik_1_A ;
   identifier_N = mkN "identifierare" "identifierare" ;
@@ -572,7 +582,7 @@ lin
   spline_N = mkN "lister"  "lister" ;
   volatile_AP = mkAP labil_1_A ;
   laptop_N = mkN "laptop" "laptopen" "laptops" "laptopsarna" ;
-  child_N = mkN "barn" "barn"; 
+  child_N = mkN "barn" "barn";
   analytical_AP = mkAP analytisk_1_A ;
   transaction_N = mkN "transaktion" "transaktioner" ;
   path_N = mkN "väg" "vägar" ;
@@ -655,16 +665,16 @@ lin
   check_V2 = mkV2 (mkV "kontrollera") ;
   attack_V2 = mkV2 (mkV "angripa") ;
   act_VA = mkVA (mkV "handla") ;
-  document_V2 = mkV2 (mkV "dokumentera") ;
-  double_V2 = mkV2 (mkV "dubbla") ;
-  double_Adv = mkAdv (mkA "dubbelt") ;
-  drop_V2 = mkV2 (mkV "släppa") ;
-  game_V2 = mkV2 (mkV "spela") ;
-  exchange_V2 = mkV2 (mkV "byta") ;
-  learn_VV = mkVV (mkV "lära") ;
-  interchange_V2 = mkV2 (mkV "växla") ;
-  mail_V2 = mkV2 (mkV "posta") ;
-  curve_V2 = mkV2 (mkV "svänga") ;
+  document_VCSE =  (mkV "dokumentera") ;
+  double_VCSE =  (mkV "dubbla") ;
+  double_AdvCSE = mkAdv (mkA "dubbelt") ;
+  drop_VCSE =  (mkV "släppa") ;
+  game_VCSE =  (mkV "spela") ;
+  exchange_VCSE =  (mkV "byta") ;
+  learn_VCSE =  (mkV "lära") ;
+  interchange_VCSE =  (mkV "växla") ;
+  mail_VCSE =  (mkV "posta") ;
+  curve_VCSE =  (mkV "svänga") ;
   end_VA = mkVA (mkV "avsluta") ;
   license_V2 = mkV2 (mkV "licensiera") ;
   interior_AP = mkAP (mkA "inre") ;
@@ -897,15 +907,15 @@ lin
   response_N = mkN "respons" "responser" ;
   conjunction_N = mkN "konjunktion" "konjunktioner" ;
   account_N = mkN "konto" "kontot" "konton" "konton" ;
-  maximum_N = mkN "maximum" "maximum"; 
+  maximum_N = mkN "maximum" "maximum";
   low_Adv = mkAdv (mkA "låg") ;
   delay_N = mkN "fördröjning" "fördröjningar" ;
   correctness_N = mkN "korrekthet" "korrekthet" ;
   philosophy_N = mkN "filosofi" "filosofin" "filosofier" "filosofierna" ;
   maintain_VS = mkVS (mkV "underhålla") ;
-  semaphore_N = mkN "semafor" "semaforen" "semaforer" "semaforerna" ; 
+  semaphore_N = mkN "semafor" "semaforen" "semaforer" "semaforerna" ;
   semantics_N = mkN "semantik" "semantiker" ;
-  induction_N = mkN "induktion" "induktioner" ; 
+  induction_N = mkN "induktion" "induktioner" ;
   proof_N = mkN "bevis" "beviset" "bevis" "bevisen;
   formal_AP = mkAP formell_1_A ;
   algebraic_AP = mkAP algebraisk_1_A ;
@@ -978,7 +988,7 @@ lin
   agent_N = mkN "agent" "agenter" ;
   invariant_AP = mkAP invariant_1_A ;
   iteration_N = mkN "iteration" "iterationer" ;
-  Java_N = mkN "Java" "Java"; 
+  Java_N = mkN "Java" "Java";
   linear_search_CN = makeCN (mkN "linjärsökning" "linjärsökningar") ;
   linked_list_CN = makeCN (mkA "länkad") lista_1_N ;
   logic_programming_CN = makeCN (mkN "logikprogrammering" "logikprogrammering") ;
@@ -987,7 +997,7 @@ lin
   numerical_analysis_CN = makeCN numerisk_1_A analys_1_N ;
   operating_system_CN = makeCN operativsystem_1_N ;
   optical_fiber_CN = makeCN fiberoptik_1_N ;
-  pair_programming_CN = makeCN (mkN "parprogrammering" "parprogrammering") ; 
+  pair_programming_CN = makeCN (mkN "parprogrammering" "parprogrammering") ;
   priority_queue_CN = makeCN (mkN "prioritetskö" "prioritetsköer") ;
   quantum_computer_CN = makeCN (mkN "kvantdator" "kvantdatorer") ;
   queue_N = mkN "kö" "kön" "köer" "köerna" ;
@@ -1010,7 +1020,7 @@ lin
   generalization_N = mkN "generalisering" "generaliseringar" ;
   blueprint_N = mkN "blåkopia" "blåkopior" ;
   customer_N = mkN "kund" "kunder" ;
-  end_user_CN = makeCN (mkN "slutanvändare" "slutanvändare") ; 
+  end_user_CN = makeCN (mkN "slutanvändare" "slutanvändare") ;
   calculation_N = mkN "beräkning" "beräkningar" ;
   productivity_N = mkN "produktivitet" "produktiviteten" "produktiviteter" "produktiviteterna" ;
   dynamic_programming_CN = makeCN dynamisk_1_A programmering_1_N ;
@@ -1071,7 +1081,7 @@ lin
   file_name_CN = makeCN (mkN "filnamn" "filnamn") ;
   command_line_interpreter_CN = makeCN (mkN "kommandotolk" "kommandotolkar") ;
   unique_key_CN = makeCN (mkN "databasnyckel" "databasmycklar") ;
-  debugger_N = mkN "avlusare" "avlusare"; 
+  debugger_N = mkN "avlusare" "avlusare";
   touchscreen_N = mkN "pekskärm" "pekskärmar" ;
   scripting_language_CN = makeCN (mkN "skriptspråk") ;
   bug_N = mkN "bugg" "buggar";
@@ -1093,15 +1103,15 @@ lin
   precision_N = mkN "precision" "precisioner" ;
   selection_N = mkN "urval" "urval" ;
   activation_N = mkN "aktivering" "aktiveringar" ;
-  resolution_N = mkN "upplösning" "upplösningar" ; 
-  argument_N = mkN "argument" "argument"; 
+  resolution_N = mkN "upplösning" "upplösningar" ;
+  argument_N = mkN "argument" "argument";
   associative_AP = mkAP associativ_1_A ;
   automated_AP = mkAP (mkA "automatiserad") ;
   reasoning_N = mkN "resonemang" "resonemang" ;
   automaton_N = mkN "automatisering" "automatiseringar" ;
   robot_N = mkN "robot" "robotar" ;
   robotics_N = mkN "robotik" "robotik" ;
-  benchmark_N = mkN "riktvärde" "riktvärden"; 
+  benchmark_N = mkN "riktvärde" "riktvärden";
   branch_V = mkV "grena" ;
   answer_N = mkN "svar" "svar" ;
   nested_AP = mkAP (mkA "nästlad") ;
@@ -1172,7 +1182,7 @@ lin
   default_N = mkN "standard" "standarder" ;
   dependency_N = mkN "beroende" "beroenden" ;
   differentiable_AP = mkAP differentierbar_1_A ;
-  reduction_N = mkN "reduktion" "reduktioner"; 
+  reduction_N = mkN "reduktion" "reduktioner";
   disk_N = mkN "disk" "disker";
   display_N = mkN "bildskärm" "bildskärmar" ;
   divide_V2 = mkV2 (mkV "dela") ;
@@ -1199,7 +1209,7 @@ lin
   segmentation_N = mkN "segmentering" "segmenteringar" ;
   immutable_AP = mkAP oföränderlig_1_A ;
   incremental_AP = mkAP (mkA "inkrementell") ;
-  indicator_N = mkN "indikator" "indikatorer"; 
+  indicator_N = mkN "indikator" "indikatorer";
   hide_V2 = mkV2 (mkV "dölja") ;
   query_N = mkN "fråga" "frågor" ;
   visualization_N = mkN "visualisering" "visualiseringar" ;
@@ -1236,7 +1246,7 @@ lin
   semiconductor_N = mkN "halvledare" "halvledare" ;
   simulate_V2 = mkV2 (mkV "simulera") ;
   singleton_N = mkN "singleton" "singeltonen" "singeltons" "singeltonerna" ;
-  maintenance_N = mkN "underhåll" "underhåll" ; 
+  maintenance_N = mkN "underhåll" "underhåll" ;
   validation_N = mkN "validering" "valideringar" ;
   editor_N = mkN "redigerare" "redigerare" ;
   spam_N = mkN "skräppost" "skräpposter" ;
@@ -1302,7 +1312,7 @@ lin
   design_pattern_CN = makeCN (mkN "designmönster" "designmönster") ;
   mathematical_modelling_CN = makeCN (mkN "matematisk" "matematiska") modellering_1_N ;
   functional_programming_CN = makeCN (mkA "funktionell") (mkN "programmering" "programmeringar") ;
-  business_information_system_CN = makeCN (mkN "affärsinformationssystem" "affärsinformationssystem") ; 
+  business_information_system_CN = makeCN (mkN "affärsinformationssystem" "affärsinformationssystem") ;
   database_administator_CN = makeCN (mkN "databasadministratör" "databasadministratörer") ;
   recursive_data_type_CN = makeCN (mkA "rekursiv" "rekursiva") (mkN "datatyp" "datatyper") ;
   graphical_user_interface_CN = makeCN (mkA "grafiskt") (mkN "användargränssnitt" "användargränssnitt") ;
@@ -1360,14 +1370,14 @@ lin
   prototype_N = mkN "prototyp" "prototyper";
   unification_N = mkN "unifiering" "unifieringar" ;
   compiler_techniques_CN = makeCN (mkN "kompilatortekniker" "kompilatortekniker") ;
-  processor_base_CN = makeCN (mkN "processorbas" "processorbaser") ; 
+  processor_base_CN = makeCN (mkN "processorbas" "processorbaser") ;
   program_code_CN = makeCN programkod_1_N ;
   covariance_N = mkN "kovarians" "kovarianser";
   fundamental_AP = mkAP fundamental_1_A ;
   comprehend_VV = mkVV (mkV "begripa") ;
   resource_requirement_search_CN = makeCN (mkN "resurskravsökning" "resurskravsökningar") ;
   terminal_AP = mkAP terminal_1_A ;
-  bridge_N = mkN "brygga" "bryggor" ; 
+  bridge_N = mkN "brygga" "bryggor" ;
   skill_N = mkN "färdighet" "färdigheter" ;
   compose_V2 = mkV2 (mkV "komponera") ;
   username_V3 = mkV3 (mkV "användarnamn") ;
@@ -1380,7 +1390,7 @@ lin
   complement_V2 = mkV2 (mkV "komplettera") ;
   constructor_N = mkN "konstruktor" "konstruktorer" ;
   decide_VV = mkVV (mkV "bestämma") ;
-  template_N = mkN "mall" "mallar"; 
+  template_N = mkN "mall" "mallar";
   program_plan_CN = makeCN (mkN "programplan" "programplaner") ;
   airflow_N = mkN "luftflöde" "luftflöden" ;
   driver_N = mkN "driver" "drivers" ;
@@ -1462,8 +1472,8 @@ lin
   approximate_V2 = mkV2 (mkV "approximera") ;
   data_collection_CN = makeCN (mkN "datasamling" "datasamlingar") ;
   extend_V2 = mkV2 (mkV "utöka") ;
-  shareware_N = mkN "shareware" "sharewares"; 
-  antibiotic_N = mkN "antibiotikum" "antibiotikum" ; 
+  shareware_N = mkN "shareware" "sharewares";
+  antibiotic_N = mkN "antibiotikum" "antibiotikum" ;
   unify_V2 = mkV2 (mkV "förena") ;
   simulation_method_CN = makeCN (mkN "simuleringsmetod" "simuleringsmetoder" ) ;
   strategy_N = mkN "strategi" "strategin" "strategier" "strategierna";
@@ -1651,7 +1661,7 @@ lin
   agile_AP = mkAP (mkA "agil" "agil") ;
   basic_N = mkN "grundläggande" "grundläggande";
   dot_V2 = mkV2 (mkV "punkt") ;
-  goal_CN = makeCN (mkN "mål" "mål") ;  
+  goal_CN = makeCN (mkN "mål" "mål") ;
   teach_V2V = mkV2V lära_1_V ;
   synchronization_error_CN = makeCN (mkN "synkroniseringsfel" "synkroniseringsfel") ;
   clock_N = mkN "klocka" "klockor" ;
