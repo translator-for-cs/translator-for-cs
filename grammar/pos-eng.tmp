@@ -1,0 +1,140 @@
+Prerequisites : makeCN prerequisite_N
+Goals : makeCN goal_N
+Computer programming : makeCN computer_N programming_N
+basic skill : makeCN basic_A skill_N
+studies : makeCN study_N
+professional life : makeCN professional_A life_N
+course : makeCN course_N
+participants : makeCN participant_N
+programming tasks : makeCN programming_N task_N
+science : makeCN science_N
+engineering tasks : makeCN engineering_N task_N
+fundamental principles : makeCN fundamental_A principle_N
+computers : makeCN computer_N
+programming : makeCN programming_N
+Learning outcomes : makeCN learning_N outcome_N
+-- On successful completion of the course : makeCN on Prep on_Adv ++ successful_A ++ completion_N ++ of Prep ++ __ ++ course V2 course_N
+student : makeCN studentFem_N
+Knowledge : makeCN knowledge_N
+understanding : makeCN understanding_N
+Express : makeCN express V2
+mathematical formulas : makeCN mathematical_A formula_N
+programming language : makeCN programming_N language_N
+expressions : makeCN expression_N
+algorithms : makeCN algorithm_N
+datatypes : makeCN "data" type_N
+datastructures : makeCN "data" structure_N
+data : makeCN data_N
+Structure : makeCN structure_N
+programs : makeCN program_N
+manageable : manageable_A
+reusable : mkA "reusable"
+units : makeCN unit_N
+-- by the use of : by Prep by_Adv ++ __ ++ use VV use_N ++ of Prep
+concepts : makeCN concept_N
+modules : makeCN module_N
+classes : makeCN class_N
+functions : makeCN function_N
+Search : search_V2
+find : find_V2
+relevant : relevant_A
+program libraries : makeCN program_N library_N
+use : use_V2
+-- in adequate ways : makeCN re Prep in Prep in_N ++ adequate_A ++ ways_N way_N
+Explain : explain_V2
+relations : makeCN relation_N
+hardware : makeCN hardware_N
+operating system : makeCN "operating" system_N
+user programs : makeCN userFem_N program_N
+data analysis : makeCN data_N analysis_N
+files : makeCN file_N
+Competence : makeCN competence_N
+skills : makeCN skill_N
+Write : write_V2
+programs : makeCN program_N
+manipulate : manipulate_V2
+numeric : numeric_A
+textual : textual_A
+perform : perform_V2
+standard : standard_A
+programming tasks : makeCN programming_N task_N
+Build : build_V2
+interactive : interactive_A
+text - based : mkA "text-based"
+graphical : graphical_A
+user interfaces : makeCN userFem_N interface_N
+read : read_V2
+transform : transform V2
+generate : generate V2
+file system : makeCN file_N system_N
+standard libraries : makeCN standard_A library_N
+-- best programming practices : makeCN best V2 best_N best_Adv ++ program V2V programme V2 programming_N ++ practice V2 practice_N
+Test : test_V2
+programs : makeCN program_N
+methods : makeCN method_N
+unit testing : makeCN unit_N testing_N
+regression testing : makeCN regression_N testing_N
+-- property - based testing : makeCN property_N ++ _ ++ base V2 ++ test V2 testing_N
+programming tools : makeCN programming_N tool_N
+code editors : makeCN code_N editor_N
+version control systems : makeCN version_N control_N system_N
+Judgement : makeCN judgement_N
+approach : makeCN approach_N
+Assess : assess_V2
+difficulty : makeCN difficulty_N
+resources : makeCN resource_N
+typical : mkA "typical"
+programming tasks : makeCN program V2V programme V2 programming_N ++ task V2 task_N
+Analyse : makeCN analyse V2
+code : makeCN code V2 code_N
+errors : makeCN error_N
+possibilities : makeCN possibility_N
+improvement : makeCN improvement_N
+Course content : makeCN course V2 course_N ++ content V2 content_N content_A
+introduction : makeCN introduction_N
+programming : makeCN program V2V programme V2 programming_N
+general - purpose : makeCN general_N general_A ++ _ ++ purpose V2 purpose_N
+programming language : makeCN program V2V programme V2 programming_N ++ language_N
+language : makeCN language_N
+in parallel to : makeCN re Prep in Prep in_N ++ parallel V2 parallel_N parallel_A ++ should VV must VV can VV
+basic concepts : makeCN basic_N basic_A ++ concept_N
+binary : makeCN binary_N binary_A
+representations : makeCN representation_N
+memory : makeCN memory_N
+source code : makeCN source_N ++ code V2 code_N
+compiler : makeCN compiler_N
+machine : makeCN machine V2 machine_N
+syntactic structure : makeCN syntactic_A ++ structure V2 structure_N
+expressions : makeCN expression_N
+statements : makeCN statement_N
+functions : makeCN function V function_N
+classes : makeCN class V2 class_N
+modules : makeCN module_N
+basics : makeCN basics_N basic_N
+algorithmic design : makeCN algorithmic_A ++ design V2V design_N
+iteration : makeCN iteration_N
+recursion : makeCN recursion_N
+decomposition : makeCN decomposition_N
+functions : makeCN function V function_N
+top - down : makeCN top V2 top_N ++ _ ++ down V2 down Prep down_N
+bottom - up : makeCN bottom V bottom_N bottom_A ++ _ ++ up V2 up Prep up_Adv
+software design : makeCN software_N ++ design V2V design_N
+in terms of : makeCN re Prep in Prep in_N ++ term VS term_N ++ of Prep
+functions : makeCN function V function_N
+classes : makeCN class V2 class_N
+modules : makeCN module_N
+Organisation : makeCN organization_N
+lectures : makeCN lecture V2 lecture_N
+exercise sessions : makeCN exercise VV exercise_N ++ session_N
+programming assignments : makeCN program V2V programme V2 programming_N ++ assignment_N
+in practice : makeCN re Prep in Prep in_N ++ practice V2 practice_N
+Literature : makeCN literature_N
+Information : makeCN information_N
+course homepage : makeCN course_N home_N page_N
+-- start of the course : makeCN start V2 start_N ++ of Prep ++ __ ++ course V2 course_N
+Examination : makeCN examination_N
+Compulsory : compulsory_A
+written : mkA "written"
+oral : oral_A
+exam : makeCN exam_N
+:
