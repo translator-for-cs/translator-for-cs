@@ -59,7 +59,6 @@ masterprogramansvarig	12
 teknologie	12
 forskningsområde	11
 inbyggda	11
-mjukvara	11
 programming	11
 påbörjas	11
 ¿	11
@@ -432,7 +431,6 @@ workshoppar	3
 workshops	3
 x	3
 yrkesliv	3
-överblick	3
 översiktsuppsats	3
 övningstillfällen	3
 01	2
@@ -459,7 +457,6 @@ adams	2
 adekvat	2
 adresseringsplan	2
 adressutrymme	2
-algebran	2
 algorithms	2
 allmängiltiga	2
 angreppssätt	2
@@ -630,7 +627,6 @@ kandidatarbeten	2
 kapplöpningsvillkor	2
 kaskadreglering	2
 keith	2
-klassrummet	2
 kodningsmetoder	2
 koldioxidutsläpp	2
 kommunikationsdelen	2
@@ -696,7 +692,6 @@ miljöpåverkan	2
 minnesadresserad	2
 minnestyps	2
 mit	2
-mjukvaran	2
 mobiltelefoner	2
 modelltyper	2
 modifierbarhet	2
@@ -931,7 +926,6 @@ affärskritiska	1
 akutell	1
 algebraanvända	1
 algebrafärdighet	1
-algebrans	1
 algoritmbegreppet	1
 algoritmenkombinatorik	1
 algoritmerföljande	1
@@ -1287,7 +1281,6 @@ framtidsutsikter	1
 free	1
 frekvensanalys	1
 frekvensegenskaper	1
-frekvensområden	1
 fta	1
 fullgjort	1
 fullo	1

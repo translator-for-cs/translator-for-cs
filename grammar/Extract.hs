@@ -14,8 +14,11 @@ thelang = maybe undefined id $ readLanguage "CSETranslatorSwe"
 thecorpus = "all_sv.txt"
 
 main = do
-  extract
-  return ()
+  cs <- extract
+  let missing = nub [w | (w,[]) <- cs]
+  let fmissing = M.fromListWith (+) [(w,1) | (w,[]) <- cs]
+  let sfmissing = sortOn ((0-) . snd) $ M.assocs fmissing 
+  putStrLn $ unlines [w ++ "\t" ++ show n | (w,n) <- sfmissing ]
 
 extract = do
   pgf <- readPGF thepgf
