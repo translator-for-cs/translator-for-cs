@@ -1,0 +1,26 @@
+2020-05-17
+
+Quality control of the Swedish lexicon. Verbs in particular:
+
+Irregular verbs from IrregSwe:
+
+- write_VCSE =  (mkV "skriva")  --> I.skriva_V
+
+Regular verbs that end with "er" in present tense can be given with mkN:
+
+- decide_VCSE =  (mkV "bestämma")  --> mkV "bestämmer"
+
+mkV with two arguments should be avoided; if used, the second argument is the past tense
+
+  articulate_VCSE =  (mkV "artikulera" "artikulerar") --> mkV "artikulera" "artikulerade"
+                                        BUT BETTER:       mkV "artikulera"
+					EVEN BETTER:      artikulera_V
+
+What is this? Is it a verb at all? (even in English?)
+
+- username_VCSE =  (mkV "användarnamn") ;
+
+Those "verbs" that don't end with "a" are probably not verbs.
+
+The best solution: use morphodict/MorphoDictSwe entries whenever possible!
+

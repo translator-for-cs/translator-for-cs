@@ -1,4 +1,4 @@
---# -path=.:alltenses:swedish:gf-wordnet
+--# -path=.:alltenses:morphodict:gf-wordnet
 
 concrete CSETranslatorSwe of CSETranslator =
   CoursePlansSwe,
@@ -12,7 +12,6 @@ concrete CSETranslatorSwe of CSETranslator =
 
 lin
   CSECN cn = cn ;
-  CSEN n = n ;
   CSEAP ap = ap ;
   CSEV v = v ;
   CSEV2 v = mkV2 v ;

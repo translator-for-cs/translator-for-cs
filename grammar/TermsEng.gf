@@ -1,8 +1,8 @@
---# -path=.:alltenses:english
+--# -path=.:alltenses:morphodict
 
 concrete TermsEng of Terms = 
   open
-    MakeTermEng, ParadigmsEng, SyntaxEng, DictEng, (I=IrregEng), (R = ResEng)
+    MakeTermEng, ParadigmsEng, SyntaxEng, MorphoDictEng, (I=IrregEng), (R = ResEng)
 
 in {
 
@@ -676,13 +676,13 @@ lin
   escape_VCSE  = escape_V  ;
   border_VCSE  = (mkV "border") ;
   transfer_VCSE  = (mkV "transfer") ;
-  call_VCSE = call_V3 ;
+  call_VCSE = call_V ;
   plane_VCSE  = (mkV "plane") ;
   file_VCSE  = (mkV "file") ;
   block_VCSE  = (mkV "block") ;
   map_VCSE  = (mkV "map") ;
   order_VCSE  = mkV "order" ;
-  mark_VCSE = mark_V3 ;
+  mark_VCSE = mark_V ;
   fault_VCSE  = (mkV "fault") ;
   sense_VCSE  = mkV "sense"  ;
   multiple_APCSE = mkAP multiple_A ;
@@ -692,7 +692,7 @@ lin
   command_VCSE  = (mkV "command") ;
   value_VCSE  = (mkV "value") ;
   commercial_APCSE = mkAP commercial_A ;
-  common_APCSE = mkAP common_A ;
+  common_APCSE = mkAP common_1_A ;
   request_VCSE  = mkV "request"  ;
   public_APCSE = mkAP public_A ;
   support_VCSE  = mkV "support" ;
@@ -734,7 +734,7 @@ lin
   scale_VCSE  = (mkV "scale") ;
   scratch_VCSE  = (mkV "scratch") ;
   master_VCSE  = (mkV "master") ;
-  label_VCSE = label_V3 ;
+  label_VCSE = label_1_V | label_2_V ; --- labeled | labelled
   uniform_APCSE = mkAP uniform_A ;
   original_APCSE = mkAP original_A ;
   express_VCSE  = (mkV "express") ;
@@ -937,7 +937,7 @@ lin
   embed_VCSE  = (mkV "embed") ;
   perform_VCSE  = (mkV "perform") ;
   behavior_NCSE = mkN "behavior" "behaviors";
-  run_VCSE  = run_V  ;
+  run_VCSE  = run_1_V  ;
   verify_VCSE  = (mkV "verify") ;
   good_APCSE = mkAP good_A ;
   during_Prep = mkPrep "during" ;
@@ -1543,7 +1543,7 @@ lin
   simulation_method_CNCSE = makeCN simulation_N method_N ;
   strategy_NCSE = mkN "strategy" "strategys" ;
   memory_hierarchy_CNCSE = makeCN memory_N hierarchy_N ;
-  give_VCSE = give_V3 ;
+  give_VCSE = give_1_V ;
   domain_specific_CNCSE = makeCN domain_N (mkAP (mkA "specific")) ;
   monitor_NCSE = mkN "monitor" "monitors" ;
   fan_VCSE  = (mkV "fan") ;
@@ -1635,7 +1635,7 @@ lin
   mouse_NCSE = mkN "mouse" "mice" ;
   program_component_CNCSE = makeCN program_N component_N ;
   polymorph_APCSE = mkAP (mkA "polymorph") ;
-  name_VCSE = name_V3 ;
+  name_VCSE = name_V ;
   entry_requirements_CNCSE = makeCN entry_N (mkN "requirements") ;
   recoverable_APCSE = mkAP recoverable_A ;
   machine_oriented_CNCSE = makeCN machine_N (mkAP (mkA "oriented")) ;

@@ -1,9 +1,7 @@
 --# -path=.:alltenses:english
 
 resource MakeTermEng =
-  DictEng,
-  ParadigmsEng
-  ** open SyntaxEng in {
+  open ParadigmsEng, SyntaxEng in {
 
 oper
   makeCN = overload {

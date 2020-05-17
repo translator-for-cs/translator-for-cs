@@ -1,4 +1,4 @@
---# -path=.:alltenses:english:gf-wordnet
+--# -path=.:alltenses:morphodict:gf-wordnet
 
 concrete CSETranslatorEng of CSETranslator =
   CoursePlansEng,
@@ -10,7 +10,6 @@ concrete CSETranslatorEng of CSETranslator =
 
 lin
   CSECN cn = cn ;
-  CSEN n = n ;
   CSEAP ap = ap ;
   CSEV v = v ;
   CSEV2 v = mkV2 v ;
