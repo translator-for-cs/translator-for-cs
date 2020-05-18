@@ -32,6 +32,12 @@ Test translation on a file, line by line:
 
   cat FILE | python3 translator.py 
 
+Alternative translation grammar (more shallow, faster)
+
+  gf -make -probs=CSEShallow.probs CSEShallowEng.gf CSEShallowSwe.gf
+
+Add the variable pgfm at the beginning of translator.py
+
 To test the translator grammar without Python: 
 
   $ gf -cshell CSETranslator.pgf

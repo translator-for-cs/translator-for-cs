@@ -1,6 +1,12 @@
 import pgf
 
-pgfm = "CSETranslator"
+# comment out one of these:
+#more precise, slower
+#pgfm = "CSETranslator"
+
+#less precise, faster
+pgfm = "CSEShallow"
+
 pgff = pgfm + ".pgf"
 ceng = pgfm + "Eng"
 cswe = pgfm + "Swe"
