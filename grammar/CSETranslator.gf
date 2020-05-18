@@ -6,6 +6,8 @@ abstract CSETranslator =
 
 ** {
 
+flags startcat = Utt ;
+
 -- to use CSE terms in generic syntax
 fun
   CSECN  : CNCSE -> CN ;

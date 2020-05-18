@@ -20,7 +20,19 @@ To make the translator grammar:
 
   gf -make -probs=CSETranslator.probs CSETranslatorEng.gf CSETranslatorSwe.gf
 
-To test the translator grammar:
+Install the C runtime for efficient statistical parsing: follow instructions in
+
+  https://github.com/GrammaticalFramework/gf-core/tree/master/src/runtime/c
+
+Install the Python bindings:
+
+  https://github.com/GrammaticalFramework/gf-core/tree/master/src/runtime/python
+
+Test translation on a file, line by line:
+
+  cat FILE | python3 translator.py 
+
+To test the translator grammar without Python: 
 
   $ gf -cshell CSETranslator.pgf
   > p -lang=CSETranslatorSwe -number=1 "efter kursen måste alla studenter skriva och läsa programkod" | l
