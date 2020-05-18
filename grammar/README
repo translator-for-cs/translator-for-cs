@@ -4,12 +4,17 @@ Aarne Ranta 2020
 
 Prerequisites:
 
-- download and install the GF Resource Grammar Library
+- download and install the GF Resource Grammar Library, gf-rgl
 
-- link to the sources of big dictionaries (temporary solution, should be avoidable in the future)
+  https://github.com/GrammaticalFramework/gf-rgl
 
-  ln -s <PATH-TO-gf-rgl>/src/english/
-  ln -s <PATH-TO-gf-rgl>/src/swedish/
+- download and install gf-wordnet
+
+  https://github.com/GrammaticalFramework/gf-wordnet
+
+- link to the sources of big wordnet grammar and dictionary
+
+  ln -s <PATH-TO-gf-wordnet>
 
 To make the translator grammar:
 
@@ -22,13 +27,4 @@ To test the translator grammar:
   after course all students must write and read program code
   efter kursen måste alla studenter skriva och läsa programkod
 
-OBSOLETE:
-
-Then you can test this grammar as follows:
-
-  $ gf CSEGrammarEng.gf CSEGrammarSwe.gf
-
-  CSEGrammar> gr -cat=S | l
-  this graphical goal wouldn't have wanted to be relevant
-  det här grafiska målet skulle inte ha velat vara relevant
 
