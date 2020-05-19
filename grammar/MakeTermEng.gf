@@ -1,9 +1,7 @@
 --# -path=.:alltenses:english
 
 resource MakeTermEng =
-  DictEng,
-  ParadigmsEng
-  ** open SyntaxEng in {
+  open ParadigmsEng, SyntaxEng in {
 
 oper
   makeCN = overload {
@@ -23,22 +21,9 @@ oper
       = \a,m,n -> mkCN a (mkN (mkUtt (mkCN m)).s n) ;
     makeCN : N -> N -> N -> CN
       = \m,n,o -> mkCN (mkN (mkUtt (mkCN (mkN (mkUtt (mkCN m)).s n))).s o) ;
+    makeCN : N -> AP -> CN                        
+      = \n,a -> mkCN n a ;
 
-    } ;
-
-  makeV = overload {
-    makeV : V2 -> V2
-      = \v -> mkV2 (mkV "v") ;
-    makeV : V3 -> V3
-      = \v -> mkV3 (mkV "v") ;
-    makeV : V2V -> V2V
-      = \v -> mkV2V (mkV "v") ;
-    makeV : VV -> VV
-      = \v -> mkVV (mkV "v") ;
-    makeV : VS -> VS
-      = \v -> mkVS (mkV "v") ;
-    makeV : Str -> V
-      = \s -> mkV s ;
     } ;
 
 }

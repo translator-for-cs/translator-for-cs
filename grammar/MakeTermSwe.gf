@@ -1,9 +1,7 @@
 --# -path=.:alltenses:swedish
 
 resource MakeTermSwe =
-  NewDictSwe,
-  ParadigmsSwe
-  ** open SyntaxSwe in {
+  open ParadigmsSwe, SyntaxSwe in {
 
 oper
   makeCN = overload {

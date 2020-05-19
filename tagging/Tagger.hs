@@ -7,14 +7,25 @@ import System.Environment
 --  
 
 main = do
-  file:_ <- getArgs
+  xx <- getArgs
+  let (opts,[file]) = partition ((=="-") . take 1) xx
   tags <- readFile file
   let tagmap = getTagmap tags
-  interact (tag tagmap)
+  let tagger = case opts of
+--        "-mkgf" :_ -> (unlines . map (mkGFExpr . map (tag tagmap) . toks) . lines)
+        "-lines":_ -> (unlines . map (tag opts tagmap . toks) . lines)
+        _ -> unlines . map (tag opts tagmap . return) . toks 
+  interact tagger
 
-tag tagmap = unlines . map tryMark . toks
+--mkGFExpr 
+
+tag opts tagmap ws = case opts of
+   "-lines":_ -> unwords (ws ++ [":"] ++ intersperse "++" (map showlook ws))
+   _ -> concatMap tryMark ws
   where
-    tryMark w = w ++ " : " ++ case look (lower w) of
+    tryMark w = w ++ " : " ++ showlook w
+    
+    showlook w = case look (lower w) of
       Just fcs@(_:_) -> fcs
       Just [] -> "__"
       _ -> case tryCompounds (lower w) of
@@ -29,8 +40,8 @@ tag tagmap = unlines . map tryMark . toks
 
     lower (c:cs) = toLower c : cs
 
-    toks = words . unpunct
-    
+toks = words . unpunct
+  where   
     unpunct (c:cs) = case c of
       _ | isAlphaNum c || isSpace c -> c:unpunct cs
       _ -> ' ':c:' ':unpunct cs

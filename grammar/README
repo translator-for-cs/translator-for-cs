@@ -4,18 +4,41 @@ Aarne Ranta 2020
 
 Prerequisites:
 
-- download and install the GF Resource Grammar Library
+- download and install the GF Resource Grammar Library, gf-rgl
 
-- link to the sources of big dictionaries (temporary solution, should be avoidable in the future)
+  https://github.com/GrammaticalFramework/gf-rgl
 
-  ln -s <PATH-TO-gf-rgl>/src/english/
-  ln -s <PATH-TO-gf-rgl>/src/swedish/
+- download and install gf-wordnet
 
-Then you can test this grammar as follows:
+  https://github.com/GrammaticalFramework/gf-wordnet
 
-  $ gf CSEGrammarEng.gf CSEGrammarSwe.gf
+- link to the sources of big wordnet grammar and dictionary
 
-  CSEGrammar> gr -cat=S | l
-  this graphical goal wouldn't have wanted to be relevant
-  det här grafiska målet skulle inte ha velat vara relevant
+  ln -s <PATH-TO-gf-wordnet>
+
+To make the translator grammar:
+
+  gf -make -probs=CSETranslator.probs CSETranslatorEng.gf CSETranslatorSwe.gf
+
+Alternative translation grammar (more shallow, faster)
+
+  gf -make -probs=CSEShallow.probs CSEShallowEng.gf CSEShallowSwe.gf
+
+Install the C runtime for efficient statistical parsing: follow instructions in
+
+  https://github.com/GrammaticalFramework/gf-core/tree/master/src/runtime/c
+
+Install the Python bindings:
+
+  https://github.com/GrammaticalFramework/gf-core/tree/master/src/runtime/python
+
+Test translation on a file, line by line, e.g:
+
+  cat ../course_plans/TIN214Eng.txt | python3 translator.py CSEShallow Eng Swe
+
+Haskell version of the translator:
+
+  cat ../course_plans/TIN214Eng.txt | runghc Translator.hs CSEShallow Eng Swe
+
+This requires installing the C runtime as before, as well as the Haskell package PGF2
 
