@@ -19,6 +19,8 @@ fun
   CSEAdv : AdvCSE -> Adv ;
 
 -- todo: recognize generic words as terms for the sake of annotation?
+
+  Term_Chunk : Term -> Chunk ;
   
 
 }

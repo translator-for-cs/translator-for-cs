@@ -41,7 +41,8 @@ Extend [
     
  Verb [
     VP,AdV,Adv,AP,Comp,V,
-    UseV      , -- V   -> VP ;             -- sleep
+    UseV     , -- V   -> VP ;             -- sleep
+    ComplVV,
     UseComp,
     CompAP,
     CompAdv,
@@ -152,5 +153,6 @@ flags startcat = Text ;
   VPS_Chunk    : VPS -> Chunk ;
   VPI_Chunk    : VPI -> Chunk ;
 
+  PP_Chunk : PP -> Chunk ;
 
 }

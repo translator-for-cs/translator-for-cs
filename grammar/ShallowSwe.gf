@@ -42,6 +42,7 @@ ExtendSwe [
  VerbSwe [
     VP,AdV,Adv,AP,Comp,V,
     UseV      , -- V   -> VP ;             -- sleep
+    ComplVV,
     UseComp,
     CompAP,
     CompAdv,
@@ -148,5 +149,7 @@ IdiomSwe [
 
   VPS_Chunk vps = mkUtt (ExtendSwe.PredVPS emptyNP vps) ;
   VPI_Chunk vpi = {s = optStr "att" ++ vpi.s ! RR.VPIInf ! RR.agrP3 (R.Utr | R.Neutr) R.Sg} ;
+  PP_Chunk pp = pp ;
+  
 
 }

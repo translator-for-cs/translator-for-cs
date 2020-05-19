@@ -42,6 +42,7 @@ ExtendEng [
  VerbEng [
     VP,AdV,Adv,AP,Comp,V,
     UseV      , -- V   -> VP ;             -- sleep
+    ComplVV,
     UseComp,
     CompAP,
     CompAdv,
@@ -149,6 +150,8 @@ IdiomEng [
 
   VPS_Chunk vps = mkUtt (ExtendEng.PredVPS emptNP vps) ;
   VPI_Chunk vpi = {s = vpi.s ! (R.VVInf | R.VVPresPart) ! R.AgP3Sg R.Masc} ; ----
+  PP_Chunk pp = pp ;
+  
 
 oper
   emptNP = mkNP (P.mkPN []) ;

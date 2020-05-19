@@ -17,4 +17,6 @@ lin
 --  CSEVV v = mkVV v ;
   CSEAdv adv = adv ; 
 
+  Term_Chunk t = t ;
+
 }
