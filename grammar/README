@@ -36,11 +36,9 @@ Test translation on a file, line by line, e.g:
 
   cat ../course_plans/TIN214Eng.txt | python3 translator.py CSEShallow Eng Swe
 
-To test the translator grammar without Python: 
+Haskell version of the translator:
 
-  $ gf -cshell CSETranslator.pgf
-  > p -lang=CSETranslatorSwe -number=1 "efter kursen måste alla studenter skriva och läsa programkod" | l
-  after course all students must write and read program code
-  efter kursen måste alla studenter skriva och läsa programkod
+  cat ../course_plans/TIN214Eng.txt | runghc Translator.hs CSEShallow Eng Swe
 
+This requires installing the C runtime as before, as well as the Haskell package PGF2
 
