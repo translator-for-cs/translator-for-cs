@@ -1,15 +1,16 @@
 import pgf
+import sys
 
 # comment out one of these:
 #more precise, slower
 #pgfm = "CSETranslator"
 
 #less precise, faster
-pgfm = "CSEShallow"
+#pgfm = "CSEShallow"
 
-pgff = pgfm + ".pgf"
-ceng = pgfm + "Eng"
-cswe = pgfm + "Swe"
+#pgff = pgfm + ".pgf"
+#ceng = pgfm + "Eng"
+#cswe = pgfm + "Swe"
 
 def trim(s0):
     s = s0.strip()
@@ -25,9 +26,20 @@ def trim(s0):
     return r
 
 def main():
+  if len(sys.argv) != 4:
+    print("  usage: python3 translator.py <pgf-file-prefix> <from-lang-suffix> <to-lang-suffix>")
+    print("  e.g. python3 translator.py CSETranslator Eng Swe")
+    print("  The program reads and writes stdio line by line, e.g")
+    print("    cat ../course_plans/TIN214Eng.txt | python3 translator.py CSEShallow Eng Swe")
+    return
+  pgfm = sys.argv[1]
+  pgff = pgfm + ".pgf"
+  ceng = pgfm + sys.argv[2]
+  cswe = pgfm + sys.argv[3]
   gr = pgf.readPGF(pgff)
-  eng = gr.languages[cswe]
-  swe = gr.languages[ceng]
+  eng = gr.languages[ceng]
+  swe = gr.languages[cswe]
+  print("#","translating with",pgff,"from",ceng,"to",cswe)
   while True:
     try:
         line = input("")
@@ -42,7 +54,7 @@ def main():
               p,e = px.__next__()
               print(swe.linearize(e))
           except pgf.ParseError:
-              print("# no parse", t)
+              print("# NO PARSE", t)
 
 main()
 

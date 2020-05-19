@@ -20,6 +20,10 @@ To make the translator grammar:
 
   gf -make -probs=CSETranslator.probs CSETranslatorEng.gf CSETranslatorSwe.gf
 
+Alternative translation grammar (more shallow, faster)
+
+  gf -make -probs=CSEShallow.probs CSEShallowEng.gf CSEShallowSwe.gf
+
 Install the C runtime for efficient statistical parsing: follow instructions in
 
   https://github.com/GrammaticalFramework/gf-core/tree/master/src/runtime/c
@@ -28,15 +32,9 @@ Install the Python bindings:
 
   https://github.com/GrammaticalFramework/gf-core/tree/master/src/runtime/python
 
-Test translation on a file, line by line:
+Test translation on a file, line by line, e.g:
 
-  cat FILE | python3 translator.py 
-
-Alternative translation grammar (more shallow, faster)
-
-  gf -make -probs=CSEShallow.probs CSEShallowEng.gf CSEShallowSwe.gf
-
-Add the variable pgfm at the beginning of translator.py
+  cat ../course_plans/TIN214Eng.txt | python3 translator.py CSEShallow Eng Swe
 
 To test the translator grammar without Python: 
 
