@@ -3,19 +3,30 @@ module Main where
 import PGF2
 
 import Data.Char
+import Data.List
 import qualified Data.Map as M
 import System.Environment (getArgs)
+
+-- AR May 2020
+
+-- find translations of full sentences
+--   cat ../course_plans/TIN214Eng.txt | runghc Translator.hs CSEShallow Eng Swe -debug
+-- or just occurrences of terms:
+--   cat ../course_plans/TIN214Swe.txt | runghc Translator.hs CSETranslator Swe Eng -cohorts
 
 main = do
   xx <- getArgs
   case xx of
     mo:from:to:xx -> do
       env <- getEnv mo from to (elem "-debug" xx)
-      interact (unlines . map (translate env . trim) . lines)
+      let oper = case xx of
+            _ | elem "-cohorts" xx -> cohorts 
+            _ -> translate
+      interact (unlines . map (oper env . trim) . lines)
 
     _ -> putStrLn usage
 
-usage = "usage: runghc Translator.hs <pgf-file-prefix> <from-lang-suffix> <to-lang-suffix> -debug?"
+usage = "usage: runghc Translator.hs <pgf-file-prefix> <from-lang-suffix> <to-lang-suffix> -debug? -cohorts?"
 
 trim s = case s of
   c:cs -> toLower c : tok cs
@@ -43,3 +54,13 @@ translate (pgf,eng,swe,debug) s = case parse eng (startCat pgf) s of
    deb s = if debug then "\n# " ++ s else ""
    miss s = unwords $ "MISSING:" : [w | w <- words s, null (lookupMorpho eng w)]
 
+cohorts (_,eng,swe,_) s = unlines $ ("# " ++ s): map prCohort funs
+  where
+   cohs = lookupCohorts eng s
+   funs = nub [((beg,end),(c,f,linearize swe tree)) |
+     (beg,c,ms,end) <- cohs,
+     isInfixOf (words c) (words s),
+     (f,_,_) <- ms, isSuffixOf "CSE" f,
+     Just tree <- [readExpr f]
+     ]
+   prCohort ((beg,end),(c,f,lin)) = concat $ intersperse "\t" [show beg, show end, c, f, lin]
