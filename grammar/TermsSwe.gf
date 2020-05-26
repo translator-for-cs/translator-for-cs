@@ -988,7 +988,7 @@ lin
   agent_NCSE = mkN "agent" "agenter" ;
   invariant_APCSE = mkAP invariant_A ;
   iteration_NCSE = mkN "iteration" "iterationer" ;
-  Java_NCSE = mkN "Java" "Java"; 
+  java_NCSE = mkN "java" "java"; 
   linear_search_CNCSE = makeCN (mkN "linjärsökning" "linjärsökningar") ;
   linked_list_CNCSE = makeCN (mkA "länkad") lista_N ;
   logic_programming_CNCSE = makeCN (mkN "logikprogrammering" "logikprogrammering") ;
@@ -1643,7 +1643,7 @@ lin
   unreliable_APCSE = mkAP opålitlig_A ;
   execute_VCSE = exekvera_V ;
   alpha_NCSE = mkN "alfa" "alfat" "alfan" "alfan";
-  interested_APCSE = mkAP (mkA "interesserad" "intresseade") ;
+  interested_APCSE = mkAP (mkA "interesserad" "intresserade") ;
   focus_VCSE = fokusera_V ;
   experiment_VCSE = experimentera_V ;
   modifier_NCSE = mkN "modifierare" "modifierare" ;
@@ -1657,5 +1657,5 @@ lin
   teach_VCSE =  undervisa_V ;
   synchronization_error_CNCSE = makeCN (mkN "synkroniseringsfel" "synkroniseringsfel") ;
   clock_NCSE = mkN "klocka" "klockor" ;
-
+  completed_APCSE = mkAP (mkA "fullgjord" "fullgjorde") ; 
   }
