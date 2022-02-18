@@ -1322,7 +1322,7 @@ lin
   multi_core_processor_CNCSE = makeCN (mkA "flerkärnig") processor_N ;
   domain_specific_language_CNCSE = makeCN (mkA "domänspecifikt") språk_N ;
   data_management_CNCSE = makeCN (mkN "datahantering" "datahanteringar") ;
-  object_oriented_program_CNCSE = makeCN (mkA "objektorienterat") program_N ;
+  object_oriented_program_CNCSE = makeCN (mkA "objektorienterad") program_N ;
   source_code_CNCSE = makeCN källkod_N ;
   machine_code_CNCSE = makeCN (mkN "maskinkod" "maskinkoder") ;
   computer_system_CNCSE = makeCN (mkN "datorsystem" "datorsystem") ;
