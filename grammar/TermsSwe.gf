@@ -15,15 +15,15 @@ lincat
   AdvCSE = Adv ;
 
 lin
-  CNSgTerm cn = mkUtt cn | mkUtt (mkNP the_Det cn) ;
+  CNSgTerm cn = mkUtt cn | mkUtt (mkNP the_Det cn) | mkUtt (mkNP aPl_Det cn) ;
   CNPlTerm cn = mkUtt (mkNP aPl_Det cn) | mkUtt (mkNP thePl_Det cn) ;
   APTerm ap =
       mkUtt ap
     | lin Utt {s = ap.s ! R.Strong (R.GSg R.Neutr)}
     | lin Utt {s = ap.s ! R.Strong R.GPl}
     ;
-  VFinTerm v = lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
-  VInfTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} ;
+  VFinTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} | lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
+  VInfTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} | lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
   AdvTerm adv = mkUtt adv ;
 
   N2CN n = mkCN n ;
