@@ -4,9 +4,11 @@ cat
   Term ; CNCSE ; NCSE ; APCSE ; VCSE ; AdvCSE ;
 
 fun
+  CNTerm : CNCSE -> Term ;
   CNSgTerm : CNCSE -> Term ;
   CNPlTerm : CNCSE -> Term ;
   APTerm   : APCSE -> Term ;
+  VTerm : VCSE -> Term ;
   VFinTerm : VCSE -> Term ;
   VInfTerm : VCSE -> Term ;
   AdvTerm  : AdvCSE -> Term ;

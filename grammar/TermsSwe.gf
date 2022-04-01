@@ -15,15 +15,17 @@ lincat
   AdvCSE = Adv ;
 
 lin
-  CNSgTerm cn = mkUtt cn | mkUtt (mkNP the_Det cn) | mkUtt (mkNP aPl_Det cn) ;
+  CNTerm cn = mkUtt cn | mkUtt (mkNP the_Det cn) | mkUtt (mkNP aPl_Det cn) ;
+  CNSgTerm cn = mkUtt cn | mkUtt (mkNP the_Det cn) ;
   CNPlTerm cn = mkUtt (mkNP aPl_Det cn) | mkUtt (mkNP thePl_Det cn) ;
   APTerm ap =
       mkUtt ap
     | lin Utt {s = ap.s ! R.Strong (R.GSg R.Neutr)}
     | lin Utt {s = ap.s ! R.Strong R.GPl}
     ;
-  VFinTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} | lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
-  VInfTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} | lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
+  VTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} | lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
+  VFinTerm v = lin Utt {s = v.s ! (R.VF (R.VPres R.Act))} ;
+  VInfTerm v = lin Utt {s = v.s ! (R.VI (R.VInfin R.Act))} ;
   AdvTerm adv = mkUtt adv ;
 
   N2CN n = mkCN n ;
@@ -1418,7 +1420,7 @@ lin
   generalize_VCSE = generalisera_V ;
   reinforce_VCSE = förstärka_V ;
   batch_NCSE = mkN "batch" "batcher";
-  work_NCSE = mkN "arbeta" "arbeten" ;
+  work_NCSE = mkN "arbete" "arbeten" ;
   educational_programme_CNCSE = makeCN utbildningsprogram_N ;
   os_NCSE = mkN "os" "os";
   modify_VCSE = modifiera_V ;
